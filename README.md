@@ -3,7 +3,7 @@
 
 <div align="center">
 
-🌍 [English](https://github.com/Argh94/V2Ray-Vault/blob/main/README.md) | [فارسی](https://github.com/Argh94/V2Ray-Vault/blob/main/README_fa.md)
+🌍 [English](https://github.com/Argh94/V2Ray-Vault/blob/main/README.md) | 🌐[فارسی](https://github.com/Argh94/V2Ray-Vault/blob/main/README_fa.md)
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github)
 ![Configs](https://img.shields.io/badge/Configs-10K+-blueviolet?style=for-the-badge&logo=v2ray)
