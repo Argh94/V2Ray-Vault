@@ -142,43 +142,47 @@
 </table>
 
 ### 🌐 Additional Mixed Configurations
-## Mixed_1
+#### Mixed_1
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_1.txt
 ```
-## Mixed_2
+#### Mixed_2
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_2.txt
 ```
-## Mixed_1
+#### Mixed_3
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_1.txt
 ```
-## Mixed_1
+#### Mixed_4
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_1.txt
 ```
-## Mixed_1
+#### Mixed_5
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_1.txt
 ```
-## Mixed_1
+#### Mixed_6
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_1.txt
 ```
-## Mixed_1
+#### Mixed_6
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_1.txt
 ```
-## Mixed_1
+#### Mixed_7
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_1.txt
 ```
-## Mixed_1
+#### Mixed_8
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_1.txt
 ```
-## Mixed_1
+#### Mixed_9
+```
+ https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_1.txt
+```
+#### Mixed_10
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_1.txt
 ```
