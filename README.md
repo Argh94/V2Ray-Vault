@@ -341,9 +341,7 @@ Access high-speed configs from global providers: [🔗 View All Data Centers](ht
 
 ### 📦 Base64 Configurations
 For clients with compatibility issues: [🔗 Base64 Configs](https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/subscribe/base64.txt)
-
-<<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/326705781.gif"> </p>
-
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/326705781.gif"> </p>
 ## ❓ FAQ
 
 - **Update Frequency?** Every 30 minutes for fresh, reliable configs.
