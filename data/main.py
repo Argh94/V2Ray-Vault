@@ -40,7 +40,7 @@ from pydantic import BaseModel, Field, model_validator, ValidationError
 class AppConfig:
     BASE_DIR = Path(__file__).parent
     DATA_DIR = BASE_DIR / "data"
-    OUTPUT_DIR = BASE_DIR / "sub"
+    OUTPUT_DIR = BASE_DIR / "sub"  # حالا sub تو ریشه پروژه ساخته می‌شه
 
     DIRS = {
         "splitted": OUTPUT_DIR / "splitted",
@@ -62,9 +62,8 @@ class AppConfig:
     GEOIP_DB_FILE = DATA_DIR / "GeoLite2-Country.mmdb"
     GEOIP_ASN_DB_FILE = DATA_DIR / "GeoLite2-ASN.mmdb"
 
-    # به‌روزرسانی URLهای ریموت برای اشاره به پوشه data
-    REMOTE_CHANNELS_URL = "https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/main/data/telegram_channels.json"
-    REMOTE_SUBS_URL = "https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/main/data/subscription_links.json"
+    REMOTE_CHANNELS_URL = "https://raw.githubusercontent.com/Argh94/V2Ray-Vault/main/data/telegram_channels.json"
+    REMOTE_SUBS_URL = "https://raw.githubusercontent.com/Argh94/V2Ray-Vault/main/data/subscription_links.json"
     GEOIP_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb"
     GEOIP_ASN_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb"
 
