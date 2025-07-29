@@ -106,11 +106,11 @@
   <tr>
     <td align="center"><strong>🔐 Mix Shadowsocks</strong><br><code>Curated Shadowsocks configs</code></td>
     <td align="center">
-      <a href="https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/mix_protocol/mix_shadowsocks_1.txt">📡 Mix Shadowsocks 1</a><br>---<br>
-      <a href="https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/mix_protocol/mix_shadowsocks_2.txt">📡 Mix Shadowsocks 2</a><br>---<br>
-      <a href="https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/mix_protocol/mix_shadowsocks_3.txt">📡 Mix Shadowsocks 3</a><br>---<br>
-      <a href="https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/mix_protocol/mix_shadowsocks_4.txt">📡 Mix Shadowsocks 4</a><br>---<br>
-      <a href="https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/mix_protocol/mix_shadowsocks_5.txt">📡 Mix Shadowsocks 5</a>
+      <a href="https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/mix_protocol/mix_shadowsocks_1.txt">📡 Mix SS 1</a><br>---<br>
+      <a href="https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/mix_protocol/mix_shadowsocks_2.txt">📡 Mix SS 2</a><br>---<br>
+      <a href="https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/mix_protocol/mix_shadowsocks_3.txt">📡 Mix SS 3</a><br>---<br>
+      <a href="https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/mix_protocol/mix_shadowsocks_4.txt">📡 Mix SS 4</a><br>---<br>
+      <a href="https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/mix_protocol/mix_shadowsocks_5.txt">📡 Mix SS 5</a>
     </td>
     <td align="center"><strong>🏛️ Mix Trojan</strong><br><code>Curated Trojan configs</code></td>
     <td align="center">
