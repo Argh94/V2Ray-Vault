@@ -100,6 +100,8 @@
   <tr>
     <th>Category</th>
     <th>Links</th>
+    <th>Category</th>
+    <th>Links</th>
   </tr>
   <tr>
     <td align="center"><strong>🔐 Mix Shadowsocks</strong><br><code>Curated Shadowsocks configs</code></td>
@@ -110,8 +112,6 @@
       <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/mix_protocol/mix_shadowsocks_4.txt">📡 Mix Shadowsocks 4</a><br>---<br>
       <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/mix_protocol/mix_shadowsocks_5.txt">📡 Mix Shadowsocks 5</a>
     </td>
-  </tr>
-  <tr>
     <td align="center"><strong>🏛️ Mix Trojan</strong><br><code>Curated Trojan configs</code></td>
     <td align="center">
       <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/mix_protocol/mix_trojan_1.txt">📡 Mix Trojan 1</a><br>---<br>
@@ -130,8 +130,6 @@
       <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/mix_protocol/mix_vless_4.txt">📡 Mix Vless 4</a><br>---<br>
       <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/mix_protocol/mix_vless_5.txt">📡 Mix Vless 5</a>
     </td>
-  </tr>
-  <tr>
     <td align="center"><strong>⚡ Mix Vmess</strong><br><code>Curated Vmess configs</code></td>
     <td align="center">
       <a href="https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/refs/heads/main/data/sub/mix_protocol/mix_vmess_1.txt">📡 Mix Vmess 1</a><br>---<br>
