@@ -262,6 +262,7 @@
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_20.txt
 ```
 <p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
+<<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/326705781.gif"> </p>
 ## 🌐 Network Technologies
 <table>
   <tr>
