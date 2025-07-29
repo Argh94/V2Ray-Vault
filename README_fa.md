@@ -14,7 +14,7 @@
 
 </div>
 
-<img src="https://private-user-images.githubusercontent.com/104245967/326705781-08ccb46c-51a3-4d16-a0a4-27fb7492d35d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI2NzA1NzgxLTA4Y2NiNDZjLTUxYTMtNGQxNi1hMGE0LTI3ZmI3NDkyZDM1ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODAzYzFmZWVjNjI4YzVkYzM1N2NhYjAxNzM0ZDdmZGRmYzQ1NGVkY2M1N2Q4NDU5MWMzZmY3Y2Y3YmM0ZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MippiEwm-HYjgMGOy4VZk6W8Cu6yMivX8C9kG_8AKY4" width="800">
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/326705781.gif"> </p>
 
 ## 🌟 درباره مرکز پیکربندی‌های V2Ray
 
@@ -27,7 +27,7 @@
 - 🔒 **امنیت پیشرفته**: اسکن خودکار برای حذف پیکربندی‌های مخرب.
 - 📡 **API مناسب توسعه‌دهندگان**: ادغام آسان با مستندات جامع.
 
-<img src="https://private-user-images.githubusercontent.com/104245967/326705781-08ccb46c-51a3-4d16-a0a4-27fb7492d35d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI2NzA1NzgxLTA4Y2NiNDZjLTUxYTMtNGQxNi1hMGE0LTI3ZmI3NDkyZDM1ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODAzYzFmZWVjNjI4YzVkYzM1N2NhYjAxNzM0ZDdmZGRmYzQ1NGVkY2M1N2Q4NDU5MWMzZmY3Y2Y3YmM0ZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MippiEwm-HYjgMGOy4VZk6W8Cu6yMivX8C9kG_8AKY4" width="800">
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/326705781.gif"> </p>
 
 ## ✨ ویژگی‌های کلیدی
 
@@ -39,7 +39,7 @@
 | **امنیت و پایداری** | اسکن خودکار و رمزنگاری برای اتصالات امن. |
 | **تحلیل عملکرد** | داشبوردهای زنده برای معیارهای سرعت، تأخیر و زمان فعالیت. |
 
-<img src="https://private-user-images.githubusercontent.com/104245967/326705781-08ccb46c-51a3-4d16-a0a4-27fb7492d35d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI2NzA1NzgxLTA4Y2NiNDZjLTUxYTMtNGQxNi1hMGE0LTI3ZmI3NDkyZDM1ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODAzYzFmZWVjNjI4YzVkYzM1N2NhYjAxNzM0ZDdmZGRmYzQ1NGVkY2M1N2Q4NDU5MWMzZmY3Y2Y3YmM0ZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MippiEwm-HYjgMGOy4VZk6W8Cu6yMivX8C9kG_8AKY4" width="800">
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/326705781.gif"> </p>
 
 ## 🗂️ دسته‌بندی‌های پیکربندی
 
@@ -94,7 +94,7 @@
     <td align="center" colspan="3"><strong>🌐 پیکربندی‌های ترکیبی</strong><br><code>۲۰ پیکربندی منتخب با ترکیب همه پروتکل‌ها</code><br><a href="https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/all_configs.txt">📡 اشتراک</a></td>
   </tr>
 </table>
-<img src="https://private-user-images.githubusercontent.com/104245967/326705781-08ccb46c-51a3-4d16-a0a4-27fb7492d35d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI2NzA1NzgxLTA4Y2NiNDZjLTUxYTMtNGQxNi1hMGE0LTI3ZmI3NDkyZDM1ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODAzYzFmZWVjNjI4YzVkYzM1N2NhYjAxNzM0ZDdmZGRmYzQ1NGVkY2M1N2Q4NDU5MWMzZmY3Y2Y3YmM0ZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MippiEwm-HYjgMGOy4VZk6W8Cu6yMivX8C9kG_8AKY4" width="800">
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/326705781.gif"> </p>
 
 ### 🌐 پیکربندی‌های ترکیبی پروتکل‌ها
 <table style="width: 100%; max-width: 800px; margin: auto; font-size: 14px;">
@@ -141,7 +141,7 @@
     </td>
   </tr>
 </table>
-<img src="https://private-user-images.githubusercontent.com/104245967/326705781-08ccb46c-51a3-4d16-a0a4-27fb7492d35d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI2NzA1NzgxLTA4Y2NiNDZjLTUxYTMtNGQxNi1hMGE0LTI3ZmI3NDkyZDM1ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODAzYzFmZWVjNjI4YzVkYzM1N2NhYjAxNzM0ZDdmZGRmYzQ1NGVkY2M1N2Q4NDU5MWMzZmY3Y2Y3YmM0ZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MippiEwm-HYjgMGOy4VZk6W8Cu6yMivX8C9kG_8AKY4" width="800">
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/326705781.gif"> </p>
 
 ### 🌐 پیکربندی‌های ترکیبی اضافی
 #### Mixed_1
@@ -298,7 +298,7 @@
     <td align="center"><a href="https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/networks/reality.txt">📡 اشتراک</a></td>
   </tr>
 </table>
-<img src="https://private-user-images.githubusercontent.com/104245967/326705781-08ccb46c-51a3-4d16-a0a4-27fb7492d35d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI2NzA1NzgxLTA4Y2NiNDZjLTUxYTMtNGQxNi1hMGE0LTI3ZmI3NDkyZDM1ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODAzYzFmZWVjNjI4YzVkYzM1N2NhYjAxNzM0ZDdmZGRmYzQ1NGVkY2M1N2Q4NDU5MWMzZmY3Y2Y3YmM0ZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MippiEwm-HYjgMGOy4VZk6W8Cu6yMivX8C9kG_8AKY4" width="800">
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/326705781.gif"> </p>
 
 ## 🔒 سطوح امنیتی
 <table>
@@ -323,7 +323,7 @@
     <td align="center"><a href="https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/security/xtls.txt">📡 اشتراک</a></td>
   </tr>
 </table>
-<img src="https://private-user-images.githubusercontent.com/104245967/326705781-08ccb46c-51a3-4d16-a0a4-27fb7492d35d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI2NzA1NzgxLTA4Y2NiNDZjLTUxYTMtNGQxNi1hMGE0LTI3ZmI3NDkyZDM1ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODAzYzFmZWVjNjI4YzVkYzM1N2NhYjAxNzM0ZDdmZGRmYzQ1NGVkY2M1N2Q4NDU5MWMzZmY3Y2Y3YmM0ZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MippiEwm-HYjgMGOy4VZk6W8Cu6yMivX8C9kG_8AKY4" width="800">
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/326705781.gif"> </p>
 
 ## 🚀 شروع به کار
 
@@ -334,7 +334,7 @@
 
 > **نکته حرفه‌ای**: چندین پیکربندی را آزمایش کنید تا سریع‌ترین سرور برای منطقه خود را پیدا کنید! 🚀
 
-<img src="https://private-user-images.githubusercontent.com/104245967/326705781-08ccb46c-51a3-4d16-a0a4-27fb7492d35d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI2NzA1NzgxLTA4Y2NiNDZjLTUxYTMtNGQxNi1hMGE0LTI3ZmI3NDkyZDM1ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODAzYzFmZWVjNjI4YzVkYzM1N2NhYjAxNzM0ZDdmZGRmYzQ1NGVkY2M1N2Q4NDU5MWMzZmY3Y2Y3YmM0ZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MippiEwm-HYjgMGOy4VZk6W8Cu6yMivX8C9kG_8AKY4" width="800">
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/326705781.gif"> </p>
 
 ## 🌍 پوشش جغرافیایی
 
@@ -344,7 +344,7 @@
 ### 📦 پیکربندی‌های Base64
 برای کلاینت‌هایی با مشکلات سازگاری: [🔗 پیکربندی‌های Base64](https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/subscribe/base64.txt)
 
-<img src="https://private-user-images.githubusercontent.com/104245967/326705781-08ccb46c-51a3-4d16-a0a4-27fb7492d35d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI2NzA1NzgxLTA4Y2NiNDZjLTUxYTMtNGQxNi1hMGE0LTI3ZmI3NDkyZDM1ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODAzYzFmZWVjNjI4YzVkYzM1N2NhYjAxNzM0ZDdmZGRmYzQ1NGVkY2M1N2Q4NDU5MWMzZmY3Y2Y3YmM0ZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MippiEwm-HYjgMGOy4VZk6W8Cu6yMivX8C9kG_8AKY4" width="800">
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/326705781.gif"> </p>
 
 ## ❓ سوالات متداول
 
