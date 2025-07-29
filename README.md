@@ -1,4 +1,4 @@
-# 🚀 V2Ray Configurations Hub
+# 🚀 V2Ray Vault
 ## Your Ultimate Source for High-Quality V2Ray Configurations
 
 <div align="center">
