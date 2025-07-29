@@ -18,7 +18,7 @@
 
 ## 🌟 About V2Ray Configurations Hub
 
-**V2Ray Configurations Hub** is a state-of-the-art, fully automated platform that collects, validates, and distributes high-performance **V2Ray configurations** from public Telegram channels and GitHub sources. Supporting **Vmess**, **Vless**, **Shadowsocks**, **Trojan**, **Hysteria2**, **TUIC**, **WARP**, **ShadowSockSR**, and **Reality**, it delivers **10,000+ configurations** across **100+ countries**, updated every **30 minutes** for maximum reliability.
+**V2Ray Configurations Hub** is a state-of-the-art, fully automated platform that collects, validates, and distributes high-performance **V2Ray configurations** from public Telegram channels and GitHub sources. Supporting **Vmess**, **Vless**, **Shadowsocks**, **Trojan**, **Hysteria2**, **TUIC**, **WARP**, **ShadowSockSR**, and **Reality**, it delivers **10,000+ configurations** across **100+ countries**, updated every **4 hours** for maximum reliability.
 
 ### Why Choose Us?
 - 🛠️ **Fully Automated**: No manual intervention, powered by advanced algorithms.
