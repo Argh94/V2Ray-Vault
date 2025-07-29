@@ -154,116 +154,135 @@
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_2.txt
 ```
-<img src="https://private-user-images.githubusercontent.com/104245967/327947400-15a9fad4-d747-464a-9cf9-e6304e03872d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI3OTQ3NDAwLTE1YTlmYWQ0LWQ3NDctNDY0YS05Y2Y5LWU2MzA0ZTAzODcyZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZWNlNDQ0ODIyOTFlN2QyMmZlODZmZmViM2RjNmQzNDQ1NmQ4MjE3YjU0YTg1ZDM0YTliMDEyNmM1MzQ4NjNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lFgJgLszMuyBwEjLsDEG6IdU1lpMrbXlhcpnCZjxwo8" width="800">
+
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
 
 #### Mixed_3
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_3.txt
 ```
-<img src="https://private-user-images.githubusercontent.com/104245967/327947400-15a9fad4-d747-464a-9cf9-e6304e03872d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI3OTQ3NDAwLTE1YTlmYWQ0LWQ3NDctNDY0YS05Y2Y5LWU2MzA0ZTAzODcyZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZWNlNDQ0ODIyOTFlN2QyMmZlODZmZmViM2RjNmQzNDQ1NmQ4MjE3YjU0YTg1ZDM0YTliMDEyNmM1MzQ4NjNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lFgJgLszMuyBwEjLsDEG6IdU1lpMrbXlhcpnCZjxwo8" width="800">
+
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
 
 #### Mixed_4
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_4.txt
 ```
-<img src="https://private-user-images.githubusercontent.com/104245967/327947400-15a9fad4-d747-464a-9cf9-e6304e03872d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI3OTQ3NDAwLTE1YTlmYWQ0LWQ3NDctNDY0YS05Y2Y5LWU2MzA0ZTAzODcyZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZWNlNDQ0ODIyOTFlN2QyMmZlODZmZmViM2RjNmQzNDQ1NmQ4MjE3YjU0YTg1ZDM0YTliMDEyNmM1MzQ4NjNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lFgJgLszMuyBwEjLsDEG6IdU1lpMrbXlhcpnCZjxwo8" width="800">
+
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
 
 #### Mixed_5
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_5.txt
 ```
-<img src="https://private-user-images.githubusercontent.com/104245967/327947400-15a9fad4-d747-464a-9cf9-e6304e03872d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI3OTQ3NDAwLTE1YTlmYWQ0LWQ3NDctNDY0YS05Y2Y5LWU2MzA0ZTAzODcyZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZWNlNDQ0ODIyOTFlN2QyMmZlODZmZmViM2RjNmQzNDQ1NmQ4MjE3YjU0YTg1ZDM0YTliMDEyNmM1MzQ4NjNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lFgJgLszMuyBwEjLsDEG6IdU1lpMrbXlhcpnCZjxwo8" width="800">
+
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
 
 #### Mixed_6
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_6.txt
 ```
-<img src="https://private-user-images.githubusercontent.com/104245967/327947400-15a9fad4-d747-464a-9cf9-e6304e03872d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI3OTQ3NDAwLTE1YTlmYWQ0LWQ3NDctNDY0YS05Y2Y5LWU2MzA0ZTAzODcyZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZWNlNDQ0ODIyOTFlN2QyMmZlODZmZmViM2RjNmQzNDQ1NmQ4MjE3YjU0YTg1ZDM0YTliMDEyNmM1MzQ4NjNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lFgJgLszMuyBwEjLsDEG6IdU1lpMrbXlhcpnCZjxwo8" width="800">
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
 
 #### Mixed_7
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_7.txt
 ```
-<img src="https://private-user-images.githubusercontent.com/104245967/327947400-15a9fad4-d747-464a-9cf9-e6304e03872d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI3OTQ3NDAwLTE1YTlmYWQ0LWQ3NDctNDY0YS05Y2Y5LWU2MzA0ZTAzODcyZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZWNlNDQ0ODIyOTFlN2QyMmZlODZmZmViM2RjNmQzNDQ1NmQ4MjE3YjU0YTg1ZDM0YTliMDEyNmM1MzQ4NjNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lFgJgLszMuyBwEjLsDEG6IdU1lpMrbXlhcpnCZjxwo8" width="800">
+
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
 
 #### Mixed_8
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_8.txt
 ```
-<img src="https://private-user-images.githubusercontent.com/104245967/327947400-15a9fad4-d747-464a-9cf9-e6304e03872d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI3OTQ3NDAwLTE1YTlmYWQ0LWQ3NDctNDY0YS05Y2Y5LWU2MzA0ZTAzODcyZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZWNlNDQ0ODIyOTFlN2QyMmZlODZmZmViM2RjNmQzNDQ1NmQ4MjE3YjU0YTg1ZDM0YTliMDEyNmM1MzQ4NjNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lFgJgLszMuyBwEjLsDEG6IdU1lpMrbXlhcpnCZjxwo8" width="800">
+
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
 
 #### Mixed_9
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_9.txt
 ```
-<img src="https://private-user-images.githubusercontent.com/104245967/327947400-15a9fad4-d747-464a-9cf9-e6304e03872d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI3OTQ3NDAwLTE1YTlmYWQ0LWQ3NDctNDY0YS05Y2Y5LWU2MzA0ZTAzODcyZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZWNlNDQ0ODIyOTFlN2QyMmZlODZmZmViM2RjNmQzNDQ1NmQ4MjE3YjU0YTg1ZDM0YTliMDEyNmM1MzQ4NjNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lFgJgLszMuyBwEjLsDEG6IdU1lpMrbXlhcpnCZjxwo8" width="800">
+
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
 
 #### Mixed_10
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_10.txt
 ```
-<img src="https://private-user-images.githubusercontent.com/104245967/327947400-15a9fad4-d747-464a-9cf9-e6304e03872d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI3OTQ3NDAwLTE1YTlmYWQ0LWQ3NDctNDY0YS05Y2Y5LWU2MzA0ZTAzODcyZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZWNlNDQ0ODIyOTFlN2QyMmZlODZmZmViM2RjNmQzNDQ1NmQ4MjE3YjU0YTg1ZDM0YTliMDEyNmM1MzQ4NjNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lFgJgLszMuyBwEjLsDEG6IdU1lpMrbXlhcpnCZjxwo8" width="800">
+
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
 
 #### Mixed_11
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_11.txt
 ```
-<img src="https://private-user-images.githubusercontent.com/104245967/327947400-15a9fad4-d747-464a-9cf9-e6304e03872d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI3OTQ3NDAwLTE1YTlmYWQ0LWQ3NDctNDY0YS05Y2Y5LWU2MzA0ZTAzODcyZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZWNlNDQ0ODIyOTFlN2QyMmZlODZmZmViM2RjNmQzNDQ1NmQ4MjE3YjU0YTg1ZDM0YTliMDEyNmM1MzQ4NjNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lFgJgLszMuyBwEjLsDEG6IdU1lpMrbXlhcpnCZjxwo8" width="800">
+
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
 
 #### Mixed_12
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_12.txt
 ```
-<img src="https://private-user-images.githubusercontent.com/104245967/327947400-15a9fad4-d747-464a-9cf9-e6304e03872d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI3OTQ3NDAwLTE1YTlmYWQ0LWQ3NDctNDY0YS05Y2Y5LWU2MzA0ZTAzODcyZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZWNlNDQ0ODIyOTFlN2QyMmZlODZmZmViM2RjNmQzNDQ1NmQ4MjE3YjU0YTg1ZDM0YTliMDEyNmM1MzQ4NjNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lFgJgLszMuyBwEjLsDEG6IdU1lpMrbXlhcpnCZjxwo8" width="800">
+
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
 
 #### Mixed_13
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_13.txt
 ```
-<img src="https://private-user-images.githubusercontent.com/104245967/327947400-15a9fad4-d747-464a-9cf9-e6304e03872d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI3OTQ3NDAwLTE1YTlmYWQ0LWQ3NDctNDY0YS05Y2Y5LWU2MzA0ZTAzODcyZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZWNlNDQ0ODIyOTFlN2QyMmZlODZmZmViM2RjNmQzNDQ1NmQ4MjE3YjU0YTg1ZDM0YTliMDEyNmM1MzQ4NjNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lFgJgLszMuyBwEjLsDEG6IdU1lpMrbXlhcpnCZjxwo8" width="800">
+
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
 
 #### Mixed_14
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_14.txt
 ```
-<img src="https://private-user-images.githubusercontent.com/104245967/327947400-15a9fad4-d747-464a-9cf9-e6304e03872d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI3OTQ3NDAwLTE1YTlmYWQ0LWQ3NDctNDY0YS05Y2Y5LWU2MzA0ZTAzODcyZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZWNlNDQ0ODIyOTFlN2QyMmZlODZmZmViM2RjNmQzNDQ1NmQ4MjE3YjU0YTg1ZDM0YTliMDEyNmM1MzQ4NjNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lFgJgLszMuyBwEjLsDEG6IdU1lpMrbXlhcpnCZjxwo8" width="800">
+
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
 
 #### Mixed_15
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_15.txt
 ```
-<img src="https://private-user-images.githubusercontent.com/104245967/327947400-15a9fad4-d747-464a-9cf9-e6304e03872d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI3OTQ3NDAwLTE1YTlmYWQ0LWQ3NDctNDY0YS05Y2Y5LWU2MzA0ZTAzODcyZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZWNlNDQ0ODIyOTFlN2QyMmZlODZmZmViM2RjNmQzNDQ1NmQ4MjE3YjU0YTg1ZDM0YTliMDEyNmM1MzQ4NjNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lFgJgLszMuyBwEjLsDEG6IdU1lpMrbXlhcpnCZjxwo8" width="800">
+
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
 
 #### Mixed_16
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_16.txt
 ```
-<img src="https://private-user-images.githubusercontent.com/104245967/327947400-15a9fad4-d747-464a-9cf9-e6304e03872d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI3OTQ3NDAwLTE1YTlmYWQ0LWQ3NDctNDY0YS05Y2Y5LWU2MzA0ZTAzODcyZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZWNlNDQ0ODIyOTFlN2QyMmZlODZmZmViM2RjNmQzNDQ1NmQ4MjE3YjU0YTg1ZDM0YTliMDEyNmM1MzQ4NjNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lFgJgLszMuyBwEjLsDEG6IdU1lpMrbXlhcpnCZjxwo8" width="800">
+
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
 
 #### Mixed_17
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_17.txt
 ```
-<img src="https://private-user-images.githubusercontent.com/104245967/327947400-15a9fad4-d747-464a-9cf9-e6304e03872d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI3OTQ3NDAwLTE1YTlmYWQ0LWQ3NDctNDY0YS05Y2Y5LWU2MzA0ZTAzODcyZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZWNlNDQ0ODIyOTFlN2QyMmZlODZmZmViM2RjNmQzNDQ1NmQ4MjE3YjU0YTg1ZDM0YTliMDEyNmM1MzQ4NjNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lFgJgLszMuyBwEjLsDEG6IdU1lpMrbXlhcpnCZjxwo8" width="800">
+
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
 
 #### Mixed_18
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_18.txt
 ```
-<img src="https://private-user-images.githubusercontent.com/104245967/327947400-15a9fad4-d747-464a-9cf9-e6304e03872d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI3OTQ3NDAwLTE1YTlmYWQ0LWQ3NDctNDY0YS05Y2Y5LWU2MzA0ZTAzODcyZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZWNlNDQ0ODIyOTFlN2QyMmZlODZmZmViM2RjNmQzNDQ1NmQ4MjE3YjU0YTg1ZDM0YTliMDEyNmM1MzQ4NjNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lFgJgLszMuyBwEjLsDEG6IdU1lpMrbXlhcpnCZjxwo8" width="800">
+
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
 
 #### Mixed_19
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_19.txt
 ```
-<img src="https://private-user-images.githubusercontent.com/104245967/327947400-15a9fad4-d747-464a-9cf9-e6304e03872d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI3OTQ3NDAwLTE1YTlmYWQ0LWQ3NDctNDY0YS05Y2Y5LWU2MzA0ZTAzODcyZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZWNlNDQ0ODIyOTFlN2QyMmZlODZmZmViM2RjNmQzNDQ1NmQ4MjE3YjU0YTg1ZDM0YTliMDEyNmM1MzQ4NjNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.lFgJgLszMuyBwEjLsDEG6IdU1lpMrbXlhcpnCZjxwo8" width="800">
+
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
 
 #### Mixed_20
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_20.txt
 ```
 
-<img src="https://private-user-images.githubusercontent.com/104245967/326705781-08ccb46c-51a3-4d16-a0a4-27fb7492d35d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI2NzA1NzgxLTA4Y2NiNDZjLTUxYTMtNGQxNi1hMGE0LTI3ZmI3NDkyZDM1ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODAzYzFmZWVjNjI4YzVkYzM1N2NhYjAxNzM0ZDdmZGRmYzQ1NGVkY2M1N2Q4NDU5MWMzZmY3Y2Y3YmM0ZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MippiEwm-HYjgMGOy4VZk6W8Cu6yMivX8C9kG_8AKY4" width="800">
+
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/326705781.gif"> </p>
 
 ## 🌐 فناوری‌های شبکه
 <table>
