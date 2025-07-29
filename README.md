@@ -223,7 +223,7 @@
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_20.txt
 ```
 
-### 🌐 Network Technologies
+## 🌐 Network Technologies
 <table>
   <tr>
     <th>Technology</th>
@@ -257,7 +257,7 @@
   </tr>
 </table>
 
-### 🔒 Security Levels
+## 🔒 Security Levels
 <table>
   <tr>
     <th>Security Level</th>
