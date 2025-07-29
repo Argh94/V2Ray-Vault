@@ -2,7 +2,7 @@ name: V2Ray-Vault Config Collector
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '0 */4 * * *'
   workflow_dispatch:
 
 permissions:
