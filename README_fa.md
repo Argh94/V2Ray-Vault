@@ -324,3 +324,44 @@
   </tr>
 </table>
 <img src="https://private-user-images.githubusercontent.com/104245967/326705781-08ccb46c-51a3-4d16-a0a4-27fb7492d35d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI2NzA1NzgxLTA4Y2NiNDZjLTUxYTMtNGQxNi1hMGE0LTI3ZmI3NDkyZDM1ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODAzYzFmZWVjNjI4YzVkYzM1N2NhYjAxNzM0ZDdmZGRmYzQ1NGVkY2M1N2Q4NDU5MWMzZmY3Y2Y3YmM0ZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MippiEwm-HYjgMGOy4VZk6W8Cu6yMivX8C9kG_8AKY4" width="800">
+
+## 🚀 شروع به کار
+
+1. **انتخاب پروتکل**: از بین Vmess، Vless، Shadowsocks، Trojan یا سایر پروتکل‌ها انتخاب کنید.
+2. **اشتراک**: پیکربندی‌ها را با استفاده از [لینک‌های بالا](#دسته‌بندی‌های-پیکربندی) وارد کنید.
+3. **اتصال**: کلاینت V2Ray خود (مانند V2RayNG، Qv2ray) را پیکربندی کرده و متصل شوید.
+4. **بهینه‌سازی**: از [API](https://github.com/Argh94/V2Ray-Vault/wiki/API) ما برای پیکربندی‌های مبتنی بر موقعیت جغرافیایی استفاده کنید.
+
+> **نکته حرفه‌ای**: چندین پیکربندی را آزمایش کنید تا سریع‌ترین سرور برای منطقه خود را پیدا کنید! 🚀
+
+<img src="https://private-user-images.githubusercontent.com/104245967/326705781-08ccb46c-51a3-4d16-a0a4-27fb7492d35d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI2NzA1NzgxLTA4Y2NiNDZjLTUxYTMtNGQxNi1hMGE0LTI3ZmI3NDkyZDM1ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODAzYzFmZWVjNjI4YzVkYzM1N2NhYjAxNzM0ZDdmZGRmYzQ1NGVkY2M1N2Q4NDU5MWMzZmY3Y2Y3YmM0ZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MippiEwm-HYjgMGOy4VZk6W8Cu6yMivX8C9kG_8AKY4" width="800">
+
+## 🌍 پوشش جغرافیایی
+
+### 🏢 برترین مراکز داده
+دسترسی به پیکربندی‌های پرسرعت از ارائه‌دهندگان جهانی: [🔗 مشاهده همه مراکز داده](https://github.com/Argh94/V2Ray-Vault/tree/main/data/sub/countries)
+
+### 📦 پیکربندی‌های Base64
+برای کلاینت‌هایی با مشکلات سازگاری: [🔗 پیکربندی‌های Base64](https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/subscribe/base64.txt)
+
+<img src="https://private-user-images.githubusercontent.com/104245967/326705781-08ccb46c-51a3-4d16-a0a4-27fb7492d35d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI2NzA1NzgxLTA4Y2NiNDZjLTUxYTMtNGQxNi1hMGE0LTI3ZmI3NDkyZDM1ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODAzYzFmZWVjNjI4YzVkYzM1N2NhYjAxNzM0ZDdmZGRmYzQ1NGVkY2M1N2Q4NDU5MWMzZmY3Y2Y3YmM0ZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MippiEwm-HYjgMGOy4VZk6W8Cu6yMivX8C9kG_8AKY4" width="800">
+
+## ❓ سوالات متداول
+
+- **دوره به‌روزرسانی؟** هر ۴ ساعت برای پیکربندی‌های تازه و قابل اعتماد.
+- **کلاینت‌های پشتیبانی‌شده؟** V2RayNG، V2RayX، Qv2ray و غیره.
+- **چگونه بهترین پیکربندی را انتخاب کنیم؟** چندین سرور را آزمایش کنید یا از API ما برای پیشنهادات استفاده کنید.
+- **امنیت؟** همه پیکربندی‌ها برای ایمنی و پایداری اسکن می‌شوند.
+- **مشارکت؟** منابع عمومی و قابل اعتماد را از طریق درخواست‌های کششی (Pull Requests) ارسال کنید.
+
+---
+
+## 📜 مجوز
+تحت [مجوز MIT](https://github.com/Argh94/V2Ray-Vault/blob/main/LICENSE) منتشر شده است.
+
+---
+
+<div align="center">
+  <strong>ساخته شده با ❤️ برای جامعه V2Ray</strong><br>
+  <a href="https://github.com/Argh94/V2Ray-Vault"><img src="https://img.shields.io/github/stars/Argh94/configs-collector-v2ray?style=social" alt="ستاره در گیت‌هاب"></a>
+</div>
