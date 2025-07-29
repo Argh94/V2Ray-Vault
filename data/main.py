@@ -1,8 +1,3 @@
-import os
-import asyncio
-import json
-import re
-import base64
 import logging
 import random
 import string
@@ -62,9 +57,8 @@ class AppConfig:
     GEOIP_DB_FILE = DATA_DIR / "GeoLite2-Country.mmdb"
     GEOIP_ASN_DB_FILE = DATA_DIR / "GeoLite2-ASN.mmdb"
 
-    # به‌روزرسانی URLهای ریموت برای اشاره به پوشه data
-    REMOTE_CHANNELS_URL = "https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/main/data/telegram_channels.json"
-    REMOTE_SUBS_URL = "https://raw.githubusercontent.com/tahmaseb73/configs-collector-v2ray/main/data/subscription_links.json"
+    REMOTE_CHANNELS_URL = "https://raw.githubusercontent.com/Argh94/V2Ray-Vault/main/data/telegram_channels.json"
+    REMOTE_SUBS_URL = "https://raw.githubusercontent.com/Argh94/V2Ray-Vault/main/data/subscription_links.json"
     GEOIP_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb"
     GEOIP_ASN_DB_URL = "https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb"
 
