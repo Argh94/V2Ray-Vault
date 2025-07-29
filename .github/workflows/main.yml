@@ -1,0 +1,53 @@
+name: V2Ray-Vault Config Collector
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect_configs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install httpx[http2] beautifulsoup4 pydantic jdatetime aiofiles geoip2 rich
+
+      - name: Create data and sub directories
+        run: |
+          mkdir -p data
+          mkdir -p sub
+
+      - name: Download GeoLite databases
+        run: |
+          curl -L -o data/GeoLite2-Country.mmdb https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-Country.mmdb
+          curl -L -o data/GeoLite2-ASN.mmdb https://github.com/P3TERX/GeoLite.mmdb/raw/download/GeoLite2-ASN.mmdb
+
+      - name: Run script
+        run: |
+          python data/main.py
+        continue-on-error: false
+
+      - name: Commit and push if there are changes
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "action@github.com"
+          git add -A
+          if ! git diff --staged --quiet; then
+            git commit -m "🧾 Update configs on $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S %Z')"
+            git push --force
+          else
+            echo "No changes to commit."
+          fi
