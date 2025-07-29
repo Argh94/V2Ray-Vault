@@ -1,12 +1,6 @@
-trojan://mir3xf87-c2i6-jq9b-kr07-hnhz3482g4ef@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 20:28
-trojan://r3yi8v6y-lq6z-kzrr-2qzv-dak5z3oxl1y8@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ijcrcj9r-62xe-bnhi-01zl-egqj92sy28n8@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#admin.c1.webramz.co:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#series-a2.samanehha.co:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#series-a2.varzesh360.co:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#freakconfig13.felafel.org:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#series-a2.varzesh360.co:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#series-a1.samanehha.co:443
+trojan://tgjojmoa-xut4-lwd3-bke9-9zn3p0pe34r8@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/29 | 23:54
+trojan://29m30f5c-2wks-m5f2-809n-02lv6fyx1494@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://gh7qchw8-c5bt-vako-yhjs-z3taj1p5azxa@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#admin.c1.webramz.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#series-a2.samanehha.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#series-a2.varzesh360.co:443
@@ -17,13 +11,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?type=ws&security=tls&path=/?ed=2560&sni=PaGes.deV#www.speedtest.net:443
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?type=ws&security=none&path=/Barayeiranmahsang/----@-?ed=2560&sni=barayeiran-mahsang.gerald81.dpdns.org&fp=random#91.206.71.162:8880
 vless://f5cf098f-5143-440f-a490-7fc24ff27fb0@104.26.7.89:8443?type=ws&security=tls&path=/?ed=2560&sni=brmahasang.ahaysiahzangi.dpdns.org&fp=random#104.26.7.89:8443
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
-vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?type=ws&security=tls&path=/azadnet1-706.pages.dev/?ed=2560&PROT_TYPE=vless&sni=azadnet1-706.pages.dev&fp=randomized#162.159.129.67:8443
-vless://e02a83a6-16c9-4eaf-d40e-1387028d93a0@speedtest.net:80?type=xhttp&security=none#speedtest.net:80
-vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?type=ws&security=none&sni=barayeiran-mahsang.taraneh.dpdns.org&fp=random#104.16.51.36:80
-vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?type=ws&security=tls&path=/?ed=2560&sni=PaGes.deV#www.speedtest.net:443
-vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?type=ws&security=none&path=/Barayeiranmahsang/----@-?ed=2560&sni=barayeiran-mahsang.gerald81.dpdns.org&fp=random#91.206.71.162:8880
-vless://f5cf098f-5143-440f-a490-7fc24ff27fb0@104.26.7.89:8443?type=ws&security=tls&path=/?ed=2560&sni=brmahasang.ahaysiahzangi.dpdns.org&fp=random#104.26.7.89:8443
 vless://5879d109-8c92-448a-801b-3f3989019934@104.18.26.90:443?type=ws&security=tls&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&sni=pages.dev#104.18.26.90:443
 vless://25585ad5-242d-4b58-ad50-2492ee122ab6@141.193.213.21:80?type=ws&security=none&path=/#141.193.213.21:80
 vless://591a0afd-924a-4a71-8063-10aac246bb65@104.21.96.1:8443?type=ws&security=tls&path=/Tel-@V2ray_Alpha/?ed=2560&sni=user2-P2L.pAgES.dev#104.21.96.1:8443
@@ -89,5 +76,5 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?type=ws&security=none&path=/1ycR2zb3KeELWRha?ed=2560#104.17.1.197:8880
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?type=ws&security=none&path=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net#104.16.69.162:8880
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?type=ws&security=none&path=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net#104.16.69.162:8880
-trojan://qoa1d4el-t1sx-ruow-yh7k-0fhbjvzfer4k@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://r0a0kcru-vykf-oycl-jmmp-39xfxt2bsl6q@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://6tpou7fz-0o9p-5yzx-trhy-xjyt0uqf2t36@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://k98w5dih-4ff1-dnpj-ut5w-swt9ooun5hug@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
