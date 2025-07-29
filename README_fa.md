@@ -265,3 +265,62 @@
 
 <img src="https://private-user-images.githubusercontent.com/104245967/326705781-08ccb46c-51a3-4d16-a0a4-27fb7492d35d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI2NzA1NzgxLTA4Y2NiNDZjLTUxYTMtNGQxNi1hMGE0LTI3ZmI3NDkyZDM1ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODAzYzFmZWVjNjI4YzVkYzM1N2NhYjAxNzM0ZDdmZGRmYzQ1NGVkY2M1N2Q4NDU5MWMzZmY3Y2Y3YmM0ZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MippiEwm-HYjgMGOy4VZk6W8Cu6yMivX8C9kG_8AKY4" width="800">
 
+## 🌐 فناوری‌های شبکه
+<table>
+  <tr>
+    <th>فناوری</th>
+    <th>توضیحات</th>
+    <th>لینک اشتراک</th>
+  </tr>
+  <tr>
+    <td align="center"><strong>🔄 gRPC</strong></td>
+    <td align="center"><code>RPC گوگل با عملکرد بالا</code></td>
+    <td align="center"><a href="https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/networks/grpc.txt">📡 اشتراک</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🌐 WebSocket</strong></td>
+    <td align="center"><code>اتصالات انعطاف‌پذیر WebSocket</code></td>
+    <td align="center"><a href="https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/networks/ws.txt">📡 اشتراک</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>⚡ HTTP/XHTTP</strong></td>
+    <td align="center"><code>پروتکل HTTP بهینه‌شده</code></td>
+    <td align="center"><a href="https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/networks/xhttp.txt">📡 اشتراک</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🔗 TCP</strong></td>
+    <td align="center"><code>اتصالات TCP قابل اعتماد</code></td>
+    <td align="center"><a href="https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/networks/tcp.txt">📡 اشتراک</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🔒 Reality</strong></td>
+    <td align="center"><code>پروتکل با حداکثر حریم خصوصی</code></td>
+    <td align="center"><a href="https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/networks/reality.txt">📡 اشتراک</a></td>
+  </tr>
+</table>
+<img src="https://private-user-images.githubusercontent.com/104245967/326705781-08ccb46c-51a3-4d16-a0a4-27fb7492d35d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI2NzA1NzgxLTA4Y2NiNDZjLTUxYTMtNGQxNi1hMGE0LTI3ZmI3NDkyZDM1ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODAzYzFmZWVjNjI4YzVkYzM1N2NhYjAxNzM0ZDdmZGRmYzQ1NGVkY2M1N2Q4NDU5MWMzZmY3Y2Y3YmM0ZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MippiEwm-HYjgMGOy4VZk6W8Cu6yMivX8C9kG_8AKY4" width="800">
+
+## 🔒 سطوح امنیتی
+<table>
+  <tr>
+    <th>سطح امنیتی</th>
+    <th>توضیحات</th>
+    <th>لینک اشتراک</th>
+  </tr>
+  <tr>
+    <td align="center"><strong>🔓 بدون TLS</strong></td>
+    <td align="center">بدون رمزنگاری، سبک</td>
+    <td align="center"><a href="https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/security/nontls.txt">📡 اشتراک</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🔐 TLS استاندارد</strong></td>
+    <td align="center">رمزنگاری استاندارد صنعتی</td>
+    <td align="center"><a href="https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/security/tls.txt">📡 اشتراک</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🛡️ XTLS پیشرفته</strong></td>
+    <td align="center">امنیت پیشرفته XTLS</td>
+    <td align="center"><a href="https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/security/xtls.txt">📡 اشتراک</a></td>
+  </tr>
+</table>
+<img src="https://private-user-images.githubusercontent.com/104245967/326705781-08ccb46c-51a3-4d16-a0a4-27fb7492d35d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI2NzA1NzgxLTA4Y2NiNDZjLTUxYTMtNGQxNi1hMGE0LTI3ZmI3NDkyZDM1ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODAzYzFmZWVjNjI4YzVkYzM1N2NhYjAxNzM0ZDdmZGRmYzQ1NGVkY2M1N2Q4NDU5MWMzZmY3Y2Y3YmM0ZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MippiEwm-HYjgMGOy4VZk6W8Cu6yMivX8C9kG_8AKY4" width="800">
