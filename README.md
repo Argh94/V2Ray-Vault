@@ -96,12 +96,12 @@
 </table>
 
 ### 🌐 Mixed Protocol Configurations
-<table>
+<table style="width: 100%; max-width: 800px; margin: auto; font-size: 14px;">
   <tr>
-    <th>Category</th>
-    <th>Links</th>
-    <th>Category</th>
-    <th>Links</th>
+    <th style="width: 25%;">Category</th>
+    <th style="width: 25%;">Links</th>
+    <th style="width: 25%;">Category</th>
+    <th style="width: 25%;">Links</th>
   </tr>
   <tr>
     <td align="center"><strong>🔐 Mix Shadowsocks</strong><br><code>Curated Shadowsocks configs</code></td>
