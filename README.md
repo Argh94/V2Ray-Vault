@@ -81,12 +81,12 @@
     <td align="center"><a href="https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/protocols/tuic.txt">📡 Subscribe</a></td>
   </tr>
   <tr>
-    <td align="center"><strong>🔗 WARP</strong></td>
+    <td align="center"><strong>🎯 WARP</strong></td>
     <td align="center"><code>Low-latency for gaming</code></td>
     <td align="center"><a href="https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/protocols/warp.txt">📡 Subscribe</a></td>
   </tr>
   <tr>
-    <td align="center"><strong>🔗 ShadowSockSR</strong></td>
+    <td align="center"><strong>💾 ShadowSockSR</strong></td>
     <td align="center"><code>Legacy Shadowsocks protocol</code></td>
     <td align="center"><a href="https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/protocols/shadowsocksr.txt">📡 Subscribe</a></td>
   </tr>
