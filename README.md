@@ -14,7 +14,7 @@
 
 </div>
 
----
+<img src="https://private-user-images.githubusercontent.com/104245967/326705781-08ccb46c-51a3-4d16-a0a4-27fb7492d35d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI2NzA1NzgxLTA4Y2NiNDZjLTUxYTMtNGQxNi1hMGE0LTI3ZmI3NDkyZDM1ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODAzYzFmZWVjNjI4YzVkYzM1N2NhYjAxNzM0ZDdmZGRmYzQ1NGVkY2M1N2Q4NDU5MWMzZmY3Y2Y3YmM0ZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MippiEwm-HYjgMGOy4VZk6W8Cu6yMivX8C9kG_8AKY4" width="800">
 
 ## 🌟 About V2Ray Configurations Hub
 
@@ -27,7 +27,7 @@
 - 🔒 **Enhanced Security**: Automated scans to eliminate malicious configs.
 - 📡 **Developer-Friendly API**: Seamless integration with comprehensive docs.
 
----
+<img src="https://private-user-images.githubusercontent.com/104245967/326705781-08ccb46c-51a3-4d16-a0a4-27fb7492d35d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI2NzA1NzgxLTA4Y2NiNDZjLTUxYTMtNGQxNi1hMGE0LTI3ZmI3NDkyZDM1ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODAzYzFmZWVjNjI4YzVkYzM1N2NhYjAxNzM0ZDdmZGRmYzQ1NGVkY2M1N2Q4NDU5MWMzZmY3Y2Y3YmM0ZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MippiEwm-HYjgMGOy4VZk6W8Cu6yMivX8C9kG_8AKY4" width="800">
 
 ## ✨ Key Features
 
@@ -39,7 +39,7 @@
 | **Security & Stability** | Automated scans and encryption for secure connections. |
 | **Performance Analytics** | Live dashboards for speed, latency, and uptime metrics. |
 
----
+<img src="https://private-user-images.githubusercontent.com/104245967/326705781-08ccb46c-51a3-4d16-a0a4-27fb7492d35d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI2NzA1NzgxLTA4Y2NiNDZjLTUxYTMtNGQxNi1hMGE0LTI3ZmI3NDkyZDM1ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODAzYzFmZWVjNjI4YzVkYzM1N2NhYjAxNzM0ZDdmZGRmYzQ1NGVkY2M1N2Q4NDU5MWMzZmY3Y2Y3YmM0ZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MippiEwm-HYjgMGOy4VZk6W8Cu6yMivX8C9kG_8AKY4" width="800">
 
 ## 🗂️ Configuration Categories
 
@@ -94,7 +94,7 @@
     <td align="center" colspan="3"><strong>🌐 Mixed Configurations</strong><br><code>20 curated configs combining all protocols</code><br><a href="https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/all_configs.txt">📡 Subscribe</a></td>
   </tr>
 </table>
-
+<img src="https://private-user-images.githubusercontent.com/104245967/326705781-08ccb46c-51a3-4d16-a0a4-27fb7492d35d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI2NzA1NzgxLTA4Y2NiNDZjLTUxYTMtNGQxNi1hMGE0LTI3ZmI3NDkyZDM1ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODAzYzFmZWVjNjI4YzVkYzM1N2NhYjAxNzM0ZDdmZGRmYzQ1NGVkY2M1N2Q4NDU5MWMzZmY3Y2Y3YmM0ZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MippiEwm-HYjgMGOy4VZk6W8Cu6yMivX8C9kG_8AKY4" width="800">
 ### 🌐 Mixed Protocol Configurations
 <table style="width: 100%; max-width: 800px; margin: auto; font-size: 14px;">
   <tr>
@@ -140,8 +140,9 @@
     </td>
   </tr>
 </table>
-
+<img src="https://private-user-images.githubusercontent.com/104245967/326705781-08ccb46c-51a3-4d16-a0a4-27fb7492d35d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI2NzA1NzgxLTA4Y2NiNDZjLTUxYTMtNGQxNi1hMGE0LTI3ZmI3NDkyZDM1ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODAzYzFmZWVjNjI4YzVkYzM1N2NhYjAxNzM0ZDdmZGRmYzQ1NGVkY2M1N2Q4NDU5MWMzZmY3Y2Y3YmM0ZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MippiEwm-HYjgMGOy4VZk6W8Cu6yMivX8C9kG_8AKY4" width="800">
 ### 🌐 Additional Mixed Configurations
+
 #### Mixed_1
 ```
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_1.txt
@@ -261,6 +262,7 @@
  https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/splitted/mixed_20.txt
 ```
 
+<img src="https://private-user-images.githubusercontent.com/104245967/326705781-08ccb46c-51a3-4d16-a0a4-27fb7492d35d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI2NzA1NzgxLTA4Y2NiNDZjLTUxYTMtNGQxNi1hMGE0LTI3ZmI3NDkyZDM1ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODAzYzFmZWVjNjI4YzVkYzM1N2NhYjAxNzM0ZDdmZGRmYzQ1NGVkY2M1N2Q4NDU5MWMzZmY3Y2Y3YmM0ZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MippiEwm-HYjgMGOy4VZk6W8Cu6yMivX8C9kG_8AKY4" width="800">
 ## 🌐 Network Technologies
 <table>
   <tr>
@@ -294,7 +296,7 @@
     <td align="center"><a href="https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/networks/reality.txt">📡 Subscribe</a></td>
   </tr>
 </table>
-
+<img src="https://private-user-images.githubusercontent.com/104245967/326705781-08ccb46c-51a3-4d16-a0a4-27fb7492d35d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI2NzA1NzgxLTA4Y2NiNDZjLTUxYTMtNGQxNi1hMGE0LTI3ZmI3NDkyZDM1ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODAzYzFmZWVjNjI4YzVkYzM1N2NhYjAxNzM0ZDdmZGRmYzQ1NGVkY2M1N2Q4NDU5MWMzZmY3Y2Y3YmM0ZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MippiEwm-HYjgMGOy4VZk6W8Cu6yMivX8C9kG_8AKY4" width="800">
 ## 🔒 Security Levels
 <table>
   <tr>
@@ -319,7 +321,7 @@
   </tr>
 </table>
 
----
+<img src="https://private-user-images.githubusercontent.com/104245967/326705781-08ccb46c-51a3-4d16-a0a4-27fb7492d35d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI2NzA1NzgxLTA4Y2NiNDZjLTUxYTMtNGQxNi1hMGE0LTI3ZmI3NDkyZDM1ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODAzYzFmZWVjNjI4YzVkYzM1N2NhYjAxNzM0ZDdmZGRmYzQ1NGVkY2M1N2Q4NDU5MWMzZmY3Y2Y3YmM0ZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MippiEwm-HYjgMGOy4VZk6W8Cu6yMivX8C9kG_8AKY4" width="800">
 
 ## 🚀 Get Started
 
@@ -330,7 +332,7 @@
 
 > **Pro Tip**: Test multiple configs to find the fastest server for your region! 🚀
 
----
+<img src="https://private-user-images.githubusercontent.com/104245967/326705781-08ccb46c-51a3-4d16-a0a4-27fb7492d35d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI2NzA1NzgxLTA4Y2NiNDZjLTUxYTMtNGQxNi1hMGE0LTI3ZmI3NDkyZDM1ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODAzYzFmZWVjNjI4YzVkYzM1N2NhYjAxNzM0ZDdmZGRmYzQ1NGVkY2M1N2Q4NDU5MWMzZmY3Y2Y3YmM0ZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MippiEwm-HYjgMGOy4VZk6W8Cu6yMivX8C9kG_8AKY4" width="800">
 
 ## 🌍 Geographic Coverage
 
@@ -340,7 +342,7 @@ Access high-speed configs from global providers: [🔗 View All Data Centers](ht
 ### 📦 Base64 Configurations
 For clients with compatibility issues: [🔗 Base64 Configs](https://raw.githubusercontent.com/Argh94/V2Ray-Vault/refs/heads/main/data/sub/subscribe/base64.txt)
 
----
+<img src="https://private-user-images.githubusercontent.com/104245967/326705781-08ccb46c-51a3-4d16-a0a4-27fb7492d35d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4MDg1NzgsIm5iZiI6MTc1MzgwODI3OCwicGF0aCI6Ii8xMDQyNDU5NjcvMzI2NzA1NzgxLTA4Y2NiNDZjLTUxYTMtNGQxNi1hMGE0LTI3ZmI3NDkyZDM1ZC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyOVQxNjU3NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ODAzYzFmZWVjNjI4YzVkYzM1N2NhYjAxNzM0ZDdmZGRmYzQ1NGVkY2M1N2Q4NDU5MWMzZmY3Y2Y3YmM0ZGVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MippiEwm-HYjgMGOy4VZk6W8Cu6yMivX8C9kG_8AKY4" width="800">
 
 ## ❓ FAQ
 
