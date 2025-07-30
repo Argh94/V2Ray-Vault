@@ -1,16 +1,12 @@
-trojan://pyxzu7z2-sb4e-ugv0-iilr-m303r77nunhf@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 11:58
-trojan://sy2nw69a-effj-i7ou-bdrc-dl0mdxnrki1x@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://hukyob3x-gxwl-13dy-7jcs-w7fore5vlt52@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.110.1.3:5601#38.110.1.3:5601
+trojan://e0fzfq4z-zuyc-duw5-24hx-0ag53nujfaj8@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 16:06
+trojan://xnhml0fs-f0u4-7twi-bwl3-pxu9pdq2bvyt@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://582i7ss9-z340-6l3w-i2wr-2iqk50u6eqlm@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#193.29.139.240:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VXp1dWxoTWNiZWVEdGFYbVdpUFdM@h110vpnch.outlinekeys.net:4248#h110vpnch.outlinekeys.net:4248
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#45.87.175.65:8080
-trojan://QwwHvrnN@223.113.54.144:17956?security=tls#223.113.54.144:17956
-trojan://NISHIKUITAN111@104.19.188.107:443?security=tls#104.19.188.107:443
 trojan://auto@104.20.19.168:2083?sni=e9464f45.trauma-2r4.pages.dev&peer=e9464f45.trauma-2r4.pages.dev&security=tls#104.20.19.168:2083
 trojan://NISHIKUITAN111@162.159.15.30:443?security=tls#162.159.15.30:443
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjE1LjIwNC4xMS4xOTAiLCJwb3J0IjoxNTM2MSwiaWQiOiI1ZDdiZjllMy00MTVjLTQwZjMtYzY2ZC1hNTRlYTBmZDg2MGUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://0c4a9085-2207-4ba5-93e0-7edfedfbc7d3@gr.dnszone.top:45500?type=tcp&security=none#gr.dnszone.top:45500
+trojan://telegram-id-directvpn@3.68.1.93:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#3.68.1.93:22223
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@46.17.98.54:8000?type=ws&security=none&path=/?ed=2560security=tls&sni=a.xn--i-sx6a60i.us.kg#46.17.98.54:8000
 vless://16c95530-8276-5477-9e61-799542e502c7@199.232.79.57:443?type=ws&security=tls&path=/fp=chrome&sni=ADOLF-ELENA.IR#199.232.79.57:443
@@ -18,8 +14,12 @@ vless://b9e02ae4-b54a-4b4f-a561-ce16239f637d@151.101.194.133:443?type=ws&securit
 vless://e1d7c543-0f29-4e5e-a689-2a71d397c7c9@gr.dnszone.top:45500?type=tcp&security=none#gr.dnszone.top:45500
 vless://7b5732b8-abdb-4691-a06d-b03c2752889b@wouldyoumarriemepleasefuckthesystem2.siasia.ir:2053?type=ws&security=tls&path=/apiii&sni=hheydudethisworldisshet.siasia.ir&fp=randomized#wouldyoumarriemepleasefuckthesystem2.siasia.ir:2053
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
+vless://e8d70cd1-2c54-4678-bbdc-9b49317aa003@162.159.20.126:80?type=httpupgrade&security=none&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048#162.159.20.126:80
+vless://598d2298-5e1f-4d07-bc4b-6d1949693852@162.19.250.117:25921?type=tcp&security=none#162.19.250.117:25921
+vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
+vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server581122609014369419.tas-bazi.com:443?type=xhttp&security=none&path=/sc#server581122609014369419.tas-bazi.com:443
 vless://b28ee363-949e-4d2d-bffb-2d14d28e3ebe@91.99.216.9:8443?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#91.99.216.9:8443
 vless://f77fd550-aa50-4cd5-a760-6ad5eff2321c@direct.yasharteam.com:443?type=tcp&security=reality&sni=tgju.org&fp=firefox&flow=xtls-rprx-vision&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#direct.yasharteam.com:443
 vless://7fc993f5-7cd7-4485-9e6f-1f7c5160c910@52.26.212.243:4433?type=tcp&security=reality&sni=stackoverflow.com&fp=random&pbk=tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0&sid=f785b38130e64177#52.26.212.243:4433
-trojan://6asm7x1h-m6h9-p6mb-7ch4-etv1rw9p6ysu@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://79fk2don-js9k-7ej6-hf4n-stwzshs0gjj8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://pwys9pfo-691u-de83-htx7-zoj8y0x8tmkq@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://pmnxgd01-2ry5-1f4k-4j3f-0d7iq3mx0pll@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
