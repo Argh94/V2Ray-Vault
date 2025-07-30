@@ -1,6 +1,6 @@
-trojan://udch0p1i-pof7-0c2o-1odp-dem3w67587xu@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 19:56
-trojan://ydohh1m2-tiz5-a5oa-lcze-yzmrny5s4zor@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://rxqu0wrz-swwx-v2aa-8thk-b9jh1nmgiv6t@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://riws6jr3-ur6g-llp5-blqj-50t691td5fx9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 23:52
+trojan://znp5u1tc-3mcp-e8ey-345k-2vrolpzmy3p1@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://md3ptgwm-a1mj-4orj-4o1f-166820kevifm@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYgXHVkODNjXHVkZGYxXHVkODNjXHVkZGZiIiwiYWRkIjoiMjE2LjE3My42OS4yNTAiLCJwb3J0Ijo4NDQzLCJpZCI6IjkxMzgyMDkyLTIzMzAtNDU1Yi04YTFjLTljMTI5Y2ZlNjYxYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IiwiYWRkIjoiMjE2LjEyOC4xNDkuMzMiLCJwb3J0Ijo4NDQzLCJpZCI6IjczZWI2NDUyLTIxZTUtNDIwNS1iZDM2LTU5YTIwYTUyMTdiYSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvIn0
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.bankonbasak.com:443?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net&sni=carlotta.shoorekeeper.cloudns.org&fp=random#www.bankonbasak.com:443
@@ -42,22 +42,5 @@ hysteria2://AZrgUfcGknbd6Q6LHkzMT0ODVk@43.199.72.130:32089?sni=bing.com&insecure
 hysteria2://cf125f42-759d-4112-82c3-014d2ffcb1e7@185.85.242.177:1443?sni=gbr1.587458.xyz&insecure=1#185.85.242.177:1443
 hysteria2://a18b26c8-6634-4238-8ccb-34e777e1277b@45.136.245.177:33079?insecure=1&obfs=salamander#45.136.245.177:33079
 hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:36400?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#2a14:3f87:f001:13::a:36400
-warp://162.159.192.52:1387?#162.159.192.52:1387
-warp://::ffff:162.159.192.52:1387?#::ffff:162.159.192.52:1387
-warp://188.114.99.131:1387?#188.114.99.131:1387
-warp://::ffff:188.114.99.131:1387?#::ffff:188.114.99.131:1387
-warp://162.159.195.255:1387?#162.159.195.255:1387
-warp://::ffff:162.159.195.255:1387?#::ffff:162.159.195.255:1387
-warp://8.39.214.207:1387?#8.39.214.207:1387
-warp://::ffff:8.39.214.207:1387?#::ffff:8.39.214.207:1387
-warp://162.159.192.52:1387?#162.159.192.52:1387
-warp://188.114.99.139:500?#188.114.99.139:500
-warp://::ffff:162.159.192.52:1387?#::ffff:162.159.192.52:1387
-warp://162.159.195.255:1387?#162.159.195.255:1387
-warp://188.114.98.0:500?#188.114.98.0:500
-warp://::ffff:162.159.195.255:1387?#::ffff:162.159.195.255:1387
-warp://8.39.214.207:1387?#8.39.214.207:1387
-warp://8.35.211.171:500?#8.35.211.171:500
-warp://::ffff:8.39.214.207:1387?#::ffff:8.39.214.207:1387
-trojan://a5wxvim3-lnik-x7no-fxie-pobkbadiufvn@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://rfs5cfk6-7tvi-4k9t-z3ma-auuew2khp7mv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://whaiw7p0-6hxb-wwm0-w1k6-pylyc9cvduyi@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://sqduay6t-xdi0-f8jf-ilxl-j04vskg2t4cx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,7 +1,6 @@
-trojan://1thtmqh9-a8m2-mk52-uw87-x389c7bpzz5e@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 19:56
-trojan://jz264xkc-lsqm-r7it-8ykg-523iv3g3hqtd@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://bwqf7q9p-qxaa-6jq4-7hox-5czmuxllpycb@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#45.87.175.171:8080
+trojan://ngk326ay-9dr7-geey-x1wq-zqf1pkw8c95r@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/30 | 23:53
+trojan://nxxslhgi-urlh-zid3-3f43-g861fhjztriw@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://gsboxg29-ev47-9w4n-y7mb-ucl3pfeizp38@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#83.147.216.70:64519
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#46.101.245.131:44354
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@admin.c2.webramz.co:443#admin.c2.webramz.co:443
@@ -20,5 +19,6 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?type=ws&security=t
 vless://a810f77f-1346-4eef-b945-59c21be50f4d@51.222.84.59:14643?type=tcp&security=none#51.222.84.59:14643
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.21.54.198:8880?type=ws&security=none&path=/HBRQp44s2AcLDzpm?ed=2560#104.21.54.198:8880
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?type=ws&security=none&path=/Tel-@V2ray_Alpha/?ed=2560&sni=barayeiran.mahiozonboroon.qzz.io&fp=random#104.16.191.195:80
-trojan://8ujrrg0j-ti6z-ot4j-tzsd-1k31vc48ir8d@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://rh6h8pl2-iklj-rn7q-xjx1-2uotiaxw5jq7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?type=ws&security=tls&path=/?Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&sni=vl.hongkong6.qzz.io&fp=random#www.visa.com.sg:2087
+trojan://udwknmp7-dy38-xkdu-ov5l-l5ku0j05182w@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://e5pddcn6-apso-qhdk-tflr-9ag2gl22o0t7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
