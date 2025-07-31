@@ -1,11 +1,8 @@
-trojan://40gnl72k-g3sw-gt2i-fccy-nnpfdr2xn8hb@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 16:06
-trojan://rec73c1h-ghsi-c9ge-fim9-lf3n7vsebxga@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://7h2g0ijx-adr0-0ha9-o429-8q0e9acmy2ra@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://h2a0udhh-bw9p-3vl6-eyk3-h5vx1sp4j2ak@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 19:56
+trojan://7uj87clx-hc5i-81ev-e5q9-rn4wgja9itbi@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://wqhs40le-09ux-nl60-qfbf-ueay4w8n7fjq@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#45.87.175.22:8080
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?sni=vpn.stupidworld.web.id&peer=vpn.stupidworld.web.id&security=tls#172.67.181.173:443
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
-vless://2e17c09d-57f8-42fc-be07-744dd30ae8b0@fz.piko-network.top:443?type=tcp&security=none#fz.piko-network.top:443
 vless://Telegram--SRCVPN@91.107.129.66:3080?type=grpc&security=none#91.107.129.66:3080
 vless://Telegram--SRCVPN@91.107.129.66:3090?type=grpc&security=none#91.107.129.66:3090
 vless://ec80ee4b-8c32-479e-b683-6612608e3437@www.speedtest.net:80?type=ws&security=none&path=/#www.speedtest.net:80
@@ -65,8 +62,6 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@45.131.209.36:8880?type=ws&security
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?type=ws&security=none&path=/vpnowl-vpnowl-vpnowl-vpnowl?ed=2560#104.16.191.195:80
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?type=grpc&security=none#185.231.205.234:8880
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?type=ws&security=none&path=/193.123.81.105=443#45.131.4.85:80
-vless://57a5d042-6618-4042-a2de-1a2169c4ce9d@165.227.244.151:1419?type=tcp&security=reality&sni=journalofbigdata.springeropen.com&fp=firefox&pbk=0L-XvEVE4KLbDk-evkkxEWK3y-Nkz0E181t0PD_o4h4&sid=ae439107157c97#165.227.244.151:1419
-vless://57a5d042-6618-4042-a2de-1a2169c4ce9d@165.227.244.151:1419?type=tcp&security=reality&sni=journalofbigdata.springeropen.com&fp=firefox&pbk=0L-XvEVE4KLbDk-evkkxEWK3y-Nkz0E181t0PD_o4h4&sid=ae439107157c97#165.227.244.151:1419
 vless://d5f63b9e-780a-472a-9d1b-e2088087a037@194.182.79.252:37814?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=rk5UKshtrRPf3achXqaxQgA-7EryZABGx6fSXv35D14&sid=10a5#194.182.79.252:37814
 vless://e40a9ae6-872f-4452-a19b-a63fbd759d54@194.182.79.235:28257?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=1mkQipIydK3Je5xGCdYUhuEmnsqMvdEGyheJxtBKwlY&sid=c9497c0ea7a8ce1e#194.182.79.235:28257
 vless://6dcfa5c4-fc09-48fd-90d7-115f0bcb27bb@194.182.79.231:48785?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=rTUkj6jwNqJ4nE3ZxEOMIjRfkfj7agzEgIo2v6H4n3Q&sid=e965cb63a452#194.182.79.231:48785
@@ -79,5 +74,6 @@ vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@206.71.158.75:465?type=xhttp&securi
 vless://4ad963a1-48a4-40cf-9ec0-26a732e0d887@api.hostbaran.info:15810?type=tcp&security=reality&sni=www.pottermore.com&fp=chrome&flow=xtls-rprx-vision&pbk=Clc3P7127drFOxcwY7TTCIAdD4a7enFY96Jo0TxC-hY&sid=75#api.hostbaran.info:15810
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#ru01-vlr01.tcp-reset-club.net:443
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y#5.181.171.2:443
-trojan://5ot9kqgn-0lew-01r0-d8wg-n5lutgabqbne@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://6nkytkka-3qfe-iqoq-gm9s-nbflw7745viv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@ind01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#ind01-vlr01.tcp-reset-club.net:443
+trojan://4wha6cim-mkk6-4su0-id9b-soi2t9r7bj5n@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://3ljfhat8-34gf-m4en-vaq6-5c2r2upi7nrp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
