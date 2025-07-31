@@ -39,7 +39,7 @@
 | **Security & Stability** | Automated scans and encryption for secure connections. |
 | **Performance Analytics** | Live dashboards for speed, latency, and uptime metrics. |
 
-<<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/326705781.gif"> </p>
+<p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/326705781.gif"> </p>
 
 ## 🗂️ Configuration Categories
 
