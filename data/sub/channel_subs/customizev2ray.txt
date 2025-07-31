@@ -1,6 +1,6 @@
-trojan://lqcc7tsn-35sr-8y8m-4f27-ot26gy7bu14v@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 04:45
-trojan://rl7nrjgi-xrpv-a3kj-jb7v-iivfgpwxiqng@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://3r2ue4dx-rrij-gbbt-033r-iu707dk6wdht@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://4z4hzygw-wyhh-x12e-um7f-wrx59rue87af@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 08:14
+trojan://f6x7omah-w5dp-a4lr-uwwn-r21xk3n2tpb8@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://6tinncxg-eqbp-11fd-fz8q-17r0t3tcv1hm@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://VPNCUSTOMIZE@customizev2ray.v2ray.motorcycles:2095?type=ws&security=none&path=/V2rayCUSTOMIZE?ed=1024#customizev2ray.v2ray.motorcycles:2095
 vless://VPNCUSTOMIZE@188.114.98.224:2095?type=ws&security=none&path=/V2rayCUSTOMIZE?ed=1024#188.114.98.224:2095
 vless://VPNCUSTOMiZE@channel-vpncustomize.v2ray.motorcycles:2095?type=ws&security=none&path=/V2rayCUSTOMIZE?ed=1024#channel-vpncustomize.v2ray.motorcycles:2095
@@ -27,5 +27,5 @@ vless://09d91bde-2292-462c-ba15-14f3b1b46bf8@join--vpncustomize.v2ray.re:8080?ty
 vless://09d91bde-2292-462c-ba15-14f3b1b46bf8@188.114.98.224:8080?type=ws&security=none&path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080#188.114.98.224:8080
 vless://channel-VPNCUSTOMIZE@join--vpncustomize.v2ray.re:8080?type=ws&security=none&path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080#join--vpncustomize.v2ray.re:8080
 vless://channel-VPNCUSTOMIZE@188.114.98.224:8080?type=ws&security=none&path=/Join--VPNCUSTOMIZE.V2ray.re?ed=8080#188.114.98.224:8080
-trojan://ts8f9yih-25zv-xuzr-6r96-teflyvmsd08k@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://2egbzlx7-ikk3-co91-wzii-utvsz8orky2j@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://kyl8srsz-noy4-gtpc-iu9n-vzmui3oieuwb@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://l3pkmuqp-gxmm-ogtw-g7gf-6rmbtqbz7oj6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

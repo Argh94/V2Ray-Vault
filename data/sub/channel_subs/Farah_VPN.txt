@@ -1,16 +1,12 @@
-trojan://c6lumwec-axcg-3lk7-tnr7-vdbdpgn4fgtq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 04:45
-trojan://p8leajqd-m902-k9t3-tpl0-avgw2dntsl8z@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://18hjoj0m-ns09-yked-3k20-y02qycg65r09@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://nmhe8ss3-pw86-jf9v-jrxq-7s0qlzy5t205@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/07/31 | 08:14
+trojan://8pg2rn3t-6qan-rfp1-69dr-8ktuwecwr0k8@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://kyq9cn9l-c6l1-j5pc-m6se-dmhsx9022ehc@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#193.29.139.235:8080
-trojan://telegram-id-directvpn@3.68.1.93:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#3.68.1.93:22223
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@139.64.165.144:5004#139.64.165.144:5004
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#109.201.152.181:443
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA@192.3.81.194:16899#192.3.81.194:16899
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjE3Mi42Ny4xMzEuMjciLCJwb3J0IjoyMDUzLCJpZCI6IjM1MGUyYjAxLWQ0MTAtNDRhNi05MGJhLTY0ODNmMTA2Mjk3MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjIuMTg5LjU5LjciLCJwb3J0Ijo0NDMsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiJvYmRpaS5jZmQiLCJwYXRoIjoiL2xpbmt3cyIsInRscyI6InRscyIsInNuaSI6Im9iZGlpLmNmZCJ9
-vless://7b5732b8-abdb-4691-a06d-b03c2752889b@wouldyoumarriemepleasefuckthesystem2.siasia.ir:2053?type=ws&security=tls&path=/apiii&sni=hheydudethisworldisshet.siasia.ir&fp=randomized#wouldyoumarriemepleasefuckthesystem2.siasia.ir:2053
-vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
-vless://e8d70cd1-2c54-4678-bbdc-9b49317aa003@162.159.20.126:80?type=httpupgrade&security=none&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048#162.159.20.126:80
-vless://598d2298-5e1f-4d07-bc4b-6d1949693852@162.19.250.117:25921?type=tcp&security=none#162.19.250.117:25921
-vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:2095?type=ws&security=none&path=/hajmi?ed=2050#www.speedtest.net:2095
-vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server581122609014369419.tas-bazi.com:443?type=xhttp&security=none&path=/sc#server581122609014369419.tas-bazi.com:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?type=grpc&security=none#185.231.205.246:8880
 vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@175.208.111.195:50000?type=ws&security=tls&path=/?ed=2560&sni=test2.ccdd.site&fp=chrome#175.208.111.195:50000
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.201:443?type=tcp&security=none#91.99.179.201:443
@@ -20,5 +16,9 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.14.1:8880?type=ws&security=none&path=/G8ZDmBYwOAz3ahmR?ed=2560#104.16.14.1:8880
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#172.67.65.158:8880
 vless://e4824193-4f54-453b-d037-88368e85ef0e@public15v7.fastipsport.com:8880?type=grpc&security=none#public15v7.fastipsport.com:8880
-trojan://l8boqezn-5lwb-7w17-m23l-uekxjzovrjfe@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://4t86ltox-gdv9-cany-g3ss-omr9rzcydg0w@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://f129d8db-8a48-4c4a-9e32-1a07b608fa80@gr.dnszone.top:45500?type=tcp&security=none#gr.dnszone.top:45500
+vless://0fb5737c-129d-4dda-b309-637f5c3b6cc5@gr.dnszone.top:45500?type=tcp&security=none#gr.dnszone.top:45500
+vless://e4824193-4f54-453b-d037-88368e85ef0e@public18v7.fastipsport.com:8880?type=grpc&security=none#public18v7.fastipsport.com:8880
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
+trojan://d40fxqf2-kr3t-nmp6-s402-yfw15srq86m5@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://u2oaphzu-6oir-2v3b-apt7-a8y5jugmxhg8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
