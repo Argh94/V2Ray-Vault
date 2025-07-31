@@ -95,6 +95,7 @@
   </tr>
 </table>
 <p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/326705781.gif"> </p>
+
 ### 🌐 Mixed Protocol Configurations
 <table style="width: 100%; max-width: 800px; margin: auto; font-size: 14px;">
   <tr>
@@ -141,6 +142,7 @@
   </tr>
 </table>
 <p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/326705781.gif"> </p>
+
 ### 🌐 Additional Mixed Configurations
 
 #### Mixed_1
@@ -263,6 +265,7 @@
 ```
 <p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/32794872d.gif"> </p>
 <p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/326705781.gif"> </p>
+
 ## 🌐 Network Technologies
 <table>
   <tr>
@@ -297,6 +300,7 @@
   </tr>
 </table>
 <p align="center"> <img width="100%" src="https://github.com/tahmaseb73/LICENSE/blob/main/326705781.gif"> </p>
+
 ## 🔒 Security Levels
 <table>
   <tr>
