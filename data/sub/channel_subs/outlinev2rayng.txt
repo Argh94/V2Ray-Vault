@@ -1,8 +1,6 @@
-trojan://5y220eq3-0juf-d865-427b-dijzwycepz4o@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 00:01
-trojan://ha7j5lg8-k0cc-miuj-fw17-yqbh77qvkteo@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://hyi299i8-hln0-walk-76q5-p90po0kci8za@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.xhamster.biz.id:443?type=ws&security=tls&path=/Free-CF-Proxy-AU12&sni=freexxx.xhamster.biz.id#freexxx.xhamster.biz.id:443
-vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freevpn.xhamster.biz.id:443?type=ws&security=tls&path=/Free-CF-Proxy-AU11&sni=freevpn.xhamster.biz.id#freevpn.xhamster.biz.id:443
+trojan://bmum3wue-4bx1-pkul-hl7r-3a7mq5s68vxj@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 04:53
+trojan://m4ijtg4e-d6ja-sldh-4cck-5ia8txp7a1ng@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://6oy9yq5w-z164-wjfc-nwd4-zkk1uivnd3bg@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@45.131.208.14:443?type=ws&security=tls&path=/@rayan_config&sni=rAyAn-12.LeIlA.DpDnS.OrG#45.131.208.14:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?type=grpc&security=none#185.231.205.246:8880
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?type=ws&security=none&path=/#handsome-device.oneeat.co:80
@@ -17,5 +15,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?type=grpc&secu
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?type=ws&security=none&path=/#handsome-device.oneeat.co:80
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?type=grpc&security=none#185.231.205.239:8880
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
-trojan://m40r84zh-2s9m-guh1-pfy1-4w9dp8eau8jr@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://tthyd1t9-ggap-a4ir-jgas-k3g7hiyo6efp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
+trojan://p0htqeos-gfga-lqys-qmr8-7ywc0q7yu5kd@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://bc2aovc0-4dxs-o9l2-ii8n-ku9j817pgkhj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

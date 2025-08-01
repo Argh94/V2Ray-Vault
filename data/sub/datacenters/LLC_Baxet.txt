@@ -1,15 +1,14 @@
-trojan://vc7cidbt-qvc0-slxc-532u-ekxfgj78z148@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 00:01
-trojan://snt67h80-a10p-7r2l-yzmu-cycm5kc5sxaf@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://xo30etsl-qk8t-in1y-1xcm-d72ihaez3hqo@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTExDIEJheGV0IFx1MjUwNyAxODUuMTQzLjIyMC45OSIsImFkZCI6IjE4NS4xNDMuMjIwLjk5IiwicG9ydCI6NDgyNTcsImlkIjoiYTVmNzkwNjItYTBhYS00NDVhLWYwODctNmI3MTIxZWUxMTBlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4In0
-hysteria2://f2812c88-f678-4c64-98c9-ac42d8dab6ca@185.22.152.35:29015?sni=anten.ir&insecure=1#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - LLC Baxet ┇ 185.22.152.35
-hysteria2://f2812c88-f678-4c64-98c9-ac42d8dab6ca@45.147.200.61:29015?sni=anten.ir&insecure=1#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - LLC Baxet ┇ 45.147.200.61
-hysteria2://0004f8b0-df8e-4f3d-866a-e3547122933d@nexiaels.688997.xyz:20757?sni=nexiaels.688997.xyz&insecure=1&obfs=salamander#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - LLC Baxet ┇ 45.130.146.158
+trojan://ufv9v4be-bcqo-tpds-4mks-vbv9lowduxzu@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 04:53
+trojan://h0a5b0hh-vwst-m1qj-lqrt-5unz1r02cway@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://mcyjnhol-9uou-h46w-hihf-28hr1br7mf7y@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTI1Ni1nY206NDBiZGM1MmRjZmZhNjk0Mg@176.32.35.51:10601#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 176.32.35.51
-hysteria2://dongtaiwang.com@46.17.41.189:50717?sni=www.bing.com&insecure=1#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - LLC Baxet ┇ 46.17.41.189
-vless://85d3ef5e-a053-c9d6-5c32-e535d38ad6c3@putin.studentcp.ir:27838?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=-tqmyPlpXGoS7QrzEXse5xa1TExM8PhIo0usl9xwAAk&sid=b6f5ed22168994d3#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC Baxet ┇ 176.32.32.203
+hysteria2://0004f8b0-df8e-4f3d-866a-e3547122933d@nexiaels.688997.xyz:20757?sni=nexiaels.688997.xyz&insecure=1&obfs=salamander#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - LLC Baxet ┇ 45.130.146.158
+vmess://eyJ2IjoiMiIsInBzIjoiUlUgXHVkODNjXHVkZGY3XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTExDIEJheGV0IFx1MjUwNyAxODUuMTQzLjIyMC45OSIsImFkZCI6IjE4NS4xNDMuMjIwLjk5IiwicG9ydCI6NDgyNTcsImlkIjoiYTVmNzkwNjItYTBhYS00NDVhLWYwODctNmI3MTIxZWUxMTBlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9lZD0yMDQ4In0
+ss://YWVzLTI1Ni1nY206NDE5NGNlNWIxZjM2ZjY2MA@176.32.35.68:30101#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 176.32.35.68
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZW9iWHlWbGxEN0FTZENHUmhYNlYy@176.32.39.154:64726#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 176.32.39.154
 hysteria2://dongtaiwang.com@45.129.2.108:50850?sni=www.bing.com&insecure=1#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - LLC Baxet ┇ 45.129.2.108
-ss://YWVzLTI1Ni1nY206NDE5NGNlNWIxZjM2ZjY2MA@176.32.35.68:30101#RU 🇷🇺 ┇ SHADOWSOCKS-TCP-NTLS - LLC Baxet ┇ 176.32.35.68
-trojan://t0plmwnf-z5uj-bdmv-d192-dk4zp2940tvs@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://35weapvb-yl4e-4cxs-evhy-pzelgb9lvd0a@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://f2812c88-f678-4c64-98c9-ac42d8dab6ca@45.147.200.61:29015?sni=anten.ir&insecure=1#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - LLC Baxet ┇ 45.147.200.61
+hysteria2://f2812c88-f678-4c64-98c9-ac42d8dab6ca@185.22.152.35:29015?sni=anten.ir&insecure=1#RU 🇷🇺 ┇ HYSTERIA2-TCP-NTLS - LLC Baxet ┇ 185.22.152.35
+vless://85d3ef5e-a053-c9d6-5c32-e535d38ad6c3@putin.studentcp.ir:27838?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=-tqmyPlpXGoS7QrzEXse5xa1TExM8PhIo0usl9xwAAk&sid=b6f5ed22168994d3#RU 🇷🇺 ┇ VLESS-TCP-RLT - LLC Baxet ┇ 176.32.32.203
+trojan://tund2kw1-rkor-ke5h-lyjb-ak37un3z0lg9@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://s15zfj7k-cl95-m6u8-gk3o-mdyh1khlchcy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
