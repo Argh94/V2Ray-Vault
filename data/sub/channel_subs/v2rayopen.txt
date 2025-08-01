@@ -1,8 +1,6 @@
-trojan://5znob7v4-0758-bdw4-gfnb-jfx6raiw96ae@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 16:07
-trojan://7k3ukl5c-n0zd-15jo-amk2-d0uyfogwlefh@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://8xt7l4ir-6h6x-nzlo-f6hj-oymhsvpx9rp3@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#193.29.139.240:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#45.87.175.22:8080
+trojan://yvfrlzsc-6ea3-m8md-vi9r-3wdenj647xx9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 19:56
+trojan://xaihf4bo-9kpl-hirq-vcac-yvgdj0zxsawp@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://674qmy76-1squ-6hge-kc9q-roncr46xu9pi@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#45.87.175.188:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:8080#45.87.175.166:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#45.158.171.60:8080
@@ -11,6 +9,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfdXM@us-1.st
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.154:8080#45.87.175.154:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#193.29.139.235:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXbURoVlNpRGlqN1IyWFJPcjNDbTU1@83.147.216.70:64519#83.147.216.70:64519
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.218:990#64.74.163.218:990
 trojan://telegram-id-directvpn@51.44.225.112:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#51.44.225.112:22223
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjMxXHUwNjI4XHUwNjI3XHUwNjJhIFx1MDYyZVx1MDYzMVx1MDZjY1x1MDYyZiBcdTA2NDggXHUwNjJhXHUwNjMzXHUwNjJhXHVkODNkXHVkYzQ4XHVkODNkXHVkZDE3IEBBbHBoYW5ldF9zaG9wX2JvdCIsImFkZCI6IjE3Mi42Ny4xMzEuMjciLCJwb3J0IjoyMDUzLCJpZCI6IjM1MGUyYjAxLWQ0MTAtNDRhNi05MGJhLTY0ODNmMTA2Mjk3MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjMxXHUwNjI4XHUwNjI3XHUwNjJhIFx1MDYyZVx1MDYzMVx1MDZjY1x1MDYyZiBcdTA2NDggXHUwNjJhXHUwNjMzXHUwNjJhXHVkODNkXHVkYzQ4XHVkODNkXHVkZDE3IEBBbHBoYW5ldF9zaG9wX2JvdCIsImFkZCI6IjE3Mi42Ny4xMzEuMjciLCJwb3J0IjoyMDUzLCJpZCI6IjM1MGUyYjAxLWQ0MTAtNDRhNi05MGJhLTY0ODNmMTA2Mjk3MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJyYWsyZDQuODkwNjAwMDQueHl6IiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJyYWsyZDQuODkwNjAwMDQueHl6In0
@@ -19,10 +18,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjI4XHUwNjMxXHUwNjI3XHUwNmNjIFx1MDYyZVx1MDYzMVx1
 vmess://eyJ2IjoiMiIsInBzIjoiMzAwXHUwNmFmXHUwNmNjXHUwNmFmIDM5XHUwNjJhXHUwNjQ4XHUwNjQ1XHUwNjI3XHUwNjQ2ISBcdTA2MmFcdTA2MzNcdTA2MmFcdTIwMGNcdTA2MzFcdTA2MjdcdTA2Y2NcdTA2YWZcdTA2MjdcdTA2NDZcdWQ4M2VcdWRkMjlUaWNrVjJib3RAIiwiYWRkIjoic3VidGVsLnN0cmFuZ2xlZC5uZXQiLCJwb3J0IjozMjk3MCwiaWQiOiI2MWZhOTkwMC04MDI5LTQ1ZjYtZGM3OC04M2JjNTM3NGI1ZWUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjJlXHUwNjMxXHUwNmNjXHUwNjJmIFx1MDYzM1x1MDYzMVx1MDY0OCBcdTA2NDZcdTA2MjdcdTA2NDVcdTA2MmRcdTA2MmZcdTA2NDhcdTA2MmYgXHUwNjI4XHUwNjI3IFx1MDYyOFx1MDY0N1x1MDYyYVx1MDYzMVx1MDZjY1x1MDY0NiBcdTA2MzNcdTA2MzFcdTA2MzlcdTA2MmEgQFYycmF5Q2FmZV9TdXBwb3J0IFx1ZDgzZVx1ZGViZCIsImFkZCI6IjkxLjk5LjE1My4zOSIsInBvcnQiOjM5MTMwLCJpZCI6Ijk4NWFmNDg5LWZiMTYtNDkxYS04MTNjLWZkZDkxYjZiMDZlZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjJlXHUwNjMxXHUwNmNjXHUwNjJmIFx1MDYzM1x1MDYzMVx1MDY0OCBcdTA2NDZcdTA2MjdcdTA2NDVcdTA2MmRcdTA2MmZcdTA2NDhcdTA2MmYgXHUwNjI4XHUwNjI3IFx1MDYyOFx1MDY0N1x1MDYyYVx1MDYzMVx1MDZjY1x1MDY0NiBcdTA2MzNcdTA2MzFcdTA2MzlcdTA2MmEgQFYycmF5Q2FmZV9TdXBwb3J0IFx1ZDgzZVx1ZGViZCIsImFkZCI6IjQ1LjY3LjIzMC43OSIsInBvcnQiOjExMDUyLCJpZCI6IjMxNDE4NWY3LTkzMWQtNDY1Ni05MjJkLTA4NTdlN2FmZDIyNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.176.24:8443?type=xhttp&security=none&path=/xhttp#91.99.176.24:8443
-vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.85.185:8443?type=xhttp&security=none&path=/xhttp?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#91.99.85.185:8443
-vless://c43d7798-af65-477d-9bd4-317d60bec393@45.94.215.252:1001?type=tcp&security=none#45.94.215.252:1001
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.181.47:8443?type=xhttp&security=none&path=/xhttp#91.99.181.47:8443
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.153.233:8443?type=xhttp&security=none&path=/xhttp#91.99.153.233:8443
 vless://8aa48fb3-9429-4029-8dd4-4ba7fe15ad01@162.159.9.106:8880?type=httpupgrade&security=none&path=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config?ed=8880#162.159.9.106:8880
 vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:9387?type=ws&security=none#165.22.76.53:9387
@@ -69,6 +64,10 @@ vless://Parsashonam-Bot-9@185.146.173.39:8080?type=httpupgrade&security=none&pat
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?type=ws&security=none&path=/193.123.81.105=443#45.131.4.85:80
 vless://a972ae73-e222-4f1d-9361-3c3c3380358a@mtun.mtechnet.ir:18080?type=tcp&security=none#mtun.mtechnet.ir:18080
 vless://5494b7a0-e3be-4ebf-a559-51c488fa1100@ir3.mxspeed8-3.ir:1885?type=tcp&security=none#ir3.mxspeed8-3.ir:1885
+vless://8dbb26f8-8832-46bc-bc0c-a2f17d8d200f@15.204.236.64:24820?type=tcp&security=none#15.204.236.64:24820
+vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@cb6.connectbaash.info:4406?type=tcp&security=none#cb6.connectbaash.info:4406
+vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=vPi.SpEeDtEsT2029.CoM&fp=firefox#172.66.40.99:443
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@213.232.120.2:443?type=tcp&security=reality&sni=speed.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=6h7z2IG6_BopO2tGTRAytfMOWbcXxRWghb2c9IILJkA#213.232.120.2:443
-trojan://voq5y7ol-a7nh-vagt-3ypu-07vyeo560akq@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://d769r1is-z51r-q93o-pci1-6mv1prb23iho@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://16f7d18c-03b2-4cfa-8e2e-52d6f12c822c@138.68.80.111:443?type=grpc&security=reality&sni=tgju.org&fp=chrome&pbk=GikS1jaIrS5BR7D3EObm-o-AMdUaMtmPlkLdUzXH8mM&sid=19c8906f#138.68.80.111:443
+trojan://ptqhlgkf-xzki-r4l4-cleq-nf9cac61d68j@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://u4p8r3xq-45h0-efx7-d0wi-ftwes50uk1fz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

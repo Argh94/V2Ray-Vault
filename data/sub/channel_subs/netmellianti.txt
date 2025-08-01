@@ -1,8 +1,7 @@
-trojan://e1eszqy6-n77z-s55b-63cz-mtgncrj4b7aj@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 16:07
-trojan://59ejasod-q7rg-p78n-lkx1-9n3urtk8v7nj@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://w3ix2skt-29jy-1lzu-ture-n3732ghfzji0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://7oouysfw-kkw2-8ut5-kf45-6b3ezysvu5z3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 19:56
+trojan://x740r38o-paal-ovo0-bbyq-ivvu0c5yk36t@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://xxa1gsxh-zr1r-3ohi-ke53-quab0yfaseqe@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@4.250.235.119:443#4.250.235.119:443
-vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@dl.dornagamesco.ir:80?type=xhttp&security=none#dl.dornagamesco.ir:80
 vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@dl.dornagamesco.ir:80?type=xhttp&security=none#dl.dornagamesco.ir:80
 vless://802162ed-718f-95a4-a6a2-7c5d0bc07d1c@157.245.72.229:88?type=tcp&security=none#157.245.72.229:88
 vless://5494b7a0-e3be-4ebf-a559-51c488fa1100@ir3.mxspeed8-3.ir:1885?type=tcp&security=none#ir3.mxspeed8-3.ir:1885
@@ -11,12 +10,13 @@ vless://07e172cd-45a7-4aa1-b840-28a33f7a5acb@profit.bagsale.click:443?type=grpc&
 vless://5494b7a0-e3be-4ebf-a559-51c488fa1100@ir3.mxspeed8-3.ir:1885?type=tcp&security=none#ir3.mxspeed8-3.ir:1885
 vless://802162ed-718f-95a4-a6a2-7c5d0bc07d1c@157.245.72.229:88?type=tcp&security=none#157.245.72.229:88
 vless://a3aff9fa-0e17-4b39-c80d-19fa9c038214@45.131.4.67:2086?type=httpupgrade&security=none&path=/Aar,d-F?ed=2086#45.131.4.67:2086
-vless://f0b0b22d-1747-4315-8f19-23d7052a5e8c@91.99.212.10:10485?type=grpc&security=reality&sni=zula.ir&fp=chrome&pbk=cmLzdXwo-6_Cnc_q2L5xPAyoJjfVDDIAJOZYtx5eQCY&sid=0d0e8aa9fd14#91.99.212.10:10485
+vless://b976f215-3def-4271-8baa-511c4087cf17@sv1.provps.fun:443?type=tcp&security=none#sv1.provps.fun:443
 vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@ind01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#ind01-vlr01.tcp-reset-club.net:443
 vless://4ad963a1-48a4-40cf-9ec0-26a732e0d887@api.hostbaran.info:15810?type=tcp&security=reality&sni=www.pottermore.com&fp=chrome&flow=xtls-rprx-vision&pbk=Clc3P7127drFOxcwY7TTCIAdD4a7enFY96Jo0TxC-hY&sid=75#api.hostbaran.info:15810
 vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@ind01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#ind01-vlr01.tcp-reset-club.net:443
 vless://4ad963a1-48a4-40cf-9ec0-26a732e0d887@api.hostbaran.info:15810?type=tcp&security=reality&sni=www.pottermore.com&fp=chrome&flow=xtls-rprx-vision&pbk=Clc3P7127drFOxcwY7TTCIAdD4a7enFY96Jo0TxC-hY&sid=75#api.hostbaran.info:15810
 vless://2be7495d-847b-40ea-a517-b5779effb7ac@reality.sbarshia.ir:443?type=tcp&security=reality&sni=digikala.com&fp=chrome&pbk=RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0&sid=fdf18126a0768480#reality.sbarshia.ir:443
 vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@abzartun2.divartehran.online:23737?type=grpc&security=reality&sni=varzesh3.com&fp=chrome&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&sid=7c0b6c88fe5c#abzartun2.divartehran.online:23737
-trojan://1sb0ll7z-hp6z-aqea-rfhi-y5k9s63yyhu8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://wg20qmv5-n25k-ju90-otds-7x46z334853n@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://17518f18-0da9-489d-a1ae-61fcc746a79a@152.42.141.126:1615?type=tcp&security=reality&sni=www.refersion.com&fp=chrome&pbk=FeiQv7me3tts_1SFDIoeScklFESISNtjROyxkryUxW8&sid=41c7#152.42.141.126:1615
+trojan://t4nl5jd5-dm5l-pc24-bhgy-y205ixa20qzy@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://va3j1yvz-91qu-ofhy-2c2e-ddrf189l94xn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
