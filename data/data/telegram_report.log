@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-08-01 04:52:50
+Timestamp: 2025-08-01 08:26:36
 Total Channels: 502
 Successful Scrapes: 466
 Failed Scrapes: 0
@@ -25,7 +25,7 @@ outline_vpn: 116 configs
 v2rayng3: 114 configs
 satellitenewspersian: 111 configs
 armodchannel: 108 configs
-config_proxy: 108 configs
+config_proxy: 107 configs
 mtproxy22_v2ray: 107 configs
 v222ray: 102 configs
 mftizi: 100 configs
@@ -44,12 +44,12 @@ vpnod: 77 configs
 v2raytg: 77 configs
 ai_duet: 75 configs
 freevirgoolnet: 71 configs
-ZibaNabz: 70 configs
 v2ra_ng_iran: 69 configs
 v2rayopen: 68 configs
 jiedianssr: 67 configs
 netfreedom0: 67 configs
 arv2ra: 66 configs
+ZibaNabz: 65 configs
 torang_vpn: 63 configs
 v2ray_sub: 62 configs
 fastfreeconfig: 60 configs
@@ -128,11 +128,10 @@ nn_vpn: 24 configs
 vmesskhodam: 24 configs
 serverv2ray00: 23 configs
 v2ray_n: 23 configs
-v2ray_free_conf: 22 configs
 v2ray_sos: 22 configs
 meliconfing: 21 configs
-falcunargo: 21 configs
 fastvpnorummobile: 21 configs
+proxie: 21 configs
 ultrasurf_12: 21 configs
 v2graphy: 21 configs
 v2rayngn: 21 configs
@@ -149,7 +148,7 @@ lockey_vpn: 20 configs
 mpproxy: 20 configs
 outline_ir: 20 configs
 outlinereleasedkey: 20 configs
-proxie: 20 configs
+v2ray_free_conf: 20 configs
 vmesc: 20 configs
 vmess_ir: 20 configs
 vpnfail_v2ray: 20 configs
@@ -165,7 +164,6 @@ v2logy: 19 configs
 v2raych: 19 configs
 vpngate_config: 19 configs
 vpnplusee_free: 19 configs
-v2ray_configs_pool: 18 configs
 configv2rayforfree: 18 configs
 freedom_config: 18 configs
 freev2flyng: 18 configs
@@ -222,7 +220,9 @@ xnxv2ray: 15 configs
 ghalagyann: 14 configs
 summertimeus: 14 configs
 tehranargo: 14 configs
+v2ray_configs_pool: 14 configs
 dailytek: 14 configs
+falcunargo: 14 configs
 fastkanfig: 14 configs
 freevv2rayng: 14 configs
 ghotb_scarf: 14 configs
@@ -336,6 +336,7 @@ ghalagyann2: 7 configs
 hackmodvpnservers: 7 configs
 iranbfilter: 7 configs
 mrvpn1403: 7 configs
+outlineopenkey: 7 configs
 tc_v2ray: 7 configs
 teamvpnpro: 7 configs
 v2rayang201: 7 configs
@@ -354,7 +355,6 @@ free_omega: 6 configs
 freenapsternetv: 6 configs
 kopltall_vpn: 6 configs
 mainmat: 6 configs
-outlineopenkey: 6 configs
 prooxyk: 6 configs
 rnrifci: 6 configs
 vaslbemmonid: 6 configs
