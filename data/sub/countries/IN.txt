@@ -1,13 +1,13 @@
-trojan://xdz6vc85-19rw-qbte-m5w3-t5z1dt5zfzlu@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 11:58
-trojan://a21ktuwv-spvu-7947-izwx-gicuq8bm2mrq@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://8xlyghnz-meej-4c1m-ef4j-vea7crlxjy62@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTkVUUkFORVggVEVDSE5PTE9HSUVTIElORElBIFBSSVZBVEUgTElNSVRFRCBcdTI1MDcgNDUuODkuMTA2LjExMiIsImFkZCI6IjQ1Ljg5LjEwNi4xMTIiLCJwb3J0Ijo0NDMsImlkIjoiNjhiMmYzODYtZTA2MS00MGNiLThjYTctNTBlMDZjMTBiNjU5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 103.111.114.29
-hysteria2://e2f5ef3d-acf7-40ab-95d4-9ecf1c7f84c3@network-in-02.ppldata.xyz:30000?sni=network-lite.oss-cn-hongkong.aliyuncs.com&insecure=0#IN 🇮🇳 ┇ HYSTERIA2-TCP-NTLS - AMAZON-02 ┇ 3.6.89.88
+trojan://jyrb40a4-togy-8nvf-le5v-zej3kkziawb0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 16:07
+trojan://35kb1b26-0bqx-tb4m-czr7-1ukb4eids203@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://awy9nsp8-m2z8-2fg0-06js-876k4nr6gm1y@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://cd307b67-8180-491c-ad97-5dfd74cb38de@in1.configlinepanel.com:8443?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk#IN 🇮🇳 ┇ VLESS-TCP-RLT - DIGITALOCEAN-ASN ┇ 159.89.160.226
-hysteria2://e2f5ef3d-acf7-40ab-95d4-9ecf1c7f84c3@network-in-01.ppldata.xyz:30000?sni=network-lite.oss-cn-hongkong.aliyuncs.com&insecure=0#IN 🇮🇳 ┇ HYSTERIA2-TCP-NTLS - AMAZON-02 ┇ 13.232.109.39
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ind01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=d3b13f31#IN 🇮🇳 ┇ VLESS-TCP-RLT - NETRANEX TECHNOLOGIES INDIA PRIVATE LIMITED ┇ 45.88.183.155
+hysteria2://e2f5ef3d-acf7-40ab-95d4-9ecf1c7f84c3@network-in-01.ppldata.xyz:30000?sni=network-lite.oss-cn-hongkong.aliyuncs.com&insecure=0#IN 🇮🇳 ┇ HYSTERIA2-TCP-NTLS - AMAZON-02 ┇ 13.232.109.39
+vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTkVUUkFORVggVEVDSE5PTE9HSUVTIElORElBIFBSSVZBVEUgTElNSVRFRCBcdTI1MDcgNDUuODkuMTA2LjExMiIsImFkZCI6IjQ1Ljg5LjEwNi4xMTIiLCJwb3J0Ijo0NDMsImlkIjoiNjhiMmYzODYtZTA2MS00MGNiLThjYTctNTBlMDZjMTBiNjU5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSJ9
+hysteria2://e2f5ef3d-acf7-40ab-95d4-9ecf1c7f84c3@network-in-02.ppldata.xyz:30000?sni=network-lite.oss-cn-hongkong.aliyuncs.com&insecure=0#IN 🇮🇳 ┇ HYSTERIA2-TCP-NTLS - AMAZON-02 ┇ 3.6.89.88
 vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENvbnRhYm8gQXNpYSBQcml2YXRlIExpbWl0ZWQgXHUyNTA3IDk0LjEzNi4xODUuMjMwIiwiYWRkIjoiOTQuMTM2LjE4NS4yMzAiLCJwb3J0IjoxMDUzNCwiaWQiOiJiMDFjN2VmOS0zM2VjLTQxZjYtYmZiZi03N2RkYzRkMjE2NDkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 trojan://ttfang@166.0.244.206:2053?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#IN 🇮🇳 ┇ TROJAN-TCP-TLS - MS HARVIL MEDIA ┇ 166.0.244.206
-trojan://v4s9cmsy-wtcn-wg3l-d7s9-4gvz91td0wqi@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://l6ixb4ul-3jcf-lqhu-a7qb-lyxlxhiexz0e@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 103.111.114.29
+trojan://rgrwuluu-wxs5-81ha-02va-n8eaqtusaf8k@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://93fu7fgv-52fn-0sea-4zmz-qmz0kiuuzj8b@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
