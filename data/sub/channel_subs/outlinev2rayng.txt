@@ -1,8 +1,7 @@
-trojan://wzx3lfuj-mwx7-bele-bjqm-93s6rsv3kt1v@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 19:56
-trojan://asq55zla-1vs2-4ylc-pdog-hsigi9q1hae7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://hf4lietw-td5l-pjpo-9q0s-c889bm9wh2ee@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://swfi36vj-5cda-bsh4-rko7-8kd2ef87iagj@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 23:53
+trojan://imxxhp6d-4x6z-vd0e-avpp-y94nm9stmimp@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://n0nftpt0-xrtm-e80g-wxo1-rbwrcxsd0k3j@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#series-a2-me.varzesh360.co:443
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.18.26.90:8443?type=ws&security=tls&path=/client/connection/socket?ed=8080&sni=mycloudproject2025.site&fp=chrome#104.18.26.90:8443
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.207.54:8880?type=ws&security=none&path=/34COh9NCiin5SJMk?ed=2560#172.67.207.54:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?type=grpc&security=none#185.231.205.239:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?type=grpc&security=none#95.164.45.94:8880
@@ -20,5 +19,6 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security
 vless://decb4fce-bd8a-4d8b-a81f-2e393ee9ee02@162.19.250.162:24209?type=tcp&security=none#162.19.250.162:24209
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@al-akhbar.com:443?type=ws&security=tls&path=/@Rayan_Config&sni=rAyAn-P11.PaRaStOo.dPdNs.oRg&fp=chrome#al-akhbar.com:443
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?type=xhttp&security=none&path=/xhttp#91.99.183.30:8443
-trojan://2ng9ce4b-aixk-rbbe-xvwn-bfrf8h9mgctd@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://r5j55ouc-uo14-0ik4-wtpp-c2775au22wfo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.24.171.107:443?type=ws&security=tls&path=/eJ5JZ3A1HxfU0bPO?ed=2560/?ALPHANET_BIA_CHANEL@ALPHANET&sni=vNgSUppLy.IP-dDnS.COm&fp=randomized#104.24.171.107:443
+trojan://act7yrj0-47u3-s5e0-4m44-5ynghxpuji6u@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://psn0agql-vsdb-jc2k-9xxg-nnydagz2af7m@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,13 +1,12 @@
-trojan://g9fint64-v3wf-ipm0-l0am-b0qnbcfs4ob5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 19:56
-trojan://4jq8cqtp-4nrg-hlbr-2fim-dtzbh798dpcj@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://zi6y9lak-ammt-r8qk-5jnn-z6n28sbj59v3@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiQVUgXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBBa2FtYWkgQ29ubmVjdGVkIENsb3VkIFx1MjUwNyAxNzIuMTA1LjE3Mi4yMDkiLCJhZGQiOiIxNzIuMTA1LjE3Mi4yMDkiLCJwb3J0Ijo0NDMsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoxLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyJ9
+trojan://8gf8d7rs-bclw-czje-6kd5-e88epn3erydd@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/01 | 23:53
+trojan://ugcy5b1b-s68m-otxm-bb54-ldy5sbem6q67@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://1mxvgdrn-jwg6-oldg-1m4t-coow30l0901i@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://cee94d0d-dbb6-4e02-b688-bb663ef01f38@nlo.nipytee.info:990?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=-d7gZw19wFxZcnqRsf0L8gin2NcQC8Quub0Y-NUnaR4&sid=e1ac6d894342c318#NL 🇳🇱 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 172.233.51.248
-vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFrYW1haSBDb25uZWN0ZWQgQ2xvdWQgXHUyNTA3IDE3Mi4yMzIuMTQ4LjU2IiwiYWRkIjoiMTcyLjIzMi4xNDguNTYiLCJwb3J0Ijo4NDQyLCJpZCI6ImVjZTc3YzUyLTMzMGUtNDgwNS1iOGY1LTcwNDU2M2YxM2FjOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFrYW1haSBDb25uZWN0ZWQgQ2xvdWQgXHUyNTA3IDE5Mi41My4xMTMuMTU2IiwiYWRkIjoiMTkyLjUzLjExMy4xNTYiLCJwb3J0IjoxMDAwMiwiaWQiOiIwMzZhMjhjMy01YzhkLTRkZjMtYTc5Yi05ZGE2MjI2NDBmMmIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?type=tcp&security=reality&sni=ftp.debian.org&fp=chrome&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&sid=b5ecd44d#FR 🇫🇷 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 172.232.33.18
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - Akamai Connected Cloud ┇ 172.233.128.126
-vless://b5e5c843-eb6b-438d-93c5-4faa71780ac4@139.162.146.9:443?type=splithttp&security=reality&path=/&sni=eu.account.battle.net&fp=chrome&pbk=JrQipo4fliL8f9hLW49Wpr96XjYFaZPsom7hzlvaMio&sid=02#DE 🇩🇪 ┇ VLESS-SPLITHTTP-RLT - Akamai Connected Cloud ┇ 139.162.146.9
+vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?type=tcp&security=reality&sni=ftp.debian.org&fp=chrome&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&sid=b5ecd44d#FR 🇫🇷 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 172.232.33.18
+vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFrYW1haSBDb25uZWN0ZWQgQ2xvdWQgXHUyNTA3IDE3Mi4yMzIuMTQ4LjU2IiwiYWRkIjoiMTcyLjIzMi4xNDguNTYiLCJwb3J0Ijo4NDQyLCJpZCI6ImVjZTc3YzUyLTMzMGUtNDgwNS1iOGY1LTcwNDU2M2YxM2FjOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
 vless://07402610-3f00-4384-b54b-eb8cd5037b4c@172.104.148.48:443?type=tcp&security=reality&sni=digg.com&fp=firefox&pbk=MFhTxw6M0UU7nAoxP-jAw8szA2vhXy6KYmBCrDwbpRw&sid=99d38a68#DE 🇩🇪 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 172.104.148.48
-trojan://m38ka5td-3jzv-c2ho-y9lv-ru4u1yn6qrvg@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://w1uegp31-t13q-r8ee-4xd6-b4f9j1d4sq96@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://b5e5c843-eb6b-438d-93c5-4faa71780ac4@139.162.146.9:443?type=splithttp&security=reality&path=/&sni=eu.account.battle.net&fp=chrome&pbk=JrQipo4fliL8f9hLW49Wpr96XjYFaZPsom7hzlvaMio&sid=02#DE 🇩🇪 ┇ VLESS-SPLITHTTP-RLT - Akamai Connected Cloud ┇ 139.162.146.9
+trojan://xfhdbuov-3djw-lmap-5zkm-lg503gzq3tvw@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://4i09t3f4-t5uk-wfy8-9fhm-dn6fp8qf2y1c@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
