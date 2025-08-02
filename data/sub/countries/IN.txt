@@ -1,13 +1,12 @@
-trojan://mve6xpcj-dbrp-q0ib-dtwp-3r8ozd3i2mhh@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/02 | 11:55
-trojan://1w8ec8ny-9ene-srrn-e8wf-0ubif37i93z5@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://m1nh2bj3-liw0-lxfh-77nq-2pnmzb3ogla7@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 103.111.114.29
+trojan://usbtuzmy-8o2z-r4hz-zr6q-j6xga62vw8v2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/02 | 16:03
+trojan://lj8bfh9k-xb5a-9gn3-1vcu-jv72yv6r8s33@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://wp4w5c5y-m9bw-07fy-fc1m-x4rsxpuwh3kc@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://ttfang@166.0.244.206:2053?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#IN 🇮🇳 ┇ TROJAN-TCP-TLS - MS HARVIL MEDIA ┇ 166.0.244.206
-ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - Contabo Asia Private Limited ┇ 82.180.146.173
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.201.33.249:443#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 13.201.33.249
-vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ind01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=d3b13f31#IN 🇮🇳 ┇ VLESS-TCP-RLT - NETRANEX TECHNOLOGIES INDIA PRIVATE LIMITED ┇ 45.88.183.155
-vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENvbnRhYm8gQXNpYSBQcml2YXRlIExpbWl0ZWQgXHUyNTA3IDk0LjEzNi4xODUuMjMwIiwiYWRkIjoiOTQuMTM2LjE4NS4yMzAiLCJwb3J0IjoxMDUzNCwiaWQiOiJiMDFjN2VmOS0zM2VjLTQxZjYtYmZiZi03N2RkYzRkMjE2NDkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#IN 🇮🇳 ┇ SHADOWSOCKS-TCP-NTLS - Melbikomas UAB ┇ 103.111.114.29
 vless://cd307b67-8180-491c-ad97-5dfd74cb38de@in1.configlinepanel.com:8443?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk#IN 🇮🇳 ┇ VLESS-TCP-RLT - DIGITALOCEAN-ASN ┇ 159.89.160.226
+vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENvbnRhYm8gQXNpYSBQcml2YXRlIExpbWl0ZWQgXHUyNTA3IDk0LjEzNi4xODUuMjMwIiwiYWRkIjoiOTQuMTM2LjE4NS4yMzAiLCJwb3J0IjoxMDUzNCwiaWQiOiJiMDFjN2VmOS0zM2VjLTQxZjYtYmZiZi03N2RkYzRkMjE2NDkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSU4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gTkVUUkFORVggVEVDSE5PTE9HSUVTIElORElBIFBSSVZBVEUgTElNSVRFRCBcdTI1MDcgNDUuODkuMTA2LjExMiIsImFkZCI6IjQ1Ljg5LjEwNi4xMTIiLCJwb3J0Ijo0NDMsImlkIjoiNjhiMmYzODYtZTA2MS00MGNiLThjYTctNTBlMDZjMTBiNjU5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSJ9
-trojan://5vdttv6z-ogwo-6r6y-a0z6-40e94xlih52q@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://jw0sresd-vrqn-plyd-zsx8-mxbsfb5srozz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ind01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=d3b13f31#IN 🇮🇳 ┇ VLESS-TCP-RLT - NETRANEX TECHNOLOGIES INDIA PRIVATE LIMITED ┇ 45.88.183.155
+trojan://3q4z9h1d-o3fz-ujzl-71a1-rp2wasrvbt9o@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://a6fc9gk5-dmpb-97nh-watg-ss5hicrbko1z@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
