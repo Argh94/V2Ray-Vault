@@ -1,7 +1,6 @@
-trojan://z795ocn3-4gnt-g4s0-rn0l-2914sxmts9ep@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/02 | 08:08
-trojan://iah912d1-fesd-a5wq-fffr-b5z7kazc64eu@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://rjfk1fg7-igcz-420k-1jpp-p6n8elv2d71y@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://cec135d5-fcce-4c9e-c5f4-d94744055291@chat.deepseek.com:80?type=ws&security=none&path=/olem/ws?ed=1024#chat.deepseek.com:80
+trojan://v2i29xc4-vdpo-7e90-9vbx-01xy0a6a2afo@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/02 | 11:55
+trojan://xb0osbjk-bnea-iyib-6xiw-8r01snj3ovth@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://v6e628sf-ogps-551g-itmg-fsn37k7wjs0t@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://9bf8204e-76bb-4721-9e4a-218ed6d9ee4a@chat.deepseek.com:80?type=ws&security=none&path=/olem/ws?ed=1024#chat.deepseek.com:80
 vless://9bf8204e-76bb-4721-9e4a-218ed6d9ee4a@www.speedtest.net:80?type=ws&security=none&path=/olem/ws?ed=1024#www.speedtest.net:80
 vless://9bf8204e-76bb-4721-9e4a-218ed6d9ee4a@tgju.org:80?type=ws&security=none&path=/olem/ws?ed=1024#tgju.org:80
@@ -16,8 +15,15 @@ vless://9eca9c74-951c-4947-c108-72c0ae70a74a@tgju.org:80?type=ws&security=none&p
 vless://0e85f203-160e-4039-fb31-d62728b7acaa@cafearz.com:8080?type=ws&security=none&path=/olem/ws?ed=1024#cafearz.com:8080
 vless://0e85f203-160e-4039-fb31-d62728b7acaa@chat.openai.com:8080?type=ws&security=none&path=/olem/ws?ed=1024#chat.openai.com:8080
 vless://9eca9c74-951c-4947-c108-72c0ae70a74a@chat.deepseek.com:80?type=ws&security=none&path=/olem/ws?ed=1024#chat.deepseek.com:80
+vless://e8346e35-2be3-4743-d80b-95e460e7e86b@chat.deepseek.com:80?type=ws&security=none&path=/olem/ws?ed=1024#chat.deepseek.com:80
+vless://e8346e35-2be3-4743-d80b-95e460e7e86b@www.speedtest.net:80?type=ws&security=none&path=/olem/ws?ed=1024#www.speedtest.net:80
+vless://e8346e35-2be3-4743-d80b-95e460e7e86b@tgju.org:80?type=ws&security=none&path=/olem/ws?ed=1024#tgju.org:80
+vless://4d95d26c-7f45-4011-c168-4d85fc3f22f8@cafearz.com:8080?type=ws&security=none&path=/olem/ws?ed=1024#cafearz.com:8080
+vless://4d95d26c-7f45-4011-c168-4d85fc3f22f8@chat.openai.com:8080?type=ws&security=none&path=/olem/ws?ed=1024#chat.openai.com:8080
+vless://e8346e35-2be3-4743-d80b-95e460e7e86b@chat.deepseek.com:80?type=ws&security=none&path=/olem/ws?ed=1024#chat.deepseek.com:80
 vless://b131228a-b895-4237-ac4b-0edad7759468@65.109.221.186:2083?type=grpc&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7#65.109.221.186:2083
 vless://949e6151-6899-4605-f2d1-51570f60d51d@65.109.221.186:2083?type=grpc&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7#65.109.221.186:2083
 vless://949e6151-6899-4605-f2d1-51570f60d51d@65.109.208.107:2083?type=grpc&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7#65.109.208.107:2083
-trojan://tq9t103g-2qy0-eez1-iapf-ivgubsppi0gf@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://1ig2w7ot-wvx8-8htw-ggov-p67wh0sxqwc8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://54b5d081-8e34-4660-ec4f-6d7fddb7feb7@65.109.208.107:2083?type=grpc&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7#65.109.208.107:2083
+trojan://w7h00yj8-3ji0-sead-ksvi-p92e2nxndbe4@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ekp1clmd-g7eb-o3wx-lhq9-g5aqu6wjr7v5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
