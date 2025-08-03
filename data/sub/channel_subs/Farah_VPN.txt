@@ -1,7 +1,6 @@
-trojan://v2rflcdy-u64z-01rs-rp49-upy02f5mgaxj@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/03 | 11:55
-trojan://94e80zbo-ddyk-i19d-3uz6-vc40sbtybp6i@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://kd4hof39-09yr-2w7w-ug2f-0l472gax9ob6@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1bWdaSnpQdjdockxYNEtNZFBJZUFX@150.241.102.95:21771#150.241.102.95:21771
+trojan://z0y34hay-k3am-ysn4-zvgn-mj6rtwgiclur@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/03 | 16:03
+trojan://5b34dq2z-qb9h-76tk-8gez-661rtnk46p4j@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://wkw503n3-hxt6-oufm-u0id-zglgghcdepjg@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@38.121.43.6:8008#38.121.43.6:8008
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@149.202.82.172:5000#149.202.82.172:5000
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.114.114.69:5500#38.114.114.69:5500
@@ -11,15 +10,16 @@ trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?sni=rc6.freegua
 trojan://auto@104.17.148.22:2087?sni=abbas.ab841vpn.workers.dev&peer=abbas.ab841vpn.workers.dev&security=tls#104.17.148.22:2087
 trojan://bpb-trojan@162.159.152.59:443?sni=cf.090227.xyz&peer=cf.090227.xyz&security=tls#162.159.152.59:443
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZmUzXHVkODNkXHVkZDI1K0NoYW5uZWwrU2VydmVyK0ZyZWUrQEZhcmFoX1ZQTiIsImFkZCI6IjEwNC4yNi4xNS4xNiIsInBvcnQiOjIwODcsImlkIjoiYWQwYThjNDktMDc4NS00NmQ5LWJiMTQtMmMzYWIwM2E1ZGJiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6Ik9mRkVyLm1pUkFjTGVzdG9yWS5Ub1AuIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJPZkZFci5taVJBY0xlc3RvclkuVG9QLiJ9
-vless://6d38dcef-1681-4e3e-ba7c-f9bf366d90db@all97-vip.f-sub.com.privatepack.ir:1517?type=tcp&security=none&path=/#all97-vip.f-sub.com.privatepack.ir:1517
-vless://5bb406d5-413d-4e4c-990f-fe6358820303@2.59.117.134:8443?type=ws&security=tls&path=/45f4d22d.Mareza.pages.dev?ed=80&sni=115794818s.servers801.ir#2.59.117.134:8443
-vless://b087edf1-4da7-4379-9485-352f483be71f@172.66.40.99:443?type=ws&security=tls&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net#172.66.40.99:443
 vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@cb6.connectbaash.info:4406?type=tcp&security=none#cb6.connectbaash.info:4406
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path==zani.yaemiko.ggff.net/telegram--MTMVPN--telegram--MTMVPN--telegram--MTMVPN?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
 vless://0cda2421-8ea5-46e6-98ce-f2bdc057f532@151.101.192.155:80?type=ws&security=none&path=/VLESS?ed=80#151.101.192.155:80
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?type=ws&security=tls&path=/proxyip&sni=carlotta.shoorekeeper.cloudns.org&fp=chrome#104.21.67.12:443
 vless://6d38dcef-1681-4e3e-ba7c-f9bf366d90db@all97-vip.f-sub.com.privatepack.ir:1517?type=tcp&security=none&path=/#all97-vip.f-sub.com.privatepack.ir:1517
 vless://b976b2aa-945e-43e5-bc58-36d77d3a9124@www.speedtest.net:2096?type=ws&security=tls&path=/tjkqcpws&sni=638879176706477448.amsterdam-prx-dnraaal.info#www.speedtest.net:2096
+vless://fe7fa45f-4c54-4d93-bf00-609648d8b786@172.66.40.99:8080?type=ws&security=none&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#172.66.40.99:8080
+vless://dbb78c94-9f87-4d7d-b945-2000b60352fd@57.129.132.223:80?type=ws&security=none&path=/vless/#57.129.132.223:80
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?type=xhttp&security=none&path=/xhttp#91.99.183.30:8443
 vless://54b5d081-8e34-4660-ec4f-6d7fddb7feb7@65.109.208.107:2083?type=grpc&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7#65.109.208.107:2083
-trojan://2khr0qbr-ahv3-j7a1-1bmq-nu1z5uvn2xgs@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://cn3ayapi-c6uo-e80q-hkfp-nrduqt9u9kzf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#amazon-4.cristiano.name.ng:443
+trojan://vvy5tv0a-56sk-thlz-kgy6-qffr30hkr0k5@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://qj3w3yh2-42b8-d34e-nz73-9i5f3rhw1sl0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
