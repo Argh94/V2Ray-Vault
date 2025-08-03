@@ -1,7 +1,6 @@
-trojan://wrle6yf4-run9-4edf-1o0j-s3yyuejfmpy5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/03 | 04:52
-trojan://2erp99hi-esu7-7b18-cf15-fzkrwo3v5fpn@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://hshkybwj-dozb-pxvb-3cff-7eb3qs0e1zzm@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://e18bc3c4-fbca-42e5-985c-c4534a6c10b6@172.66.40.99:80?type=httpupgrade&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80#172.66.40.99:80
+trojan://klb4pmwz-1x86-o5v5-wppz-iqcja38u8lkv@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/03 | 08:21
+trojan://mtz3nzxa-nxh3-lza2-x817-hvwme16xstit@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://m4p2l6qm-xd1l-dsk6-adh0-ajlv6nebsfvt@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://410659f9-05f8-4eaa-ba8c-0c26e982a2c4@104.21.112.1:8080?type=ws&security=none&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#104.21.112.1:8080
 vless://ba340ba0-27e6-49de-81c0-56a2d4ab8b92@www.speedtest.net:80?type=ws&security=none&path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080#www.speedtest.net:80
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.221.206:443?type=tcp&security=none#91.99.221.206:443
@@ -13,5 +12,7 @@ vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.218.14:8443?type=xhttp&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?type=grpc&security=none#185.231.205.99:8880
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.153.233:8443?type=xhttp&security=none&path=/xhttp#91.99.153.233:8443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?type=grpc&security=none#185.231.205.139:8880
-trojan://m554i0dp-ts8r-ia9y-gfkz-8do3pxezmwzr@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://e2rx5njo-yrfo-1p01-3kgo-kirx0qok9f27@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://TELEGRAM-CONFiGLiNE@172.66.40.99:80?type=ws&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80#172.66.40.99:80
+vless://TELEGRAM-CONFiGLiNE@172.66.40.99:8880?type=ws&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80#172.66.40.99:8880
+trojan://4jtls3fh-ghul-wfbh-08w1-o0vpocrgyapr@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://33v0o2ix-ud4f-ur7v-4qos-loitfx850arr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

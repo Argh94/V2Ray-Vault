@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-08-03 04:51:57
+Timestamp: 2025-08-03 08:20:51
 Total Channels: 502
 Successful Scrapes: 470
 Failed Scrapes: 0
@@ -22,15 +22,15 @@ selinc: 125 configs
 appsooner: 122 configs
 satellitenewspersian: 120 configs
 outline_vpn: 116 configs
-v2rayng3: 115 configs
+v2rayng3: 116 configs
 armodchannel: 108 configs
 v222ray: 102 configs
 mftizi: 100 configs
-config_proxy: 99 configs
 kafing_2: 97 configs
 farahvpn: 92 configs
+v2trayproxy: 89 configs
 freevpn3327: 88 configs
-v2trayproxy: 86 configs
+config_proxy: 86 configs
 icv2ray: 83 configs
 filter_breaker: 82 configs
 v2raycrow: 81 configs
@@ -137,7 +137,6 @@ v2rayy_vpn13: 21 configs
 ConfigsHubPlus: 20 configs
 Farah_VPN: 20 configs
 meliconfing: 20 configs
-v2ray_configs_pool: 20 configs
 configshubplus: 20 configs
 free1ss: 20 configs
 free_vpn_for_all_of_us: 20 configs
@@ -224,6 +223,7 @@ nufilter: 14 configs
 summertimeus: 14 configs
 chanel_v2ray_2: 14 configs
 dailytek: 14 configs
+falcunargo: 14 configs
 freevv2rayng: 14 configs
 ghotb_scarf: 14 configs
 hoshmasnoiyfarsi: 14 configs
@@ -237,7 +237,6 @@ proxystore11: 13 configs
 tehranargo: 13 configs
 configv2rayforfree: 13 configs
 confing_chanel: 13 configs
-falcunargo: 13 configs
 father_vpn: 13 configs
 miov2ray: 13 configs
 msv2flyng: 13 configs
@@ -328,8 +327,6 @@ v2ray4win: 8 configs
 vip_vpn_2022: 8 configs
 vpncostume: 8 configs
 xsv2ray: 8 configs
-DALTON_PING: 7 configs
-dalton_ping: 7 configs
 mdvpnsec: 7 configs
 sinavm: 7 configs
 vpnandroid2: 7 configs
@@ -346,6 +343,8 @@ v2rayngchannelll: 7 configs
 vboxpanel: 7 configs
 xrayzxn: 7 configs
 confingv2raayng: 6 configs
+DALTON_PING: 6 configs
+dalton_ping: 6 configs
 fnet00: 6 configs
 skivpn: 6 configs
 v2ray_rolly: 6 configs
@@ -361,6 +360,7 @@ prooxyk: 6 configs
 rnrifci: 6 configs
 vaslbemmonid: 6 configs
 vpnfree_irann: 6 configs
+v2ray_configs_pool: 5 configs
 v2ray_god: 5 configs
 PRIMESOBI: 5 configs
 configscenter: 5 configs
@@ -369,6 +369,7 @@ confingv2raay: 5 configs
 dashv2ray: 5 configs
 freeshadowsock: 5 configs
 freevmess: 5 configs
+hormozvpn: 5 configs
 jedal_vpn: 5 configs
 mahdivpn2: 5 configs
 mahsaproxy: 5 configs
@@ -385,7 +386,6 @@ elfv2ray: 4 configs
 filter5050: 4 configs
 freevlessvpn: 4 configs
 fsv2ray: 4 configs
-hormozvpn: 4 configs
 komail315: 4 configs
 loatvpn: 4 configs
 lombo_channel: 4 configs
