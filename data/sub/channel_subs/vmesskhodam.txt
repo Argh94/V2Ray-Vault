@@ -1,15 +1,6 @@
-trojan://d8k43qfp-e2li-cnsh-vv86-c46l81iuom20@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/03 | 19:54
-trojan://3p5iauis-wz5p-xhnr-67p1-urkb326j58vb@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://dyjhcwbg-jhr6-61zi-zogu-kh1wop89zei5@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiQHZtZXNza2hvZGFtKVx1MDYyYVx1MDY0NFx1MDZhZlx1MDYzMVx1MDYyN1x1MDY0NVx1MDY0NVx1MDY0OFx1MDY0NiIsImFkZCI6InBhbmVsMS5pcHlhci5vcmciLCJwb3J0Ijo0MjY4NCwiaWQiOiJjNGJkOWViYS04YWVhLTRkNWUtYTJlZS1iNWRlNjVhYzE0ZTEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://dfe016f3-2ff9-401a-a373-75422528f681@t2.vipfastconnect.top:2299?type=tcp&security=none#t2.vipfastconnect.top:2299
-vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?type=tcp&security=none#62.60.163.77:3333
-vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?type=xhttp&security=tls&path=/tas&sni=auto.tas-bazi.com&fp=firefox#www.speedtest.net:443
-vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?type=ws&security=tls&path=/&sni=PaGes.deV#www.speedtest.net:443
-vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?type=ws&security=tls&path=/9EkfcCDedhvB19xj?ed=2560&sni=NExtfilmtOmovies.sitE&fp=randomized#104.22.24.195:443
-vless://96479a22-9333-4b03-9912-4dd26acef75e@188.114.97.1:443?type=ws&security=tls&path=/9EkfcCDedhvB19xj?ed=2560&sni=NExtfilmtOmovies.sitE&fp=randomized#188.114.97.1:443
-vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?type=ws&security=none&path=/?ed=2048#www.speedtest.net.cdn.cloudflare.net:8080
-vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?type=xhttp&security=tls&path=/statue&sni=statue.lnmarketplace.net#statue.lnmarketplace.net:443
+trojan://8x1ziu9e-c2k4-w1js-bk24-r5fpg6zzadbj@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/03 | 23:53
+trojan://mh4hxycc-ru6t-wm6d-bbe5-b88kxhtumgeg@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://i0fhegz5-mlf2-joxy-sz0a-to43qts0i8da@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://c4335777-e8c8-438b-9364-4bbae410b262@91.99.144.152:443?type=tcp&security=none#91.99.144.152:443
 vless://06618506-461f-46dc-a16d-1742e25e7f41@91.107.142.123:2052?type=tcp&security=none#91.107.142.123:2052
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
@@ -31,5 +22,5 @@ vless://4e01969c-88a2-43c7-8906-e9bf023fa69d@91.107.154.247:1913?type=tcp&securi
 vless://592cb0e6-80ab-49b3-a011-c1eca8f7e04f@freenet.mygoldiran.com:25079?type=grpc&security=reality&sni=tgju.org&fp=chrome&pbk=aCbr6BYHwoUfRL5fybv7525-DlOqRa7s3oUSsHal2ng&sid=11648b03a5acc7#freenet.mygoldiran.com:25079
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#ru01-vlr01.tcp-reset-club.net:443
 vless://4e21e86a-46f1-4272-bdb3-bac8bc6839ab@loadbalance.systemgamingirani.ir:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=v3_phZMVMpR1IKmwS3HEBQGE5Yh8rFyZJOplk71hWkg&sid=b7859e878ab2fb#loadbalance.systemgamingirani.ir:443
-trojan://i8sie27r-i6x2-lu2s-f2il-8p95hcpnv0zp@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://chza50ov-z4au-elul-9h2h-lv04a0ul3t84@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://vmsm9ckw-dm5w-o068-d7h3-p57qlju94wmf@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://neulynuf-f2bb-mpy2-bzap-s7h7tq0chd8i@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

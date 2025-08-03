@@ -1,8 +1,6 @@
-trojan://9gkucj9d-yor4-ex0x-kkkb-le46oj3mewri@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/03 | 19:54
-trojan://xsu3wzv0-782a-gs3s-1ksi-whst56vz020w@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://xb6hlq2r-urks-w0xp-8byj-qavsgpbuh1te@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-trojan://installshield@38.180.249.177:8443?security=tls#38.180.249.177:8443
-vless://401374e6-df77-41fb-f638-dad8184f175b@141.193.213.214:443?type=grpc&security=tls&sni=pqh23v5.hiddendom.shop#141.193.213.214:443
+trojan://ktuftksp-h1zo-odtp-lxb0-7w6gp6w7ifvf@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/03 | 23:53
+trojan://8nfupxea-h92l-q0vo-1qmb-jyhorcml2zzf@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://md3nzvzu-xwyw-q4pp-zsvj-wqwnvyakfyq8@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.89.111.198:2052?type=ws&security=none&path=/&fp=chrome#45.89.111.198:2052
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@77.91.122.176:2052?type=ws&security=none&path=/&fp=chrome#77.91.122.176:2052
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?type=ws&security=tls&path=/57ba2ab1&sni=ovhwuxian.pai50288.uk&fp=chrome#104.21.3.219:8443
@@ -40,5 +38,7 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@5.10.246.60:443?type=grpc&security=
 vless://401374e6-df77-41fb-f638-dad8184f175b@104.129.165.101:443?type=grpc&security=tls&sni=pqh36v4.hiddendom.shop#104.129.165.101:443
 vless://401374e6-df77-41fb-f638-dad8184f175b@154.92.9.26:443?type=grpc&security=tls&sni=pqh36v4.hiddendom.shop#154.92.9.26:443
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.160.204.145:443?type=grpc&security=tls&sni=pqh23v4.hiddendom.shop#103.160.204.145:443
-trojan://s2sckpq6-3ric-j7jq-kuxn-p7iyjdtbto61@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://5o24ejlp-anum-occs-txia-dplyo6p9zgeo@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.86:443?type=grpc&security=tls&sni=pqh23v4.hiddendom.shop#45.8.211.86:443
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.80.111.32:443?type=grpc&security=tls&sni=pqh36v4.hiddendom.shop#45.80.111.32:443
+trojan://yy0q1dsf-k7up-j3wm-56sa-wozi69roejrr@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://pj6mdzos-gf85-oeiy-bpyh-q8svkjcwcd76@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
