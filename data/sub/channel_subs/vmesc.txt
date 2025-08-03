@@ -1,8 +1,6 @@
-trojan://5hh51vu6-w57g-8wp4-by2n-r42h0md5kgiz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/03 | 08:21
-trojan://u2fj7s1f-fong-t6mu-qi57-8ay7zf0mn441@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://5jytri6a-hrr9-adbu-m2t3-tcfaqgch5ofd@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.96.1:80
-vless://a90a8e5b-8561-4799-9de5-a7c35662cfa2@vip1.zxhost.sbs:80?type=tcp&security=none#vip1.zxhost.sbs:80
+trojan://8dzp6fmm-ywes-5ny0-nf7q-yioumr5uf5gz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/03 | 11:55
+trojan://mofe1jxv-d0ot-z0a4-hmbp-t3tgon87qwnt@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://cq8s58bm-7win-xnxr-nt9a-te5drzvklwuf@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://d1e720d6-4ac9-4a03-b781-567960161b13@51.222.86.157:54051?type=tcp&security=none#51.222.86.157:54051
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.24.171.107:443?type=ws&security=tls&path=/eJ5JZ3A1HxfU0bPO?ed=2560/?JOKERRVPN_BIA_CHANEL@JOKERRVPN&sni=vNgSUppLy.IP-dDnS.COm#104.24.171.107:443
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.216.98:443?type=tcp&security=none#91.99.216.98:443
@@ -21,5 +19,7 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?type=grpc&security=none#45.159.248.125:8880
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.1:443?type=ws&security=tls&path=/BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&sni=verina.ccantarella.dns-dynamic.net&fp=chrome#172.67.164.1:443
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@senatorws-13.flightbean24.com:2052?type=ws&security=none&path=/#senatorws-13.flightbean24.com:2052
-trojan://enyh6bwy-svnj-87fj-13lf-gda7ys3lemji@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://c7wzoj6c-g6j9-8oo5-jkvt-a6mpxj8c896r@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.223.115:8443?type=xhttp&security=none&path=/xhttp#91.99.223.115:8443
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?type=ws&security=tls&path==zani.yaemiko.ggff.net/?Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=random#172.64.151.232:443
+trojan://80x157ji-tkgd-magk-w56r-n01tzc4i5u9j@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://riizsp2f-9ru3-e2lm-xall-f97ub4dy8lj7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,11 +1,12 @@
-trojan://1syz5nz0-px1q-yhog-5ieq-qiz0dxizrcsr@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/03 | 08:21
-trojan://xd2orqx5-zqjb-mt2g-4dby-ikuufdgn9fwh@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://8spjgy4p-v2na-s2yo-m00m-l08pjx8d9yu7@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://g22a2mab-tid2-k1d4-z5e5-9ognliu8b2aa@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/03 | 11:55
+trojan://w4onmhdn-tzp1-yrp1-5ppx-3z5oon5vmj2a@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://05dj3orl-2l65-fdcy-9q5t-y23o3zv3r9kw@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS29yZWEgVGVsZWNvbSBcdTI1MDcgMTE4LjQzLjE1OC4yMjAiLCJhZGQiOiIxMTguNDMuMTU4LjIyMCIsInBvcnQiOjIwNTIxLCJpZCI6ImFiNmRkZTA4LWNlMGQtNGMzZC1iNzA4LWRhNTNhZjFhODYyZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8ifQ
-vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTMwLjE2Mi4xMzQuMjE4IiwiYWRkIjoiMTMwLjE2Mi4xMzQuMjE4IiwicG9ydCI6NDQzLCJpZCI6IjQxN2M1MTA4LWVmNmItNDlmMC1hMTNkLTg3NDZmZTZlMjA0YyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUifQ
-vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS29yZWEgVGVsZWNvbSBcdTI1MDcgMTIxLjE1NC4xODcuNDQiLCJhZGQiOiIxMjEuMTU0LjE4Ny40NCIsInBvcnQiOjIwNTIxLCJpZCI6ImVmZWNhOGMyLThmNjMtNDY3Yi04ZDI4LWQ2MzBhN2E5ZGM4ZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8ifQ
 ss://YWVzLTI1Ni1nY206eXk1OTU3MjE@131.186.21.62:4433#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - ORACLE-BMC-31898 ┇ 131.186.21.62
-ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw@54.180.229.125:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.180.229.125
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.62.168:989#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - Kaopu Cloud HK Limited ┇ 154.90.62.168
-trojan://1r2qg895-axml-azdc-nz1q-461ybymvdwxt@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://wrq0c70r-7um1-mwm4-k3ou-4bw8v3xn1j0i@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://626351FA-3CA6-8118-FADF-CCDBCD620871@oss-cn-shanghai.westdatacloud.top:20048?sni=oss-cn-shanghai.westdatacloud.top&peer=oss-cn-shanghai.westdatacloud.top&security=tls#KR 🇰🇷 ┇ TROJAN-TCP-TLS - Korea Telecom ┇ 59.24.3.174
+vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gT1JBQ0xFLUJNQy0zMTg5OCBcdTI1MDcgMTMwLjE2Mi4xMzQuMjE4IiwiYWRkIjoiMTMwLjE2Mi4xMzQuMjE4IiwicG9ydCI6NDQzLCJpZCI6IjQxN2M1MTA4LWVmNmItNDlmMC1hMTNkLTg3NDZmZTZlMjA0YyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUifQ
+ss://YWVzLTI1Ni1jZmI6eWlqaWFuMDUwMw@54.180.229.125:443#KR 🇰🇷 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 54.180.229.125
+vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gS29yZWEgVGVsZWNvbSBcdTI1MDcgMTIxLjE1NC4xODcuNDQiLCJhZGQiOiIxMjEuMTU0LjE4Ny40NCIsInBvcnQiOjIwNTIxLCJpZCI6ImVmZWNhOGMyLThmNjMtNDY3Yi04ZDI4LWQ2MzBhN2E5ZGM4ZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8ifQ
+trojan://yaw8ngr5-137r-q8ar-gdeq-dd8q8vx3qbi2@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://csuw2u3l-bl16-qqi2-4kqu-pm4419pvt004@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
