@@ -1,6 +1,10 @@
-trojan://d73gf2mp-cniq-lvwk-p6qo-7j11yf1g1oh5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/02 | 23:52
-trojan://7yjxkqf0-qyf9-wrs1-93kx-un1rrknzfs2q@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://bnzuv8v3-1u2v-qig6-ywyr-m1lxwbfn1jh9@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://mbi8475z-g1ba-xzrj-o1qt-k3ncrdn2xb38@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/03 | 04:52
+trojan://2lke77nx-w25r-pnlm-vgm6-lx1pi8mw8fyo@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://3hwoqw9p-vjqm-jft2-zy1h-op2ew7la4yeg@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#admin.c4.webramz.co:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#series-a2-mec.samanehha.co:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#series-a2.samanehha.co:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#admin.c4.webramz.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#admin.c4.webramz.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#series-a2-mec.samanehha.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#series-a2.samanehha.co:443
@@ -58,5 +62,7 @@ vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?type=ws&securit
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?type=ws&security=tls&path=/?ed=2560&sni=kawaiifreevpn-7ds.pages.dev&fp=random#104.18.29.253:443
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?type=ws&security=tls&path=/azadnet1-706.pages.dev/?ed=2560&PROT_TYPE=vless&sni=azadnet1-706.pages.dev&fp=randomized#162.159.129.67:8443
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?type=ws&security=tls&path=/?ed=2560&sni=kawaiifreevpn-7ds.pages.dev&fp=random#104.18.29.253:443
-trojan://gki3kjwx-14n5-36eo-gmzv-zuh37l7x584n@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://k9o7ojrk-nc90-h6bd-qmnr-ojf29fyh6zih@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?type=ws&security=tls&path=/azadnet1-706.pages.dev/?ed=2560&PROT_TYPE=vless&sni=azadnet1-706.pages.dev&fp=randomized#162.159.129.67:8443
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?type=ws&security=tls&path=/?ed=2560&sni=kawaiifreevpn-7ds.pages.dev&fp=random#104.18.29.253:443
+trojan://iq85xfrj-59p0-rr2x-xkhf-7s4tz5c52e7w@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://s8rbczo0-ecfs-0usy-9vvs-e1eg7pfeptta@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

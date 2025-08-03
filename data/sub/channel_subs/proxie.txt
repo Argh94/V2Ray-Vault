@@ -1,9 +1,9 @@
-trojan://1nzw5l44-b7dc-29dw-vrca-sbtsrn4ercwf@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/02 | 23:52
-trojan://u1tvebwj-qqwn-009s-lvw3-oleivi9zni1b@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://tjru0e1r-464i-kpit-aozs-od7z06g8e8s7@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://mduxntob-uerl-fm31-atog-atemtwho2mnb@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/03 | 04:52
+trojan://osqdlr5q-1wma-ss9y-po2d-hpf0eyighfcg@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://3v1onift-em3n-ma0a-vmpb-426x5t636gtx@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNmE5XHUwNjI3XHUwNjQ2XHUwNjQxXHUwNmNjXHUwNmFmIFx1MDYzMVx1MDYyN1x1MDZjY1x1MDZhZlx1MDYyN1x1MDY0NiBcdTA2MjdcdTA2MmVcdTA2MmFcdTA2MzVcdTA2MjdcdTA2MzVcdTA2Y2MgXHUwNjg2XHUwNjQ2XHUwNjQ0IiwiYWRkIjoiMTA0LjIxLjYyLjE0NCIsInBvcnQiOjQ0MywiaWQiOiIxODZhZWVmZS1iNzEyLTRjMjktODk5NC1jZWQxYTNjMWZlYTIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ4aHR0cCIsInR5cGUiOiJhdXRvIiwiaG9zdCI6InZhcmRhMi5tYW53ZS5pciIsInBhdGgiOiIvVmFuYS8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2YXJkYTIubWFud2UuaXIifQ
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjI3XHUwNjJlXHUwNjJhXHUwNjM1XHUwNjI3XHUwNjM1XHUwNmNjIFx1MDY4Nlx1MDY0Nlx1MDY0NCBwcm94aWUgXHVkODNkXHVkZDM0IiwiYWRkIjoiMTA0LjIxLjYyLjE0NCIsInBvcnQiOjQ0MywiaWQiOiI1ZDdiMWRlNS05MjMzLTQwOTctYmZlNy1iMDhhZTIxNGFhMTYiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ4aHR0cCIsInR5cGUiOiJhdXRvIiwiaG9zdCI6InNhdXJvbjIubWVsa29yZS5pciIsInBhdGgiOiIvU2F1cm9uLyIsInRscyI6InRscyIsInNuaSI6InNhdXJvbjIubWVsa29yZS5pciJ9
-vless://70f4561c-21b1-492f-8447-09d89dfd84c0@188.114.97.3:443?type=xhttp&security=tls&path=/Yavanna/&sni=Varda.Manwe.ir&fp=randomized#188.114.97.3:443
+vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjI3XHUwNjJlXHUwNjJhXHUwNjM1XHUwNjI3XHUwNjM1XHUwNmNjIFx1MDY4Nlx1MDY0Nlx1MDY0NCBAcHJveGllIiwiYWRkIjoiMTA0LjIxLjYyLjE0NCIsInBvcnQiOjQ0MywiaWQiOiJjMzljNTI3OC0zMjc2LTQyMGUtYTIwMi1hMmVjZGI3MWY3ZDkiLCJhaWQiOjAsInNjeSI6Inplcm8iLCJuZXQiOiJ4aHR0cCIsInR5cGUiOiJhdXRvIiwiaG9zdCI6InNhdXJvbjIubWVsa29yZS5pciIsInBhdGgiOiIvU2F1cm9uLyIsInRscyI6InRscyIsInNuaSI6InNhdXJvbjIubWVsa29yZS5pciJ9
 vless://8ef62fcb-038a-40ec-ae4b-bf40fc6305a0@188.114.97.3:443?type=xhttp&security=tls&path=/Yavanna/&sni=Varda.Manwe.ir&fp=randomized#188.114.97.3:443
 vless://c53e7b0c-bd46-4b36-ad14-14d1bf895bce@188.114.97.3:443?type=xhttp&security=tls&path=/Yavanna/&sni=Varda.Manwe.ir&fp=randomized#188.114.97.3:443
 vless://edf78ca5-7ccb-44d4-88e6-b5bfb00499f2@188.114.97.3:443?type=xhttp&security=tls&path=/Yavanna/&sni=Varda.Manwe.ir&fp=randomized#188.114.97.3:443
@@ -22,5 +22,5 @@ vless://f624d719-b18b-4e9b-8d32-0c987b3348b4@104.21.62.144:443?type=xhttp&securi
 vless://c1c6f7b2-0a36-43cf-a309-66fea055cafe@104.21.62.144:443?type=xhttp&security=tls&path=/Yavanna/&sni=varda2.manwe.ir&fp=randomized#104.21.62.144:443
 vless://c1c6f7b2-0a36-43cf-a309-66fea055cafe@104.21.62.144:443?type=xhttp&security=tls&path=/Yavanna/&sni=varda2.manwe.ir&fp=randomized#104.21.62.144:443
 vless://36711ced-f518-4187-9507-de8eb35c7afa@104.21.62.144:443?type=xhttp&security=tls&path=/Sauron/&sni=sauron2.melkore.ir&fp=randomized#104.21.62.144:443
-trojan://bbluabhb-8ooh-cn4a-1wye-fv8gbxsm9wrm@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://qphrv7gv-ddko-wq1r-g4sn-olpvpepsn2mg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://eja6q1to-2zye-es5n-pbvu-2ru50ai57su6@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://j3gttcyz-fd39-mu0j-f0yl-1gmwrtd0bju7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
