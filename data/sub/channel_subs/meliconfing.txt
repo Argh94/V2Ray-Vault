@@ -1,6 +1,6 @@
-trojan://mr8ymduo-r9ks-8r20-o18e-yw1qqhcxx9iu@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/04 | 16:08
-trojan://xx5islpx-51xn-igev-hquh-5i3en6ng5b1l@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://9ey6d9ae-1nq6-ia18-uj71-zyb7ahhbjdrv@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://l3aasvcj-gqtk-oof6-dovu-4kupr6qduduv@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/04 | 19:57
+trojan://53mvs9kd-cwog-nk1u-tdqg-thakbbejik2z@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://xw20iwvn-al1j-dg4b-gxx7-l6k75focun8r@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?sni=vpn.stupidworld.web.id&peer=vpn.stupidworld.web.id&security=tls#172.67.181.173:443
 vmess://eyJ2IjoiMiIsInBzIjoiQG1lbGljb25maW5nIiwiYWRkIjoicGFuZWwxLmlweWFyLm9yZyIsInBvcnQiOjQyNjg0LCJpZCI6ImM0YmQ5ZWJhLThhZWEtNGQ1ZS1hMmVlLWI1ZGU2NWFjMTRlMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vless://2e17c09d-57f8-42fc-be07-744dd30ae8b0@fz.piko-network.top:443?type=tcp&security=none#fz.piko-network.top:443
@@ -18,10 +18,10 @@ vless://9a464637-7d90-4497-af4f-c5c8017a9b77@172.66.40.99:443?type=ws&security=t
 vless://4951f31b-dddf-4c7a-8399-cced1c10c4ed@wolf551.api-tel.xyz:14748?type=ws&security=none#wolf551.api-tel.xyz:14748
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?type=ws&security=none&path=/1ycR2zb3KeELWRha?ed=2560#104.17.1.197:8880
 vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?type=ws&security=tls&path=/?ed=2560&sni=rayan-roof.atena.dpdns.org&fp=chrome#cdnjs.com:443
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?type=ws&security=none&path=/1ycR2zb3KeELWRha?ed=2560#104.17.1.197:8880
-vless://de30882a-e276-443c-9abb-09142d1650a7@ger.afterhav.ir:8880?type=tcp&security=reality&sni=www.apple.com.cn&fp=firefox&pbk=i9i0gRbOcihFuDWgbY8fiRO-uYfmkbAixksapkkI_wA&sid=e5caf4654f#ger.afterhav.ir:8880
+vless://6a2bda17-7dd4-450c-83fb-5ae5db27e04d@51.195.119.75:80?type=ws&security=none&path=/vless/#51.195.119.75:80
+vless://6a2bda17-7dd4-450c-83fb-5ae5db27e04d@51.195.119.75:80?type=ws&security=none&path=/vless/#51.195.119.75:80
 vless://fc628c94-3c38-44e7-90aa-5ccde28ef29c@list.dayhostpro.com:14685?type=tcp&security=reality&sni=getchef.com&fp=chrome&flow=xtls-rprx-vision&pbk=V_rrBSTErY7NYhN8tPG460tL0hpCKMwxnM0YPLZPYDs&sid=aa9c5414806589#list.dayhostpro.com:14685
 vless://fd0cdd44-2361-11f0-9970-45e1d80c4039@62.60.233.250:443?type=tcp&security=reality&sni=images.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw&sid=4476a3#62.60.233.250:443
 vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@abzartun2.divartehran.online:23737?type=grpc&security=reality&sni=varzesh3.com&fp=chrome&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&sid=7c0b6c88fe5c#abzartun2.divartehran.online:23737
-trojan://fxsx30hb-ioc9-zxec-n188-6g3o5m1nlhkm@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://vhwo5lhz-ebj5-zpvx-xe1u-kar0kestoh7d@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://4dn4af8f-e5mq-9xga-0wk0-25jio32o399h@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://a7fk3yup-8688-a7x5-nyh1-i3ogl1q8nxv9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

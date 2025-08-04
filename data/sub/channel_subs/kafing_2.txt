@@ -1,6 +1,7 @@
-trojan://ckd2bm1q-v5eo-gbnd-v2dl-22vxlz309vid@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/04 | 16:08
-trojan://z5tmlk8g-5i05-z0w2-noc2-zgalmaxurdgd@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://35uqj3ty-xlst-ba36-8v46-wrbgj4v3pcmv@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://6juz57qy-x20u-d7co-9hsu-9zumbs9hnqy2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/04 | 19:57
+trojan://tiabctcs-nsf9-5adz-jdyc-o7z4ypp7ayvy@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://3tgvihs2-th9k-aipy-shq2-pynuh8g8dckp@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#45.87.175.35:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#138.124.115.157:1080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#134.255.210.49:990
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#freakconfig13.felafel.org:443
@@ -11,7 +12,16 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#freakconfig13.felafel.org:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#series-a2.varzesh360.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#series-a1.samanehha.co:443
+trojan://123456@104.25.165.81:8443?sni=top-azx.pages.dev&peer=top-azx.pages.dev&security=tls#104.25.165.81:8443
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?sni=vpn.stupidworld.web.id&peer=vpn.stupidworld.web.id&security=tls#172.67.181.173:443
+vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?type=ws&security=tls&path=/8WuhXm4QjK0L68Uf?ed=2560&sni=gGHDFa.pAgeS.Dev&fp=randomized#172.66.47.61:8443
+vless://9368b093-d790-4096-9d8a-1265e82f9e2f@172.66.47.15:443?type=ws&security=tls&path=/telegram@v2ray_alpha/?ed=2560&sni=GgGgr.PaGES.dEV&fp=randomized#172.66.47.15:443
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
+vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?type=ws&security=tls&path=/dQMN2VQLkaE52qWD?ed=2560&sni=ensHOLP-91s.pageS.DEv&fp=randomized#104.16.34.128:443
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?type=ws&security=tls&path=/?ed=2560&sni=kawaiifreevpn-7ds.pages.dev&fp=random#104.19.245.206:443
+vless://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?type=tcp&security=none#91.99.239.156:443
+vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?type=ws&security=tls&path=/yzejftqqvmhtztle?ed=2560&sni=019309B7.XyZ0.PaGeS.dEV#188.114.99.16:2053
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?type=ws&security=tls&path=/?ed=2560&sni=kawaiifreevpn-7ds.pages.dev&fp=random#104.19.245.206:443
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?type=ws&security=tls&path=/Tel-@V2ray_Alpha&sni=nOCTYq.pAGES.DEV#188.114.97.183:2053
 vless://591a0afd-924a-4a71-8063-10aac246bb65@104.21.96.1:8443?type=ws&security=tls&path=/Tel-@V2ray_Alpha/?ed=2560&sni=user2-P2L.pAgES.dev#104.21.96.1:8443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?type=grpc&security=none#95.164.45.90:8880
@@ -72,5 +82,5 @@ vless://bab6b157-a6e8-4756-a485-dcb4ca476eb9@server2.fergalvpnmod.com:25126?type
 vless://5f3ac440-010e-4565-8362-bdb574c2e389@188.132.141.231:2095?type=tcp&security=reality&sni=nobitex.ir&fp=random&pbk=asQh0s7v3gZjfgXExPo7-4bkObpm1y_ODt9Fx3e69SA&sid=0f86044d#188.132.141.231:2095
 vless://8ee4b805-5a65-4977-bcbb-f759fb8d9441@god.mygoldiran.com:11867?type=grpc&security=reality&sni=tgju.org&fp=chrome&pbk=-mYOfmHHBGIPqR5Uho9lT7MjSXLlSVi4l83ohs3MaTM&sid=d2#god.mygoldiran.com:11867
 hysteria2://dongtaiwang.com@45.129.2.108:50850?sni=www.bing.com&insecure=1#45.129.2.108:50850
-trojan://owjri39e-w0er-siva-s13g-e6wjuhg0kaag@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://xuoex4se-j3pn-gar3-552y-fef3ttxcy3dl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://enzfzez2-xik3-m9sz-a7at-1r3y3wv5w238@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://vdwudzrg-0tpd-9hpf-6q5f-2us5lv4se2ba@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
