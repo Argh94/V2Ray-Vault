@@ -1,8 +1,6 @@
-trojan://02irqhw5-jbb3-ndlk-wb9o-0dksktqwsu0v@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/04 | 19:57
-trojan://w6a2zku7-44fu-mfxk-25ne-rluy5p1l7ju3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://kt2ndr0a-ql72-37i8-vcvt-rosi67jzvvmz@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-trojan://7cf2d310-489f-11f0-8746-1239d0255272@usa.test3.net:443?security=tls#usa.test3.net:443
-trojan://6417fbb0-489f-11f0-bb34-1239d0255272@usa.test3.net:443?security=tls#usa.test3.net:443
+trojan://38p1bisq-d92d-ixhh-ks3r-r392gjld2f0l@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/04 | 23:54
+trojan://mflw6xrq-hlid-pixa-vm08-3tqstn7r31q4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://9zm3tofj-rit0-jdom-44d8-orn3c3laiizb@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://7cf2d310-489f-11f0-8746-1239d0255272@usa.test3.net:443?security=tls#usa.test3.net:443
 trojan://6417fbb0-489f-11f0-bb34-1239d0255272@usa.test3.net:443?security=tls#usa.test3.net:443
 vless://554e89e9-5d47-408a-ee92-2fa8506bc78c@zula.ir:2087?type=ws&security=tls&path=/&sni=Hopev2.hopebook75zulawu.online&fp=chrome#zula.ir:2087
@@ -11,10 +9,12 @@ vless://554e89e9-5d47-408a-ee92-2fa8506bc78c@zula.ir:2087?type=ws&security=tls&p
 vless://422b3552-a93d-4027-abd5-f5454b6d2d75@zula.ir:2087?type=ws&security=tls&path=/@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray&sni=eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online&fp=chrome#zula.ir:2087
 vless://ff0d0125-cb18-40fe-a4fc-4d85f0b68b70@172.67.65.158:2087?type=ws&security=tls&path=@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray&sni=eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online&fp=chrome#172.67.65.158:2087
 vless://ff0d0125-cb18-40fe-a4fc-4d85f0b68b70@zula.ir:2087?type=ws&security=tls&path=@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray&sni=eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online&fp=chrome#zula.ir:2087
+vless://58f87111-e8fa-4890-ba59-86fca61ccfa9@172.67.65.158:2087?type=ws&security=tls&path=/@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray&sni=eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online&fp=chrome#172.67.65.158:2087
+vless://58f87111-e8fa-4890-ba59-86fca61ccfa9@zula.ir:2087?type=ws&security=tls&path=/@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray&sni=eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online&fp=chrome#zula.ir:2087
 vless://hopev2ray-hopev2ray-hopev2ray@91.107.167.104:23448?type=tcp&security=reality&sni=Zula.ir&fp=chrome&pbk=-l-QUSLInypK65odnr_0zl9z1gsUmBni_O_Y1ReTHl4#91.107.167.104:23448
 vless://cfa5f326-53f8-4623-8323-b283dd7f41fc@91.107.167.104:59745?type=grpc&security=reality&sni=Zula.ir&fp=chrome&pbk=kPPcRHnxJeFfMs8LZpl-eKdlSOMxL_TitC5a4cIerFw#91.107.167.104:59745
 vless://7c888d30-189e-4b68-c084-2df3944265c1@91.107.167.104:59745?type=grpc&security=reality&sni=Zula.ir&fp=chrome&pbk=kPPcRHnxJeFfMs8LZpl-eKdlSOMxL_TitC5a4cIerFw#91.107.167.104:59745
 vless://channel_hopev2ray_hopev2ray@91.107.167.104:23448?type=tcp&security=reality&sni=Zula.ir&fp=chrome&pbk=-l-QUSLInypK65odnr_0zl9z1gsUmBni_O_Y1ReTHl4#91.107.167.104:23448
 vless://949de04d-3f8e-4dfb-a652-cd2bde2f9848@193.9.16.37:54876?type=tcp&security=reality&sni=Zula.ir&fp=chrome&pbk=GiJD-Fcy7f8Ec0jJ2bfKwjIgVJgdblJ-HUEVt0r8LCM&sid=ce1f64bf8464#193.9.16.37:54876
-trojan://ekcz4pys-4e6r-ogtd-ytmq-i2ncmxbuimdd@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://nwnmxngc-lhfe-2tdx-ze1q-rm5b8g8xctuu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://60i6m1yh-x24q-sx8s-6ony-soauke7i9psi@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://c7j7u82w-eyfn-i7mr-a258-ra9w68xsfwo1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
