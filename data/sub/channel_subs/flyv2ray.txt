@@ -1,6 +1,6 @@
-trojan://pan1iu7x-9enf-pj5q-971c-wc7re5c1zypp@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/04 | 04:50
-trojan://1h18lz8c-ht38-a8ew-4ihc-dknea87tp3rq@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://o3ovvbot-qbdc-9wpj-vdjz-txxkoyo76dhh@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://c5ymecwo-kgfw-jw4a-fzkk-34875eyqn9go@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/04 | 08:30
+trojan://vt6prwjz-ukij-5u4e-93u8-412tggb11bt6@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://x6fisbog-1dr8-qpjf-5ppz-ey7j440o1ycq@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net/?JOKERRVPN_BIA_CHANEL@JOKERRVPN&sni=carlotta.shoorekeeper.cloudns.org&fp=random#172.64.151.232:443
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.66.40.99:443?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net/?JOKERRVPN_BIA_CHANEL@JOKERRVPN&sni=carlotta.shoorekeeper.cloudns.org&fp=random#172.66.40.99:443
 vless://d81a5ac7-b2b9-4445-a364-1c6233ac686f@tgju.org:80?type=ws&security=none&path=/olem/ws?ed=1024#tgju.org:80
@@ -16,12 +16,12 @@ vless://e8346e35-2be3-4743-d80b-95e460e7e86b@tgju.org:80?type=ws&security=none&p
 vless://f7bd1cd5-0e2c-441e-90fa-b7254dae2655@chat.openai.com:8080?type=ws&security=none&path=/olem/ws?ed=1024#chat.openai.com:8080
 vless://f7bd1cd5-0e2c-441e-90fa-b7254dae2655@cafearz.com:8080?type=ws&security=none&path=/olem/ws?ed=1024#cafearz.com:8080
 vless://7969f5aa-ca87-47c6-eeb4-45d7e4d5873c@tgju.org:80?type=ws&security=none&path=/olem/ws?ed=1024#tgju.org:80
-vless://e40a9ae6-872f-4452-a19b-a63fbd759d54@194.182.79.235:28257?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=1mkQipIydK3Je5xGCdYUhuEmnsqMvdEGyheJxtBKwlY&sid=c9497c0ea7a8ce1e#194.182.79.235:28257
-vless://d5f63b9e-780a-472a-9d1b-e2088087a037@194.182.79.252:37814?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=rk5UKshtrRPf3achXqaxQgA-7EryZABGx6fSXv35D14&sid=10a5#194.182.79.252:37814
+vless://7969f5aa-ca87-47c6-eeb4-45d7e4d5873c@www.speedtest.net:80?type=ws&security=none&path=/olem/ws?ed=1024#www.speedtest.net:80
+vless://7969f5aa-ca87-47c6-eeb4-45d7e4d5873c@chat.deepseek.com:80?type=ws&security=none&path=/olem/ws?ed=1024#chat.deepseek.com:80
 vless://949e6151-6899-4605-f2d1-51570f60d51d@65.109.221.186:2083?type=grpc&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7#65.109.221.186:2083
 vless://949e6151-6899-4605-f2d1-51570f60d51d@65.109.221.186:2083?type=grpc&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7#65.109.221.186:2083
 vless://4ad963a1-48a4-40cf-9ec0-26a732e0d887@api.hostbaran.info:15810?type=tcp&security=reality&sni=www.pottermore.com&fp=chrome&flow=xtls-rprx-vision&pbk=Clc3P7127drFOxcwY7TTCIAdD4a7enFY96Jo0TxC-hY&sid=75#api.hostbaran.info:15810
 vless://54b5d081-8e34-4660-ec4f-6d7fddb7feb7@65.109.208.107:2083?type=grpc&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7#65.109.208.107:2083
 vless://0c2a1be7-cdde-4854-a45c-ddec52584fa1@65.109.208.107:2083?type=grpc&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7#65.109.208.107:2083
-trojan://apgbbq8p-s3t3-tze1-7mwl-cn1okjmuxl03@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://5gh0rimm-lg2g-elmw-redv-1a5m6hppfz4o@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://60cimtky-4fl9-o33d-lf2d-qte4xy88833w@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://65pwzftb-ygyw-ub5k-c3ep-hccpjj35793m@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
