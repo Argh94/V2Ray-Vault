@@ -1,8 +1,6 @@
-trojan://xcl5smuv-af1w-8zsn-9i8p-9k33fwduzx3z@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/04 | 08:30
-trojan://evylwjm9-gtmw-4rt4-0iwy-wanfe1vaawxp@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://15usomeg-yi5s-5whd-tm6x-f4pqenyuect2@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://c4335777-e8c8-438b-9364-4bbae410b262@91.99.144.152:443?type=tcp&security=none#91.99.144.152:443
-vless://06618506-461f-46dc-a16d-1742e25e7f41@91.107.142.123:2052?type=tcp&security=none#91.107.142.123:2052
+trojan://vxf597em-kr5r-nmng-2uay-rz6lr2be37bx@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/04 | 11:59
+trojan://tpu6dm8l-oeuo-mgo5-85b0-nnd3f5gq15sy@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://vzixhfq7-em14-0pvu-1xvl-o4q89gtpcgzp@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?type=ws&security=none&path=/6TvG8D6HimXKgdp2?ed=2560#104.16.85.3:8880
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
@@ -19,8 +17,11 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security
 vless://0077f357-40b8-4496-8ff6-3f012bdb2eaa@server581122609014369419.tas-bazi.com:443?type=xhttp&security=none&path=/sc#server581122609014369419.tas-bazi.com:443
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.239.156:8443?type=xhttp&security=none&path=/xhttp#91.99.239.156:8443
 vless://4e01969c-88a2-43c7-8906-e9bf023fa69d@91.107.154.247:1913?type=tcp&security=none#91.107.154.247:1913
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
+vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server79787566814164569.tas-bazi.com:443?type=xhttp&security=none&path=/frf#server79787566814164569.tas-bazi.com:443
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#172.67.65.158:8880
 vless://592cb0e6-80ab-49b3-a011-c1eca8f7e04f@freenet.mygoldiran.com:25079?type=grpc&security=reality&sni=tgju.org&fp=chrome&pbk=aCbr6BYHwoUfRL5fybv7525-DlOqRa7s3oUSsHal2ng&sid=11648b03a5acc7#freenet.mygoldiran.com:25079
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#ru01-vlr01.tcp-reset-club.net:443
 vless://4e21e86a-46f1-4272-bdb3-bac8bc6839ab@loadbalance.systemgamingirani.ir:443?type=tcp&security=reality&sni=tgju.org&fp=chrome&pbk=v3_phZMVMpR1IKmwS3HEBQGE5Yh8rFyZJOplk71hWkg&sid=b7859e878ab2fb#loadbalance.systemgamingirani.ir:443
-trojan://bq064xnk-xh4h-vo3e-c57j-97zkbun79f1x@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://h33v4kx6-b9q3-5dfm-qlgb-2dtsyf5b3167@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://vt279u43-1lim-lr40-4847-jeebg1spvuxg@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ut1v1qwp-eoo3-gyi5-kx8t-01x8kdza2gq5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
