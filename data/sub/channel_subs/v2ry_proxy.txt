@@ -1,8 +1,6 @@
-trojan://4cam7jum-qgfk-rauo-ykvn-52wzeproh164@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/05 | 23:53
-trojan://dpmvvmvm-j0zh-4dl9-2vqn-a7epiz2ev7ia@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://nx1vau0k-i4ah-y36l-sxs8-cu7axznpi2r8@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSTGZhN0lsem1tcnd5QnRJNEJPSnMz@83.147.216.70:64519#83.147.216.70:64519
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxbGlkWGtKeVN1bngzd1FIVk9pU0hw@217.144.190.50:11811#217.144.190.50:11811
+trojan://fwgnqi7c-kc6c-p7ly-8z2u-xiy0bd76ksbd@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/06 | 04:46
+trojan://x2qk0kiv-y45n-sxin-ndec-dqom388ck12i@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://gm65nvmt-yayo-ihq5-f8ts-d88gfsoquyu3@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#46.101.245.131:44354
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#4.223.106.151:48172
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#4.223.106.151:48172
@@ -11,10 +9,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#193.46.56.185:6683
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRHB4R3F4aUVUOWNxRUd5OTlVWVlF@77.105.166.12:8594#77.105.166.12:8594
 vmess://eyJ2IjoiMiIsInBzIjoiaHR0cHM6Ly90Lm1lL1YycnlfUHJveHkiLCJhZGQiOiJwYW5lbDEuaXB5YXIub3JnIiwicG9ydCI6NDI2ODQsImlkIjoiYzRiZDllYmEtOGFlYS00ZDVlLWEyZWUtYjVkZTY1YWMxNGUxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vmess://eyJ2IjoiMiIsInBzIjoiaHR0cHM6Ly90Lm1lL1YycnlfUHJveHkiLCJhZGQiOiJwYW5lbDEuaXB5YXIub3JnIiwicG9ydCI6NDI2ODQsImlkIjoiYzRiZDllYmEtOGFlYS00ZDVlLWEyZWUtYjVkZTY1YWMxNGUxIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiaHR0cHM6Ly90Lm1lL1YycnlfUHJveHkiLCJhZGQiOiI1MS4zOC42NC4yMDkiLCJwb3J0Ijo0NDAyMywiaWQiOiI3ZGE0NTdkYS1lZDBmLTQzN2QtYzgxZC02YzM1ODg1YmJlYTMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?type=tcp&security=none#91.99.186.0:443
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.245.87.7:2020?type=tcp&security=none#188.245.87.7:2020
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#172.67.65.158:8880
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?type=ws&security=none&path=/1ycR2zb3KeELWRha?ed=2560#104.17.1.197:8880
 vless://1e610976-fef5-4ca4-a447-f3530e70603e@172.67.144.232:443?type=ws&security=tls&path=/proxyip=ayaka.shorekeeper.ir&sni=escoffier.changli.ddns-ip.net&fp=random#172.67.144.232:443
@@ -43,7 +38,9 @@ vless://cf0e2b73-088d-4d2e-c95d-3a4002216831@cumhuriyet.com.tr:80?type=ws&securi
 vless://Parsashonam-295@2a01:4f8:1c1a:dc2b::1:8888?type=tcp&security=none#2a01:4f8:1c1a:dc2b::1:8888
 vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.68.95:8880?type=ws&security=none#104.16.68.95:8880
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?type=ws&security=none&path=/@HiByeVPNN?ed=2560#104.16.228.91:80
+vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=vPb.SpEeDtEsT2029.CoM&fp=firefox#172.66.40.99:443
+vless://9a464637-7d90-4497-af4f-c5c8017a9b77@172.66.40.99:443?type=ws&security=tls&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net#172.66.40.99:443
 vless://b20c84f3-988c-489d-a93f-a42c26aa0c59@165.232.83.84:1500?type=tcp&security=reality&sni=springer-professional.com&fp=firefox&pbk=r7NlMeNf86iG8M1DF9WnU53xVx35pg1rRhLiEeW-618&sid=a93110#165.232.83.84:1500
 hysteria2://cf125f42-759d-4112-82c3-014d2ffcb1e7@185.85.242.177:1443?sni=gbr1.587458.xyz&insecure=1#185.85.242.177:1443
-trojan://fccgh31x-e4lt-48d1-rla3-5f4k5qrs58d5@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://3t9boztj-cky7-z6nr-56t7-ydqvth072ykq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://yat3ws50-7caf-scem-hpgt-77cvvktrcn9h@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ussweomr-vf73-12ck-uxe9-fb5cfsvyddfv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

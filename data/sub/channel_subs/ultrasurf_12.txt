@@ -1,11 +1,7 @@
-trojan://q3gyhnhn-g6nh-n543-8fzl-rh7l1lp9d17h@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/05 | 23:53
-trojan://s6b6vnvw-0xbw-itgh-jpcb-utzwbvwe4sfx@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://vpic63ey-t2rk-zz28-x2z2-u0smy7nl59ag@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://mrafpj3q-7bxi-qz4a-ak5w-vgmi52u5e9u5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/06 | 04:46
+trojan://6szz2fay-2cza-7d5f-k907-85j9phj7bbly@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://o0gw0mnb-rz2l-fx5s-qz2p-sx2629cei103@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQWxsbmV0IFRlbGVncmFtOkB1bHRyYXN1cmZfMTIiLCJhZGQiOiJwYW5lbDMuaXB5YXIub3JnIiwicG9ydCI6MzIwMTcsImlkIjoiYzBjY2RlYjktNzg0Yy00ZDY3LWI5MDQtMjBkY2FhYzk5MDJhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
-vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?type=ws&security=none&path=/vpnowl-vpnowl-vpnowl-vpnowl?ed=2560&sni=barayeiran.mahiozonboroon.qzz.io&fp=random#104.16.191.195:80
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
-vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?type=ws&security=none&path=/@HiByeVPNN?ed=2560&sni=barayeiran.mahiozonboroon.qzz.io&fp=random#104.16.228.91:80
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?type=ws&security=none&path=/vpnowl-vpnowl-vpnowl-vpnowl?ed=2560&sni=barayeiran.mahiozonboroon.qzz.io&fp=random#104.16.191.195:80
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
@@ -24,8 +20,7 @@ vless://9a464637-7d90-4497-af4f-c5c8017a9b77@172.66.40.99:443?type=ws&security=t
 vless://162a7ed8-aee7-485e-9a8d-88ce6604cd6b@172.66.40.99:443?type=ws&security=tls&path=/admin&sni=2free2.aparatir.xyz#172.66.40.99:443
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&security=tls&path=/&sni=hetzner-2.access.name.ng&fp=random#www.speedtest.net:8443
 vless://57a5d042-6618-4042-a2de-1a2169c4ce9d@165.227.244.151:1419?type=tcp&security=reality&sni=journalofbigdata.springeropen.com&fp=firefox&pbk=0L-XvEVE4KLbDk-evkkxEWK3y-Nkz0E181t0PD_o4h4&sid=ae439107157c97#165.227.244.151:1419
-vless://57a5d042-6618-4042-a2de-1a2169c4ce9d@165.227.244.151:1419?type=tcp&security=reality&sni=journalofbigdata.springeropen.com&fp=firefox&pbk=0L-XvEVE4KLbDk-evkkxEWK3y-Nkz0E181t0PD_o4h4&sid=ae439107157c97#165.227.244.151:1419
 vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@russiatest-tap2.servers807.ir:2025?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&sid=a76e2f1d45#russiatest-tap2.servers807.ir:2025
 vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@russiatest-tap2.servers807.ir:2025?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&sid=a76e2f1d45#russiatest-tap2.servers807.ir:2025
-trojan://s8drid9r-w8wt-2ejc-8m0o-hs6dmtkag0mf@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://eqvntmux-sfcz-1x5f-6895-3bepzzqhhkis@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://walyzuvr-nuuj-lnur-5nr5-zud88sz9c32w@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://n3jtv81n-7454-l0uc-1spb-ee5olbmflarb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
