@@ -1,13 +1,13 @@
-trojan://b5ocmium-4ptd-z0br-qugj-frtmhd63kzd1@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/06 | 11:58
-trojan://hufuriax-9dko-knu2-6qpr-6gegi94ww9vw@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://47wxxswa-284h-7bnr-nipa-kqaioh96s2ej@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://1ai801ai-6not-yje6-or2e-07chd1uleli3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/06 | 16:07
+trojan://mk3yvdf2-0c2p-jbm5-c8sw-ejcnv2eetv80@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ty09gqnn-ygdl-ys2v-7618-u69udxj1k6ho@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#api.namasha.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#api.namasha.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#series-a2-mec.varzesh360.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#api.namasha.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#series-a2-mec.varzesh360.co:443
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNmFiXHVmZTBmIFRlbGVncmFtPSBAQ2FuZmluZ19WUE4iLCJhZGQiOiJtb3ZhZ2hhdDIwLmZ1bmZpbC5saW5rIiwicG9ydCI6NDg5MTMsImlkIjoiMDhhM2JkZDItMjE2Ny00NzYxLWI1NDctZThiZDFiNGE0NGVjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
-vless://fd8be803-c16f-4d8f-9dcd-cbad92be1100@js.document.lat:80?type=xhttp&security=none&path=/#js.document.lat:80
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNmFiXHVmZTBmIFRlbGVncmFtPSBAQ2FuZmluZ19WUE4iLCJhZGQiOiIxMDQuMjEuNjIuMTQ0IiwicG9ydCI6NDQzLCJpZCI6IjAxMTJmMTNkLWEzNTctNGFkOC1iZDhiLWJmNDg2ODg1OTNiZCIsImFpZCI6MCwic2N5IjoiemVybyIsIm5ldCI6InhodHRwIiwidHlwZSI6ImF1dG8iLCJob3N0Ijoic2F1cm9uMi5tZWxrb3JlLmlyIiwicGF0aCI6Ii9TYXVyb24vIiwidGxzIjoidGxzIiwic25pIjoic2F1cm9uMi5tZWxrb3JlLmlyIn0
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.205.175:51615?type=tcp&security=none#91.99.205.175:51615
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?type=ws&security=none&path=/upload#add.ski1plag.ir:80
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?type=ws&security=none&path=/upload#add.ski1plag.ir:80
@@ -25,10 +25,9 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?type=ws&security=
 vless://edb4c373-ac92-4430-8f42-94439ca829b9@magical-fish.seotoolsforyou.co.uk:80?type=ws&security=none&path=/?--/V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS#magical-fish.seotoolsforyou.co.uk:80
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#172.67.65.158:8880
 vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#dedicated-development.seotoolsforyou.co.uk:80
-vless://09324ee6-1235-4793-bf9b-0da17a466a69@0000:0000:0000:0000:0000:ffff:5b63:9012:20600?type=grpc&security=reality&sni=www.speedtest.net&fp=firefox&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&sid=adf8a1f5689177a2#0000:0000:0000:0000:0000:ffff:5b63:9012:20600
 vless://39028f63-4adc-4a2c-9a57-9f583cd284e9@nl01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=d3b13f31#nl01-vlr01.tcp-reset-club.net:443
 vless://2a49436b-2b38-46b4-adfc-ded06dcfa63a@rlmx.mxspeed8-3.ir:2035?type=tcp&security=reality&sni=refersion.com&fp=safari&pbk=P5ToEkglPKRO87kgIZycZsfrUKqvHlPlR7Huc-Fu2WM&sid=0aa48381a702e248#rlmx.mxspeed8-3.ir:2035
 vless://2a49436b-2b38-46b4-adfc-ded06dcfa63a@mxt2.mxspeed8-3.ir:8885?type=tcp&security=reality&sni=refersion.com&fp=safari&pbk=P5ToEkglPKRO87kgIZycZsfrUKqvHlPlR7Huc-Fu2WM&sid=0aa48381a702e248#mxt2.mxspeed8-3.ir:8885
 vless://bf989dce-7af7-423b-a499-71da71cdcef1@de6rt.samsungmarketshop.ir:2083?type=xhttp&security=reality&path=/apps/Android/?ed=80&sni=refersion.com&fp=firefox&pbk=53XOEMg4ftOAn_gSdlNndT5Xrfj4PB5J-YKOZoqTODk&sid=aeba#de6rt.samsungmarketshop.ir:2083
-trojan://lucyqlgo-rs8a-nvpo-wmvh-f9ifof036rbl@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://txo68rq8-pmcf-ouoi-vt0c-q7792u4yqe03@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://nfpw0zo7-mpod-rknz-zy94-1nm8fm468e4q@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://wk19wvuo-ha9m-qklg-4u4o-zu5q94dllxo9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

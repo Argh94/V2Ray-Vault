@@ -1,7 +1,6 @@
-trojan://13tr13rn-ocdk-l4g4-ooja-2klktqkptk6g@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/06 | 11:58
-trojan://jt2oqtk4-xc5g-a3ir-snrc-wbocevfmo1j2@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://x7n0ege6-m4r5-7ny6-6i8c-h4cvhb6wwbeb@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#series-a2.samanehha.co:443
+trojan://xqt6iwq4-s7u2-18bs-0spo-r7caqoxe04h2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/06 | 16:07
+trojan://8afj54de-6ee7-4xu0-q7y4-mvbn09c5qlga@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ddwgtdrs-7xft-ysmy-0xtw-0x93m4d7wvxt@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#series-a2.samanehha.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#series-a2.varzesh360.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#series-a2-mec.varzesh360.co:443
@@ -49,6 +48,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#18
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#213.109.147.242:62685
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.181:8080#45.87.175.181:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.141:8080#45.158.171.141:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519#83.147.216.70:64519
 trojan://Pooria@104.17.148.22:443?sni=301.pOORiAm.ir&peer=301.pOORiAm.ir&security=tls#104.17.148.22:443
 trojan://Pooria@104.17.148.22:443?sni=301.pOORiAm.ir&peer=301.pOORiAm.ir&security=tls#104.17.148.22:443
 trojan://Pooria@104.17.148.22:443?sni=301.pOORiAm.ir&peer=301.pOORiAm.ir&security=tls#104.17.148.22:443
@@ -68,7 +68,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiUm9zZVZwblx1ZDgzY1x1ZGYzOUB2MjIycmF5IiwiYWRkIjoiNS4x
 vmess://eyJ2IjoiMiIsInBzIjoiUm9zZVZwblx1ZDgzY1x1ZGYzOUB2MjIycmF5IiwiYWRkIjoiMi41Ni4xMjUuMTAxIiwicG9ydCI6MzgwODgsImlkIjoiMTI3NWVhMTgtYmM5Yy00YmNiLWIzZmQtZmVlNzAyNzJlMTQzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiUm9zZVZwblx1ZDgzY1x1ZGYzOUB2MjIycmF5IiwiYWRkIjoiNS4xODAuMzAuMTQ2IiwicG9ydCI6Mjc3NzMsImlkIjoiYjIzNDcyMzktZGQxNS00MGIzLWI2ODMtNTBjYzJmZjE5YWU3IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiUm9zZVZwblx1ZDgzY1x1ZGYzOUB2MjIycmF5IiwiYWRkIjoiNS4xODAuMzAuODUiLCJwb3J0IjoxODU5OCwiaWQiOiJiZjI2ZjJmYi05ZDJhLTQ5YjYtODUyNy04MmU4YWJhM2E5YTkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvIn0
-vless://73525a25-dfb3-46a7-945b-e4d091a8ee8f@configtell.fastly80-2.hosting-ip.com:80?type=ws&security=none&path=/ConfigTell,ConfigTell,ConfigTell?ed=8089#configtell.fastly80-2.hosting-ip.com:80
 vless://b6cdcef0-b61b-424d-81f8-41e40e762dde@de04.abvpn.ru:443?type=ws&security=tls&path=/websocket&sni=de04.abvpn.ru&fp=chrome#de04.abvpn.ru:443
 vless://1aae9657-c653-495d-e8ad-8ca52916cea8@de.bolagskontaktstockholm.se:443?type=ws&security=tls&path=/ws&fp=chrome#de.bolagskontaktstockholm.se:443
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.36.78:443?type=tcp&security=tls&sni=147135011033.sec21org.com#51.81.36.78:443
@@ -90,16 +89,13 @@ vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@172.67.163.18:443?type=ws&security=
 vless://ea286109-d20f-415e-849e-4af20ab04b65@147135001195.sec22org.com:443?type=tcp&security=tls#147135001195.sec22org.com:443
 vless://c7d543af-1023-4b96-a698-187c190d3f4c@104.22.57.77:443?type=ws&security=tls&path=/47.89.39.186-39251&sni=nautica.foolvpn.me#104.22.57.77:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880?type=grpc&security=none#84.32.9.31:8880
-vless://63a47f68-c0bc-4682-90e5-1fc67c789ff4@92.223.2.119:10065?type=ws&security=none#92.223.2.119:10065
-vless://d83c8440-4bd9-4695-aec5-c39b52313e1c@5.75.193.170:53624?type=ws&security=none#5.75.193.170:53624
-vless://d83c8440-4bd9-4695-aec5-c39b52313e1c@wolf558.royalmt.life:53624?type=ws&security=none&path=/#wolf558.royalmt.life:53624
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?type=grpc&security=none#185.231.205.239:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?type=grpc&security=none#95.164.45.70:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?type=grpc&security=none#185.231.205.234:8880
-vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?type=ws&security=tls&path=/assets&sni=NGINX.NSCl.IR#104.16.243.59:443
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#172.67.65.158:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?type=ws&security=none&path=/fgvtHUpS6R8Rv8s5?ed=2560#104.16.69.162:8880
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.218.14:8443?type=xhttp&security=none&path=/xhttp#91.99.218.14:8443
-trojan://dylyvqxm-1hk9-cel2-3v9t-creclxmu4xnd@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://zuc3sicm-wtkp-mb9p-jk0s-icxm7qusaocs@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?type=grpc&security=none#185.231.205.253:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?type=grpc&security=none#185.231.205.186:8880
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?type=grpc&security=none#45.82.251.78:8880
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?type=tcp&security=none#78.47.44.60:2020
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:8443?type=ws&security=tls&path=/&sni=Q9cI2lEeUz.GiTi4.OrG#104.19.144.33:8443
+vless://8b79f4a9-468f-46cf-9823-ba6cfe529f75@158.160.131.112:14872?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=6b1pXPB9Wc45eeBQxz1cYefETxE_jx1jlaeFaWS1pTc&sid=738a824c0bdf#158.160.131.112:14872
+trojan://55e1x3dj-dnh0-flct-346c-coatwvh3w2vu@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://92sz6wtb-4o3a-5csz-aqgs-z00q0y76ufbc@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

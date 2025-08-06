@@ -1,6 +1,7 @@
-trojan://4e2cd7gi-rs0g-yb9i-4eyr-aiody6ny9oqo@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/06 | 11:58
-trojan://yo0ubprm-qwfg-v13z-d5zy-reuh7sg4k7d8@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://nodnc61n-3qcx-wibw-opqk-7o0r0gnm007r@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://8bztk4i4-m7vu-1gt0-9wi6-xqu665lp7r7p@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/06 | 16:07
+trojan://ry8a9st7-khw7-oh1j-ev0b-1oruu9gzybx9@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://mfeonjwq-wg8k-j3kw-ty50-eiil19yqlq9u@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTEyOC1nY206MTAwODY@153.121.51.214:10087#JP 🇯🇵 ┇ SHADOWSOCKS-TCP-NTLS - SAKURA Internet Inc. ┇ 153.121.51.214
-trojan://ii9l9m1u-eo7s-r8ke-olly-t6zhfiyc293f@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://2sdc2327-v17s-c96r-jv4c-g66sfj2ujtkl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://262100bd-a0c7-4412-a62d-a07d01f11a6a@153.121.42.218:443?sni=www.microsoft.com&insecure=1#JP 🇯🇵 ┇ HYSTERIA2-TCP-NTLS - SAKURA Internet Inc. ┇ 153.121.42.218
+trojan://a1ie5u2a-t5n9-yqeo-cp33-um73z0e0utob@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://280opb0m-pmhc-smcu-tbcg-i02z2n1fab4k@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

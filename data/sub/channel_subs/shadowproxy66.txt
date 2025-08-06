@@ -1,6 +1,6 @@
-trojan://l4011x2b-b41j-344r-rvnw-c97iwnp4oeib@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/06 | 11:58
-trojan://76n2rkor-lsyb-jgqh-cdm8-0bb92yj809px@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://771j4urg-i2or-du69-vo7o-5rqzbc1lb4xd@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://tn2hbfb0-mj0h-nynh-kq6n-zqc3li2s8lof@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/06 | 16:07
+trojan://q4pk8qf7-2qaw-dsz4-6vlx-05ekwl9cmpmd@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://907ww7y8-mqtp-hc17-fk6y-wemk4ossh481@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#193.46.56.185:6683
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456#62.133.63.212:57456
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#46.101.245.131:44354
@@ -33,5 +33,22 @@ vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?type=tcp&security
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&sid=4602ee9f9f36#45.12.143.191:20329
 vless://fd0cdd44-2361-11f0-9970-45e1d80c4039@62.60.233.250:443?type=tcp&security=reality&sni=images.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw&sid=4476a3#62.60.233.250:443
 vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@tr01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=d3b13f31#tr01-vlr01.tcp-reset-club.net:443
-trojan://jxbcu4ky-aqxe-46w2-mzl3-6lhzs4nr5k80@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://54pdlgxr-rs87-yah2-odfg-cgshgzoi1zpg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=www.bing.com&insecure=1#208.87.243.187:22222
+hysteria2://dongtaiwang.com@108.181.5.130:63015?sni=apple.com&insecure=1#108.181.5.130:63015
+hysteria2://cf125f42-759d-4112-82c3-014d2ffcb1e7@185.85.242.177:1443?sni=gbr1.587458.xyz&insecure=1#185.85.242.177:1443
+hysteria2://cc83a02b-90ea-403b-9c76-27e4be95f637@154.204.181.230:50256?sni=www.bing.com&insecure=1#154.204.181.230:50256
+hysteria2://eb75320e-a6d0-4b34-a6b6-2bcfc96a9099@203.174.82.145:43057?sni=www.bing.com&insecure=1#203.174.82.145:43057
+hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:36400?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#2a14:3f87:f001:13::a:36400
+hysteria2://5CBqBh6MeDq6GajcilBiDg%3D%3D@192.227.152.86:61001?sni=192-227-152-86.nip.io&insecure=1#192.227.152.86:61001
+hysteria2://nfsn666@45.207.222.138:8888?sni=hk.nfsn666.gq&insecure=1#45.207.222.138:8888
+hysteria2://8418fb71-419d-4fc3-8b29-d7fee8de76c7@104.168.34.109:443?sni=www.bing.com&insecure=1#104.168.34.109:443
+hysteria2://7992f244-8c2c-4a1a-923f-2e116e90149b@198.23.130.211:443?sni=file-oss-ccs-02.dafei.de&insecure=1#198.23.130.211:443
+hysteria2://bd109dec-b7b5-4f0b-a77d-1181c148712c@47.79.32.141:53272?sni=www.bing.com&insecure=1#47.79.32.141:53272
+hysteria2://664S8kkvFHXmO1auxV6A9gKAHI@18.143.168.252:8030?sni=bing.com&insecure=1#18.143.168.252:8030
+hysteria2://3hszBhqVsUhqOOFWJlev6k6Tkc@18.143.180.14:22509?sni=bing.com&insecure=1#18.143.180.14:22509
+hysteria2://dongtaiwang.com@51.159.111.32:5355?sni=www.bing.com&insecure=1#51.159.111.32:5355
+hysteria2://ba3c2ddf-237d-4f41-a6b5-9706ec5de0fd@45.136.245.177:31008?insecure=1&obfs=salamander#45.136.245.177:31008
+hysteria2://661c828f-2bd3-4b17-b93e-66441ed620d8@107.172.50.179:2053?sni=us01.kittycdn.pp.ua&insecure=1&obfs=salamander#107.172.50.179:2053
+hysteria2://262100bd-a0c7-4412-a62d-a07d01f11a6a@153.121.42.218:443?sni=www.microsoft.com&insecure=1#153.121.42.218:443
+trojan://uf49l73f-9hic-yfqs-fpjk-yv6d1tl54awe@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://mzsik8t5-tf86-u0u6-affz-58dw6q62wo0r@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

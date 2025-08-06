@@ -1,10 +1,6 @@
-trojan://tp4payje-504h-o58x-hzwv-0yq1hfzrntvc@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/06 | 11:58
-trojan://tm3ipxxi-iew5-g2at-p02x-y2s5w7scimjx@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://hty25uxo-c21b-qjp9-fjh5-ie04g56m1q3x@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#45.87.175.35:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#45.87.175.35:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#45.87.175.35:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#45.87.175.35:8080
+trojan://rzlhtlss-0jfc-i5yz-obc0-roi8ik2bm5kb@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/06 | 16:07
+trojan://ejfi5dc5-qo61-pvi5-m41c-mzvhvsxzlzsb@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://rmukxm6q-im8d-69hg-2j1z-y3eu948zt1k7@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#45.87.175.35:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#45.87.175.35:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#45.87.175.35:8080
@@ -221,37 +217,5 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=
 vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?type=tcp&security=none#185.243.51.67:21760
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?type=grpc&security=none#185.231.205.186:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&security=none#185.231.205.248:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?type=ws&security=none&path=/1ycR2zb3KeELWRha?ed=2560#104.17.1.197:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@join.vizzpn.telegram.for.more.freevpn.vizzfrag.ir:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#join.vizzpn.telegram.for.more.freevpn.vizzfrag.ir:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@vizzpn.freenet.channel.vizzfrag.ir:8880?type=ws&security=none&path=/fgvtHUpS6R8Rv8s5?ed=2560#vizzpn.freenet.channel.vizzfrag.ir:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/#104.16.86.73:8880
-vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?type=tcp&security=none#185.243.51.67:21760
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?type=grpc&security=none#185.231.205.186:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&security=none#185.231.205.248:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?type=ws&security=none&path=/1ycR2zb3KeELWRha?ed=2560#104.17.1.197:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@join.vizzpn.telegram.for.more.freevpn.vizzfrag.ir:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#join.vizzpn.telegram.for.more.freevpn.vizzfrag.ir:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@vizzpn.freenet.channel.vizzfrag.ir:8880?type=ws&security=none&path=/fgvtHUpS6R8Rv8s5?ed=2560#vizzpn.freenet.channel.vizzfrag.ir:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/#104.16.86.73:8880
-vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?type=tcp&security=none#185.243.51.67:21760
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?type=grpc&security=none#185.231.205.186:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&security=none#185.231.205.248:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?type=ws&security=none&path=/1ycR2zb3KeELWRha?ed=2560#104.17.1.197:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@join.vizzpn.telegram.for.more.freevpn.vizzfrag.ir:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#join.vizzpn.telegram.for.more.freevpn.vizzfrag.ir:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@vizzpn.freenet.channel.vizzfrag.ir:8880?type=ws&security=none&path=/fgvtHUpS6R8Rv8s5?ed=2560#vizzpn.freenet.channel.vizzfrag.ir:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/#104.16.86.73:8880
-vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?type=tcp&security=none#185.243.51.67:21760
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?type=grpc&security=none#185.231.205.186:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&security=none#185.231.205.248:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/J5aLQOY1R9ONWYCM?ed=2560#104.16.86.73:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?type=ws&security=none&path=/1ycR2zb3KeELWRha?ed=2560#104.17.1.197:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@join.vizzpn.telegram.for.more.freevpn.vizzfrag.ir:8880?type=ws&security=none&path=/Etb1L6YUdZFZuTOr?ed=2560#join.vizzpn.telegram.for.more.freevpn.vizzfrag.ir:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@vizzpn.freenet.channel.vizzfrag.ir:8880?type=ws&security=none&path=/fgvtHUpS6R8Rv8s5?ed=2560#vizzpn.freenet.channel.vizzfrag.ir:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?type=ws&security=none&path=/#104.16.86.73:8880
-vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?type=tcp&security=none#185.243.51.67:21760
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?type=grpc&security=none#185.231.205.186:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&security=none#185.231.205.248:8880
-trojan://gas7ogp5-tcg0-byt3-m0fr-iy47hsbnslua@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://frapcs1y-vdk3-0rgd-75kg-euo2lrs6i7pe@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://l6hx5u1v-gg2s-lynw-w5fw-pf8l2031xvz6@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://3u7xh4tr-ah9f-hsd9-otqd-cap12ur01q3h@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
