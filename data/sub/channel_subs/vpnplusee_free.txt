@@ -1,7 +1,6 @@
-trojan://9asnj9g7-yczn-pcig-naov-ki2rdwlv0qq9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/06 | 08:17
-trojan://4yo0waij-6hej-egca-6nze-wgsqt85sgw3t@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://v9hbpbc6-dvir-qyj4-ymh4-zp5vtkxwrzan@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?type=grpc&security=none#185.231.205.246:8880
+trojan://jiz5cnzc-q1jy-r6um-rcmg-2ycqzitdv4xc@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/06 | 11:58
+trojan://5ycy9yr5-5ky7-n4n6-ymup-5qvy824qnh1m@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://473wc1l5-is36-ubsv-k7gx-h1hpu15o0ls2@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
 vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=vPb.SpEeDtEsT2029.CoM&fp=firefox#172.66.40.99:443
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.167.73:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#15.188.167.73:22224
@@ -19,6 +18,7 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=
 vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=vPb.SpEeDtEsT2029.CoM&fp=firefox#172.66.40.99:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.57:8880?type=grpc&security=none#88.216.187.57:8880
 vless://8a83985a-77e1-4a4f-9a81-dda433403913@www.speedtest.net:443?type=ws&security=tls&path=/tr?ed=2560&sni=cftr.changiz.cloud&fp=randomized#www.speedtest.net:443
-vless://11FuseVPN----------ProxyPJ@pj.bestirstorei.top:60000?type=grpc&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=7tLNRTi59oqO5FYHExWge-LbEdRpyk9n6x0PJWK2UiY&sid=e1573b#pj.bestirstorei.top:60000
-trojan://9ca44w7u-f9bj-8uer-e1ko-jwnv4pgtha1y@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://jptd2oh5-l908-xnbi-s8ae-4a4eyhze8qvr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.226.165:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#35.181.226.165:22224
+vless://decb4fce-bd8a-4d8b-a81f-2e393ee9ee02@162.19.250.162:24209?type=tcp&security=none#162.19.250.162:24209
+trojan://8vk7gmi3-rg4u-zh44-z4s5-8q60zv71zbku@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://qdjozqw2-r2xh-wkhd-ykj4-xgsb8q43t1tg@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,10 +1,8 @@
-trojan://bbpq4t9x-ttha-vrik-kpob-iakhemab9lx2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/06 | 08:17
-trojan://ynf90tf2-op2q-a17x-nyck-78fobq2wv2jv@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://1nberxn9-zs4y-ts04-1xmc-6jwj1u57dyr6@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPanNpSVZaMGU0Y21WUDJQdERqVjd6@45.95.233.46:14123#45.95.233.46:14123
+trojan://vlns9x9w-bwou-csa4-wuoa-bucq8wjzvrgf@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/06 | 11:58
+trojan://u4x5iq7h-c1c5-x6v1-5v73-lrpm2vzbbwiy@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://tj7xa94a-g7ml-8elz-mmi8-obeglbbaft9h@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#45.139.24.24:57456
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptU1FpdVQ1alIxN255V2djWE9QclRX@77.105.166.12:8594#77.105.166.12:8594
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?sni=vpn.stupidworld.web.id&peer=vpn.stupidworld.web.id&security=tls#172.67.181.173:443
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path==zani.yaemiko.ggff.net#telegram--MTMVPN---telegram--MTMVPN?ed=512&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020?type=tcp&security=none#78.46.251.109:2020
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?type=ws&security=tls&path==zani.yaemiko.ggff.net/?MTMVPN?ed=512&sni=carlotta.shoorekeeper.cloudns.org&fp=chrome#104.26.14.69:443
@@ -21,5 +19,7 @@ vless://8df60790-c903-4661-b85d-64c0009378e5@188.114.96.6:443?type=ws&security=t
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.ums.id:443?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#www.ums.id:443
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@104.21.27.178:2096?type=ws&security=tls&path=/proxyip=robin.yaemiko.ggff.net/MTMVPNN&sni=verina.ccantarella.dns-dynamic.net&fp=randomized#104.21.27.178:2096
 vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?type=ws&security=tls&path=/?ed=#Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&sni=rayan-roof.atena.dpdns.org&fp=chrome#cdnjs.com:443
-trojan://wyp2ubeo-ybij-dpk0-x8uq-1skevg21mr7d@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://gh9ku21c-ndzh-llb4-3vkv-4u0bhooe4j8y@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@62.60.178.19:20321?type=tcp&security=none#62.60.178.19:20321
+vless://decb4fce-bd8a-4d8b-a81f-2e393ee9ee02@162.19.250.162:24209?type=tcp&security=none#162.19.250.162:24209
+trojan://wti9ykh5-sr70-e4cj-pl7n-x857es8iqert@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://xoo0vwzc-zz4v-i0zd-7rap-lhk9mzzo7jdi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
