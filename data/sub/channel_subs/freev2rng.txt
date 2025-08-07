@@ -1,6 +1,6 @@
-trojan://9ew3ebkm-1wwr-5ldd-783p-bvmt2pmb2tlg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/07 | 08:17
-trojan://ogp6f4cr-rrhi-owp9-ku6d-byga920tjpnd@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://0klmu4dn-f0gx-j9au-d0c8-2wdhorzm86sw@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://e8fm8f1a-rnt1-s0va-lu9q-aszzpwake8ca@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/07 | 11:58
+trojan://y39dt7oy-yhha-zsqm-yzt8-6l8ml4t49sm2@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://rv09s85k-0rsn-eowq-5m4m-kjk070geo08r@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456#62.133.63.212:57456
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@147.45.178.200:57456#147.45.178.200:57456
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEa0E3T3hTYWJSdHRQSnpPOUNjZjdM@162.243.245.151:31100#162.243.245.151:31100
@@ -118,5 +118,6 @@ vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@tr01-vlr01.tcp-reset-club.net:443?t
 vless://1dc60f16-1593-485e-949d-8459edba6430@92.53.107.193:27129?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=pqVSxW8Vukd7XiPZUQTd9ADNT2XBrCGJ4q2-7n6kQXQ&sid=d70393f0ad1c7552#92.53.107.193:27129
 vless://e490690c-388b-4d0e-90de-dd6f8e7619a3@v26.gaterserver.ir:1370?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#v26.gaterserver.ir:1370
 vless://0eb4ea60-bdd0-46c2-b2a0-fdb3c7a37318@ita01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2#ita01-vlr01.tcp-reset-club.net:443
-trojan://f3dg9o1p-c68l-n4wl-7w74-v1h0imq5lrqj@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://67dm96sw-jq38-vgmv-7kkx-41msywmxlja5@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@nl01-vlr01.tcp-reset-club.net:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=d3b13f31#nl01-vlr01.tcp-reset-club.net:443
+trojan://15rjwxws-rje2-4l8e-bcz5-kzqsfkrdj5ni@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://0dinkspk-c656-7n06-7p6m-a3zalkogn27n@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

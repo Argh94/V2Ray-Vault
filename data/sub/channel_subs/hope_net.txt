@@ -1,29 +1,6 @@
-trojan://aepd0csf-dvsw-dbqo-cmnw-87wytglu6xq1@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/07 | 08:17
-trojan://f0xqojys-1anq-u203-3q8y-2dopbc66w5hr@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://4i8qcbiv-dczo-ywlw-r27g-1uugqb3bph4l@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@69.50.95.179:6379#69.50.95.179:6379
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.69:7001#38.114.114.69:7001
-trojan://bpb-trojan@104.129.164.50:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#104.129.164.50:443
-trojan://NISHIKUITAN111@104.27.99.161:443?security=tls#104.27.99.161:443
-trojan://NISHIKUITAN111@104.16.59.156:443?security=tls#104.16.59.156:443
-trojan://NISHIKUITAN111@45.159.216.191:443?security=tls#45.159.216.191:443
-trojan://NISHIKUITAN111@172.67.250.67:443?security=tls#172.67.250.67:443
-trojan://bpb-trojan@198.41.211.21:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#198.41.211.21:443
-trojan://NISHIKUITAN111@104.254.140.141:443?security=tls#104.254.140.141:443
-trojan://bpb-trojan@89.116.46.33:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#89.116.46.33:443
-trojan://NISHIKUITAN111@89.117.112.181:443?security=tls#89.117.112.181:443
-trojan://NISHIKUITAN111@156.225.72.128:443?security=tls#156.225.72.128:443
-trojan://bpb-trojan@146.19.21.61:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#146.19.21.61:443
-trojan://NISHIKUITAN111@45.159.218.63:443?security=tls#45.159.218.63:443
-trojan://bpb-trojan@172.67.228.31:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#172.67.228.31:443
-trojan://bpb-trojan@172.67.238.207:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#172.67.238.207:443
-trojan://NISHIKUITAN111@172.64.138.6:443?security=tls#172.64.138.6:443
-trojan://NISHIKUITAN111@198.41.195.245:443?security=tls#198.41.195.245:443
-trojan://telegram-id-directvpn@15.223.164.26:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#15.223.164.26:22222
-trojan://NISHIKUITAN111@104.20.239.74:443?security=tls#104.20.239.74:443
-trojan://bpb-trojan@45.81.58.174:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#45.81.58.174:443
-trojan://bpb-trojan@172.67.243.254:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#172.67.243.254:443
-trojan://bpb-trojan@154.83.2.121:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#154.83.2.121:443
+trojan://cg9sahqu-wdq6-3wm9-k7ud-abwsdf51fu0f@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/07 | 11:58
+trojan://pbc2d2h4-r3jh-hvzm-e8ed-hhfrjchhungy@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://7rnbx41t-hv2y-53vc-65g1-8qsxgf0slwm5@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://NISHIKUITAN111@104.25.221.170:443?security=tls#104.25.221.170:443
 trojan://NISHIKUITAN111@162.159.35.80:443?security=tls#162.159.35.80:443
 trojan://bpb-trojan@193.9.49.23:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#193.9.49.23:443
@@ -64,20 +41,45 @@ trojan://NISHIKUITAN111@159.246.55.202:443?security=tls#159.246.55.202:443
 trojan://NISHIKUITAN111@172.67.240.19:443?security=tls#172.67.240.19:443
 trojan://NISHIKUITAN111@89.116.250.94:443?security=tls#89.116.250.94:443
 trojan://NISHIKUITAN111@162.159.20.97:443?security=tls#162.159.20.97:443
-vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxNTQuMTk3Ljc1LjI0OCIsInBvcnQiOjIwODIsImlkIjoiNWYzZjA5YWQtODljYi00ZTk0LWE3YWQtYWE4MjM5OTEzNTU1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvZ2l0aHViLmNvbS9BbHZpbjk5OTkifQ
-vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxNjAuMTUzLjAuMTYwIiwicG9ydCI6MjA4MiwiaWQiOiI1ZjNmMDlhZC04OWNiLTRlOTQtYTdhZC1hYTgyMzk5MTM1NTUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9naXRodWIuY29tL0FsdmluOTk5OSJ9
-vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxMjcuMC4wLjEiLCJwb3J0Ijo4MDgwLCJpZCI6ImNhYWFiYmMtYmFjYS1iYWNhLWJhZGMtY2JhY2JjYWNhYWJiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0
-vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxODUuMTM1LjkuNDEiLCJwb3J0IjoyMDgyLCJpZCI6IjVmM2YwOWFkLTg5Y2ItNGU5NC1hN2FkLWFhODIzOTkxMzU1NSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2dpdGh1Yi5jb20vQWx2aW45OTk5In0
+trojan://NISHIKUITAN111@198.41.201.193:443?security=tls#198.41.201.193:443
+trojan://NISHIKUITAN111@104.20.216.58:443?security=tls#104.20.216.58:443
+trojan://NISHIKUITAN111@172.67.235.2:443?security=tls#172.67.235.2:443
+trojan://bpb-trojan@45.194.53.231:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#45.194.53.231:443
+trojan://NISHIKUITAN111@172.64.205.164:443?security=tls#172.64.205.164:443
+trojan://NISHIKUITAN111@172.67.231.25:443?security=tls#172.67.231.25:443
+trojan://NISHIKUITAN111@104.22.29.133:443?security=tls#104.22.29.133:443
+trojan://NISHIKUITAN111@104.24.189.5:443?security=tls#104.24.189.5:443
+trojan://bpb-trojan@185.162.229.179:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#185.162.229.179:443
+trojan://NISHIKUITAN111@141.101.121.134:443?security=tls#141.101.121.134:443
+trojan://NISHIKUITAN111@104.25.99.96:443?security=tls#104.25.99.96:443
+trojan://NISHIKUITAN111@172.67.234.222:443?security=tls#172.67.234.222:443
+trojan://NISHIKUITAN111@104.25.53.79:443?security=tls#104.25.53.79:443
+trojan://NISHIKUITAN111@94.242.230.138:443?security=tls#94.242.230.138:443
+trojan://NISHIKUITAN111@89.116.180.246:443?security=tls#89.116.180.246:443
+trojan://NISHIKUITAN111@103.21.244.129:443?security=tls#103.21.244.129:443
+trojan://NISHIKUITAN111@172.66.45.29:443?security=tls#172.66.45.29:443
+trojan://NISHIKUITAN111@172.67.199.141:443?security=tls#172.67.199.141:443
+trojan://bpb-trojan@45.80.110.224:443?sni=bpb.my79801.com&peer=bpb.my79801.com&security=tls#45.80.110.224:443
+trojan://NISHIKUITAN111@195.85.23.232:443?security=tls#195.85.23.232:443
+trojan://NISHIKUITAN111@172.67.242.135:443?security=tls#172.67.242.135:443
+trojan://NISHIKUITAN111@173.245.49.55:443?security=tls#173.245.49.55:443
+trojan://NISHIKUITAN111@31.43.179.32:443?security=tls#31.43.179.32:443
+trojan://NISHIKUITAN111@104.27.42.14:443?security=tls#104.27.42.14:443
+trojan://NISHIKUITAN111@104.20.168.253:443?security=tls#104.20.168.253:443
+trojan://NISHIKUITAN111@104.22.79.154:443?security=tls#104.22.79.154:443
+trojan://NISHIKUITAN111@45.131.4.208:443?security=tls#45.131.4.208:443
+trojan://NISHIKUITAN111@5.182.84.93:443?security=tls#5.182.84.93:443
+trojan://NISHIKUITAN111@185.170.166.26:443?security=tls#185.170.166.26:443
+trojan://NISHIKUITAN111@104.21.6.215:443?security=tls#104.21.6.215:443
 vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiI5NC4yNDIuMjMxLjE4OCIsInBvcnQiOjIwODIsImlkIjoiNWYzZjA5YWQtODljYi00ZTk0LWE3YWQtYWE4MjM5OTEzNTU1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvZ2l0aHViLmNvbS9BbHZpbjk5OTkifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxNjguMTAwLjYuNDYiLCJwb3J0IjoyMDgyLCJpZCI6IjVmM2YwOWFkLTg5Y2ItNGU5NC1hN2FkLWFhODIzOTkxMzU1NSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2dpdGh1Yi5jb20vQWx2aW45OTk5In0
 vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxODguNDIuODguMTk4IiwicG9ydCI6MjA4MiwiaWQiOiI1ZjNmMDlhZC04OWNiLTRlOTQtYTdhZC1hYTgyMzk5MTM1NTUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9naXRodWIuY29tL0FsdmluOTk5OSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiI0NS45NC4xNjkuMTYzIiwicG9ydCI6MjA4MiwiaWQiOiI1ZjNmMDlhZC04OWNiLTRlOTQtYTdhZC1hYTgyMzk5MTM1NTUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9naXRodWIuY29tL0FsdmluOTk5OSJ9
-vless://44ce1a7d-d5fc-11ee-aaa8-00505603e70d@172.67.73.241:443?type=ws&security=tls&path=/websocket&sni=st-pl-1.brocdn.com#172.67.73.241:443
-vless://3e0a14f1-caf1-4cbb-a0fc-c9e7597fc19c@51.195.43.122:49685?type=tcp&security=tls&path=/&sni=de.musicbaaz.ir&fp=randomized#51.195.43.122:49685
+vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxNTQuODMuMi4xMjEiLCJwb3J0IjoyMDgyLCJpZCI6IjVmM2YwOWFkLTg5Y2ItNGU5NC1hN2FkLWFhODIzOTkxMzU1NSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2dpdGh1Yi5jb20vQWx2aW45OTk5In0
+vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxNzAuMTE0LjQ2LjIxOSIsInBvcnQiOjIwODIsImlkIjoiNWYzZjA5YWQtODljYi00ZTk0LWE3YWQtYWE4MjM5OTEzNTU1IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvZ2l0aHViLmNvbS9BbHZpbjk5OTkifQ
 vless://de9887c4-2d87-41b5-afa5-7a423f85fac7@185.146.173.52:443?type=splithttp&security=tls&path=/melo?ed=2096&sni=chat.black-melo.store&fp=chrome#185.146.173.52:443
 vless://49a2c7ca-002e-484c-fe76-bed8122007b1@152.42.163.217:443?type=ws&security=tls&path=/&sni=aka.ms#152.42.163.217:443
 vless://bacabac-acab-acba-cadb-ccaabcacbbab@127.0.0.1:8080?type=tcp&security=tls#127.0.0.1:8080
-vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.235.141.7:80?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#172.235.141.7:80
 vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.235.151.36:80?type=tcp&security=reality&sni=zula.ir&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#172.235.151.36:80
-trojan://al5xixpp-1tmr-1kk7-lxhz-z30fdwmey6pl@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://xrj2ao8a-ogon-3em3-7xql-l3f0ujj2mt81@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://r96bcjgi-8yfp-z6tx-2qlc-xwuq14h9no05@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ioqohh5y-sdjz-m1cg-qm9b-036yw0a6itve@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

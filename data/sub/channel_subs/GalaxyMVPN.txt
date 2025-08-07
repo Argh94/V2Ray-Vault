@@ -1,8 +1,6 @@
-trojan://u23s0tfn-5m8q-074r-lmcv-634dftd7iirp@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/07 | 08:17
-trojan://xqgr6xp3-scyt-2w0t-32r9-68gwniv3x8f1@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://h39migfy-y9a9-8qvf-9lmw-sjnbnmcfivdw@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#193.29.139.240:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#45.87.175.183:8080
+trojan://xjsu7h0e-6em6-tnmq-6omn-0o1b90z41rb1@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/07 | 11:58
+trojan://mdi3watv-cn51-ioud-k7tf-tp581o0grtzz@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://6j02vsia-kcr2-oc72-qqsb-q3se803htmy0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRUlYVUJCOUQ4bFNUbjFDNFJFOU0x@h110vpnde2.outlinekeys.net:53122#h110vpnde2.outlinekeys.net:53122
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ckVydG84WHpMQUxhUUVzbFRwX2p3@universal.opengate.wiki:2222#universal.opengate.wiki:2222
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990#188.214.36.155:990
@@ -16,16 +14,18 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#193.29.139.240:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519#83.147.216.70:64519
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#45.87.175.171:8080
-trojan://telegram-id-privatevpns@35.156.105.59:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#35.156.105.59:22222
-trojan://telegram-id-directvpn@35.156.105.59:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#35.156.105.59:22223
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#4.223.106.151:48172
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519#83.147.216.70:64519
 trojan://telegram-id-directvpn@3.78.38.140:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#3.78.38.140:22223
 trojan://telegram-id-privatevpns@3.78.38.140:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#3.78.38.140:22222
 trojan://telegram-id-privatevpns@15.236.2.100:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#15.236.2.100:22222
 trojan://telegram-id-directvpn@15.236.2.100:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#15.236.2.100:22223
 trojan://telegram-id-privatevpns@15.188.103.156:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#15.188.103.156:22222
 trojan://telegram-id-directvpn@15.188.103.156:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#15.188.103.156:22223
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNmExXHVmZTBmVGVsZWdyYW0gPSBAR2FsYXh5TVZQTiIsImFkZCI6InBhbmVsMS5pcHlhci5vcmciLCJwb3J0Ijo0MjY4NCwiaWQiOiJjNGJkOWViYS04YWVhLTRkNWUtYTJlZS1iNWRlNjVhYzE0ZTEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNmExXHVmZTBmVGVsZWdyYW0gPSBAR2FsYXh5TVZQTiIsImFkZCI6IjEwNC4yMS4yNC4xODAiLCJwb3J0Ijo4MDgwLCJpZCI6ImNmMWZjNTlmLTI3YzktNDJiNy1hM2I0LTg1YjA2ZWU5Y2ZlNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8yMDM4Ni9uZVh0TGlmZSJ9
+trojan://telegram-id-privatevpns@3.126.80.76:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#3.126.80.76:22222
+trojan://telegram-id-directvpn@3.126.80.76:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#3.126.80.76:22223
+trojan://telegram-id-directvpn@52.59.100.190:22223?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#52.59.100.190:22223
+trojan://telegram-id-privatevpns@52.59.100.190:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#52.59.100.190:22222
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNmExXHVmZTBmVGVsZWdyYW0gPSBAR2FsYXh5TVZQTiIsImFkZCI6Im5wbWpzLmNvbSIsInBvcnQiOjgwODAsImlkIjoiZDNtMXh2azUwayIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvZG93bmxvYWQvY2RuIn0
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNmExXHVmZTBmVGVsZWdyYW0gPSBAR2FsYXh5TVZQTiIsImFkZCI6IjU3LjEyOS43Ny4xNzkiLCJwb3J0IjoxMDIsImlkIjoiODdmMDhmOGItNDkzNC00YTBiLTg1YTYtNTViNWE3OTM0NzBjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNmExXHVmZTBmVGVsZWdyYW0gPSBAR2FsYXh5TVZQTiIsImFkZCI6IjE4OC4yMTIuOTYuMjM1IiwicG9ydCI6MjA1MjEsImlkIjoiOWZlMjhkMTItOGNmMS00NzhkLWI0ZDQtZTM4YzUyMTIzNTRjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii8ifQ
@@ -35,24 +35,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyNmExXHVmZTBmVGVsZWdyYW0gPSBAR2FsYXh5TVZQTiIsImFk
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNmExXHVmZTBmVGVsZWdyYW0gPSBAR2FsYXh5TVZQTiIsImFkZCI6IjU3LjEyOS43Ny4xNzkiLCJwb3J0IjoxMDIsImlkIjoiODdmMDhmOGItNDkzNC00YTBiLTg1YTYtNTViNWE3OTM0NzBjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiLyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNmExXHVmZTBmVGVsZWdyYW0gPSBAR2FsYXh5TVZQTiIsImFkZCI6InBhbmVsMS5pcHlhci5vcmciLCJwb3J0Ijo0MjY4NCwiaWQiOiJjNGJkOWViYS04YWVhLTRkNWUtYTJlZS1iNWRlNjVhYzE0ZTEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNmExXHVmZTBmVGVsZWdyYW0gPSBAR2FsYXh5TVZQTiIsImFkZCI6ImN1c3RvbWVycy50ZWxlLXNob3AtdG9vLnN0dWRpbyIsInBvcnQiOjMzMjAzLCJpZCI6IjY5NWUzNTliLWY0NGMtNDcwMS05ZDcwLTg0ZmMwZTdjZWEwYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net/?ShadowProxy66&sni=carlotta.shoorekeeper.cloudns.org&fp=random#104.18.36.24:443
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@f6.sarasimano.com:2096?type=ws&security=tls&path=/#f6.sarasimano.com:2096
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@f5.sarasimano.com:2096?type=ws&security=tls&path=/#f5.sarasimano.com:2096
-vless://378b8e58-6a23-4fc6-b227-67665a78033d@dailyconfigs.fast.hosting-ip.com:80?type=xhttp&security=none&path=/#dailyconfigs.fast.hosting-ip.com:80
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?type=grpc&security=none#185.231.205.186:8880
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?type=grpc&security=none#185.231.205.253:8880
-vless://f515c834-d3f9-4be2-9326-f72a0d3b6c11@102.177.189.251:8080?type=httpupgrade&security=none&path=/?ed=1024#102.177.189.251:8080
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.218.14:8443?type=xhttp&security=none&path=/xhttp#91.99.218.14:8443
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path==zani.yaemiko.ggff.net#TELEGRAM-YamYamProxy_YamYamProxy?ed=512&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
-vless://20d89e74-7f6a-4a6e-a37f-7ba96272e4a6@gem.talashit.com:8282?type=tcp&security=none#gem.talashit.com:8282
-vless://TELEGRAM_JKVPN__JKVPN@www.speedtest.net:80?type=ws&security=none&path=/TELEGRAM_JKVPN_JKVPN_JKVPN_JKVPN_JKVPN_JKVPN__TELEGRAM_JKVPN_JKVPN_JKVPN_JKVPN_JKVPN_JKVPN_TELEGRAM_JKVPN_JKVPN_JKVPN_JKVPN_JKVPN___JKVPN?ed=2048#www.speedtest.net:80
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?type=tcp&security=none#78.47.44.60:2020
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@116.203.249.124:2020?type=tcp&security=none#116.203.249.124:2020
-vless://Parsashonam-Bot-12@185.146.173.39:8080?type=httpupgrade&security=none&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056#185.146.173.39:8080
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.156.105.59:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#35.156.105.59:22224
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?type=ws&security=tls&path=/&sni=carlotta.shoorekeeper.cloudns.org#104.18.36.24:443
-vless://4751adcd-064b-493e-979b-b1c56c133cb4@188.114.98.6:80?type=ws&security=none&path=/#188.114.98.6:80
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.78.38.140:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#3.78.38.140:22224
 vless://378b8e58-6a23-4fc6-b227-67665a78033d@v2xay.fast.hosting-ip.com:80?type=xhttp&security=none&path=/#v2xay.fast.hosting-ip.com:80
 vless://Parsashonam-295@2a01:4f8:1c1a:dc2b::1:8888?type=tcp&security=none#2a01:4f8:1c1a:dc2b::1:8888
@@ -173,12 +155,27 @@ vless://0677795c-0191-4879-97b7-26eed229f947@103.231.75.20:443?type=ws&security=
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?type=ws&security=tls&sni=carlotta.shoorekeeper.cloudns.org&fp=random#172.64.151.232:443
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net/@VPNBaz---@VPNBaz---@VPNBaz&sni=carlotta.shoorekeeper.cloudns.org&fp=random#104.18.36.24:443
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?type=ws&security=tls&path=/@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=random#104.18.36.24:443
-vless://ef4b62a4-9cf3-43a4-999c-fcb06eb99b18@159.65.215.131:44486?type=xhttp&security=reality&path=/V2ray_official----V2ray_official----V2ray_official----V2ray_official----V2ray_official----V2ray_official----V2ray_official----V2ray_officialV2ray_official----V2ray_official&sni=zhaket.com&fp=chrome&pbk=4Iu8Qa-XePGCSkg0_W_KEUV7bJj7ysmfAYsOJvZsFxM&sid=1b74288a#159.65.215.131:44486
-vless://a2c536b8-9b1c-4aea-a6ec-35fdc407c84d@api.dayhostpro.com:57297?type=tcp&security=reality&sni=assets01.surveymonkey.com&fp=chrome&flow=xtls-rprx-vision&pbk=DAkye38FaoQNbOpsdebtSJLM1VfbtKIdG6ujUGjkRi8&sid=60bd80#api.dayhostpro.com:57297
-vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@46.62.168.70:23737?type=grpc&security=reality&sni=varzesh3.com&fp=chrome&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&sid=7c0b6c88fe5c#46.62.168.70:23737
-vless://2f0f5525-5376-4820-a9b5-90064664a35d@soren1.risktravelers.top:26779?type=xhttp&security=reality&path=/landing/used/?utm_source=DKHEADER&utm_medium=HEADERBTM&utm_campaign=DKHEADER-USED&utm_id=DK-HEADER-USEDLANDING&sni=canva.com&fp=chrome&pbk=vvnHrHSA5bEUrUChLnljMVrJTsSQxIVTvB-6LR8KXhw&sid=76b5#soren1.risktravelers.top:26779
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#amazon-17.cristiano.name.ng:443
-vless://d0a86835-954b-4c2d-9f35-584ce0e052be@136.243.79.227:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=175d#136.243.79.227:443
+vless://COPE_AZ_CHANEL_JKVPN-JKVPN@79.137.195.203:80?type=ws&security=none&path=/TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048#79.137.195.203:80
+vless://JKVPN__ـ__JKVPN@79.137.195.203:8888?type=ws&security=none&path=/TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048#79.137.195.203:8888
+vless://7897c4a6-7556-431d-b3e0-9965580efef4@31.56.146.132:54099?type=tcp&security=none#31.56.146.132:54099
+vless://43ef78f8-ae84-402d-982d-8fe8b53b8d37@137.184.169.16:443?type=xhttp&security=none&path=/sf#137.184.169.16:443
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:8443?type=ws&security=tls&path=/#95.164.18.5:8443
+vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?type=ws&security=tls&path=/jzmdpvws#185.234.66.82:443
+vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?type=ws&security=tls&path=/kcknkyws#95.164.6.214:443
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:2096?type=ws&security=tls&path=/#94.131.122.76:2096
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.126.80.76:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#3.126.80.76:22224
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?type=ws&security=tls&path=/proxyip&sni=carlotta.shoorekeeper.cloudns.org&fp=chrome#104.21.67.12:443
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&security=tls&path=/&sni=hetzner-2.access.name.ng&fp=random#www.speedtest.net:8443
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.101.201:2096?type=ws&security=tls&path=/#77.91.101.201:2096
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.101.201:443?type=ws&security=tls&path=/#77.91.101.201:443
+vless://43ef78f8-ae84-402d-982d-8fe8b53b8d37@134.122.41.60:443?type=xhttp&security=none&path=/sf#134.122.41.60:443
+vless://43ef78f8-ae84-402d-982d-8fe8b53b8d37@142.93.156.247:443?type=xhttp&security=none&path=/sf#142.93.156.247:443
+vless://60216396-9001-451a-aa7b-8e57bb4c6b50@195.42.233.135:443?type=ws&security=tls&path=/pfrlouws#195.42.233.135:443
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.59.100.190:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#52.59.100.190:22224
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?type=grpc&security=none#45.82.251.78:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?type=grpc&security=none#185.231.205.186:8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?type=grpc&security=none#185.231.205.253:8880
 vless://Parsashonam@91.99.16.244:443?type=xhttp&security=reality&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&sni=Google.com&fp=chrome&pbk=sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8&sid=61e683d41fdb#91.99.16.244:443
 vless://ad0c943c-01ea-40d1-8f69-7f811f766da6@49.12.119.56:2083?type=grpc&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7#49.12.119.56:2083
 vless://ad0c943c-01ea-40d1-8f69-7f811f766da6@91.107.168.101:2083?type=grpc&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7#91.107.168.101:2083
@@ -197,5 +194,8 @@ vless://1b38f1a4-5d20-44a9-a4d3-ca621ebfefbf@2a03:b0c0:3:f0:0:1:230e:f000:27270?
 vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443?type=tcp&security=reality&fp=chrome&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&sid=974a74bf#vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443
 vless://ef4b62a4-9cf3-43a4-999c-fcb06eb99b18@159.65.215.131:44486?type=xhttp&security=reality&path=/V2ray_official----V2ray_official----V2ray_official----V2ray_official----V2ray_official----V2ray_official----V2ray_official----V2ray_officialV2ray_official----V2ray_official&sni=zhaket.com&fp=chrome&pbk=4Iu8Qa-XePGCSkg0_W_KEUV7bJj7ysmfAYsOJvZsFxM&sid=1b74288a#159.65.215.131:44486
 vless://77834f67-2b29-4adf-b39b-b4f1bcd729dc@91.99.216.9:8443?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#91.99.216.9:8443
-trojan://a8fn2rfv-2i98-5ir5-mtoj-3ylc3cti5znb@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://5vakeqii-d6zg-65wv-72x5-0xx5w5e5711e@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://10e72fbe-78c9-483b-9ddd-26b33ecd02f6@87.120.205.76:1002?type=xhttp&security=reality&path=/Api/AS&sni=cdn.jsdelivr.net&fp=firefox&pbk=ZR-m-ptbkHU71ZoH-jRM8L1NqSN1rzW738PsSHFwkik#87.120.205.76:1002
+vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@abzartun2.divartehran.online:23737?type=grpc&security=reality&sni=varzesh3.com&fp=chrome&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&sid=7c0b6c88fe5c#abzartun2.divartehran.online:23737
+vless://3f042483-c71c-40cc-a4b7-d79f80db4253@91.107.243.238:2025?type=grpc&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&sid=8d9c20be72b4#91.107.243.238:2025
+trojan://q3zsvvny-yalx-gv6r-jysh-vzl5f1tlw6na@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://pwp2opki-jpdd-5gvo-63pm-ghzwnhvep4sj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
