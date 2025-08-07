@@ -1,9 +1,7 @@
-trojan://6lz0r7qn-9gi0-dybz-uuzy-94b3lhswa66s@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/07 | 11:58
-trojan://kkw4bebd-v0zd-gbj2-q820-7ldc5o9g7aa4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://l5uz5y6p-mtwq-l8m3-0tk6-doylyfwbmbs5@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://xck0exz6-7pzc-dqoe-9hrd-8csl21q3lisj@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/07 | 16:07
+trojan://hfbeqvge-n8ht-ilgy-ssrt-lbg3w8ha8yy4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://cefufxjo-3qf7-4zfb-y2s8-n1ii7anhb6z7@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQG1lbGljb25maW5nIiwiYWRkIjoicGFuZWwxLmlweWFyLm9yZyIsInBvcnQiOjQyNjg0LCJpZCI6ImM0YmQ5ZWJhLThhZWEtNGQ1ZS1hMmVlLWI1ZGU2NWFjMTRlMSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://98b020e6-50f0-4247-864a-226b0129e9ce@8.47.69.4:80?type=ws&security=none&path=/www.speedtest.net/index.html-www.google.com?ed=2048#8.47.69.4:80
-vless://0d932ac5-92f2-44d5-9b58-900a2a6c370c@94.131.111.200:8775?type=tcp&security=none#94.131.111.200:8775
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?type=ws&security=tls&sni=carlotta.shoorekeeper.cloudns.org&fp=random#172.64.151.232:443
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.219.10:443?type=xhttp&security=none&path=/ds#91.99.219.10:443
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@168.119.245.178:2020?type=tcp&security=none#168.119.245.178:2020
@@ -26,5 +24,5 @@ vless://fd0cdd44-2361-11f0-9970-45e1d80c4039@62.60.233.250:443?type=tcp&security
 vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@abzartun2.divartehran.online:23737?type=grpc&security=reality&sni=varzesh3.com&fp=chrome&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&sid=7c0b6c88fe5c#abzartun2.divartehran.online:23737
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@35.90.0.119:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#35.90.0.119:443
 vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443?type=tcp&security=reality&fp=chrome&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&sid=974a74bf#vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443
-trojan://x1l6jid9-ots8-v3c6-whhy-2r0h5c4ngwz6@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://y147i8lx-d2kq-d2qq-6o82-4o39sb6f28uv@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://oiemapkw-ai3v-juyd-k7p8-9gag12nc90sn@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://5q9kbiy3-89j2-19go-qumz-b13gaa6oh5aa@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
