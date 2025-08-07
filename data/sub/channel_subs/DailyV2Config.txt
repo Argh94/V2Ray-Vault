@@ -1,24 +1,14 @@
-trojan://24b7qvnw-pxr9-fzue-mcmf-1j4qub6ltms1@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/07 | 04:46
-trojan://bs3oxbo0-jnui-odah-xj3q-png2h7sm0arf@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://8ij11csn-oeol-2clo-vle6-r7pn37xemrni@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQUERJNGVUQ1NVelE@89.185.84.172:443#89.185.84.172:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#213.109.147.242:62685
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#142.4.216.225:80
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#104.167.197.25:57456
-vmess://eyJ2IjoiMiIsInBzIjoiTFYgXHVkODNjXHVkZGYxXHVkODNjXHVkZGZiIHwgVk1lc3MgfCAyMTYuMTczLioqKi4qKioiLCJhZGQiOiIyMTYuMTczLjY5LjI1MCIsInBvcnQiOjg0NDMsImlkIjoiOTEzODIwOTItMjMzMC00NTViLThhMWMtOWMxMjljZmU2NjFhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLyJ9
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IHwgVk1lc3MgfCAxMDQuMTkuKioqLioqKiIsImFkZCI6IjEwNC4xOS4xNTAuMTAiLCJwb3J0IjoyMDk1LCJpZCI6Ijk0ZjMzMmIwLWM1ZDMtNDUzMS1hMWQ2LTZlNjM1OGNjNmM3MiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHB1cGdyYWRlIiwicGF0aCI6Ii9kM2QzTG1seVlXNW9iM04wTG1OdmJRPT0/ZWQ9MjU2MCJ9
-vmess://eyJ2IjoiMiIsInBzIjoiVVMgXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IHwgVk1lc3MgfCAxMDQuMTcuKioqLioqKiIsImFkZCI6IjEwNC4xNy4xMjEuMTQwIiwicG9ydCI6ODQ0MywiaWQiOiIzZGE1ZDI3Zi0wOGQwLTQwNzgtZjg5MC1jZjk1MGVjYjE3MDgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsImhvc3QiOiJtZy1pbm5vY2VudC1hZGp1c3Qtc2hhcGUudHJ5Y2xvdWRmbGFyZS5jb20iLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6Im1nLWlubm9jZW50LWFkanVzdC1zaGFwZS50cnljbG91ZGZsYXJlLmNvbSJ9
-vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?type=tcp&security=none#45.88.183.164:49355
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?type=ws&security=none&path=/193.123.81.105=443#45.131.4.85:80
-vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?type=ws&security=none&path=/vless/#51.195.119.204:80
-vless://5879d109-8c92-448a-801b-3f3989019934@172.66.40.99:443?type=ws&security=tls&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&sni=pages.dev#172.66.40.99:443
-vless://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?type=ws&security=tls&path=/lfcinsws#103.231.75.17:443
-vless://e137be9d-ac3a-4d54-897d-6a706f34795f@195.42.233.149:443?type=ws&security=tls&path=/cdfighws#195.42.233.149:443
-vless://49a7ef14-1b13-4aeb-baa3-775ddee2e334@195.42.233.13:443?type=ws&security=tls&path=/yohyowws#195.42.233.13:443
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@86.104.74.207:443?type=ws&security=tls#86.104.74.207:443
-vless://ffa91a11-a58a-4d7d-a8a1-9692efeeddd2@104.16.157.108:8080?type=httpupgrade&security=none&path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048#104.16.157.108:8080
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?type=ws&security=tls&path=/?ed=2560fp=chrome&sni=bitget1.asdasd.click&fp=chrome#190.93.246.246:8443
-vless://0677795c-0191-4879-97b7-26eed229f947@103.231.75.20:443?type=ws&security=tls&path=/eoppydws#103.231.75.20:443
+trojan://07mnzgn6-3o9q-cv0y-kvda-2a58xxcbm03x@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/07 | 08:17
+trojan://ky2wji1s-vibz-rlog-k5sy-5o3viph2160d@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://2ryc6cee-87e4-0pc6-4ac3-8phemoqpia61@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+vmess://eyJ2IjoiMiIsInBzIjoiQ04gXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIHwgVk1lc3MgfCA0Ny4xMjIuKioqLioqKiIsImFkZCI6IjQ3LjEyMi4xNTUuMzciLCJwb3J0Ijo1NjkzNCwiaWQiOiI3NTAwOWU4Ni0zZWM0LTQ0ZTctYjFjMC03YTA3MjM3NGU3NTkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vless://238b76b1-2530-424d-8936-1b1852088b37@139.59.75.181:443?type=ws&security=tls&path=/ws&sni=zula.ir&fp=chrome#139.59.75.181:443
+vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?type=ws&security=none&path=/7YVyoVNnbaVzgl6D?ed=2560#104.16.69.64:8880
+vless://34d02e5d-59cd-453c-a857-32c9ae27b240@167.172.186.211:443?type=ws&security=tls&path=/ws&sni=zula.ir&fp=chrome#167.172.186.211:443
+vless://37ed12f6-95b4-5b3f-b9a5-00cdef1d7333@38.76.247.230:443?type=ws&security=tls&path=/vless&sni=zula.ir&fp=chrome#38.76.247.230:443
+vless://42872a28-fdb0-49de-8ea4-a093b0042cec@188.166.150.199:443?type=ws&security=tls&path=/ws&sni=zula.ir&fp=chrome#188.166.150.199:443
+vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?type=tcp&security=tls&sni=loCal.rogsoftwaregroup.com&fp=chrome#65.108.231.185:443
+vless://TELEGRAM-CONFiGLiNE@172.66.40.99:443?type=ws&security=tls&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80&sni=A249.Mashkestan.coM&fp=firefox#172.66.40.99:443
 vless://77834f67-2b29-4adf-b39b-b4f1bcd729dc@91.99.216.9:8443?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#91.99.216.9:8443
-trojan://5hk58fqy-vpps-vd4k-zixf-14bg91wjzf15@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://0l8e2b2p-0dcu-ftxg-8tlm-wcfb9gqii3ia@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://w9mqo2gp-eet6-vhib-xjuz-vzv099cv0isr@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://sal42ekb-fyya-ggm5-5jkx-j2gb3tbgqnlk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
