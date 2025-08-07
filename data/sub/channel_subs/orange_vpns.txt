@@ -1,14 +1,11 @@
-trojan://a71tu8kx-69jn-312w-dp7w-zkmdd94sbc5d@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/07 | 19:57
-trojan://a8hsfjrn-1t0i-yozv-4guf-6agtbw28g5js@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://4q07p2m0-46mm-ctma-9x36-mj1ugfccynd1@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://6gd3qe8l-ml4t-fum4-tmc4-em1xn2ibdaw2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/07 | 23:54
+trojan://o78qvppq-hkc0-ef7s-2pco-v9m80k1xo078@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://wc1tqzji-i69p-2ijo-f419-dnwtkt69uadr@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@:443#:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#135.225.124.80:48172
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#45.87.175.183:8080
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjJlXHUwNjMxXHUwNmNjXHUwNjJmIEBPcmFuZ2Vfc3VwcG9ydCIsImFkZCI6IjE4OC4yMTIuOTYuMjM1IiwicG9ydCI6MjA1MjEsImlkIjoiOWZlMjhkMTItOGNmMS00NzhkLWI0ZDQtZTM4YzUyMTIzNTRjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii8ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjJlXHUwNjMxXHUwNmNjXHUwNjJmIEBPcmFuZ2Vfc3VwcG9ydCIsImFkZCI6IjE4OC4yMTIuOTYuMjM1IiwicG9ydCI6MjA1MjEsImlkIjoiOWZlMjhkMTItOGNmMS00NzhkLWI0ZDQtZTM4YzUyMTIzNTRjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwicGF0aCI6Ii8ifQ
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?type=ws&security=tls&path=/@Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=random#104.18.36.24:443
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?type=ws&security=tls&path=/@Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=random#104.18.36.24:443
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?type=ws&security=tls&sni=carlotta.shoorekeeper.cloudns.org&fp=random#172.64.151.232:443
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?type=ws&security=tls&path=/?TELEGRAM-JKVPN_JKVPN_JKVPN?ed=512&sni=carlotta.shoorekeeper.cloudns.org&fp=chrome#104.21.67.12:443
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.1:443?type=ws&security=tls&path=/BIA_CHANEL@JKVPN&sni=verina.ccantarella.dns-dynamic.net&fp=chrome#172.67.164.1:443
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.143.107:2096?type=ws&security=tls&path=/proxyip=robin.yaemiko.ggff.net/?JKVPN_BIA_CHANEL@JKVPN&sni=verina.ccantarella.dns-dynamic.net&fp=randomized#172.67.143.107:2096
@@ -18,6 +15,8 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=
 vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.85.185:8443?type=xhttp&security=none&path=/xhttp#91.99.85.185:8443
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?type=grpc&security=none#45.82.251.63:8880
 vless://4b93d39a-d188-4111-aa6c-23fa528cce41@tyu.learningaii.ir:44048?type=tcp&security=none#tyu.learningaii.ir:44048
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&security=tls&path=/&sni=hetzner-2.access.name.ng&fp=random#www.speedtest.net:8443
+vless://54922e97-046b-40dc-a062-c525eb14540c@172.66.40.99:80?type=ws&security=none&path=/Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#172.66.40.99:80
 vless://35ebf266-908d-4f1e-abea-fbc69816a46f@or1.pmme.top:443?type=xhttp&security=reality&path=/vray?ed=2048&sni=www.parspack.com&fp=chrome&pbk=xfzizKASi1RDkMp0lU9CKVNbcKCL5KzdgIzZjF1d_AI&sid=6b#or1.pmme.top:443
-trojan://fpj9ntzv-cpuc-g3g9-7afq-fuvzkjwsnt4d@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://hq3h7j0b-6cds-6dcw-pd0h-l1e1jplqvpho@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://6poqjuto-lsbc-ut6g-ulhf-2ceaks6euft2@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://r944907s-jma5-qz33-lpp2-ceisn8kuwxpu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
