@@ -1,6 +1,6 @@
-trojan://amqvayks-dcy9-t4ir-0xhf-8m2apn6cwjd0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/08 | 11:57
-trojan://fooy0pzf-leaz-1gpc-j83k-vltfzhu5rx62@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://zhgnjmfn-pmc7-5aut-1qfv-w1aiq9si0fv0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://tv4dnfna-vcxw-07pg-jvq0-cex1oa2pgmyh@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/08 | 16:06
+trojan://yohryu7c-vj8p-th78-0ys3-f90mx310s3e7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://0d2gkmue-tf76-f8zp-bh9n-7xl52sdwzx5u@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.47:443?type=tcp&security=none#91.99.207.47:443
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?type=ws&security=none&path=/?ed=2560#www.speedtest.net:80
 vless://a68a6e60-5f70-4972-efc7-e1a3120db501@65.109.194.104:38639?type=tcp&security=none&path=/#65.109.194.104:38639
@@ -12,11 +12,16 @@ vless://8a2e7f51-54c3-48e5-8da6-ca71f9eb2c05@185.209.21.36:40887?type=tcp&securi
 vless://5c105446-0e06-48ad-e3d0-6ccc3f97a574@185.209.21.36:40887?type=tcp&security=none&path=/#185.209.21.36:40887
 vless://42f64a47-7b67-417c-8445-e5a823c9ec4a@185.209.21.36:41569?type=ws&security=none&path=/#185.209.21.36:41569
 vless://7897c4a6-7556-431d-b3e0-9965580efef4@31.56.146.132:54099?type=tcp&security=none#31.56.146.132:54099
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.96.1:80
+vless://6b3b071f-096b-4e4c-8d70-0e0b53f27434@www.speedtest.net.cdn.cloudflare.net:80?type=ws&security=none&path=/?ed=2048#www.speedtest.net.cdn.cloudflare.net:80
+vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?type=ws&security=tls&path=/Free-CF-Proxy-AD192.3.113.4-19318&sni=privasi.turah.my.id&fp=chrome#privasi.turah.my.id:443
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?type=grpc&security=none#185.231.205.231:8880
+vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fierce-data.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#fierce-data.seotoolsforyou.co.uk:80
 vless://3d1622e6-7ac5-4715-b635-7bd542e0a70b@de1.marzban-locations.com:3030?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#de1.marzban-locations.com:3030
 vless://3d1622e6-7ac5-4715-b635-7bd542e0a70b@de2.panelmarzban.com:3030?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#de2.panelmarzban.com:3030
 vless://3d1622e6-7ac5-4715-b635-7bd542e0a70b@fi.panelmarzban.com:3031?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#fi.panelmarzban.com:3031
 vless://3d1622e6-7ac5-4715-b635-7bd542e0a70b@fr.marzban-locations.com:3032?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#fr.marzban-locations.com:3032
 vless://3d1622e6-7ac5-4715-b635-7bd542e0a70b@tr.panelmarzban.com:3036?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#tr.panelmarzban.com:3036
 vless://bbb3bbac-cbeb-42dc-edec-b92f51892ad8@185.209.21.36:14066?type=tcp&security=reality&sni=tgju.org&fp=chrome&flow=xtls-rprx-vision&pbk=TZJPEYvn09bJPo7jNiMJaSl-qYSJ2vgPMU1it_PwMH8#185.209.21.36:14066
-trojan://g1cpznxj-c6h8-db2z-37re-n6bck5lp4nxv@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://n9fqwmuk-0ye0-uorl-78rw-yg8qf037e5u3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://kcanlncb-sbiz-gdf7-a22v-1qeu4422uviw@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://v3qe8dau-m70o-xgon-rdx9-q0fb9bn8z52d@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
