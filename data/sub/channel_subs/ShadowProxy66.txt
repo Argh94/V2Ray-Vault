@@ -1,6 +1,6 @@
-trojan://xpwg5ftl-p7d1-u9cw-fdvd-h8lplr5a12zi@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/08 | 16:06
-trojan://jexn2slz-r5gt-wjzy-hugu-18briasorug5@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://vlr67kk4-v185-sktd-f1gz-l47alroua26a@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://a6gidteg-37da-4fcl-qwh6-jaizupvsxsrz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/08 | 19:54
+trojan://qshcfvnd-1oca-5jgi-5jyw-kwyvmycsxo57@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://taznk29s-dun5-6lw4-9230-rmvxhw9p1a1m@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6STdraU5aMFVmVjljWEI3M2E0blJE@164.92.156.41:24206#164.92.156.41:24206
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#46.101.245.131:44354
 trojan://bpb-trojan@104.26.4.60:443?sni=zamim340.ggff.net&peer=zamim340.ggff.net&security=tls#104.26.4.60:443
@@ -113,22 +113,15 @@ vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?type=tcp&security=
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?type=tcp&security=reality&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#185.33.24.229:28495
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260#5.182.38.91:17267
 vless://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443?type=tcp&security=reality&sni=pingless.com&fp=random&flow=xtls-rprx-vision&pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&sid=b6#78.159.131.107:443
-hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=www.bing.com&insecure=1#208.87.243.187:22222
-hysteria2://dongtaiwang.com@108.181.5.130:63015?sni=apple.com&insecure=1#108.181.5.130:63015
-hysteria2://cf125f42-759d-4112-82c3-014d2ffcb1e7@185.85.242.177:1443?sni=gbr1.587458.xyz&insecure=1#185.85.242.177:1443
-hysteria2://cc83a02b-90ea-403b-9c76-27e4be95f637@154.204.181.230:50256?sni=www.bing.com&insecure=1#154.204.181.230:50256
-hysteria2://eb75320e-a6d0-4b34-a6b6-2bcfc96a9099@203.174.82.145:43057?sni=www.bing.com&insecure=1#203.174.82.145:43057
-hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:36400?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#2a14:3f87:f001:13::a:36400
-hysteria2://5CBqBh6MeDq6GajcilBiDg%3D%3D@192.227.152.86:61001?sni=192-227-152-86.nip.io&insecure=1#192.227.152.86:61001
-hysteria2://nfsn666@45.207.222.138:8888?sni=hk.nfsn666.gq&insecure=1#45.207.222.138:8888
-hysteria2://8418fb71-419d-4fc3-8b29-d7fee8de76c7@104.168.34.109:443?sni=www.bing.com&insecure=1#104.168.34.109:443
-hysteria2://7992f244-8c2c-4a1a-923f-2e116e90149b@198.23.130.211:443?sni=file-oss-ccs-02.dafei.de&insecure=1#198.23.130.211:443
-hysteria2://bd109dec-b7b5-4f0b-a77d-1181c148712c@47.79.32.141:53272?sni=www.bing.com&insecure=1#47.79.32.141:53272
-hysteria2://664S8kkvFHXmO1auxV6A9gKAHI@18.143.168.252:8030?sni=bing.com&insecure=1#18.143.168.252:8030
-hysteria2://3hszBhqVsUhqOOFWJlev6k6Tkc@18.143.180.14:22509?sni=bing.com&insecure=1#18.143.180.14:22509
-hysteria2://dongtaiwang.com@51.159.111.32:5355?sni=www.bing.com&insecure=1#51.159.111.32:5355
-hysteria2://ba3c2ddf-237d-4f41-a6b5-9706ec5de0fd@45.136.245.177:31008?insecure=1&obfs=salamander#45.136.245.177:31008
-hysteria2://661c828f-2bd3-4b17-b93e-66441ed620d8@107.172.50.179:2053?sni=us01.kittycdn.pp.ua&insecure=1&obfs=salamander#107.172.50.179:2053
-hysteria2://262100bd-a0c7-4412-a62d-a07d01f11a6a@153.121.42.218:443?sni=www.microsoft.com&insecure=1#153.121.42.218:443
-trojan://3ow5zjum-qq2j-2gt0-31ui-ombnyxajt7jh@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://4idc4rn1-0stl-apt9-jbv3-255epzvvhyeb@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+warp://8.34.70.49:864?#8.34.70.49:864
+warp://8.34.70.49:864?#8.34.70.49:864
+warp://8.35.211.216:1014?#8.35.211.216:1014
+warp://::ffff:8.34.70.49:864?#::ffff:8.34.70.49:864
+warp://::ffff:8.34.70.49:864?#::ffff:8.34.70.49:864
+warp://8.39.125.209:4198?#8.39.125.209:4198
+warp://8.39.125.209:4198?#8.39.125.209:4198
+warp://8.39.214.134:943?#8.39.214.134:943
+warp://::ffff:8.39.125.209:4198?#::ffff:8.39.125.209:4198
+warp://::ffff:8.39.125.209:4198?#::ffff:8.39.125.209:4198
+trojan://q130wwle-n79r-rjz7-3vfh-898vf2c258ma@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://q7ksa6og-mzyq-thyb-j2lu-nrxmwax3t9g1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,6 +1,6 @@
-trojan://x7ynfz2p-zx30-i21p-fk7m-8zkss19ox9kn@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/08 | 16:06
-trojan://8gh630jh-feb6-hyzo-qr1o-n6qzq4qtz9wt@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ub1hbtbf-iazd-34q4-fmz9-6mqxiar5f3vb@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://2m1vtost-ec5n-uq4w-xiv3-eqspqdzndew0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/08 | 19:54
+trojan://acdz9qv7-rjxq-ybxk-g0f8-rtwyqmwftvhl@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://4vrf74ui-xbkg-bmel-sdqm-3bfw5hruxdas@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#freakconfig13.felafel.org:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#45.87.175.28:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#45.87.175.171:8080
@@ -9,9 +9,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#freakconfig13.felafel.org:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#series-a2.varzesh360.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#series-a1.samanehha.co:443
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&security=none#185.231.205.248:8880
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?type=ws&security=none&path=/?ed=2048#141.101.121.243:8080
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
 vless://ce62ee5e-e316-46af-b967-4588a5e8e66c@wouldyoumarriemepleasefuckthesystem.siasia.ir:2053?type=ws&security=tls&path=/apiii&sni=hheydudethisworldisshet.siasia.ir&fp=randomized#wouldyoumarriemepleasefuckthesystem.siasia.ir:2053
 vless://ce62ee5e-e316-46af-b967-4588a5e8e66c@wouldyoumarriemepleasefuckthesystem2.siasia.ir:2053?type=ws&security=tls&path=/apiii&sni=hheydudethisworldisshet.siasia.ir&fp=randomized#wouldyoumarriemepleasefuckthesystem2.siasia.ir:2053
 vless://ce62ee5e-e316-46af-b967-4588a5e8e66c@wouldyoumarriemepleasefuckthesystem3.siasia.ir:2053?type=ws&security=tls&path=/apiii&sni=hheydudethisworldisshet.siasia.ir&fp=randomized#wouldyoumarriemepleasefuckthesystem3.siasia.ir:2053
@@ -63,10 +60,14 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?type=ws&security=t
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.96.1:80
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@116.203.249.124:2020?type=tcp&security=none#116.203.249.124:2020
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?type=ws&security=tls&path==zani.yaemiko.ggff.net/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=carlotta.shoorekeeper.cloudns.org&fp=chrome#104.26.14.69:443
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.96.1:80
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@116.203.249.124:2020?type=tcp&security=none#116.203.249.124:2020
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?type=ws&security=tls&path==zani.yaemiko.ggff.net/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=carlotta.shoorekeeper.cloudns.org&fp=chrome#104.26.14.69:443
 vless://bab6b157-a6e8-4756-a485-dcb4ca476eb9@server2.fergalvpnmod.com:25126?type=grpc&security=reality&sni=cloudflare.com&fp=chrome&pbk=AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik&sid=1e#server2.fergalvpnmod.com:25126
 vless://5f3ac440-010e-4565-8362-bdb574c2e389@188.132.141.231:2095?type=tcp&security=reality&sni=nobitex.ir&fp=random&pbk=asQh0s7v3gZjfgXExPo7-4bkObpm1y_ODt9Fx3e69SA&sid=0f86044d#188.132.141.231:2095
 vless://8ee4b805-5a65-4977-bcbb-f759fb8d9441@god.mygoldiran.com:11867?type=grpc&security=reality&sni=tgju.org&fp=chrome&pbk=-mYOfmHHBGIPqR5Uho9lT7MjSXLlSVi4l83ohs3MaTM&sid=d2#god.mygoldiran.com:11867
 vless://3f042483-c71c-40cc-a4b7-d79f80db4253@91.107.243.238:2025?type=grpc&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&sid=8d9c20be72b4#91.107.243.238:2025
 vless://3f042483-c71c-40cc-a4b7-d79f80db4253@91.107.243.238:2025?type=grpc&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&sid=8d9c20be72b4#91.107.243.238:2025
-trojan://m7gsuugn-dxkv-pc93-niwm-2orr75c5g0ne@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://onh1t8t1-ngdk-xoya-wznu-a2ao7o38cn7e@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://3f042483-c71c-40cc-a4b7-d79f80db4253@91.107.243.238:2025?type=grpc&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&sid=8d9c20be72b4#91.107.243.238:2025
+trojan://03rm9qce-xbtw-pdri-uicv-uvbzlzzoc9co@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://tq7cn401-3til-qeh6-uedf-crjft1lh7ljl@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
