@@ -1,28 +1,24 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-08-09 04:40:19
+Timestamp: 2025-08-09 08:01:23
 Total Channels: 502
-Successful Scrapes: 464
+Successful Scrapes: 461
 Failed Scrapes: 0
 
 --- Channels with Found Configs ---
 v2raying: 291 configs
 wedbazvpn: 210 configs
 GalaxyMVPN: 200 configs
-freakconfig: 182 configs
-meli_proxyy: 175 configs
+freakconfig: 192 configs
 v2rayngrit: 162 configs
 prrofile_purple: 158 configs
 gh_v2rayng: 147 configs
 satellitenewspersian: 137 configs
-shadowproxy66: 136 configs
-ShadowProxy66: 136 configs
 info_2it_channel: 136 configs
 sockss_http: 134 configs
-tgvpn6: 128 configs
 appsooner: 127 configs
 v2rayng_1378: 121 configs
-config_proxy: 120 configs
 v2rayng3: 114 configs
+config_proxy: 112 configs
 freev2rng: 110 configs
 armodchannel: 108 configs
 kanfig_majani: 108 configs
@@ -38,18 +34,20 @@ manstervpn: 80 configs
 Tweety_Proxy: 79 configs
 v2raytg: 77 configs
 ai_duet: 75 configs
-hope_net: 73 configs
+hope_net: 75 configs
 netfreedom0: 73 configs
 selinc: 72 configs
 freevirgoolnet: 69 configs
 kafing_2: 69 configs
+prroxyng: 69 configs
 v2ra_ng_iran: 69 configs
 arv2ra: 66 configs
-prroxyng: 66 configs
 v2trayproxy: 66 configs
 torang_vpn: 63 configs
 v2ray_sub: 62 configs
 v2ray_youtube: 62 configs
+shadowproxy66: 61 configs
+ShadowProxy66: 61 configs
 fastfreeconfig: 60 configs
 manzariyeh_rasht: 60 configs
 free_serverir: 58 configs
@@ -348,6 +346,7 @@ hormozvpn: 6 configs
 kopltall_vpn: 6 configs
 mainmat: 6 configs
 nofilter_v2rayng: 6 configs
+outlineopenkey: 6 configs
 prooxyk: 6 configs
 rnrifci: 6 configs
 v2rayng_ip: 6 configs
@@ -370,7 +369,7 @@ mahdivpn2: 5 configs
 mahsaproxy: 5 configs
 netazadchannel: 5 configs
 next_serverpanel: 5 configs
-outlineopenkey: 5 configs
+v2rayngfreee: 5 configs
 vipnetmeli: 5 configs
 vpn_proxy_v2ry: 5 configs
 womanlifefreedomvpn: 5 configs
@@ -386,11 +385,9 @@ proxy_confiingir: 4 configs
 proxy_iranv2: 4 configs
 pydriclub: 4 configs
 uvpnir: 4 configs
-v2rayngfreee: 4 configs
 vpn_arta: 4 configs
 vpnzamin: 4 configs
 zerobaipiao: 4 configs
-PASARGAD_V2rayNG: 3 configs
 Subify_ir: 3 configs
 amirinventor2010: 3 configs
 bypass_filter: 3 configs
