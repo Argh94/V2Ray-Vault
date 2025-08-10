@@ -1,6 +1,8 @@
-trojan://qc0ljvkj-rmwg-6fzn-72c8-c8ir5q0nkkq2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/10 | 19:54
-trojan://fvjua1ep-zr67-7jzn-wu7l-dg6pwi8vyu4z@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://o5qdzj41-agb3-vc8f-wejh-yyz5lhq96ywd@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://g81geexl-gjos-u5rz-a9zi-p5l5uy9logpm@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/10 | 23:52
+trojan://q4far5iu-xiu6-u502-b8wu-ft9zkaa941iz@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://2fv2jo6l-ebi0-ao6a-h34h-rr4jgzk9lh9c@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+vless://c59b13fe-6c9e-4c59-95f0-835c75d4aaf9@hajlab.ucdavis.edu:80?type=ws&security=none&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048#hajlab.ucdavis.edu:80
+vless://2127b978-c320-4d31-8045-dfb9a643fd54@104.19.54.50:8080?type=ws&security=none&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048#104.19.54.50:8080
 vless://1fe30846-29da-473d-9959-17e02447638a@hajlab.ucdavis.edu:80?type=ws&security=none&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048#hajlab.ucdavis.edu:80
 vless://b703c909-61e9-4945-9bfc-c82bca433dd1@104.19.54.50:8080?type=ws&security=none&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048#104.19.54.50:8080
 vless://5855da6d-0dbb-4fa2-9c89-3674b7a71a18@hajlab.ucdavis.edu:80?type=ws&security=none&path=/@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy----@XvProxy?ed=2048#hajlab.ucdavis.edu:80
@@ -41,5 +43,5 @@ warp://188.114.97.204:1002?#188.114.97.204:1002
 warp://188.114.97.2:903?#188.114.97.2:903
 warp://188.114.98.180:903?#188.114.98.180:903
 warp://188.114.98.193:1002?#188.114.98.193:1002
-trojan://0q0c9e4j-qqb0-yybs-ncrs-mqrhz5eg9r12@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://35zwzx54-0mm9-d6zo-437x-flqz9vf5po98@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://clz2yljo-2x1n-8lmv-87fi-qm2w5y22dz5a@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://sdmvtjac-w00k-krxx-y5mx-zb3yhseoccp2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
