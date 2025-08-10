@@ -1,9 +1,6 @@
-trojan://40t59n5d-dbhj-rybb-zi9t-nbbb6y4cb7gz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/10 | 16:04
-trojan://s41mp2st-5t1w-yuk4-p69m-lrgwf91hd4yv@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://4ns50kt1-v6li-8v5e-968z-1xq2m8orp92c@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.253.72:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#13.37.253.72:22224
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.11.175:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#63.176.11.175:22224
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.72.122.16:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#3.72.122.16:22224
+trojan://3g48tp21-hclb-s28l-o235-cuua5ft7voc2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/10 | 19:54
+trojan://wwus1iza-s3gw-wyfh-9890-cqfc6i0j9qgm@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://n0n2whyi-8jph-20v3-t5w5-mky449sa6jhg@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.59.229:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#13.39.59.229:22224
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.206.105:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#35.180.206.105:22224
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.173.183:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#63.177.173.183:22224
@@ -18,5 +15,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.124.16.18:22224?type=ws&security=
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.40.205:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#63.179.40.205:22224
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.139.6:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#13.36.139.6:22224
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.239.251:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#13.39.239.251:22224
-trojan://pwxhh8q3-3m5n-ymqy-ag5b-o3zcbzix1qqa@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://g725c26u-6ux0-ir9g-wtwm-53o4acx0hyk0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.193.13.65:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#18.193.13.65:22224
+trojan://c2kc9hvw-u6cs-mihb-75gl-ogl7qhsxd053@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://1ng49wm3-nep7-bg95-h670-hh5b07z6jpn7@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
