@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-08-10 04:49:32
+Timestamp: 2025-08-10 08:13:02
 Total Channels: 502
 Successful Scrapes: 462
 Failed Scrapes: 0
@@ -19,7 +19,7 @@ info_2it_channel: 131 configs
 kafing_2: 128 configs
 appsooner: 127 configs
 v2rayng_1378: 121 configs
-config_proxy: 109 configs
+config_proxy: 116 configs
 armodchannel: 108 configs
 v2raycrow: 106 configs
 qrv2ray: 104 configs
@@ -33,13 +33,13 @@ freevpn3327: 88 configs
 icv2ray: 88 configs
 manstervpn: 80 configs
 Tweety_Proxy: 79 configs
+hope_net: 77 configs
 v2raytg: 77 configs
-hope_net: 76 configs
 ai_duet: 75 configs
 netfreedom0: 74 configs
+prroxyng: 72 configs
 selinc: 72 configs
 freevirgoolnet: 69 configs
-prroxyng: 69 configs
 v2ra_ng_iran: 69 configs
 arv2ra: 66 configs
 v2trayproxy: 66 configs
@@ -65,6 +65,7 @@ maradona_vpn: 46 configs
 v2rayngconfings: 46 configs
 configfa: 45 configs
 itenvpn: 44 configs
+ZibaNabz: 43 configs
 freenet_melli: 43 configs
 v2rayngalpha: 43 configs
 melov2ray: 42 configs
@@ -72,7 +73,6 @@ mtproxy22_v2ray: 42 configs
 proxy48: 42 configs
 v2aryng_vpn: 42 configs
 vpn451: 42 configs
-ZibaNabz: 41 configs
 ir_netproxy: 41 configs
 mehrosaboran: 41 configs
 v2rayngconfiig: 41 configs
@@ -106,6 +106,7 @@ vaynora: 28 configs
 vmessiranproxy: 28 configs
 darkma3ter24: 27 configs
 dgkbza: 27 configs
+PASARGAD_V2rayNG: 26 configs
 spikevpn: 26 configs
 Greenvpn2: 26 configs
 vpnod: 26 configs
@@ -130,7 +131,6 @@ v2rayngn: 21 configs
 v2rayy_vpn13: 21 configs
 arv2ray: 20 configs
 Farah_VPN: 20 configs
-DailyV2Config: 20 configs
 falcunargo: 20 configs
 free1ss: 20 configs
 free_vpn_for_all_of_us: 20 configs
@@ -193,9 +193,11 @@ customvpnserver: 16 configs
 filterk0sh: 16 configs
 goldenshiinevpn: 16 configs
 golf_vpn: 16 configs
+netmellianti: 16 configs
 proxyfull: 16 configs
 sobi_vpn: 16 configs
 ultrasurf_12: 16 configs
+zerobaipiao: 16 configs
 connectshu: 15 configs
 directvpn: 15 configs
 fastkanfig: 15 configs
@@ -205,7 +207,6 @@ freeiranianv2rey: 15 configs
 game_file2020: 15 configs
 hopev2ray: 15 configs
 minovpnch: 15 configs
-netmellianti: 15 configs
 privatevpns: 15 configs
 proxy_net_meli: 15 configs
 realvpnmaster: 15 configs
@@ -216,7 +217,6 @@ v_2ray1: 15 configs
 vlessconfig: 15 configs
 vpn_zvpn: 15 configs
 xnxv2ray: 15 configs
-zerobaipiao: 15 configs
 summertimeus: 14 configs
 dailytek: 14 configs
 freevv2rayng: 14 configs
@@ -226,6 +226,7 @@ msv2flyng: 14 configs
 qeshmserver: 14 configs
 rezaw_server: 14 configs
 v2raxx: 14 configs
+DailyV2Config: 13 configs
 father_vpn: 13 configs
 miov2ray: 13 configs
 mtpv2ray: 13 configs
@@ -297,16 +298,18 @@ v2rayturbo: 9 configs
 vmessprotocol: 9 configs
 vpncostumer: 9 configs
 wbrovers: 9 configs
+DALTON_PING: 8 configs
+dalton_ping: 8 configs
 lightning6: 8 configs
 skivpn: 8 configs
 v2ngfast: 8 configs
 v2raymelliii: 8 configs
+argo_vpn1: 8 configs
 ch_a2l: 8 configs
 dargiiriis: 8 configs
 ehsawn8: 8 configs
 gervpn: 8 configs
 goodbyefiltering: 8 configs
-ipv2rayng: 8 configs
 iraniv2ray: 8 configs
 iranvipnet: 8 configs
 lakvpn1: 8 configs
@@ -316,12 +319,10 @@ v2ray4win: 8 configs
 vip_vpn_2022: 8 configs
 vpncostume: 8 configs
 xsv2ray: 8 configs
-DALTON_PING: 7 configs
-dalton_ping: 7 configs
 abiidar_server: 7 configs
-argo_vpn1: 7 configs
 free_vip3: 7 configs
 hackmodvpnservers: 7 configs
+ipv2rayng: 7 configs
 iranbfilter: 7 configs
 irv2rey: 7 configs
 mahanvpn: 7 configs
@@ -333,7 +334,6 @@ v2rayngchannelll: 7 configs
 vboxpanel: 7 configs
 xrayzxn: 7 configs
 isvvpn: 6 configs
-PASARGAD_V2rayNG: 6 configs
 v2ray_rolly: 6 configs
 configms: 6 configs
 deragv2ray: 6 configs
