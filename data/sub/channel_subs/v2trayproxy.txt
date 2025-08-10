@@ -1,12 +1,6 @@
-trojan://81e91262-b6p1-axph-npf1-sh6bhj5hptya@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/10 | 11:55
-trojan://glj8v3js-kq0m-69yi-ydkv-wgkn9xi306td@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://cotr5xky-hrd5-mh1p-64l4-cneztquuthk4@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.1:443?type=ws&security=tls&path=/vpnowl-vpnowl-vpnowl-vpnowl&sni=verina.ccantarella.dns-dynamic.net&fp=chrome#172.67.164.1:443
-vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?type=ws&security=none&path=/Barayeiranmahsang/----@-?ed=2560#91.206.71.162:8880
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?type=ws&security=none&path=/fgvtHUpS6R8Rv8s5?ed=2560#104.16.69.162:8880
-vless://16e55e1a-6152-4d92-a422-31490e8ef563@154.205.147.124:443?type=xhttp&security=none&path=/ad#154.205.147.124:443
-vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server514991469813933273.tas-bazi.com:443?type=xhttp&security=none&path=/frf#server514991469813933273.tas-bazi.com:443
-vless://43c09ea2-72de-4b63-8da4-d5d4be7819ad@senator.cdniran.info:80?type=ws&security=none&path=/?ed=2048#senator.cdniran.info:80
+trojan://lkoof3f4-uw8a-tpny-osty-glvbi9uxghz7@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/10 | 16:04
+trojan://mg077emq-scme-v3q1-0wsu-rvyluoiysmut@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://mgn80kyo-kdu2-vivi-lizg-fszfvn1o75nz@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server271816966957306554.tas-bazi.com:443?type=xhttp&security=none&path=/frf#server271816966957306554.tas-bazi.com:443
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?type=ws&security=tls&path=/&sni=smart.gheichi.org#ipw.gfdv54cvghhgfhgj-njhgj64.info:443
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?type=tcp&security=none#91.99.186.0:443
@@ -48,6 +42,14 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?type=ws&security
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.ndeso.web.id:443?type=ws&security=tls&path=/Free-CF-Proxy-AT24&sni=freexxx.ndeso.web.id&fp=chrome#freexxx.ndeso.web.id:443
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?type=grpc&security=none#45.82.251.58:8880
+vless://51b8e038-d14f-4236-91bf-78ae4d1fb843@ppan.cloudpooya.ir:29878?type=tcp&security=none#ppan.cloudpooya.ir:29878
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net/?&sni=carlotta.shoorekeeper.cloudns.org&fp=random#104.18.36.24:443
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net/?&sni=carlotta.shoorekeeper.cloudns.org&fp=random#172.64.151.232:443
+vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?type=ws&security=tls&path=/&sni=server28.coin.name.ng#www.speedtest.net:8443
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net/?/proxy_mtm&sni=carlotta.shoorekeeper.cloudns.org&fp=random#104.18.36.24:443
+vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?type=ws&security=tls&path=/&sni=server12.coin.name.ng#www.speedtest.net:8443
+vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?type=ws&security=tls&path=/&sni=server10.coin.name.ng#www.speedtest.net:8443
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?type=ws&security=tls&path=/&sni=balancer-1.access.name.ng&fp=chrome#www.speedtest.net:2096
 vless://960a51de-74cc-40af-a7f4-fe7c6710dcc8@zzz.zzz.zzz.yasharteam.com:443?type=tcp&security=reality&sni=tgju.org&fp=firefox&flow=xtls-rprx-vision&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#zzz.zzz.zzz.yasharteam.com:443
 vless://c432f38a-520f-4ce2-8e2d-40098aaf2d07@165.232.32.128:8990?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&sid=9912311de4630f2d#165.232.32.128:8990
 vless://c432f38a-520f-4ce2-8e2d-40098aaf2d07@188.166.69.72:8990?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&sid=9912311de4630f2d#188.166.69.72:8990
@@ -67,5 +69,6 @@ vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@46.62.168.70:23737?type=grpc&securi
 vless://a2c536b8-9b1c-4aea-a6ec-35fdc407c84d@api.dayhostpro.com:57297?type=tcp&security=reality&sni=assets01.surveymonkey.com&fp=chrome&flow=xtls-rprx-vision&pbk=DAkye38FaoQNbOpsdebtSJLM1VfbtKIdG6ujUGjkRi8&sid=60bd80#api.dayhostpro.com:57297
 vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@abzartun2.divartehran.online:23737?type=grpc&security=reality&sni=varzesh3.com&fp=chrome&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&sid=7c0b6c88fe5c#abzartun2.divartehran.online:23737
 vless://10e72fbe-78c9-483b-9ddd-26b33ecd02f6@87.120.205.76:1002?type=xhttp&security=reality&path=/Api/AS&sni=cdn.jsdelivr.net&fp=firefox&pbk=ZR-m-ptbkHU71ZoH-jRM8L1NqSN1rzW738PsSHFwkik#87.120.205.76:1002
-trojan://81d8gkrr-m1im-sotb-hbhz-zjoqajtbpcep@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://hd5aa88k-ujvc-lasr-g6n5-uu9c96nneuwz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://10e72fbe-78c9-483b-9ddd-26b33ecd02f6@87.120.205.76:1002?type=xhttp&security=reality&path=/Api/AS&sni=cdn.jsdelivr.net&fp=firefox&pbk=ZR-m-ptbkHU71ZoH-jRM8L1NqSN1rzW738PsSHFwkik#87.120.205.76:1002
+trojan://jx510538-6sj2-b99t-8lc5-hiuywls7tbb6@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://uheuv0mg-q583-g8qe-rub0-8d0dutgqfe8s@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,6 +1,6 @@
-trojan://9o23b14w-jirm-o8lg-ugsz-o0lnfl2a2kj9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/10 | 11:55
-trojan://vbo77dch-ezaj-ro26-zmkt-3btn1gomhi3a@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://pudzafi8-yaj0-3lro-acxx-ggscc658986i@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://xibn91pk-4oi8-nz9a-6dhr-en3fwgwt0spo@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/10 | 16:04
+trojan://e3zi42kt-1x07-hdxm-ffpk-vm7tzelii7nk@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://beac3gy3-glr9-22m6-o6dp-7ko4tj525zo0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#45.87.175.192:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.180:8080#45.87.175.180:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#193.29.139.177:8080
@@ -137,6 +137,15 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.98.90:8443?type=xhttp&security=none&path=/xhttp#91.99.98.90:8443
 vless://8df60790-c903-4661-b85d-64c0009378e5@188.114.96.6:443?type=ws&security=tls&path=/&sni=F1.paRsa.fiLegEar-Sg.Me#188.114.96.6:443
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@91.228.10.202:2096?type=ws&security=tls&path=/#91.228.10.202:2096
+vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?type=ws&security=tls&path=/?ed=2560&sni=rayan-roof.atena.dpdns.org&fp=chrome#cdnjs.com:443
+vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@cb6.connectbaash.info:4406?type=tcp&security=none#cb6.connectbaash.info:4406
+vless://1010501a-ca9a-479c-84d0-1308d97789b5@172.67.134.218:443?type=ws&security=tls&path=/?ed=2048&sni=abbas-boveiry1.kisigen176.workers.dev&fp=chrome#172.67.134.218:443
+vless://8df60790-c903-4661-b85d-64c0009378e5@188.114.96.6:443?type=ws&security=tls&path=/&sni=F1.paRsa.fiLegEar-Sg.Me#188.114.96.6:443
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@160.153.0.32:443?type=ws&security=tls&path=/&sni=carlotta.shoorekeeper.cloudns.org#160.153.0.32:443
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@91.228.10.202:2096?type=ws&security=tls&path=/#91.228.10.202:2096
+vless://0ef0630e-544c-4ed0-a4de-861f14695f37@172.66.46.236:443?type=ws&security=tls&path=/&sni=M2-1CM.paGes.DeV&fp=chrome#172.66.46.236:443
+vless://f5cf098f-5143-440f-a490-7fc24ff27fb0@104.26.7.89:8443?type=ws&security=tls&path=/?ed=2560&sni=brmahasang.ahaysiahzangi.dpdns.org&fp=random#104.26.7.89:8443
 vless://fdc0229d-2037-48c4-94d3-496e67cce5d8@85.234.65.120:443?type=tcp&security=reality&sni=github.com&fp=chrome&pbk=307pppp6s7XwguGbsjY3xaJPIubgj_D8zNJT5SmtsVA&sid=f90c#85.234.65.120:443
-trojan://nztddthv-mzl9-opns-ju6j-kmgezatu9c1t@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://mrf4ur7a-loh8-lebu-8qyl-iuquuog7bfro@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://0a947205-01a0-4634-8e78-daf200d02def@ru.maviks.eu:443?type=tcp&security=reality&sni=maviks.eu&fp=chrome&flow=xtls-rprx-vision&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#ru.maviks.eu:443
+trojan://gtkhg2gg-a1j2-nztt-mczo-tysznvwqkjar@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://t4w4ent5-jy8d-qlls-33wr-pmpm35e0vvfq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
