@@ -1,8 +1,7 @@
-trojan://i6oze5a7-jqqg-mgrz-cdue-5j4wvsim4zo0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/11 | 08:15
-trojan://kn79h4xm-ry1y-dqgp-xvq7-1jwkatwpuy82@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://w3njllwa-xvn0-dav0-jng6-2wnlfgy69azp@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://3ik9y2he-4f3j-gxjv-u2jw-5zi8bdcl085r@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/11 | 11:58
+trojan://3rt1gcc2-x59m-i2da-ui19-dj32d9qv8s98@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://hqozaxnn-33xl-7ivo-fr42-0g0ygv64knkd@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#4.223.100.248:48172
-vless://78e44a74-6f33-4289-81d2-df98075bd959@172.66.40.99:80?type=ws&security=none&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#172.66.40.99:80
 vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?type=ws&security=none&path=/7YVyoVNnbaVzgl6D?ed=2560#104.16.69.64:8880
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:443?type=ws&security=tls&path=/&sni=JdYq2881Un.GhEiChI.oRg&fp=chrome#104.19.144.33:443
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?type=ws&security=none&path=/193.123.81.105=443#45.131.4.85:80
@@ -21,5 +20,6 @@ vless://2f0f5525-5376-4820-a9b5-90064664a35d@soren1.mahmouditravelers.top:26779?
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.122:8880?type=grpc&security=none#45.82.251.122:8880
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#amazon-17.cristiano.name.ng:443
 vless://1068814a-6d43-40d9-a127-0f6b6b77ccfc@109.61.16.89:30938?type=tcp&security=reality&sni=indeed.com&fp=random&flow=xtls-rprx-vision&pbk=OkwhFGkP6NhXbmfBpBKqJ_HDNEcqbkp0mMc9HeYVBBE&sid=9f2b1f07#109.61.16.89:30938
-trojan://cuyqeu21-bne8-3v5u-ljs4-x8bqztm2mobs@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://5ex7t83n-4ncv-kjt2-qlkm-1vw3tod4dlfy@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://f418440b-a023-4ba4-8f40-1dab600fb48d@94.237.24.169:40745?type=tcp&security=reality&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&pbk=KIJ-Gb61R1Ng1kMvD01v51SwtrrYh3npN5cSkxb-MH0&sid=3b#94.237.24.169:40745
+trojan://6xaf7xra-1gtz-p8ua-ls3i-nlyblygajlmk@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://7vuupu8y-fepb-bktw-0xho-0bi1j18jdcq0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
