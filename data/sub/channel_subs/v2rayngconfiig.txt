@@ -1,15 +1,8 @@
-trojan://35jcg23h-31iu-fy3c-xvnr-1wo2mmbi3wrn@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/11 | 04:47
-trojan://ejp60aw8-ka6z-by6w-gjc5-8dqt2dyjtpl0@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://qslbsqrw-2aev-lffg-5wqq-6zwmgy8nl0ir@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://gsajqous-o9ae-i0xx-a4r7-c11b3m7amwxn@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/11 | 08:15
+trojan://i9inheh6-dpal-0io5-zowt-x4mc4ql0jcjc@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ibpqwwxr-nssz-zacs-uqo6-vad4a96xyg2t@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://Xa4%5El%28%3B.%3BB%23a@104.18.26.90:443?sni=S1.mitivpN.wOrKeRS.DEV&peer=S1.mitivpN.wOrKeRS.DEV&security=tls#104.18.26.90:443
 vmess://eyJ2IjoiMiIsInBzIjoiQFYycmF5bmdjb25maWlnIiwiYWRkIjoiY3VzdG9tZXJzLnRlbGUtc2hvcC10b28uc3R1ZGlvIiwicG9ydCI6MzMyMDMsImlkIjoiZGQxZjVlMzYtZmIwNS00NWZkLWI5MGQtMzhmYjNiZWY1ZTU5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://TELEGRAM-NUFiLTER-7c3e03bb8c4c@nufilter.fastly80-3.hosting-ip.com:80?type=ws&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080#nufilter.fastly80-3.hosting-ip.com:80
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@zula.ir:80?type=ws&security=none&path=tmevpnAndroid2/?ed=2560#zula.ir:80
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638757556339780622.lisbon-mpl-eah.info:8880?type=grpc&security=none#638757556339780622.lisbon-mpl-eah.info:8880
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2083?type=ws&security=tls&path=/G9WiaAeAdacfio6X?ed=2560&sni=hAsTi.frEEairLainEs.Com&fp=randomized#www.speedtest.net:2083
-vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@104.21.96.1:443?type=ws&security=tls&path=/3um9NK8jwisKz35E?ed=2560&sni=pHOTOgrApHipiCTureaI.IR&fp=randomized#104.21.96.1:443
-vless://7d0444e8-59b1-47ee-a047-2366c3a89641@www.zula.ir:443?type=grpc&security=tls&sni=ch3.newretr432as.info&fp=firefox#www.zula.ir:443
-vless://79c9b1d1-9cec-454e-bf46-0b525f568d17@www.zula.ir:443?type=grpc&security=tls&sni=ch4.newretr432as.info&fp=firefox#www.zula.ir:443
 vless://93729bdf-b9b5-462f-a612-592a0ca27af2@104.17.147.22:80?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#104.17.147.22:80
 vless://TELEGRAM-NUFiLTER-796c0a4aa02d@151.101.194.165:80?type=ws&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080#151.101.194.165:80
 vless://62d8d572-6bb8-4a27-8e14-dfee6f61af2d@116.203.40.130:2226?type=tcp&security=none#116.203.40.130:2226
@@ -39,8 +32,7 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=
 vless://9a464637-7d90-4497-af4f-c5c8017a9b77@172.66.40.99:443?type=ws&security=tls&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net#172.66.40.99:443
 vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=vPo.SpEeDtEsT2029.CoM&fp=firefox#172.66.40.99:443
 vless://5879d109-8c92-448a-801b-3f3989019934@172.66.40.99:443?type=ws&security=tls&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&sni=pages.dev#172.66.40.99:443
-vless://f2a98714-c363-43c0-8c72-a1163df38c33@c2.vact.ir:443?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=gmfZyQtoXXrck45kkXm_vO3TlB0CcDNvkLkd3-HAfFA&sid=b542ac#c2.vact.ir:443
 vless://eba39eb3-3b03-403c-a737-da53582feb6c@188.245.240.141:1000?type=tcp&security=reality&sni=refersion.com&fp=chrome&pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4#188.245.240.141:1000
 vless://82bdbba7-105d-4590-b08f-1d4d238abada@91.99.182.226:34171?type=tcp&security=reality&sni=www.latimes.com&fp=chrome&pbk=xnqAqhJPTN9MejLmPrBprshg49u92dkYnraLNkI3EXA&sid=fb18ca71d301b50c#91.99.182.226:34171
-trojan://rn6e7qqn-jrcu-ttg5-tpic-yvs1f3ewmp67@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://7wzs5f72-b7oy-6dh0-okd4-xudw8qz8os12@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://td3yxnzt-kjh1-6nyq-s9xj-10nhhze7xgav@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://w4egv354-x9fv-z6ry-hsi7-yano6awoj38w@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
