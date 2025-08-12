@@ -1,6 +1,6 @@
-trojan://j534of7l-zcvv-3y9j-kxfe-vozh6en05cdr@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/11 | 23:53
-trojan://1fzwipbj-w6xi-jb6m-hvtb-vp11xw1g82p3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://wn309t66-fg3c-muls-z7cd-l9qu1b4mfjne@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://5c1h2gdl-3d0o-81uk-79du-irksnlhcoc25@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/12 | 04:40
+trojan://bsxosycx-byb1-v928-byxs-7g2hfc2jvay9@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://7jtkrcwr-x5sn-p5xn-5pm5-ze23wxio70e2@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#193.29.139.240:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#193.29.139.235:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#193.29.139.240:8080
@@ -8,8 +8,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#193.29.139.235:8080
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?sni=vpn.stupidworld.web.id&peer=vpn.stupidworld.web.id&security=tls#172.67.181.173:443
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjQxXHUwNmNjXHUwNjQ0XHUwNjJhXHUwNjMxXHUwNjM0XHUwNmE5XHUwNjQ2IFx1MDY0Nlx1MDYyN1x1MDY0NVx1MDYyZFx1MDYyZlx1MDY0OFx1MDYyZiA5OVx1MDYyYSA9XHUwMGJiIFNhYnpuZXRWUE5AIiwiYWRkIjoibGVhZGVyLnNhYmFwYXJkYXppcmFuLmlyIiwicG9ydCI6MjA5NiwiaWQiOiI4MjMzZjU2Ni0xMDhmLTQ1ODQtYjVlNi03OGVhYmViMDA4YjgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJodHRwdXBncmFkZSIsInR5cGUiOiItLS0iLCJob3N0IjoibGVhZGVyLnNhYmFwYXJkYXppcmFuLmlyIiwicGF0aCI6Ii9cdWQ4M2NcdWRkOTRATTNIRElPMSIsInRscyI6InRscyIsInNuaSI6ImxlYWRlci5zYWJhcGFyZGF6aXJhbi5pciJ9
-vless://JOIN_BDE_JKVPN@www.speedtest.net:80?type=ws&security=none&path=/TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048#www.speedtest.net:80
-vless://JOIN_BDE_JKVPN@www.zula.ir:80?type=ws&security=none&path=/TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048#www.zula.ir:80
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?type=ws&security=none&path=/#178.162.245.230:2052
 vless://12dbb94a-a9de-47b6-89b5-263fb1bace3b@de.chatoochak.com:443?type=ws&security=none&path=/#de.chatoochak.com:443
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.233.77:443?type=xhttp&security=none&path=/ds#91.99.233.77:443
@@ -49,8 +47,9 @@ vless://9a464637-7d90-4497-af4f-c5c8017a9b77@172.66.40.99:443?type=ws&security=t
 vless://7e049ef3-3b80-46e4-be51-ce53d2034c1b@www.speedtest.net:80?type=ws&security=none&path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080#=@#www.speedtest.net:80
 vless://9a464637-7d90-4497-af4f-c5c8017a9b77@172.66.40.99:443?type=ws&security=tls&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net#172.66.40.99:443
 vless://7e049ef3-3b80-46e4-be51-ce53d2034c1b@www.speedtest.net:80?type=ws&security=none&path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080#=@#www.speedtest.net:80
+vless://503b59d2-8d11-4c3d-9e46-391f4b65134c@speedtest.net:80?type=xhttp&security=none&path=/#speedtest.net:80
 vless://07ec7e56-f3e7-48c3-98a8-8886d5d87f74@85.9.200.197:26143?type=tcp&security=reality&sni=steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=ng3D2eUM-UM3ariA2eCDibCNo_peaKijOWUZJJKiIUI&sid=0d#85.9.200.197:26143
 vless://7edc9161-fa59-45ae-b9e9-80ef4bceb68e@85.9.203.125:36563?type=tcp&security=reality&sni=expedia.com&fp=chrome&flow=xtls-rprx-vision&pbk=tPpkzwOVa4li8CurZc07pnxl8ytBUm9x4b9TBP99h00&sid=c294d6ba98e6a7#85.9.203.125:36563
 vless://a49dfaea-1ce2-4c8e-abae-643980914d22@az7-sub.serverfreedom.com:20000?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo#az7-sub.serverfreedom.com:20000
-trojan://zxxb3fbb-3hnz-co8k-1di2-822p0vv8lork@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://2d6882eg-6r15-mcux-pd68-b6rcaqdb1gq2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://1veuv8x9-lyh6-41yr-hba1-ah6dublryin0@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://fd98fgzh-76mu-xa0k-8ddf-reiaabmpxidn@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
