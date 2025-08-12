@@ -1,8 +1,6 @@
-trojan://m79z2xx9-7a2m-2ljp-x8lm-16t6z7b9l31f@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/12 | 19:55
-trojan://d3gr96bd-xjpw-mnso-j81n-c6aa41j4b86n@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://zhc6tho2-4avx-vll2-5qc0-lcuzetf5j4qh@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.187.105.25:443#172.187.105.25:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.199.135:443#74.177.199.135:443
+trojan://fj1y3zrs-ttdh-0squ-sddc-g1ft3p0qturi@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/12 | 23:53
+trojan://rsict81k-3krm-smkm-nixq-bshtda20hkbl@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://azdo94gk-ki08-9biz-lw2y-tnjhs9ud0th5@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#45.87.175.35:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#45.139.24.24:57456
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBa2k4VzFqcm5IcW1HUm1lV29sN0NZ@89.185.84.185:443#89.185.84.185:443
@@ -25,7 +23,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#45
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#188.166.220.70:37708
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#188.166.220.70:37708
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#193.46.56.185:6683
-trojan://6gZh2JbfhQ@104.248.18.1:1935?sni=x1-germany-digitalocean-v2.devefun.org&peer=x1-germany-digitalocean-v2.devefun.org&security=tls#104.248.18.1:1935
 trojan://123456@104.25.165.81:8443?sni=top-azx.pages.dev&peer=top-azx.pages.dev&security=tls#104.25.165.81:8443
 trojan://123456@104.25.165.81:8443?sni=top-azx.pages.dev&peer=top-azx.pages.dev&security=tls#104.25.165.81:8443
 trojan://6gZh2JbfhQ@104.248.18.1:1935?sni=x1-germany-digitalocean-v2.devefun.org&peer=x1-germany-digitalocean-v2.devefun.org&security=tls#104.248.18.1:1935
@@ -33,14 +30,6 @@ trojan://123456@104.25.165.81:8443?sni=top-azx.pages.dev&peer=top-azx.pages.dev&
 vmess://eyJ2IjoiMiIsInBzIjoiQEcwRHYycmF5IiwiYWRkIjoiMTY5LjE1MC4yMDguODMiLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiQFYycmF5MV9OZyIsImFkZCI6IjY1LjEwOS4xODguMTk1IiwicG9ydCI6MzIwMTcsImlkIjoiYzBjY2RlYjktNzg0Yy00ZDY3LWI5MDQtMjBkY2FhYzk5MDJhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQFYycmF5MV9OZyIsImFkZCI6IjE1LjIwNC4xMS4xOTAiLCJwb3J0IjoxNTM2MSwiaWQiOiI1ZDdiZjllMy00MTVjLTQwZjMtYzY2ZC1hNTRlYTBmZDg2MGUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.147:80?type=ws&security=none&path=/Telegram@V2ray_Alpha/?ed=2560#45.80.111.147:80
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.26.13.54:80?type=ws&security=none&path=/Telegram@V2ray_Alpha/?ed=2560#104.26.13.54:80
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@198.41.193.13:2087?type=ws&security=tls&path=/&sni=smart.v2plusify.org&fp=chrome#198.41.193.13:2087
-vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@172.67.145.189:2083?type=ws&security=tls&path=/Telegram@V2ray_Alpha/?ed=2560&sni=FrEEdoM.pAnOtOSU.sTORe&fp=chrome#172.67.145.189:2083
-vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?type=ws&security=tls&path=/Telegram@V2ray_Alpha/?ed=2560&sni=019309B7.XyZ0.PaGeS.dEV&fp=randomized#188.114.99.16:2053
-vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?type=ws&security=tls&path=/dQMN2VQLkaE52qWD?ed=2560&sni=ensHOLP-91s.pageS.DEv&fp=randomized#104.16.34.128:443
-vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?type=xhttp&security=none&path=/Zed#151.101.67.8:80
-vless://c819261a-ad50-4ded-b164-1eafed9885c2@www.speedtest.net:2096?type=ws&security=tls&path=/mmdhmrws&sni=638868951946670036.amsterdam-prx-dnraaal.info#www.speedtest.net:2096
 vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?type=xhttp&security=none&path=/Zed#151.101.67.8:80
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?type=ws&security=tls&path=/Javid-SHAH-KingRezaPahlavi/?ed=@vpnserverrr_vpnserverrr_vpnserverrr&sni=simorgh.hpcode.ir&fp=firefox#154.92.9.46:443
 vless://V2rayNGFreeeV2rayNGFreee@151.101.67.8:80?type=xhttp&security=none&path=/#151.101.67.8:80
@@ -120,5 +109,5 @@ vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@russiatest-tap2.servers807.ir:2025?
 vless://Parsashonam-297@91.99.16.244:443?type=xhttp&security=reality&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&sni=Google.com&fp=chrome&pbk=sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8&sid=61e683d41fdb#91.99.16.244:443
 vless://Parsashonam-297@91.99.16.244:443?type=xhttp&security=reality&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&sni=Google.com&fp=chrome&pbk=sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8&sid=61e683d41fdb#91.99.16.244:443
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?type=tcp&security=reality&sni=speed.cloudflare.com&flow=xtls-rprx-vision&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y#5.181.171.10:443
-trojan://zs68nzme-kdyy-ij4a-vqoq-b6lnoizjncz6@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://0m0unc0u-qo53-dt3o-vsvq-xw85t9qexye6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://l8pw6lwj-pfqp-pep2-2y0c-5zqjus388n8d@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://v2oz6f8c-7fsh-865i-ovhf-ftkds1whie1c@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,11 +1,6 @@
-trojan://a53g21gz-rbzw-bgez-ne65-whftwkpzklep@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/12 | 19:55
-trojan://s2w5rh3o-nnn2-rd7d-nqhc-6jheb5rn3uwj@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ce98jxsa-1fyc-07ny-devq-8xvr0v7wqjny@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?type=ws&security=tls&sni=carlotta.shoorekeeper.cloudns.org&fp=random#104.18.36.24:443
-vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?type=ws&security=none&path=/vpn?ed=2560#104.16.228.91:80
-vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?type=tcp&security=none#54.38.214.56:37171
-vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?type=ws&security=tls&path=/&sni=server8.coin.name.ng#www.speedtest.net:8443
-vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?type=ws&security=tls&path=/&sni=server7.coin.name.ng#www.speedtest.net:8443
+trojan://xf7ypp0o-s4c5-ftt5-k423-slv0xnkewvzy@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/12 | 23:53
+trojan://qqrbz53x-3g3n-ubso-fob9-vwuo45i5tn0f@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://peq7csk5-9b3k-gtda-8icv-1i78t7uzv6y1@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?type=ws&security=tls&path=/&sni=server8.coin.name.ng#www.speedtest.net:8443
 vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?type=ws&security=none&path=/7YVyoVNnbaVzgl6D?ed=2560#104.16.69.64:8880
 vless://323b04df-9596-4b4b-a0dc-27bec648e28f@www.speedtest.net.cdn.cloudflare.net:80?type=ws&security=none&path=/?ed=2048#www.speedtest.net.cdn.cloudflare.net:80
@@ -14,5 +9,13 @@ vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.126.93:8443?type=xhttp&securi
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.126.93:8443?type=xhttp&security=none&path=/xhttp#91.99.126.93:8443
 vless://5929d509-606b-4685-9759-a39cd1497c85@afra.matrixvip.fun:46716?type=tcp&security=none#afra.matrixvip.fun:46716
 vless://5929d509-606b-4685-9759-a39cd1497c85@afra.matrixvip.fun:46716?type=tcp&security=none#afra.matrixvip.fun:46716
-trojan://purdsi5q-tgv5-rguy-dlsa-jvx07vnzbvhf@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://d9fis8f9-qz8y-6pgv-koqj-gzd5bs9j6lkt@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://5929d509-606b-4685-9759-a39cd1497c85@afra.matrixvip.fun:46716?type=tcp&security=none#afra.matrixvip.fun:46716
+vless://aa077dd1-0a53-4313-8800-c9ac79a97003@sss71534.tas-bazi.com:443?type=xhttp&security=none&path=/sef#sss71534.tas-bazi.com:443
+vless://2dac3536-244a-4558-9ab9-ab9ae34638c1@evay_vpn.fast.hosting-ip.com:80?type=xhttp&security=none&path=/?ed=80@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#evay_vpn.fast.hosting-ip.com:80
+vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?type=ws&security=none&path=/@iSpeedTopVPN?ed=80#simonil.zarghamportal.ir:2095
+vless://aa077dd1-0a53-4313-8800-c9ac79a97003@sss71534.tas-bazi.com:443?type=xhttp&security=none&path=/sef#sss71534.tas-bazi.com:443
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?type=ws&security=tls&sni=carlotta.shoorekeeper.cloudns.org&fp=random#104.18.36.24:443
+vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?type=ws&security=none&path=/vpn?ed=2560#104.16.228.91:80
+vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?type=tcp&security=none#54.38.214.56:37171
+trojan://w3rso2fv-3e1o-uqjp-n465-ubpq1qks1f2u@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://u4w75ifh-bbph-8tt1-xadh-23h7wnz4qjsp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
