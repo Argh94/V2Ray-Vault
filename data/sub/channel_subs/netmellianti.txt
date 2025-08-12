@@ -1,8 +1,7 @@
-trojan://dzdecq66-ko14-rt5r-3vwo-h384449u7un5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/12 | 16:04
-trojan://o3gc1vck-lxn5-ebvd-dol1-8rcgvcc9yot8@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://ablaae2v-n3h4-zsk2-pgb2-bgbgwi4i2m52@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://cgod1z4q-ld5d-0ptq-mosq-9sde06y4kl22@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/12 | 19:55
+trojan://02kthghl-9xwa-6m3t-nxqx-43nffl0jxrmz@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://c2yy0a1m-gsyh-qil1-rq7q-b02dy0oxp1uj@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQE5FVE1lbGxpQW50aSA6IFx1MDY4Nlx1MDY0Nlx1MDY0NCBcdTA2YTlcdTA2MjdcdTA2NDZcdTA2NDFcdTA2Y2NcdTA2YWYiLCJhZGQiOiI1Ljc1LjE5Mi4yMDQiLCJwb3J0IjoyNjI5OSwiaWQiOiJlNzAzMjI1Zi0zMDQwLTQ1NDAtOGYyNS01M2Q4MDA4MGJhMjciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://a60463c9-1559-45db-9a1d-ca315bb869d7@re.iraniandesinger.com:3333?type=tcp&security=none#re.iraniandesinger.com:3333
 vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#beloved-failure.seotoolsforyou.co.uk:80
 vless://1dd49fb8-6570-4a2a-a236-f410b63159cf@obedient-detail.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#obedient-detail.seotoolsforyou.co.uk:80
 vless://a7343619-6181-4e26-b31b-6bcf21b9e0be@speedtest.net:80?type=xhttp&security=none&path=/#speedtest.net:80
@@ -15,9 +14,10 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?type=ws&security=non
 vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#beloved-failure.seotoolsforyou.co.uk:80
 vless://1dd49fb8-6570-4a2a-a236-f410b63159cf@obedient-detail.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#obedient-detail.seotoolsforyou.co.uk:80
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.219.10:443?type=xhttp&security=none&path=/ds#91.99.219.10:443
-vless://f418440b-a023-4ba4-8f40-1dab600fb48d@94.237.24.169:40745?type=tcp&security=reality&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&pbk=KIJ-Gb61R1Ng1kMvD01v51SwtrrYh3npN5cSkxb-MH0&sid=3b#94.237.24.169:40745
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@www.speedtest.net:443?type=ws&security=tls&path=/&sni=dl1-uk-cdn.easy-upload.org#www.speedtest.net:443
 vless://238f1b5d-468f-455f-bba7-2df5dd94275c@94.237.27.231:49406?type=tcp&security=reality&sni=ilovepdf.com&fp=chrome&flow=xtls-rprx-vision&pbk=UsAOmf7X1yYkjF73ChFECcZb2PFNuhqqvOUxcybV-20&sid=a7#94.237.27.231:49406
 vless://238f1b5d-468f-455f-bba7-2df5dd94275c@94.237.27.231:49406?type=tcp&security=reality&sni=ilovepdf.com&fp=chrome&flow=xtls-rprx-vision&pbk=UsAOmf7X1yYkjF73ChFECcZb2PFNuhqqvOUxcybV-20&sid=a7#94.237.27.231:49406
 vless://f8c93834-99a4-44e7-b476-147a3ab582d0@35.74.27.180:2096?type=grpc&security=reality&sni=zula.ir&fp=chrome&pbk=1MAWRB1pWGt62JZszI7ppUwukazzBbJ00i_C5CNr5jk&sid=28#35.74.27.180:2096
-trojan://2aimlgq8-mt9c-fdy1-k4qd-ye40mx3r2tqm@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://d09upjuh-0dq4-3ywn-0pu7-rl9x9f6tjbk0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://a6c5638d-dc8d-4303-a64c-a7f08a6aa1d4@95.164.113.4:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=8453e5fd9af927#95.164.113.4:443
+trojan://pnnoao1b-qems-niqh-0gam-gp1u4izf7meq@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://q0swe5lm-k91p-25hb-g2n2-q53we97as1wk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
