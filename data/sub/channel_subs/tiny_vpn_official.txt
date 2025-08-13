@@ -1,6 +1,6 @@
-trojan://2ihtkmt5-kw0o-756o-nexh-ba3ezl4kbcxo@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/13 | 16:05
-trojan://1k6m06rj-se4a-5kyo-cl1w-1tpob5tqv75d@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://5f3po6vz-yuit-22fl-gggy-sr18mu69hib9@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://l3a7n08s-3j64-ri2q-614m-x9axv1wkawde@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/13 | 19:52
+trojan://yvksiysj-tdhc-vcou-xjrd-adhkpb2grgtr@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ptetrnlv-txlb-p892-d10r-tu8jan8ui080@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://f8e2ad01-4558-4207-87db-5991d64ca794@cf1.privacypath.org.tr:443?type=httpupgrade&security=tls&path=/tinyvpn?ed=2560&sni=tiny1.privacypath.org.tr&fp=firefox#cf1.privacypath.org.tr:443
 vless://f8e2ad01-4558-4207-87db-5991d64ca794@cf2.privacypath.org.tr:443?type=httpupgrade&security=tls&path=/tinyvpn?ed=2560&sni=tiny2.privacypath.org.tr&fp=firefox#cf2.privacypath.org.tr:443
 vless://f8e2ad01-4558-4207-87db-5991d64ca794@ping.pe:443?type=httpupgrade&security=tls&path=/tinyvpn?ed=2560&sni=tiny1.privacypath.org.tr&fp=firefox#ping.pe:443
@@ -16,5 +16,5 @@ vless://5e7be0f8-af63-45ff-8339-511a47a8243d@ping.pe:443?type=httpupgrade&securi
 vless://5e7be0f8-af63-45ff-8339-511a47a8243d@srv5.privacypath.org.tr:80?type=xhttp&security=none#srv5.privacypath.org.tr:80
 vless://5e7be0f8-af63-45ff-8339-511a47a8243d@tiny-srv1.privacypath.org.tr:830?type=tcp&security=none&path=/#tiny-srv1.privacypath.org.tr:830
 vless://5e7be0f8-af63-45ff-8339-511a47a8243d@tiny-srv1.privacypath.org.tr:443?type=tcp&security=tls&sni=tiny-srv1.privacypath.org.tr&fp=firefox#tiny-srv1.privacypath.org.tr:443
-trojan://dfba1a3x-ak7i-w3sv-17zc-cdxb8e020brm@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://otfu663z-9gpj-r74h-jf6t-x7yjkajwnkno@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://0pu3s3o6-tjhw-qt4g-poxr-ljw41hu70der@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://2p8pdirw-wfee-q90q-5k2b-p7syix6tj6od@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
