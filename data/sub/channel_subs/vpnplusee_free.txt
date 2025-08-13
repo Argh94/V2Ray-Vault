@@ -1,9 +1,6 @@
-trojan://lcwitrks-k1va-pd8q-r151-y5hfu9wzx9xa@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/13 | 08:03
-trojan://4wq845xi-btiz-s5ap-ylj2-zgwhv3bqtds0@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://fdz8jbgw-97y7-q7gz-2vyv-ed20ijtil3q6@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://d6ab62fc-7ec8-4bb3-a9af-269289c0f11f@172.66.40.99:8080?type=ws&security=none&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#172.66.40.99:8080
-vless://Parsashonam-Bot-13@104.17.147.22:8080?type=ws&security=none&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056#104.17.147.22:8080
-vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@62.60.178.19:20321?type=tcp&security=none#62.60.178.19:20321
+trojan://ug1lenrl-ap92-brb5-wj2l-5wu2pdigmaj5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/13 | 11:57
+trojan://ypjwpxgg-nzep-sxxm-m88n-4rqd7g3ugvrq@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://udp4m81m-tbkt-bchl-4h8o-0m8fwx5hgsih@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.183.143:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#52.47.183.143:22224
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.20.21:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#35.181.20.21:22224
 vless://82aa1f3f-29d4-42ab-a5d5-66b13ba13545@91.99.114.25:443?type=xhttp&security=none&path=/d#91.99.114.25:443
@@ -12,13 +9,15 @@ vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss47060.tas-bazi.com:443?type=xhtt
 vless://e607228c-6b95-49b9-9737-d1cb7e7f3980@sejdbdeir.cdn.volona.site:39037?type=ws&security=none&path=/Telegram--iProxyChannel--Telegram--iProxyChannel--Telegram--iProxyChannel--Telegram--iProxyChannel--Telegram--iProxyChannel#sejdbdeir.cdn.volona.site:39037
 vless://b4f74286-a58e-4601-8f45-d2bd36f84afb@172.66.40.99:80?type=ws&security=none&path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2?ed=2560&sni=dfgopee-workers.dev&fp=randomized#172.66.40.99:80
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?type=ws&security=none&path=/barayeiranmahsang/tel-@azadiiivpn/?ed=2560#91.206.71.162:8880
-vless://a7e62a74-0a45-4512-89d8-9845052764c8@ir.evovpn.ru:443?type=tcp&security=reality&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=e3-NBhCfh1A2gy6MyckQ2VmDDMgh5roW-gYVSznwS1Y&sid=d44c2054e3a9063b#ir.evovpn.ru:443
-vless://e6b6f680-797c-4354-b2d8-bad9adbe89ae@us02.528965.xyz:31158?type=tcp&security=reality&sni=www.hkust.edu.hk&fp=chrome&flow=xtls-rprx-vision&pbk=m2_mTpJOzyR-Cy3r8Ryf-3lYPZ_zYheZz7twWq9fXX8&sid=9444ff#us02.528965.xyz:31158
-vless://f6fa8cbd-6f5a-4a2c-8a28-9a1e6f48bdd6@fr.pixvpn.app:8443?type=grpc&security=reality&sni=jd.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=41a4cee2c50c4fc3#fr.pixvpn.app:8443
-vless://51b676c4-7fc2-46b9-a26a-2834e2db7046@202.78.163.59:51886?type=tcp&security=reality&sni=stackoverflow.com&fp=chrome&flow=xtls-rprx-vision&pbk=bLy2D3vRILVKvjunhD9J7mDglee8PQhuYQMFwfurHiE&sid=c6#202.78.163.59:51886
+vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#grumpy-building.seotoolsforyou.co.uk:80
+vless://de765eb2-92d9-4730-885a-7f63985cffbe@simonil.zarghamportal.ir:8080?type=httpupgrade&security=none&path=/#simonil.zarghamportal.ir:8080
+vless://9a464637-7d90-4497-af4f-c5c8017a9b77@172.66.40.99:443?type=ws&security=tls&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net#172.66.40.99:443
 vless://3cc281c5-12ba-4b7f-b3cb-dffaead2e41b@46.62.148.83:443?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=ISrfUELe0qT8oErISq19eLFM4VqFgkeiz5RWAA0t5FM&sid=7a8117b83a6a3b45#46.62.148.83:443
 vless://a6c5638d-dc8d-4303-a64c-a7f08a6aa1d4@95.164.113.4:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=8453e5fd9af927#95.164.113.4:443
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@45.143.166.82:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#45.143.166.82:34045
 vless://d4710a65-4d89-4736-b575-917334dcfffb@wolf540.api-tel.ir:36338?type=tcp&security=reality&sni=refersion.com&fp=chrome&flow=xtls-rprx-vision&pbk=WRbNyWLu_I0Mfyv6WWf4EwoE2srtKdwlUq2Z-tbJ6j4&sid=82bd6d1066#wolf540.api-tel.ir:36338
-trojan://gc6bgnic-al92-t5jq-9c26-k4l7j7vmz5rf@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://rcwg6gb4-9qky-d3cj-qttc-v80z34epqd70@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://2b4f6be4-32b4-495c-82d1-4d3093e5ddad@85.9.204.21:23328?type=tcp&security=reality&sni=ilovepdf.com&fp=chrome&flow=xtls-rprx-vision&pbk=Za4d7M22mOEGXV23Tkb_STUCIznMbtlUS89ZAaECjU0&sid=1af22e9c44f798bc#85.9.204.21:23328
+vless://d2bcb15b-8cf0-402c-af32-6b04615144c9@greenwolf.fonixapp.org:12901?type=tcp&security=reality&sni=canva.com&fp=chrome&flow=xtls-rprx-vision&pbk=UIgzNUpO2PvGIgjtIK1GEikBFRVvfA1jm7bfor0HlAM&sid=b538b3#greenwolf.fonixapp.org:12901
+vless://052fa822-a267-4dcb-b708-eafdd7688993@az7-sub.serverfreedom.com:20000?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo#az7-sub.serverfreedom.com:20000
+trojan://p5j2igc7-187a-lhza-dz07-obr0401fxuvv@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://xdobkw98-ciir-70uj-t6ay-mhebhfu37pqh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
