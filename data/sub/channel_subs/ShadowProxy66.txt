@@ -1,27 +1,9 @@
-trojan://mmo8ahsz-ocaj-wuvh-ty2b-4oaelyy7r5nr@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/13 | 23:53
-trojan://mi65b35i-0b51-l39c-1ida-3i3mas2yutda@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://bq8hfw5i-1j2d-q0s4-gihv-lyho601f7074@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://knpf4ngg-hh4o-nu2c-2e8u-e0zck7q0qnuq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/14 | 04:41
+trojan://n5tzritv-ne2m-kj09-gavq-wq6k9aiv7la6@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://qc94fgsc-hwu0-eabs-sviv-cbxydvuzxhqw@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#45.139.24.24:57456
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#46.101.245.131:44354
-trojan://Aimer@27.50.48.189:2083?sni=epgb.aimercc.dpdns.org&peer=epgb.aimercc.dpdns.org&security=tls#27.50.48.189:2083
-trojan://slch2024@104.18.2.108:8443?sni=ocost-dy.wmlefl.cc&peer=ocost-dy.wmlefl.cc&security=tls#104.18.2.108:8443
-trojan://Aimer@5.182.84.52:2083?sni=epgb.aimercc.dpdns.org&peer=epgb.aimercc.dpdns.org&security=tls#5.182.84.52:2083
-trojan://Aimer@172.64.34.52:2096?sni=epgb.aimercc.dpdns.org&peer=epgb.aimercc.dpdns.org&security=tls#172.64.34.52:2096
-trojan://Aimer@108.165.152.66:2083?sni=epgb.aimercc.dpdns.org&peer=epgb.aimercc.dpdns.org&security=tls#108.165.152.66:2083
-trojan://Aimer@192.200.160.35:2083?sni=epgb.aimercc.dpdns.org&peer=epgb.aimercc.dpdns.org&security=tls#192.200.160.35:2083
-trojan://Aimer@173.245.59.109:2087?sni=epgb.aimercc.dpdns.org&peer=epgb.aimercc.dpdns.org&security=tls#173.245.59.109:2087
-trojan://Aimer@104.19.60.99:2087?sni=epgb.aimercc.dpdns.org&peer=epgb.aimercc.dpdns.org&security=tls#104.19.60.99:2087
-trojan://Aimer@160.79.105.160:8443?sni=epgb.aimercc.dpdns.org&peer=epgb.aimercc.dpdns.org&security=tls#160.79.105.160:8443
-trojan://Aimer@167.68.4.7:2053?sni=epgb.aimercc.dpdns.org&peer=epgb.aimercc.dpdns.org&security=tls#167.68.4.7:2053
-trojan://Aimer@199.34.228.178:8443?sni=epgb.aimercc.dpdns.org&peer=epgb.aimercc.dpdns.org&security=tls#199.34.228.178:8443
-trojan://Aimer@188.164.159.22:2096?sni=epgb.aimercc.dpdns.org&peer=epgb.aimercc.dpdns.org&security=tls#188.164.159.22:2096
 vmess://eyJ2IjoiMiIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYgXHVkODNjXHVkZGVjXHVkODNjXHVkZGU3IiwiYWRkIjoiNjQuMjI3LjQ1LjkyIiwicG9ydCI6MjAwODYsImlkIjoiNWUwMmJjMDEtNDJhNy00NjA5LWIyMGEtNGQ5M2ZlZWE2NWM2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvIn0
-vless://e77fbe65-01fe-48d0-8069-f6fa8f7a6d81@104.248.142.176:443?type=tcp&security=none#104.248.142.176:443
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?type=ws&security=tls&path=/&sni=E4aRpUi7Xe.GiTi4.OrG#104.19.144.33:2096
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?type=ws&security=none&path=/193.123.81.105=443#45.131.4.85:80
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.7.0:80?type=ws&security=none&path=/193.123.81.105=443#45.131.7.0:80
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?type=ws&security=tls&path=/57ba2ab1&sni=ovhwuxian.pai50288.uk&fp=chrome#104.21.3.219:8443
 vless://b1fe7cec-3028-4cf0-b1c3-af55efd23ad8@91.99.169.64:8443?type=xhttp&security=none&path=/xhttp#91.99.169.64:8443
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@40.160.50.44:443?type=xhttp&security=none&path=/sef#40.160.50.44:443
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.3.139:443?type=xhttp&security=none&path=/ds#91.99.3.139:443
@@ -51,14 +33,6 @@ vless://b6483285-7a02-4feb-b09c-540d0c6026fa@91.107.136.208:23114?type=tcp&secur
 vless://75b63c38-ba6a-4bc8-b1ce-eb7df9931faf@www.speedtest.net:80?type=ws&security=none&path=/ShadowProxy66-ShadowProxy66#www.speedtest.net:80
 vless://655a6041-0ab8-4a92-ad79-f0dba34f5ace@104.17.148.22:8443?type=xhttp&security=tls&path=/&sni=uk-09.allhubb.info&fp=randomized#104.17.148.22:8443
 vless://4e125438-1a39-440e-95fc-36b9dec03e5f@104.21.43.168:443?type=ws&security=tls&path=/random&sni=adderall.adaspoloandco.com&fp=firefox#104.21.43.168:443
-vless://fa886719-16fa-4b10-88c5-3c00a6f5a5f1@195.133.8.126:8081?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=oB-VCWWpUePBe_v3vAOLWw054ZbdUN_4X3t_FkkPNFc&sid=220463#195.133.8.126:8081
-vless://4c54aa59-3f7a-4257-bad6-5f2def2d9fb8@157.173.195.208:8081?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=maeBz8hpeApypC47VuYULiB8zupTv1HxlPpRJ5QsOUI&sid=9d41#157.173.195.208:8081
-vless://91b77af9-6f06-4c22-9c0e-bdd8f63de158@51.77.91.192:8081?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=KdvX1bbHtA4Y16IukcDsNiEJ9iKYk4BLlI7LDsV0iFU&sid=d5bfd6c4#51.77.91.192:8081
-vless://c988e2e4-3e72-48e0-894f-c458f03246a7@178.212.35.210:8080?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=raES8OUSF_bmOvcHfuPIm-Fu-hlpd-9SLWCWmrRCW2M&sid=89a6e02cde6cea#178.212.35.210:8080
-vless://f8be92b6-b31f-4d8b-ba7d-20781595fa0e@194.87.80.9:8081?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=nID_kfSoZPfWS1XZUT1dZnR2mwaoRtUROtBpmqCWEiQ&sid=d0a3f84aabd21574#194.87.80.9:8081
-vless://f924939e-2d9a-46b7-a3c2-67a225b7c027@51.89.2.113:8081?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=nT4JZTeUVOw-XZ-htdqbFi1je4ZHeg-ALICrDk2usFE&sid=d19d7a2d3da8595a#51.89.2.113:8081
-vless://cfd27aaa-5c63-4dee-a629-a386c46c4e2f@51.79.147.28:8081?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=uYOSeOLxIzI7gnBRnH6-zou0TC4s7vKn0xHbQrXaAg4&sid=5e78b1a93d#51.79.147.28:8081
-vless://40d9faec-3130-4e69-bb77-210193e65598@51.222.87.29:8081?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=C4lraeO0FAYyFmDWbRmHmX53xTf4XMalv5kGefeWBmA&sid=4662ad#51.222.87.29:8081
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&sid=4602ee9f9f36#45.12.143.191:20329
 vless://6ecaf146-9aae-479c-bc88-f4698d69fe89@3961852.shatak.top:8019?type=tcp&security=reality&sni=www.journalofbigdata.springeropen.com&fp=firefox&flow=xtls-rprx-vision&pbk=aTzPOCzlpzwluoGjpAaGYbD8CQfUV4BggvJTkWZsinM&sid=f696e2a3d5ec2c41#3961852.shatak.top:8019
 vless://bfc78cd8-5951-4803-8d6c-4cedef8cd420@95.164.85.109:59374?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc&sid=d21e7c#95.164.85.109:59374
@@ -101,5 +75,5 @@ hysteria2://3hszBhqVsUhqOOFWJlev6k6Tkc@54.255.144.66:22509?sni=bing.com&insecure
 hysteria2://eb75320e-a6d0-4b34-a6b6-2bcfc96a9099@203.174.82.145:43057?sni=www.bing.com&insecure=1#203.174.82.145:43057
 hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:36400?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#2a14:3f87:f001:13::a:36400
 hysteria2://NjEkAYYNqFKUbrksyW1COBtdpU@47.239.220.214:2428?sni=bing.com&insecure=1#47.239.220.214:2428
-trojan://env894kn-trx7-9aal-9pvp-bmg1sooq2gr3@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://qk8qclcb-jc5h-pqjj-rgp7-z9d7ynew7682@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://uf8jk1px-jgrq-1csm-fs83-xytr0qjmna6t@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://792mjb8s-7gfi-ayhd-ocxr-xydinnq2hr7t@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
