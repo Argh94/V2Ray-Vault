@@ -1,6 +1,6 @@
-trojan://4z2jgivj-rvfa-4bpu-wi04-4xblbw9k9xa0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/14 | 16:06
-trojan://ze0fpfxt-8jh7-2tyh-oj35-n1wkfn1nxbwo@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://5suht16p-cggd-dt1i-q0yn-n9lswsst123t@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://8abrsf03-3i4h-cl80-z6dl-2ny094nmmx62@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/14 | 19:56
+trojan://221zy4py-0exh-rl1c-ktw8-zbrtmjf81k6c@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://66v3j29o-b3xr-e0v4-evpx-ndttqljdijrw@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456#147.45.178.200:57456
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@85.210.36.164:443#85.210.36.164:443
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.223.20.79:989#154.223.20.79:989
@@ -14,10 +14,12 @@ ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@217.30.10.18:9001#217.30.10.18:9001
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?sni=rc8.freeguard.org&peer=rc8.freeguard.org&security=tls#192.3.107.252:443
 vmess://eyJ2IjoiMiIsInBzIjoiW1x1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmN110Lm1lL0NvbmZpZ3NIdWIiLCJhZGQiOiIxODUuNTguMjQzLjkiLCJwb3J0IjoxMDAwLCJpZCI6IjJkMjIwY2ZkLTc2YjMtNDk3Zi04MDQ2LWJmNzY0YmRiZWFjNSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii9AVGVzbGFhVGVhbSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiW1x1ZDgzY1x1ZGZjMV10Lm1lL0NvbmZpZ3NIdWIiLCJhZGQiOiIxNzYuOTguMTgxLjM3IiwicG9ydCI6NTgwMTMsImlkIjoiYjEyNzdmMTEtNzFiMC00YTQ0LTlmNTItMDdjNmMzMjY2OTM5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiLyJ9
+vless://88d05a33-ff36-415d-9d2c-7e1e8468e7e8@45.131.209.137:8443?type=ws&security=tls&path=/TELEGRAM-@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI/?ed=2560&sni=w325.pAges.Dev&fp=chrome#45.131.209.137:8443
 vless://88d05a33-ff36-415d-9d2c-7e1e8468e7e8@185.148.104.157:8443?type=ws&security=tls&path=/TELEGRAM-@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI/?ed=2560&sni=w325.pAges.Dev&fp=chrome#185.148.104.157:8443
 vless://88d05a33-ff36-415d-9d2c-7e1e8468e7e8@45.80.111.126:8443?type=ws&security=tls&path=/TELEGRAM-@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI/?ed=2560&sni=w325.pAges.Dev&fp=chrome#45.80.111.126:8443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?type=grpc&security=none#185.231.205.234:8880
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?type=grpc&security=none#pqh30v8.waipdirect.shop:8880
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?type=grpc&security=none#45.82.251.80:8880
-trojan://6qv9lq69-8tey-oz42-g3xm-35zllrgo4f9p@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://g4okrhm8-k6bd-9eaj-cdyz-nx5top2hu5n6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://a0a3e34d-87e4-4ff3-b04a-875c85325d62@it.panelmarzban.com:3037?type=tcp&security=reality&sni=refersion.com&fp=firefox&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI#it.panelmarzban.com:3037
+trojan://x89puf3b-jjgu-bnpk-0gq2-fw3j0034wnt8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://qeq4j13k-ucon-oo8f-52hw-fxa394tec7ov@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

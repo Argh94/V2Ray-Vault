@@ -1,6 +1,6 @@
-trojan://f0dq8cp5-3ye2-m2a4-1zoa-n1jyx0pg0ej3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/14 | 16:06
-trojan://pfq2ssjn-v6vk-ldg5-33o3-n152figguwtz@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://46m82mmj-mpdx-dfdn-pr0n-8fenqct9kery@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://q395dwfv-p8kh-vk1a-n4h3-i9rz4itcgykq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/14 | 19:56
+trojan://x5jmtqbh-iq0u-ioim-wf42-2gntxngy30qo@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://5ywdqkt4-gw2v-aaz9-zzbg-9hjomo11wsqz@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#45.144.49.140:57456
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#193.29.139.202:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#45.144.49.140:57456
@@ -8,5 +8,6 @@ vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?type=ws&security
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.96.1:80
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.96.1:80
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.96.1:80
-trojan://9186nrfq-o8yj-unsg-pp9v-lwm7fw1iy8mt@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://0v3odh6e-1tll-aw2z-t70w-yl37ghomg04x@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
+trojan://esxgzn1x-5xwj-3s68-j1br-ljrhmuo9mxux@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://o5zywnai-8fmx-g02e-da8k-52ds1rbjc75c@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,6 +1,6 @@
-trojan://r1g8l0sb-z7eu-us3m-zlxl-tjlg2a41ab4n@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/14 | 16:06
-trojan://2w8n15pe-g02x-vuqo-6g6b-n7h11bp23u0h@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://gtqmho3m-7fzv-xpir-mu92-begxesost4hk@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://zekwmq8m-30py-hkp7-lt4i-j1xbdgnnf3hd@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/14 | 19:56
+trojan://f7yxarfy-iimp-o7dr-71me-4a4fy0vax2z8@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://q3427lk6-ykcq-xbi8-01kk-gjlgms2gtjsd@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#185.213.23.226:990
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#193.29.139.177:8080
 vless://f0e825fb-6aa7-4825-e4ef-9a8e170b3a61@cumhuriyet.com.tr:8080?type=ws&security=none&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#cumhuriyet.com.tr:8080
@@ -35,5 +35,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?type=grpc&securit
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?type=grpc&security=none#185.231.205.253:8880
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?type=ws&security=tls&path=/?ed=2560&sni=kawaiifreevpn-7ds.pages.dev&fp=random#104.19.245.206:443
-trojan://t9vfr3wf-33sf-wzdh-xvzd-pe45651qjsiq@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://mr1jqy77-h8ch-7ufx-8pw6-ncmfewmue2ux@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://5929d509-606b-4685-9759-a39cd1497c85@afra.matrixvip.fun:46716?type=tcp&security=none#afra.matrixvip.fun:46716
+trojan://qy6a127c-dtg9-kso8-0878-inm2er3hlyia@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ydud1661-chf4-zerj-np0w-0rvjc9ietpwp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
