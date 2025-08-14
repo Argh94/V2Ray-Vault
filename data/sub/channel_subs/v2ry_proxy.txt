@@ -1,14 +1,9 @@
-trojan://2om4pftt-btm6-yy8h-io8n-oqpjfuk0ilnh@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/14 | 08:02
-trojan://ehb46wt0-lkl3-0q2f-n4p8-b1yxr6wka7zd@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://e1z8u8y8-3cth-co9e-l2m9-junafnfnv2v1@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://9o8z07iu-05al-5hg6-241w-cvt740wu6inl@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/14 | 11:57
+trojan://lbgankoe-qeru-alhf-1euo-8okvrrxtm1s0@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://uclz0yvl-jkhk-o5yo-v9a5-5kg7b85i0szu@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#185.177.229.245:1866
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@46.226.163.225:57456#46.226.163.225:57456
-vmess://eyJ2IjoiMiIsInBzIjoiaHR0cHM6Ly90Lm1lL1YycnlfUHJveHkiLCJhZGQiOiI5MS4yMjguMTAuMTI1IiwicG9ydCI6NDc2ODIsImlkIjoiNmI4MzdkZGQtN2RmYi00NTIwLWRkOWMtNjVkNjFkNjQwODk2IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiaHR0cHM6Ly90Lm1lL1YycnlfUHJveHkiLCJhZGQiOiI5NC4xMzYuMTg1LjIzMCIsInBvcnQiOjEwNTM0LCJpZCI6ImIwMWM3ZWY5LTMzZWMtNDFmNi1iZmJmLTc3ZGRjNGQyMTY0OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://6ec52bc7-fcd7-4841-ab69-70d6e03a6eda@104.17.148.22:8880?type=ws&security=none&path=telegram@filter_breaker/?ed=2560#104.17.148.22:8880
-vless://Parsashonam-Bot-12@104.17.147.22:8080?type=ws&security=none&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056#104.17.147.22:8080
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
-vless://Parsashonam-295@2a01:4f8:1c1a:dc2b::1:8888?type=tcp&security=none#2a01:4f8:1c1a:dc2b::1:8888
 vless://747d4612-b3e5-4165-879a-42d861e4c4b7@65.109.183.203:10000?type=ws&security=none&path=/#65.109.183.203:10000
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.7.0:80?type=ws&security=none&path=/193.123.81.105=443#45.131.7.0:80
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@92.243.74.115:443?type=ws&security=tls&path=/?ed=2560&proxyip=ts.hpc.tw&sni=edgb.aimercc.dpdns.org&fp=random#92.243.74.115:443
@@ -51,9 +46,11 @@ vless://a3151e51-8945-4cd4-9db7-6729bc551c63@cdn-assets-edge.cyberscaler.net:80?
 vless://8dbb26f8-8832-46bc-bc0c-a2f17d8d200f@15.204.236.64:24820?type=tcp&security=none#15.204.236.64:24820
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.7.0:80?type=ws&security=none&path=/193.123.81.105=443#45.131.7.0:80
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?type=ws&security=none&path=/193.123.81.105=443#45.131.4.85:80
+vless://TELEGRAM-CONFiGLiNE@172.66.40.99:8080?type=ws&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#172.66.40.99:8080
+vless://TELEGRAM-CONFiGLiNE@172.66.40.99:443?type=ws&security=tls&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&sni=hE136.maShkesTan.CoM&fp=firefox#172.66.40.99:443
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@deu246.bypassall.org:443?type=tcp&security=reality&sni=www.bing.com&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#deu246.bypassall.org:443
 vless://f418440b-a023-4ba4-8f40-1dab600fb48d@94.237.24.169:40745?type=tcp&security=reality&sni=deepl.com&fp=chrome&flow=xtls-rprx-vision&pbk=KIJ-Gb61R1Ng1kMvD01v51SwtrrYh3npN5cSkxb-MH0&sid=3b#94.237.24.169:40745
 vless://276a6072-3b0c-4ddb-bb33-ce14fabc1534@91.99.236.124:51479?type=grpc&security=reality&sni=www.cdn77.com&fp=chrome&pbk=ywnxBH4IYI83aaL9k0og1Slb9CU-eEhPypH3pXD0VSg#91.99.236.124:51479
 vless://7edc9161-fa59-45ae-b9e9-80ef4bceb68e@85.9.203.125:36563?type=tcp&security=reality&sni=expedia.com&fp=chrome&flow=xtls-rprx-vision&pbk=tPpkzwOVa4li8CurZc07pnxl8ytBUm9x4b9TBP99h00&sid=c294d6ba98e6a7#85.9.203.125:36563
-trojan://gzball11-vxdi-z203-pt10-qom6ztmri32f@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://djzwqesx-t9qp-a8v5-1rmu-c1urbg2is29t@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://39hnzyab-8xas-dieu-owh0-jip81m6idp94@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://sz4m2ffd-bbmr-0x7q-qr2c-wg5l5a3vu0ij@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
