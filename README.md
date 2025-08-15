@@ -361,6 +361,10 @@ Licensed under the [MIT License](https://github.com/Argh94/V2Ray-Vault/blob/main
 
 ---
 
+![Alt](https://repobeats.axiom.co/api/embed/ae83b5e9185c97f5d5f4dd12dbfb29f514dc6777.svg "Repobeats analytics image")
+
+---
+
 <div align="center">
   <strong>Built with ❤️ for the V2Ray Community</strong><br>
   <a href="https://github.com/Argh94/V2Ray-Vault"><img src="https://img.shields.io/github/stars/Argh94/configs-collector-v2ray?style=social" alt="Star on GitHub"></a>
