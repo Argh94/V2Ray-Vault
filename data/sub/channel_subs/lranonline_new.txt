@@ -1,6 +1,6 @@
-trojan://sxs8l9c0-sfx1-r2kw-8xi2-jh5f0qio296w@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/14 | 23:54
-trojan://ahmygwn5-1t5f-rb4k-4j2j-caizguly6fl1@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://qeu08hil-mxdw-gvsk-4h9t-rc2xof1994yj@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://mry7nuh7-ixad-45c7-mylr-xza1mm9ls1ya@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/15 | 04:42
+trojan://mv16vrxn-d683-xuab-5lwu-6stk6cfqxq9b@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://qqd2vwwc-uljb-791g-gb21-scna55329153@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://TELEGRAM-CONFiGLiNE@172.66.40.99:8080?type=ws&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#172.66.40.99:8080
 vless://TELEGRAM-CONFiGLiNE@172.66.40.99:443?type=ws&security=tls&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&sni=hE136.maShkesTan.CoM&fp=firefox#172.66.40.99:443
 vless://ecba20b3-668b-4e51-ad10-ab26d13c992b@www.speedtest.net:80?type=ws&security=none&path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080#www.speedtest.net:80
@@ -18,5 +18,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?type=grpc&secu
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.145.167:8443?type=xhttp&security=none&path=/xhttp#91.99.145.167:8443
 vless://dbd0ec7c-b8a0-4c60-a87e-d00edd6f0248@senator.cdniran.info:8443?type=ws&security=tls&sni=srv26.flightbean24.com&fp=chrome#senator.cdniran.info:8443
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?type=ws&security=none&path=/193.123.81.105=443#45.131.4.85:80
-trojan://j5mcwtbw-ttr9-37hv-t2wc-vncef8wlwnn8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://x24ztauh-3qq0-718b-qxrv-ibvyolj6h0su@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=cPm.SpEeDtEsT2029.CoM&fp=firefox#172.66.40.99:443
+trojan://5iy3fa0l-nuuf-8ff6-s1pb-rtlxkij4vhto@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://oq3kfgxt-dv2c-45nc-i6lc-6rvb8rvor9xp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
