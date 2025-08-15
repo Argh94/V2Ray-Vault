@@ -1,6 +1,6 @@
-trojan://5bs1jy2n-2yok-fif4-yqkr-9t1ambl70gkc@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/15 | 11:57
-trojan://4b7hr5oy-qumz-kuwv-ut4f-242jsxsfgp5r@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://kl7rxhwe-clej-661w-vnbj-puppscxi5hry@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://e3i05ltb-0dmp-12qw-ad75-oge5qsfv4v9q@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/15 | 16:03
+trojan://8leqo8o1-2445-r4ss-xeng-nbz2teplxriu@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://xd2fprrw-69hv-n0b8-28zv-s5rfgj8i9f90@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://121610b9-74a8-4988-ace2-bafb3013fde1@www.speedtest.net:80?type=ws&security=none&path=/olem/ws?ed=1024#www.speedtest.net:80
 vless://121610b9-74a8-4988-ace2-bafb3013fde1@chat.deepseek.com:80?type=ws&security=none&path=/olem/ws?ed=1024#chat.deepseek.com:80
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.126.93:8443?type=xhttp&security=none&path=/xhttp#91.99.126.93:8443
@@ -9,5 +9,5 @@ vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?type=tcp&securit
 vless://cac92bc3-e77f-4bbe-ac11-c68162727b6d@chat.openai.com:8080?type=ws&security=none&path=/olem/ws?ed=1024#chat.openai.com:8080
 vless://cac92bc3-e77f-4bbe-ac11-c68162727b6d@cafearz.com:8080?type=ws&security=none&path=/olem/ws?ed=1024#cafearz.com:8080
 vless://22253331-3afd-4b87-ec6f-25e995664743@tgju.org:80?type=ws&security=none&path=/olem/ws?ed=1024#tgju.org:80
-trojan://3ppa7r0a-kcqi-eh0y-emds-qifue44rzobq@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ou4a7x93-hvpj-dteg-fc7g-xo9tdhxen5f1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://hpcacy9n-ky1t-5i2r-wndg-1xc3rq13kjiz@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://0f8vsf3x-15i1-e67i-0hsb-taomg9dydsz4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
