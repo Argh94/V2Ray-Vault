@@ -1,6 +1,6 @@
-trojan://38ezyep4-filx-hyn0-56ww-kca8nbw36vkm@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/15 | 08:03
-trojan://nq9mo2jq-yuqd-jtp2-o4jm-domzcgorn0f7@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://wojteosl-y4ad-2hiu-nwt3-b6hanorcskyi@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://9udtel8h-447f-4zw8-ulo9-kunvocxso51p@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/15 | 11:57
+trojan://xd4sly8q-hp2b-mq5r-16ah-8gxpi6p5o91v@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://qwv5dyhm-t1i0-3y1o-iisc-4qul9tbl79eo@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#series-a1.samanehha.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#series-a2.varzesh360.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#series-a2.samanehha.co:443
@@ -14,12 +14,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfYjZ4NXRmTzF3WlV4T2J1Ul9BSVhn@150.241.86.252
 ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#82.180.146.173:35652
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?sni=vpn.stupidworld.web.id&peer=vpn.stupidworld.web.id&security=tls#172.67.181.173:443
 trojan://%3AbC5%5Elakx%3E%24d@172.66.45.9:443?sni=fk31LnDm4W8uj0yP1dRwLTDTdKo6Y-cu.pAGES.dEv&peer=fk31LnDm4W8uj0yP1dRwLTDTdKo6Y-cu.pAGES.dEv&security=tls#172.66.45.9:443
-vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?type=ws&security=tls&path=/?ed=2560&sni=rayan-roof.atena.dpdns.org&fp=chrome#cdnjs.com:443
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?type=ws&security=tls&sni=carlotta.shoorekeeper.cloudns.org&fp=random#172.64.151.232:443
-vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?type=ws&security=none&path=/aioproxybot/8.215.59.6-443#172.67.188.18:80
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?type=ws&security=tls&path==zani.yaemiko.ggff.net/?MTMVPN?ed=512&sni=carlotta.shoorekeeper.cloudns.org&fp=chrome#104.26.14.69:443
-vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.4:443?type=ws&security=tls&path=/proxyip=robin.yaemiko.ggff.net&sni=verina.ccantarella.dns-dynamic.net&fp=randomized#172.67.164.4:443
 vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?type=ws&security=tls&path=/jzmdpvws&fp=chrome#185.234.66.82:443
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.4:443?type=ws&security=tls&path=/proxyip&sni=verina.ccantarella.dns-dynamic.net&fp=randomized#172.67.164.4:443
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/proxyip=zani.yaemiko.ggff.net&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
@@ -99,5 +93,5 @@ vless://7caad1ea-c29d-4ed4-8055-f52a6b67d3f3@77.83.175.25:43644?type=tcp&securit
 hysteria2://n9OgQprayM@android.yas-nowin.ir:443?sni=android.yas-nowin.ir&insecure=0#android.yas-nowin.ir:443
 hysteria2://zPb5RRsckD@android.yas-nowin.ir:443?sni=android.yas-nowin.ir&insecure=0#android.yas-nowin.ir:443
 hysteria2://dongtaiwang.com@108.181.5.130:63015?sni=apple.com&insecure=1#108.181.5.130:63015
-trojan://aak511ud-kiit-bc5p-xuoz-gmrd4jcfqjah@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://468ui1a4-1u7n-537m-7x6b-lrfoa6dli3ep@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://1iq7hb5g-8ih1-nttf-lcjg-bm8lu1hekh8r@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://dti0i62z-85ua-ttxu-014p-mtj7qbwiyy57@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
