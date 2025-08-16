@@ -1,7 +1,6 @@
-trojan://949rxjql-kc2g-6vxc-qaj4-kx1vfz5gpc2b@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/16 | 07:57
-trojan://luqb3oh0-nufp-7py3-us7q-dm2t2y3t8pnu@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://832jewls-2krd-6uzj-f9ta-hao82h0ij2cd@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@184.170.241.194:443#184.170.241.194:443
+trojan://0g1uk32h-g416-tgyc-tmxb-ynatjq3m59ds@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/16 | 11:55
+trojan://bpqkv5am-uv5i-wr6e-sm9q-vmtvyuc0bw6i@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://0cqgehcd-du1e-8r6s-7izq-yeosf7ck6xey@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@184.170.241.194:443#184.170.241.194:443
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@193.108.119.230:8080#193.108.119.230:8080
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@193.108.119.230:8080#193.108.119.230:8080
@@ -14,9 +13,6 @@ ss://YWVzLTI1Ni1nY206NDE5NGNlNWIxZjM2ZjY2MA@176.32.35.68:30101#176.32.35.68:3010
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3a0pRczJSWUhoVmlUWVdhZjFSb2JC@77.246.97.187:7749#77.246.97.187:7749
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.86.81.76:443#35.86.81.76:443
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.153.197.5:989#185.153.197.5:989
-trojan://aTArbZ2F0E@cloudgetservice.mcloudservice.site:443?sni=uSa-vp-27.bLAzECLOUD.SITE&peer=uSa-vp-27.bLAzECLOUD.SITE&security=tls#cloudgetservice.mcloudservice.site:443
-trojan://aTArbZ2F0E@172.66.168.218:443?sni=uSa-vp-27.bLAzECLOUD.SITE&peer=uSa-vp-27.bLAzECLOUD.SITE&security=tls#172.66.168.218:443
-trojan://f0f6e76e-e5fe-4e2c-9faf-34832e021eae@104.21.25.95:443?sni=DDd.890604.FIlEGear-sG.Me&peer=DDd.890604.FIlEGear-sG.Me&security=tls#104.21.25.95:443
 trojan://RlzoEILU@36.151.251.59:7815?security=tls#36.151.251.59:7815
 trojan://53249200-30ff-436f-a032-0bb00605f8f9@172.67.219.196:443?sni=3derty.852224.dpdns.org&peer=3derty.852224.dpdns.org&security=tls#172.67.219.196:443
 trojan://3e6ae2e4-a8a5-11ef-8578-f23c913c8d2b@76b15373-swd340-tcudgo-1sa5k.cu.plebai.net:15229?sni=76b15373-swd340-tcudgo-1sa5k.cu.plebai.net&peer=76b15373-swd340-tcudgo-1sa5k.cu.plebai.net&security=tls#76b15373-swd340-tcudgo-1sa5k.cu.plebai.net:15229
@@ -28,7 +24,6 @@ trojan://telegram-id-privatevpns@15.236.173.146:22222?sni=trojan.burgerip.co.uk&
 trojan://6757b7d6-fa32-4708-b5d1-30e3cf928b51@104.21.6.179:443?sni=ZZzzzZZ.890601.XYZ&peer=ZZzzzZZ.890601.XYZ&security=tls#104.21.6.179:443
 trojan://b2c6384c-f63d-11ec-b1b3-f23c91cfbbc9@c3fe9cc6-sytz40-thv9l4-1jbj0.cm5.cnkuaishou.com:27235?security=tls#c3fe9cc6-sytz40-thv9l4-1jbj0.cm5.cnkuaishou.com:27235
 trojan://6857f1bc-f27b-11ea-87ad-f23c913c8d2b@ef9fae4e-sytz40-tgzvop-hns7.cm5.cnkuaishou.com:27235?sni=ef9fae4e-sytz40-tgzvop-hns7.cm5.cnkuaishou.com&peer=ef9fae4e-sytz40-tgzvop-hns7.cm5.cnkuaishou.com&security=tls#ef9fae4e-sytz40-tgzvop-hns7.cm5.cnkuaishou.com:27235
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4X1x1NWI5YVx1NTIzNlx1NGUxM1x1N2ViZlx1ZmYxYUBRUzAwMDA4IiwiYWRkIjoiMzguNTQuMjUuMjA0IiwicG9ydCI6NTU4MzksImlkIjoiYjc2NzVkNjYtY2RkYi00YTY5LWVkZDYtYzBjODMyOTBmNzJlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoiaHR0cCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzX1x1NWI5YVx1NTIzNlx1NGUxM1x1N2ViZlx1ZmYxYUBRUzAwMDA4IiwiYWRkIjoidjI5LmhlZHVpYW4ubGluayIsInBvcnQiOjMwODI5LCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6Miwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL29vb28ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4X1x1NWI5YVx1NTIzNlx1NGUxM1x1N2ViZlx1ZmYxYUBRUzAwMDA4IiwiYWRkIjoiMTA0LjE5LjE1MC4xMCIsInBvcnQiOjgwLCJpZCI6IjQ2MTgxYzMyLThjODItNDEzYS1iODM2LTgzNzVlNWU1MTNlYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL2QzZDNMbWx5WVc1b2IzTjBMbU52YlE9PT9lZD0yNTYwIn0
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhX1x1NWI5YVx1NTIzNlx1NGUxM1x1N2ViZlx1ZmYxYUBRUzAwMDA4IiwiYWRkIjoiMTg1LjE0Ni4xNzMuMjUiLCJwb3J0Ijo4MCwiaWQiOiI0NjE4MWMzMi04YzgyLTQxM2EtYjgzNi04Mzc1ZTVlNTEzZWIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii9kM2QzTG1seVlXNW9iM04wTG1OdmJRPT0/ZWQ9MjU2MCJ9
@@ -50,5 +45,5 @@ vless://a0bc2ee2-a772-415c-a620-fbabaa4ff3d3@103.71.21.243:13886?type=tcp&securi
 vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@104.24.158.0:2052?type=ws&security=none&path=/&sni=register.tunnelbreaking.shop#104.24.158.0:2052
 vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?type=ws&security=none&path=/&sni=light-presence.oneeat.co#light-presence.oneeat.co:80
 vless://3ac2de34-47c5-4dd5-afc0-8fb4b05d4077@104.18.26.90:80?type=ws&security=none&path=/?ed=2560&sni=blaze-can-118.blazecanada.site#104.18.26.90:80
-trojan://odb9zqjh-9zfl-87ba-jvhh-n0fh8iv67amh@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://bzd5mtp6-rztt-xwon-cqni-97dblykzp6c2@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://t8b1tofa-vpkk-ty47-lnd6-s50w0mugd3bw@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://95y6v435-9ug0-5ckx-tq5c-e0nrhw32spkm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

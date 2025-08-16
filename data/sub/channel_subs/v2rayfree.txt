@@ -1,10 +1,6 @@
-trojan://bidkptp6-c726-8jbj-153g-p7il35suwyqj@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/16 | 07:57
-trojan://z3j1zz4a-2vf4-0nrw-m2du-9k99em2g4hfw@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://n27udxup-ot0j-wqxx-4udr-dwsl68me7ycy@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5MzEzIFx1MDZhOVx1MDYyN1x1MDY0Nlx1MDYyN1x1MDY0NFx1MDY0NVx1MDY0OFx1MDY0NiBcdWQ4M2VcdWRlYzAiLCJhZGQiOiI0NS42Ny4yMzAuNzkiLCJwb3J0IjoxMTA1MiwiaWQiOiIzMTQxODVmNy05MzFkLTQ2NTYtOTIyZC0wODU3ZTdhZmQyMjQiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://4d6bad54-1217-49c0-8569-2fe1df2b8914@185.146.173.39:8880?type=ws&security=none&path=/8880/wsGoogle#185.146.173.39:8880
-vless://4d6bad54-1217-49c0-8569-2fe1df2b8914@91.98.35.181:8880?type=ws&security=none&path=/8880/wsGoogle#91.98.35.181:8880
-vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443?type=ws&security=tls&path=/&sni=007.xingfu.qzz.io&fp=random#104.18.131.54:443
+trojan://msgu09ux-8k2m-x2fd-ilqg-gblmcdzok55d@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/16 | 11:55
+trojan://mod3oqqb-wc9v-ezod-261z-p2n9ol6cnm5x@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://2e4ha5qe-zfol-q2t2-jjfl-ebaa0xava0k8@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&security=none#185.231.205.248:8880
 vless://e89ba39d-ae7e-493a-a57b-cdd55b42b4e3@188.245.75.235:443?type=tcp&security=none#188.245.75.235:443
 vless://49f29f5e-ae18-4c6b-ac44-773a5c8133c1@151.101.242.172:80?type=xhttp&security=none&path=/cdn/assets?v=12#151.101.242.172:80
@@ -18,6 +14,9 @@ vless://d0f70661-22ff-49bc-8c50-c71a3d8ef3fd@104.21.72.109:80?type=ws&security=n
 vless://28e90585-3bee-46e2-9f53-a44a88d1d180@172.66.40.99:80?type=ws&security=none&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#172.66.40.99:80
 vless://1a4784a5-49ed-4345-b5f9-98cdd70a81b8@172.66.40.99:8080?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#172.66.40.99:8080
 vless://7df5a558-c45c-4002-ac52-c0b4e91b6968@www.speedtest.net:8880?type=httpupgrade&security=none&path=/wss9500?ed=2560@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP-G_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP#www.speedtest.net:8880
+vless://58057294-a9cc-4618-96dd-42f51748e721@www.speedtest.net:2053?type=ws&security=tls&path=/&sni=dl1-uk-cdn.easy-upload.org#www.speedtest.net:2053
+vless://58057294-a9cc-4618-96dd-42f51748e721@www.speedtest.net:443?type=ws&security=tls&path=/&sni=dl1-de-cdn.easy-upload.org#www.speedtest.net:443
+vless://58057294-a9cc-4618-96dd-42f51748e721@www.speedtest.net:2053?type=ws&security=tls&path=/&sni=dl1-fr-cdn.easy-upload.org#www.speedtest.net:2053
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?type=tcp&security=reality&sni=telewebion.com&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb#185.236.232.237:1001
-trojan://wa7or84p-4cxt-dvs5-mnjf-w7jegvaa0269@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://gc9pj1w8-i5d7-0tat-le1q-1bv3cvysrfy3@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://hbxfyrp7-mald-5owo-fsal-ljdiz3fr7v7q@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://bufjfqej-el5a-cld3-m4js-eys74yc5zl19@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

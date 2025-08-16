@@ -1,9 +1,7 @@
-trojan://a4nxsuet-mrre-mzno-dw87-8sg9tejoje3s@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/16 | 07:57
-trojan://w8w6ui13-ltq5-nb9s-tm58-h81ncim3s74y@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://p8s1kwbu-hmqk-1czo-86yv-lqo59unyu3rb@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://9q64bxeq-cmu4-c8ti-hhct-k4y54szskw87@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/16 | 11:55
+trojan://i2j5l7oq-3ftk-6g3d-9h92-m4dyykqvpk50@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://l1i1ykl9-ta6y-3j1b-bi6j-2h2yqb66o430@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#45.87.175.171:8080
-vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?type=ws&security=none&path=/#light-presence.oneeat.co:80
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?type=grpc&security=none#185.231.205.253:8880
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?type=grpc&security=none#185.231.205.246:8880
 vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.125.215:443?type=tcp&security=none#91.99.125.215:443
 vless://0f0c8014-6c01-46b6-b0cc-2f76d6bae7f6@104.21.112.1:443?type=ws&security=tls&path=/bPbqOlkiKh7HD4IR/MzUuMTU3LjI0MC4yMzcsMTguMTk4LjIyNy4xNjE=?ed=2560&sni=FqJEDaZA7b2vOFJ9IheMX319rMo41l7B.PaGeS.dEv&fp=chrome#104.21.112.1:443
@@ -12,10 +10,12 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&secu
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:443?type=ws&security=tls&path=/&sni=JdYq2881Un.GhEiChI.oRg&fp=chrome#104.19.144.33:443
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?type=grpc&security=none#185.231.205.246:8880
+vless://401374e6-df77-41fb-f638-dad8184f175b@154.83.2.167:443?type=grpc&security=tls&sni=pqh23v4.hiddendom.shop#154.83.2.167:443
+vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?type=ws&security=none&path=/@iSpeedTopVPN?ed=80#simonil.zarghamportal.ir:2095
 vless://6b690c69-7301-44c4-81e8-9d5d7e8263a6@51.38.98.69:443?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=-3sZE2OPDhkNtxufF2YqPmoa5hqVna5zalfJfrUiMm0&sid=ecd6615548c2bddb#51.38.98.69:443
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&sid=4602ee9f9f36#45.12.143.191:20329
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@212.87.222.42:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#212.87.222.42:34045
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@147.45.196.103:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#147.45.196.103:34045
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@45.146.202.222:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#45.146.202.222:34045
-trojan://j57qytvm-yrbk-wy42-3y7m-4oib36svmo9l@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://fcbl864q-eu6z-nl61-5rcs-el4pd9lpv9ol@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://fyw5jjax-8lo6-nbbl-c4cn-kktrvn4qs0sx@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://rp4mnqma-nag4-3yk8-1nyy-etr0bwjd3x9p@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
