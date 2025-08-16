@@ -1,10 +1,7 @@
-trojan://xia48z68-bp8d-l3pw-34bs-mzcx1ovldzbv@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/15 | 23:53
-trojan://wifusdks-63t4-r83f-4gpl-ip0no7dh4px6@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://03knh18s-smgs-bnpq-yhor-e517yus6pfie@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://crr6np6r-2s7l-l3my-2cui-walz26nd7d68@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/16 | 04:39
+trojan://r1qvwc0k-wu60-ylbj-gayk-7u88aaumy1do@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://om31bbu7-leqo-ocmw-nd6s-g7z4meawo15f@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjJlXHUwNjMxXHUwNmNjXHUwNjJmIEBPcmFuZ2Vfc3VwcG9ydCIsImFkZCI6IjY1LjEwOS4yMTYuNjUiLCJwb3J0IjoxNzUxMywiaWQiOiJlZDVjYWUwNC1kNDhjLTQwMzktYjFiMi1iMjQ2YjJlOTRmYjkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://aa077dd1-0a53-4313-8800-c9ac79a97003@sss71534.tas-bazi.com:443?type=xhttp&security=none&path=/sef#sss71534.tas-bazi.com:443
-vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?type=ws&security=none&path=/@iSpeedTopVPN?ed=80#simonil.zarghamportal.ir:2095
-vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?type=ws&security=none&path=/Barayeiranmahsang/----@-?ed=2560&sni=barayeiran-mahsang.gerald81.dpdns.org&fp=random#91.206.71.162:8880
 vless://a7686574-cbf9-466a-bf8f-88a104fd0fac@n4.asmdns.net:44185?type=tcp&security=none#n4.asmdns.net:44185
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@104.19.144.33:8443?type=ws&security=tls&path=/&fp=chrome#104.19.144.33:8443
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss47060.tas-bazi.com:443?type=xhttp&security=none&path=/sc#sss47060.tas-bazi.com:443
@@ -17,5 +14,7 @@ vless://75b63c38-ba6a-4bc8-b1ce-eb7df9931faf@www.speedtest.net:80?type=ws&securi
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?type=ws&security=tls&path=/Free-CF-Proxy-AD192.3.113.4-19318&sni=privasi.turah.my.id&fp=chrome#privasi.turah.my.id:443
 vless://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@99.199.73.47:6068?type=tcp&security=none&fp=chrome#99.199.73.47:6068
 vless://7d866a58-8da9-4af9-bed5-abc64c9ba15d@37.202.239.38:11336?type=tcp&security=none#37.202.239.38:11336
-trojan://uukyujtd-r60o-m0l0-42l7-rmxk74xa64jp@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://38nlazqo-gthe-dzbh-4h6e-22m0tm0txurk@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?type=ws&security=tls&path=/id5/?-Tel-@V2rayAlpha&sni=app-stg.gopay.co.id.servpn.my.id&fp=chrome#app-stg.gopay.co.id.servpn.my.id:443
+vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?type=ws&security=tls&path=/id5/?-Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&sni=app-stg.gopay.co.id.servpn.my.id&fp=chrome#app-stg.gopay.co.id.servpn.my.id:443
+trojan://33gojfc7-aas5-7eaa-eipf-ycpfwta5ctpp@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://72jsfot2-qo0a-slov-0wpu-jxngaudv4q9a@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

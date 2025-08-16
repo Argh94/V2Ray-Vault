@@ -1,6 +1,6 @@
-trojan://1t3wl003-zn28-4gq3-gq7l-sw8b9hbne71w@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/15 | 23:53
-trojan://9cs36f7u-ls7r-efoj-4m5b-vjpzlmcv1m4w@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://zp5h08in-8lkk-4ovu-lea7-taki7bzchde9@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://bcpizqot-s3xo-16lo-5h4u-jtjhuw12coy6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/16 | 04:39
+trojan://8gt1of82-4qyt-8z8t-737e-fqb4q3jdnqqq@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://qry0u67w-xdfa-ldy4-yia6-i6rzvhw3xkfs@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@40.160.50.44:443?type=xhttp&security=none&path=/sef#40.160.50.44:443
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?type=ws&security=tls&path=/Free-CF-Proxy-AD192.3.113.4-19318&sni=privasi.turah.my.id&fp=chrome#privasi.turah.my.id:443
 vless://aa077dd1-0a53-4313-8800-c9ac79a97003@sss71534.tas-bazi.com:443?type=xhttp&security=none&path=/sef#sss71534.tas-bazi.com:443
@@ -20,6 +20,6 @@ vless://56497add-68ca-4500-b8e2-9f7003382bbe@172.67.68.240:443?type=ws&security=
 vless://df0e67fc-a6e5-41d8-95fd-97dfb96d2802@207.154.236.4:20087?type=tcp&security=none#207.154.236.4:20087
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?type=xhttp&security=none&path=/sc#sss86065.tas-bazi.com:443
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?type=ws&security=none&path=/http#de.vpnbase.net:80
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#amazon-4.cristiano.name.ng:443
-trojan://a9627bkg-v3qi-cfvm-bb0w-hcxmfy2lqbkt@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://kagbrfck-mral-57fe-imus-xnuqu8laflen@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.19:443?type=ws&security=tls&path=/#212.95.34.19:443
+trojan://qoltccq2-3d9w-pwss-62zi-920b16wbafo8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://2iketj53-mkc4-seju-posf-amsq450rtvjq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
