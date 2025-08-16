@@ -1,12 +1,12 @@
-trojan://azfl8ic3-4t7p-4muo-q4zu-1eqvhfgi86l1@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/16 | 16:01
-trojan://2pe5ginv-s8we-0d7a-suf7-9wedfopg9czv@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://gsbkr9xd-dwdx-iyxj-9jms-es7mnm4majtc@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-trojan://hZ7JkYVAfB@141.227.138.29:1935?sni=x1ch-ovh.devefun.net&peer=x1ch-ovh.devefun.net&security=tls#CH 🇨🇭 ┇ TROJAN-TCP-TLS - OVH SAS ┇ 141.227.138.29
+trojan://g45u615i-vcfo-dukm-mnpc-59igdgplc4c6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/16 | 19:53
+trojan://p2yp2tvw-9pxb-ma46-jbwg-wyw4wo243p60@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://dww4mikw-96qq-qm7t-o2eo-6bzt9zgz5apc@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://cdb38f5b-12c3-414b-eacd-a635dc633701@193.168.144.46:443?type=grpc&security=reality&sni=mega.io&fp=chrome&pbk=rsoZpDByMW3Ukcj68I5vw_-k-CivE6CV6TPJxyPl6WY&sid=07a9a22b#CH 🇨🇭 ┇ VLESS-GRPC-RLT - Serverd SAS ┇ 193.168.144.46
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRMjNEdENyNlNMZjdPcXhDZm9KY1Js@h110vpnch.outlinekeys.net:4248#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 45.95.232.236
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIVzVCclA0OFFVNFE5VlBkSldzLVB3@84.234.31.193:1080#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Infomaniak Network SA ┇ 84.234.31.193
+trojan://hZ7JkYVAfB@141.227.138.29:1935?sni=x1ch-ovh.devefun.net&peer=x1ch-ovh.devefun.net&security=tls#CH 🇨🇭 ┇ TROJAN-TCP-TLS - OVH SAS ┇ 141.227.138.29
 vmess://eyJ2IjoiMiIsInBzIjoiQ0ggXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gUHEgSG9zdGluZyBQbHVzIFMuci5sLiBcdTI1MDcgNS4xODIuMzYuMTk5IiwiYWRkIjoiNS4xODIuMzYuMTk5IiwicG9ydCI6NjYxNiwiaWQiOiIwMDNmMTI3OS1jNTVkLTQyN2MtODMyNy05ZjcxZjhiMWNjMGIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIn0
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.166.88.201:6697#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - AS-GLOBALTELEHOST ┇ 23.166.88.201
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.166.88.104:6697#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - AS-GLOBALTELEHOST ┇ 23.166.88.104
-trojan://ylp0okuh-ulw2-tfli-bqt3-2c4wjr2ayo2t@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://6x1ha83z-ffqp-qi93-e5dn-2o4sc7e9gsek@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIVzVCclA0OFFVNFE5VlBkSldzLVB3@84.234.31.193:1080#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Infomaniak Network SA ┇ 84.234.31.193
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRMjNEdENyNlNMZjdPcXhDZm9KY1Js@h110vpnch.outlinekeys.net:4248#CH 🇨🇭 ┇ SHADOWSOCKS-TCP-NTLS - Global Connectivity Solutions Llp ┇ 45.95.232.236
+trojan://evmsot4a-fxe9-1ot1-7bvh-88gmk677fnk0@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://xgqe4kh1-u2c4-huxy-6opk-irr43palakj4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

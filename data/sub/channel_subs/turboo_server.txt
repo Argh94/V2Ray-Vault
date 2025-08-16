@@ -1,6 +1,6 @@
-trojan://z9cpzs6w-45f0-ujib-7wka-rrgysunuuu9g@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/16 | 16:01
-trojan://8j4srdhy-ud3d-a3ns-bg4h-w9e9sicxg2bz@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://87z0kqnd-y7sy-77z8-se9d-c0r6g965hez4@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://jngq8qxl-8m3v-5ji7-0u11-upj5bwayejmf@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/16 | 19:53
+trojan://1dmq4fr1-9icn-fxi2-90l7-12ejei9z35w4@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://oi56ruhj-p5k7-lkrr-7cvx-9mhawpy91ll3@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://turboo-server@104.26.6.89:8443?type=ws&security=tls&path=/ed=256&sni=telegram.turbooo-server.com&fp=chrome#104.26.6.89:8443
 vless://turboo-server@telegram1.turbooo-server.com:43978?type=tcp&security=none#telegram1.turbooo-server.com:43978
 vless://turboo-server@151.101.3.8:80?type=xhttp&security=none&path=/#151.101.3.8:80
@@ -17,5 +17,5 @@ vless://turboo-server@jone.turbooo-server.com:60123?type=tcp&security=none#jone.
 vless://10776745-8a65-4b9e-be03-092009cee211@turboo-server.com.co:80?type=ws&security=none&path=/ed=2560#turboo-server.com.co:80
 vless://turboo-server@turboo-server.sadafspace.com:48723?type=grpc&security=reality&sni=tgju.org&fp=chrome&pbk=1WQPNVCS8laWlmbHO-WnqXCqvlPcKQkb_hK_5eBmrH0&sid=b3#turboo-server.sadafspace.com:48723
 vless://turboo-server@turbooserver.sadafspace.com:55990?type=tcp&security=reality&sni=canva.com&fp=chrome&pbk=TbZDTzAIogOy-LWQjdqXElxPlUd6xdcwd9xxCqhbj04&sid=eebcfab3#turbooserver.sadafspace.com:55990
-trojan://o6vi2q1s-38ad-t507-amsk-tuph5fo3ex5f@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://mbgucw7e-a7k3-qoju-ezys-4h4s2c4k0y7t@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://dhcz6jri-ocs6-8rip-os3k-pwcvyg14d3ed@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://hwx2cgg7-dncu-goss-ufjy-s24mxwpyb6at@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
