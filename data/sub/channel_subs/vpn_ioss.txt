@@ -1,13 +1,7 @@
-trojan://b2gd5e5v-i4kn-r8rz-usbe-fe7tl8i5qpno@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/16 | 11:55
-trojan://fslzmj2y-5wez-x1sn-kx7n-13zkeztuhgok@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://bczd3j0w-3yd9-d1tj-sd2t-rgbpdz5x44kh@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://8u3k9plj-29s9-xfqp-6uyi-cxhqrcu9u8ms@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/16 | 16:01
+trojan://5ayt82dt-az1x-64x0-vdby-65cxudzurdeu@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://09clv4mp-ufki-vyq8-04ow-ska90yygwk2c@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#4.223.106.151:48172
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.96.1:80
-vless://0f0c8014-6c01-46b6-b0cc-2f76d6bae7f6@104.21.32.1:443?type=ws&security=tls&path=/vpghRaDdORhcsIFV/MzUuMTU3LjI0MC4yMzcsMTguMTk4LjIyNy4xNjE=?ed=2560&sni=FqJEDazA7b2VofJ9iHeMX319rmO41l7b.paGEs.DeV&fp=randomized#104.21.32.1:443
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
-vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?type=ws&security=none#104.16.51.36:80
-vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.21.54.198:8880?type=ws&security=none&path=/HBRQp44s2AcLDzpm?ed=2560#104.21.54.198:8880
-vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?type=ws&security=none&path=/7YVyoVNnbaVzgl6D?ed=2560#104.16.69.64:8880
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?type=ws&security=none&path=/vpnowl-vpnowl-vpnowl-vpnowl?ed=2560#104.16.191.195:80
 vless://b1fe7cec-3028-4cf0-b1c3-af55efd23ad8@91.99.169.64:8443?type=xhttp&security=none&path=/xhttp#91.99.169.64:8443
 vless://Parsashonam-299@2a01:4f8:1c1a:dc2b::1:8888?type=tcp&security=none#2a01:4f8:1c1a:dc2b::1:8888
@@ -19,5 +13,10 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?type=grpc&secu
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?type=grpc&security=none#185.231.205.253:8880
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?type=grpc&security=none#185.236.232.223:8880
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss2180.tas-bazi.com:443?type=xhttp&security=none&path=/sc#sss2180.tas-bazi.com:443
-trojan://3ptumb66-lxkg-iskn-dlz9-kwuutc75c08d@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://z7zcavf0-9di5-tjs4-hdss-0kz5uwl1x48r@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?type=ws&security=tls&path=/id5/?-Tel-@V2rayAlpha&sni=app-stg.gopay.co.id.servpn.my.id&fp=chrome#app-stg.gopay.co.id.servpn.my.id:443
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?type=grpc&security=none#185.236.232.223:8880
+vless://Parsashonam-299@185.146.173.39:8880?type=httpupgrade&security=none&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056#185.146.173.39:8880
+vless://Parsashonam-299@2a01:4f8:1c1a:dc2b::1:8888?type=tcp&security=none#2a01:4f8:1c1a:dc2b::1:8888
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@ns1.cloudflare.com:443?type=ws&security=tls&path=/@Rayan_Config&sni=rAyAn-cOnFiG-TeLeGrAm-a03.pArAsToO.DpDnS.OrG#ns1.cloudflare.com:443
+trojan://vozy3pmf-hruq-vz3e-z49k-fkk2h1tysnt0@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://voym074t-x7pz-1wxx-mdmt-e5mjb21oimnu@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
