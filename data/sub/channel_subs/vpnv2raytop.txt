@@ -1,6 +1,6 @@
-trojan://m29qv0hc-z9sa-n2a3-muvp-5ugqe088beg3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/17 | 11:55
-trojan://hjc98hfh-3hl5-s3au-eprr-jjbrs99aeoxw@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://j4fl1xti-h0f0-worl-o0ow-jeupmllwov4o@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://qz2uxurm-j877-q2pp-ucv6-j7eujmit1sdz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/17 | 16:02
+trojan://u244z8px-cppj-svgw-s0ir-05wvkhulp1wt@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://6ne28gjj-8uep-tqaw-9rzf-uoei9e6u1c46@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQHZwbnYycmF5dG9wIiwiYWRkIjoiczMuaXB5YXIub3JnIiwicG9ydCI6MzIwMjAsImlkIjoiNzhiNGZiNTctMzlkNy00ZTlkLWRkMzgtYzlhMzgzMjJiY2IyIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQHZwbnYycmF5dG9wIiwiYWRkIjoicGFuZWwxLmlweWFyLm9yZyIsInBvcnQiOjEyNDcwLCJpZCI6IjI5NzFhZGEyLTAzOTMtNGZkNi1iZWMxLTZhMzdjYzkxZWRjYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYzXHVkODNjXHVkZGYxQHZwbnYycmF5dG9wIiwiYWRkIjoiOTIuMTEyLjEyNi4yMiIsInBvcnQiOjg0NDMsImlkIjoiMzkzNzIwMzUtMzMyMC00NTM3LWEwMzEtMzAzMTIwMzEzMDMwIiwiYWlkIjowLCJzY3kiOiJub25lIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6Im5sLTIuc3R1bm5lbC5jYyIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJubC0yLnN0dW5uZWwuY2MifQ
@@ -11,5 +11,10 @@ vless://e89ba39d-ae7e-493a-a57b-cdd55b42b4e3@188.245.75.235:443?type=tcp&securit
 vless://f2c44225-736e-45a4-9cfb-490fa34e15a0@91.107.178.242:20087?type=tcp&security=none#91.107.178.242:20087
 vless://f64bbbad-3ee5-4b76-8da0-27fc29f97b66@45.82.161.120:19011?type=tcp&security=none#45.82.161.120:19011
 vless://f64bbbad-3ee5-4b76-8da0-27fc29f97b66@45.82.161.120:19011?type=tcp&security=none#45.82.161.120:19011
-trojan://0kijb37i-ottk-g94n-60wg-36whxyv855k0@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://888990tv-k3o5-h06m-h1pa-yb2m3e7xzpzm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://aa077dd1-0a53-4313-8800-c9ac79a97003@sss71534.tas-bazi.com:443?type=xhttp&security=none&path=/sef#sss71534.tas-bazi.com:443
+vless://telegram-id-Arfilter@172.66.40.99:443?type=ws&security=tls&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&sni=fBs.SpEeDtEsT2029.CoM&fp=firefox#172.66.40.99:443
+vless://07e1ba82-abca-49d5-a586-8881533b77a4@direct.yasharteam.com:443?type=tcp&security=reality&sni=tgju.org&fp=firefox&flow=xtls-rprx-vision&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#direct.yasharteam.com:443
+vless://f6fa8cbd-6f5a-4a2c-8a28-9a1e6f48bdd6@fr.pixvpn.app:8443?type=grpc&security=reality&sni=jd.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=41a4cee2c50c4fc3#fr.pixvpn.app:8443
+vless://72524be2-bf09-4bed-bcf6-bd15bfa50442@31.58.144.45:30987?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=2RxaU-6x9JSARC6nLDfTaY446vMuCjBSNn3R0SSzezQ&sid=86d85a6c7d7a4a#31.58.144.45:30987
+trojan://7g4dnb0p-y438-mr9l-yfpx-irg51mdbjyir@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://nsch52li-kx22-4rqd-svw8-3s4sddpo4c0k@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

@@ -1,10 +1,7 @@
-trojan://92mbx6vv-ta3e-zvj8-hx57-f8nm4p5jigt5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/17 | 11:55
-trojan://zuqzj64y-i3c1-5h37-az81-3yfq4jkee8dh@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://9jrnqakx-2m5v-nm6z-m0z2-mheisinh3018@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://q4gdq7rm-2c3w-slvt-0wqw-4z8j04dtc7xf@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/17 | 16:02
+trojan://xuix1elv-uq3x-4po6-vhwm-h5r9osnajvej@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://a4x8jopb-jfmp-akuw-pqg0-36g3e9mwkr91@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#193.29.139.177:8080
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?type=ws&security=tls&sni=carlotta.shoorekeeper.cloudns.org&fp=random#104.18.36.24:443
-vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?type=ws&security=none&path=/vpn?ed=2560#104.16.228.91:80
-vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?type=tcp&security=none#54.38.214.56:37171
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss94870.tas-bazi.com:443?type=xhttp&security=none&path=/sc#sss94870.tas-bazi.com:443
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&security=tls&path=/&sni=iphoster-quran-iran-4.coin.name.ng&fp=chrome#www.speedtest.net:8443
 vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?type=ws&security=tls&path=/&sni=server13.coin.name.ng#www.speedtest.net:8443
@@ -23,5 +20,6 @@ vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss94870.tas-bazi.com:443?type=xhtt
 vless://1271a698-7db4-455d-b7e2-daa07389bb6c@172.66.40.99:8080?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#172.66.40.99:8080
 vless://f169440e-b49b-400d-8908-3b5e5741e946@cumhuriyet.com.tr:8080?type=ws&security=none&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#cumhuriyet.com.tr:8080
 vless://f169440e-b49b-400d-8908-3b5e5741e946@www.speedtest.net:8080?type=ws&security=none&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#www.speedtest.net:8080
-trojan://z8uwzy4u-8lb1-a6e5-lqw9-hbzmstnuqel7@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://pt4l03ml-v32w-b4fj-x39g-lm0nml263qy1@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://c1d33a48-0a89-4ca6-81e7-e126123f3375@172.66.40.99:8080?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#172.66.40.99:8080
+trojan://2q5vg635-jyss-t7t9-0stz-gmgzvhpj1hiw@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://3eza0zlz-t1og-qnjx-3f9b-h18serbl4m47@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
