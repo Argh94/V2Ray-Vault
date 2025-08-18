@@ -1,10 +1,6 @@
-trojan://ocafyks2-7zk3-9lt1-lxm9-je5xuwjgpxnm@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/18 | 11:58
-trojan://4t0ljdzt-m9rk-ucb0-wxp8-dcylug0iett9@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://rx8t7tq5-7wah-olmz-1sen-gomutdeq5wn2@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://f2c44225-736e-45a4-9cfb-490fa34e15a0@91.107.178.242:20087?type=tcp&security=none#91.107.178.242:20087
-vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?type=ws&security=tls&path=/id5/?-Tel-@V2rayAlpha&sni=app-stg.gopay.co.id.servpn.my.id&fp=chrome#app-stg.gopay.co.id.servpn.my.id:443
-vless://da72472e-05d3-40d4-b6b0-34c4e498ab96@38.180.122.124:26113?type=tcp&security=none#38.180.122.124:26113
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?type=ws&security=tls&path=/&sni=qjms2367w2.giti4.org#ipw.gfdv54cvghhgfhgj-njhgj64.info:443
+trojan://w385p7yr-cxlw-b1yk-cygr-udiv5cciqer5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/18 | 16:05
+trojan://z2waccok-jfgj-qol9-paqg-vqpl87oa2bn0@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://y42sekmw-wj7j-vz1f-ubzm-581p66a2qmfu@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://9dda23d6-52cb-435f-bfb7-9fb4d45d5ec4@104.16.64.38:2096?type=ws&security=tls&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.&sni=J0in-Te1egram-eiiim.danesh-bonyan.Store#104.16.64.38:2096
 vless://252c4a3d-5b8f-4a10-ac5e-9bf2c15c6c13@172.67.191.189:2096?type=ws&security=tls&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.&sni=J0in-Te1egram-eiiim.danesh-bonyan.Store#172.67.191.189:2096
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?type=grpc&security=none#185.231.205.248:8880
@@ -50,8 +46,7 @@ vless://Parsashonam-300@2a01:4f8:1c1a:dc2b::1:8888?type=tcp&security=none#2a01:4
 vless://bb76291b-4aa2-4b13-8b93-393f8fe16b67@172.66.40.99:443?type=ws&security=tls&path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&sni=www.dollardoon.com&fp=chrome#172.66.40.99:443
 vless://96c9844d-5b56-4dcb-9029-d83480873e9a@172.66.40.99:8080?type=ws&security=none&path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048#172.66.40.99:8080
 vless://6b02a385-3728-4682-8efa-dfe7280d55cd@172.66.40.99:8880?type=httpupgrade&security=none&path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048#172.66.40.99:8880
-vless://19de5ba4-82b2-4a11-898e-ae460d6733fe@real-z3.sdcards1.ir:8585?type=tcp&security=reality&sni=tgju.org&fp=firefox&pbk=58yfyRJyku8oddKvCIBHz0K8LrTWKr3qTe-DMUcrWEg&sid=ea0e387f2b260e0d#real-z3.sdcards1.ir:8585
-vless://8dcd0c9f-4393-49e8-aef8-6eee570d1e5b@deu415.unboundaccess.org:443?type=tcp&security=reality&sni=www.screwfix.com&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#deu415.unboundaccess.org:443
+vless://96c9844d-5b56-4dcb-9029-d83480873e9a@172.66.40.99:8080?type=ws&security=none&path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048#172.66.40.99:8080
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.188.96.208:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#64.188.96.208:34045
 vless://e100d3b3-e706-4093-ae07-b820b4a3c6e6@91.99.231.221:2020?type=grpc&security=reality&sni=tgju.org&fp=chrome&pbk=MsgiNZIaJte4RIM-mqlVqRJaJRJWtObBasQs3fB8pQI&sid=809cb172dbede776#91.99.231.221:2020
 vless://ab18a2cd-4177-406e-887b-4cdcdbcae11c@194.15.52.108:30676?type=tcp&security=reality&sni=i.imgcs.net&fp=chrome&flow=xtls-rprx-vision&pbk=teIKeb12hAeLTz12FTLlkmO9nJlvgK73EQyNEmgePXE&sid=6fb3c2#194.15.52.108:30676
@@ -62,5 +57,5 @@ vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@31.169.124.240:34045?type=tcp&secur
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@77.239.109.216:34045?type=tcp&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#77.239.109.216:34045
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@deu246.bypassall.org:443?type=tcp&security=reality&sni=www.bing.com&fp=chrome&flow=xtls-rprx-vision&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs#deu246.bypassall.org:443
 vless://330e627f-3752-467a-b0a5-d46d07b5acf9@91.107.241.250:6000?type=xhttp&security=reality&path=/&sni=wiredminds.de&fp=chrome&pbk=aNK-4Lg53CF9JKVv7LFTAGP9Bmha0HxY6ms1emd57nQ&sid=243e#91.107.241.250:6000
-trojan://clvs8acn-gg8q-yn6q-at3w-6xft6jxaa1fo@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://1p83vi50-ekef-ykjq-2gam-uy6x49d7be8t@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://29j874hb-1l4n-3nof-fvt8-w1s4l3k94h3d@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://9020u031-s96l-aoxo-p3e8-emakoi5lxzlm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
