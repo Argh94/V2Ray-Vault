@@ -1,7 +1,6 @@
-trojan://4ual65mf-n3oq-az4i-xs2w-1axylq5h9nlh@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/18 | 19:55
-trojan://hty4glaz-i7ik-q2hq-50ih-8el3iat7nqjj@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://vecsfy3z-79uk-pgys-uxji-qazhe19a7yha@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxN2l0eGs4eDBEVWpBS05najR4djNH@45.95.233.102:9089#45.95.233.102:9089
+trojan://4m280190-yky5-obsq-qnsx-9i8l2decueki@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/18 | 23:53
+trojan://59640jp9-ewan-aawf-qpj2-u8eoupysgc5f@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://1acad6mk-7ixv-0t1v-gk7g-b0fiduod2l0i@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#142.4.216.225:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@de.vpnsparta.pro:57456#de.vpnsparta.pro:57456
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#45.87.175.154:8080
@@ -11,12 +10,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@de.vpnsparta.pro:57456
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjg2XHUwNjQ2XHUwNjQ0IFx1MDYzOVx1MDYzNlx1MDY0OCBcdTA2MzRcdTA2NDggQHYycmFfY29uZmlnIiwiYWRkIjoiNTEuMjU0LjIxLjE5MyIsInBvcnQiOjIwMDg2LCJpZCI6IjliY2VjYjI2LTkyMGEtNGU2OC1iMjk2LTg4NTI2MzEwYmZmNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjg2XHUwNjQ2XHUwNjQ0IFx1MDYzOVx1MDYzNlx1MDY0OCBcdTA2MzRcdTA2NDggQHYycmFfY29uZmlnIiwiYWRkIjoiNDUuNjcuMTM5LjIyNSIsInBvcnQiOjIwMDg2LCJpZCI6ImQzOTI4MzMwLTQwNTAtNDdmNi05ZDFjLWRmMWZkODAxYzU2OCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjg2XHUwNjQ2XHUwNjQ0IFx1MDYzOVx1MDYzNlx1MDY0OCBcdTA2MzRcdTA2NDggQHYycmFfY29uZmlnIiwiYWRkIjoiNDUuNjcuMjMwLjc5IiwicG9ydCI6MTEwNTIsImlkIjoiMzE0MTg1ZjctOTMxZC00NjU2LTkyMmQtMDg1N2U3YWZkMjI0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.96.1:80
+vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjg2XHUwNjQ2XHUwNjQ0IFx1MDYzOVx1MDYzNlx1MDY0OCBcdTA2MzRcdTA2NDggQHYycmFfY29uZmlnIiwiYWRkIjoiMC5udW1iZXJmaXZlLnNicyIsInBvcnQiOjgwLCJpZCI6IjAwNGRhZmJhLTI5NTgtNGI4Ni04N2I3LWQxNjU4MjFiMWJhMSIsImFpZCI6MCwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJmYXN0LmNvbSIsInBhdGgiOiIvSzlKYzNXTWt6eWFOeGwzZllISnlZU0E4TCIsInNuaSI6ImZhc3QuY29tIn0
+vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjg2XHUwNjQ2XHUwNjQ0IFx1MDYzOVx1MDYzNlx1MDY0OCBcdTA2MzRcdTA2NDggQHYycmFfY29uZmlnIiwiYWRkIjoidmlwLm51bWJlcmZpdmUuc2JzIiwicG9ydCI6ODAsImlkIjoiMDA0ZGFmYmEtMjk1OC00Yjg2LTg3YjctZDE2NTgyMWIxYmExIiwiYWlkIjowLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6Ind3dy5zcGVlZHRlc3QuY29tIiwicGF0aCI6Ii9LOUpjM1dNa3p5YU54bDNmWUhKeVlTQThMIiwic25pIjoid3d3LnNwZWVkdGVzdC5jb20ifQ
+vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjg2XHUwNjQ2XHUwNjQ0IFx1MDYzOVx1MDYzNlx1MDY0OCBcdTA2MzRcdTA2NDggQHYycmFfY29uZmlnIiwiYWRkIjoibC5udW1iZXJmaXZlLnNicyIsInBvcnQiOjgwLCJpZCI6IjAwNGRhZmJhLTI5NTgtNGI4Ni04N2I3LWQxNjU4MjFiMWJhMSIsImFpZCI6MCwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJmYXN0LmNvbSIsInBhdGgiOiIvSzlKYzNXTWt6eWFOeGwzZllISnlZU0E4TCIsInNuaSI6ImZhc3QuY29tIn0
 vless://323b04df-9596-4b4b-a0dc-27bec648e28f@www.speedtest.net.cdn.cloudflare.net:80?type=ws&security=none&path=/?ed=2048#www.speedtest.net.cdn.cloudflare.net:80
 vless://tel%3A%40mahanvpn@172.67.160.192:2052?type=httpupgrade&security=none&path=/mAhAnteaM,?ed=2560#172.67.160.192:2052
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?type=grpc&security=none#185.231.205.5:8880
 vless://8d082809-5dda-43f2-978e-3e1184aeb2fe@93.127.180.64:443?type=tcp&security=none#93.127.180.64:443
-vless://b0149cba-533b-47bd-b8ac-4053b5d6bb06@5litva.youtuber-vpn.win:11592?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=aoUiKPJt0zqUiKVto7zzcoZDJAdBUC3lo_Z_3TGItww&sid=93f9d91296bb334c#5litva.youtuber-vpn.win:11592
 hysteria2://J7VnJazPBw@91.98.34.130:443?sni=android.yas-nowin.ir&insecure=0#91.98.34.130:443
-trojan://d1g841pf-08ox-3jhy-s6oo-y6wol42otnhf@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://lx3clczk-74y7-b6kd-xbh8-yd724ncvhy0t@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://uducvvz4-b22s-chtj-cm43-s54nfmkbi4dw@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://z36yl9qa-8hex-1hdg-of84-y49vfpu6stns@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
