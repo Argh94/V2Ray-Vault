@@ -1,6 +1,6 @@
-trojan://94wsvs8e-6xfh-u82y-a56r-w8v53759xhve@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/17 | 23:53
-trojan://a6ln8ef0-1rog-k06e-5xke-s027c6tn5n68@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://1l7i6c4n-i0f0-8wp6-e9nc-xazz1xe40wqn@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://p4xzi5mp-ys5f-p2ww-q5xv-szyvzxhw1hfh@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/18 | 04:46
+trojan://l38vbyx0-tgkb-xrxg-v1lm-zlb51efazojb@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://lz4mk1qn-81mr-jid1-9j0r-8bdtrs5xytjj@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.95.35.11:443#35.95.35.11:443
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.160:443#37.19.198.160:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#series-a2-me.varzesh360.co:443
@@ -160,7 +160,6 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@5.180.30.32:2096?type=ws&security=t
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@151.101.65.210:443?type=ws&security=tls&path=/GGPPfZ3NKyOoKNiK?ed=2560fp=firefox&sni=pooleno.ir#151.101.65.210:443
 vless://9a2a9861-c8eb-4396-ac60-6983ea46e494@151.101.3.8:80?type=ws&security=none&path=/@Daily_Configs,@Daily_Configs,@Daily_Configs&sni=bia-daily-configs.com#151.101.3.8:80
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.250.246.200:8080?type=ws&security=none&path=/?ed=2560security=tls&sni=a.mifeng.us.kg#94.250.246.200:8080
-vless://ItsLegendaryking@legendaryking.zooboming.com:443?type=grpc&security=reality&sni=tgju.org&fp=chrome&pbk=YqyFIWlZsrCbnlrSb7QEcIYLvLlI7WSAe6TabKMRqwo#legendaryking.zooboming.com:443
 vless://ItsLegendaryking@legendaryking.zooboming.com:443?type=grpc&security=reality&sni=tgju.org&fp=chrome&pbk=1wE5SrJ4-mhyMnA_N1TkRiGaOWHmGgk2MNBmqggkwV8#legendaryking.zooboming.com:443
 vless://d2bcb15b-8cf0-402c-af32-6b04615144c9@greenwolf.fonixapp.org:12901?type=tcp&security=reality&sni=canva.com&fp=chrome&flow=xtls-rprx-vision&pbk=UIgzNUpO2PvGIgjtIK1GEikBFRVvfA1jm7bfor0HlAM&sid=b538b3#greenwolf.fonixapp.org:12901
 vless://fe1888f8-2361-11f0-9970-45e1d80c4039@89.23.108.188:443?type=tcp&security=reality&sni=images.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=nm1ZhMktJbHTcJv0gqV8l0s_c9BWfQe5d02qhpSkKWo&sid=7fd4#89.23.108.188:443
@@ -168,5 +167,6 @@ vless://id7890941744@s1.nodu10.ru:443?type=tcp&security=reality&sni=www.apple.co
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&sid=4602ee9f9f36#45.12.143.191:20329
 vless://a3e9d932-b585-47f6-9162-e6ae127f0885@91.98.34.130:1000?type=grpc&security=reality&sni=android.yas-nowin.ir&fp=chrome&pbk=GZGflJvjxR9ovjiS7IUbatB1ge0sUteUOT1RcDxJCHY#91.98.34.130:1000
 vless://ItsLegendaryking@legendaryking.zooboming.com:443?type=grpc&security=reality&sni=tgju.org&fp=chrome&pbk=mGtVG_eCYVK29BVB2E-66DmYsNK-bC10LblyHX4PoHk#legendaryking.zooboming.com:443
-trojan://q6iei4ev-zlqm-gkri-3tpr-6hokcnjp3bv3@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://7d69dlb8-t666-zivz-e2hg-wnmwjh5om5w8@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://cb212ce0-be0b-4d69-a80c-0b3904764f21@65.109.187.52:80?type=tcp&security=reality&sni=connectivitycheck.gstatic.com&fp=chrome&pbk=qz662d61nkl7U5m4wCNCQJBNDVVFrMlCKOovQFEg8mk#65.109.187.52:80
+trojan://6xtvghgx-zxra-tfyv-sj71-8fl0qxtxbo79@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://jtalsr58-fd2l-xpi9-hsjr-qjixgk5tjmnr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
