@@ -1,17 +1,17 @@
-trojan://stfh74gv-kdlq-3uxm-gu05-3eilslzavrt8@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/19 | 04:39
-trojan://s5wvp1u7-7mdp-g6ip-l9fz-sjx70l6d12rs@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://etc99hvw-xr8q-fb9n-oqcb-6bcfgt9munon@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@tuic4.cpionline.us:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#XX 🏳️ ┇ TUIC-TCP-NTLS ┇ None
-tuic://764b539f-2d3c-4772-9731-5ebf6984af98:dongtaiwang.com@64.110.25.10:11227?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - DEDICATED ┇ 64.110.25.10
+trojan://1a8xkn89-7ei6-xlou-1a3c-0b7qh9eiguie@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/19 | 07:55
+trojan://sb7232xn-dd5a-5ry4-ofy4-tcn6g6ssqu98@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://da7x9l20-uomc-cvpr-l4ai-f17tsb7u7mlf@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.208.3:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#SE 🇸🇪 ┇ TUIC-TCP-NTLS - AS-VULTR ┇ 70.34.208.3
 tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.191.133:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#GB 🇬🇧 ┇ TUIC-TCP-NTLS - AS-VULTR ┇ 64.176.191.133
+tuic://764b539f-2d3c-4772-9731-5ebf6984af98:dongtaiwang.com@64.110.25.10:11227?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - DEDICATED ┇ 64.110.25.10
 tuic://7f9a73a3-e455-4053-ae38-f07719753dff:----Join-Telegram:@IP_CF----@2a12:5940:71f8::2:443?congestion_control=cubic&udp_relay_mode=native&alpn=h3,spdy/3.1#NL 🇳🇱 ┇ TUIC-TCP-NTLS - Aeza International Ltd ┇ 2a12:5940:71f8::2
 tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@209.250.254.198:443?sni=www.apple.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#NL 🇳🇱 ┇ TUIC-TCP-NTLS - AS-VULTR ┇ 209.250.254.198
-tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.208.3:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#SE 🇸🇪 ┇ TUIC-TCP-NTLS - AS-VULTR ┇ 70.34.208.3
-tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.186.193:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#GB 🇬🇧 ┇ TUIC-TCP-NTLS - AS-VULTR ┇ 64.176.186.193
-tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@136.244.88.153:443?sni=www.apple.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#DE 🇩🇪 ┇ TUIC-TCP-NTLS - AS-VULTR ┇ 136.244.88.153
-tuic://6313c68a-472b-4999-ba33-094a55ea7549:FRebRlCrO+huXaprEwr6@tuic61.cpionline.us:443?sni=www.apple.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#XX 🏳️ ┇ TUIC-TCP-NTLS ┇ None
-tuic://7f9a73a3-e455-4053-ae38-f07719753dff:----Join-Telegram:@IP_CF----@79.137.206.126:443?congestion_control=cubic&udp_relay_mode=native&alpn=h3,spdy/3.1#FI 🇫🇮 ┇ TUIC-TCP-NTLS - Aeza International Ltd ┇ 79.137.206.126
 tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#SE 🇸🇪 ┇ TUIC-TCP-NTLS - AS-VULTR ┇ 70.34.197.98
+tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@tuic4.cpionline.us:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#XX 🏳️ ┇ TUIC-TCP-NTLS ┇ None
+tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@136.244.88.153:443?sni=www.apple.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#DE 🇩🇪 ┇ TUIC-TCP-NTLS - AS-VULTR ┇ 136.244.88.153
+tuic://7f9a73a3-e455-4053-ae38-f07719753dff:----Join-Telegram:@IP_CF----@79.137.206.126:443?congestion_control=cubic&udp_relay_mode=native&alpn=h3,spdy/3.1#FI 🇫🇮 ┇ TUIC-TCP-NTLS - Aeza International Ltd ┇ 79.137.206.126
+tuic://6313c68a-472b-4999-ba33-094a55ea7549:FRebRlCrO+huXaprEwr6@tuic61.cpionline.us:443?sni=www.apple.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#XX 🏳️ ┇ TUIC-TCP-NTLS ┇ None
 tuic://6313c68a-472b-4999-ba33-094a55ea7549:FRebRlCrO+huXaprEwr6@70.34.198.64:443?sni=www.apple.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#SE 🇸🇪 ┇ TUIC-TCP-NTLS - AS-VULTR ┇ 70.34.198.64
-trojan://wpnauw0a-6djq-b241-k6lv-lync9hs8gur6@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://602vbmch-tn97-deuu-za38-lcnfyzhsr9cm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.186.193:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1#GB 🇬🇧 ┇ TUIC-TCP-NTLS - AS-VULTR ┇ 64.176.186.193
+trojan://1esaqpd6-dxba-i5mm-vm91-ajzhmjjaadgy@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://fzzm8z8b-3prh-p92h-jahf-ns26a7gp6po0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
