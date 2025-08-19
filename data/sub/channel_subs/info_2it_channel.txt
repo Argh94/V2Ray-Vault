@@ -1,29 +1,7 @@
-trojan://44x48wra-u73z-fy1l-iaba-4qm9c5dxe8bn@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/19 | 16:03
-trojan://pj2rqdyr-vlnf-lt5k-2hzr-ypmkh6uc18wu@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://jx3m0zol-yozz-8em4-rwla-9z6805fkdufo@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://41pz7504-mjjx-c1v2-v8mv-jp9eheh1ouf8@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/19 | 19:54
+trojan://15pcuj87-hvbr-hd7a-ah1x-kr8020xhxsj8@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://8s1dky7r-7nvm-bhks-1jsy-po76r3mu2kil@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQGluZm9fMklUX2NoYW5uZWwiLCJhZGQiOiI4NC4zMi41OS4yMjUiLCJwb3J0IjoyMDk2LCJpZCI6IjdkODFiZjYxLTE0MmYtNDc4NC1iMWJmLTNhZjk3NDE3ZmRhZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vless://51b8e038-d14f-4236-91bf-78ae4d1fb843@ppan.cloudpooya.ir:29878?type=tcp&security=none#ppan.cloudpooya.ir:29878
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.218:443?type=ws&security=tls&path=/#94.131.9.218:443
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@86.104.74.171:443?type=ws&security=tls&path=/#86.104.74.171:443
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.244:443?type=ws&security=tls&path=/#94.131.9.244:443
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.143:443?type=ws&security=tls&path=/#45.12.133.143:443
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?type=grpc&security=none#45.82.251.93:8880
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.58:8443?type=ws&security=tls&path=/#45.12.133.58:8443
-vless://121610b9-74a8-4988-ace2-bafb3013fde1@www.speedtest.net:80?type=ws&security=none&path=/olem/ws?ed=1024#www.speedtest.net:80
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?type=grpc&security=none#185.231.205.253:8880
-vless://99946974-0264-4496-9929-6f1492504d6c@cafearz.com:8080?type=ws&security=none&path=/olem/ws?ed=1024#cafearz.com:8080
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.58:443?type=ws&security=tls&path=/#45.12.133.58:443
-vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?type=tcp&security=none#45.88.183.156:12794
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.132:8443?type=ws&security=tls&path=/#45.12.133.132:8443
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:8443?type=ws&security=tls&path=/?Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&sni=PmQ1cCsP9x.GhEiChI.oRg#104.19.144.33:8443
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.239:443?type=ws&security=tls&path=/#94.131.9.239:443
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@86.104.74.207:8443?type=ws&security=tls&path=/#86.104.74.207:8443
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.190:443?type=ws&security=tls&path=/#2.56.126.190:443
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?type=grpc&security=none#185.231.205.253:8880
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.229:443?type=ws&security=tls&path=/#94.131.9.229:443
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.157:443?type=ws&security=tls&path=/#94.131.9.157:443
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.30:8443?type=ws&security=tls&path=/#2.56.126.30:8443
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?type=ws&security=none&path=/193.123.81.105=443#45.131.4.85:80
 vless://75b63c38-ba6a-4bc8-b1ce-eb7df9931faf@www.speedtest.net:80?type=ws&security=none&path=/ShadowProxy66-ShadowProxy66#www.speedtest.net:80
 vless://8ba3c494-c5b9-46b0-9bb9-306b8fdeb9d7@91.107.169.188:25103?type=tcp&security=none#91.107.169.188:25103
 vless://75b63c38-ba6a-4bc8-b1ce-eb7df9931faf@www.speedtest.net:80?type=ws&security=none&path=/TELEGRAM_join_JKVPN_JKVPN_JKVPN_JKVPN#www.speedtest.net:80
@@ -48,5 +26,5 @@ vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?type=ws&secu
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?type=ws&security=none&path=/#62.60.192.209:80
 vless://0a30769a-400b-4501-a7f0-47d4eea82ae3@135.125.182.74:38413?type=tcp&security=none#135.125.182.74:38413
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&security=tls&path=/&sni=hetzner-2.access.name.ng&fp=random#www.speedtest.net:8443
-trojan://khzv5ybq-dl1k-ds0a-r8a1-uue5cn7hdaoz@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://x92uyi5h-pahq-fvrv-6xk3-hhhe91zlyhxw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://8qmij965-wa7m-k9y6-6q2t-59qodcm27k4t@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://l5nxod7b-av6w-8ll1-gwxl-dt3kug6j0q9x@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
