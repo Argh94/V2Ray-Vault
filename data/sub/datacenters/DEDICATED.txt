@@ -1,10 +1,11 @@
-trojan://u629e9bf-jsm8-uubc-lksy-6qe8l7naw8jt@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/19 | 11:56
-trojan://9w7p7bc9-oofo-cckc-pvqx-dkebpcody9if@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://xrlcqyja-bjku-pm1x-ia65-q7dpp2cmpbbk@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-tuic://764b539f-2d3c-4772-9731-5ebf6984af98:dongtaiwang.com@64.110.25.10:11227?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - DEDICATED ┇ 64.110.25.10
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.225.138:990#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 104.192.225.138
+trojan://yz2di85n-9b53-64zh-o8b1-yf7mge7e8fhz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/19 | 16:03
+trojan://bu9wixb7-oquh-wapr-jloq-4sccx2t8sqfy@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://q0gv3877-pr29-lgv7-a1cc-2dyz9oz3n3yb@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.218:990#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 64.74.163.218
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.225.138:990#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 104.192.225.138
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 64.74.163.130
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4T1VDRjZJRmFlWVpXNW55aTZaU2Ez@104.192.227.162:443#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 104.192.227.162
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@167.160.91.118:10077#US 🇺🇸 ┇ SHADOWSOCKS-TCP-NTLS - DEDICATED ┇ 167.160.91.118
-trojan://moj1hu7m-vgxu-gq9m-ixwf-j22mnfsyx6wg@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://3aj82wxq-44ud-h2pr-4c8w-oskev6zgba4y@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+tuic://764b539f-2d3c-4772-9731-5ebf6984af98:dongtaiwang.com@64.110.25.10:11227?sni=bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3#US 🇺🇸 ┇ TUIC-TCP-NTLS - DEDICATED ┇ 64.110.25.10
+trojan://91l5ea61-h8y2-zzio-ui3d-r3fatq27x3tu@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://6nay0ond-21ar-8p5x-crnt-vdn0d6h16rfr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
