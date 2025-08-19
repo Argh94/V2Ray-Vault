@@ -1,12 +1,6 @@
-trojan://bh2spcdz-6any-3f86-rnlg-c3jcsx65oiob@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/18 | 23:53
-trojan://1lso4kx1-8mz7-j10j-mj2t-6pliuvqh02dg@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://wgkz65d7-7wah-2e3s-y4yr-aakl0zve3ia5@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&security=none&path=/193.123.81.105=443#104.21.112.1:80
-vless://bad692ed-12b0-4081-8dff-417b30dcc4d5@167.172.89.10:443?type=ws&security=tls&path=/ws&sni=zula.ir&fp=chrome#167.172.89.10:443
-vless://82aa1f3f-29d4-42ab-a5d5-66b13ba13545@91.99.15.181:443?type=xhttp&security=none&path=/d#91.99.15.181:443
-vless://c30fee5c-a1ba-4828-8c6b-ac509d7342e3@store-static-portal.cyberscaler.net:10082?type=tcp&security=none&fp=chrome#store-static-portal.cyberscaler.net:10082
-vless://11402c34-7f90-485f-a218-ade69f314f49@store-static-portal.cyberscaler.net:10082?type=tcp&security=none&fp=chrome#store-static-portal.cyberscaler.net:10082
-vless://82aa1f3f-29d4-42ab-a5d5-66b13ba13545@91.99.114.25:443?type=xhttp&security=none&path=/d#91.99.114.25:443
+trojan://uq7nxm2e-8t95-ovhi-i3p2-w6y0m69xn7je@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/19 | 04:39
+trojan://gszdz8j3-4qyr-hw2w-qe8i-45qapezn5ic0@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://vhgtutpm-sqjc-qfe3-25vb-wqn3m63uxi7d@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-298@185.146.173.39:8880?type=httpupgrade&security=none&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056#185.146.173.39:8880
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-298@2a01:4f8:1c1a:dc2b::1:8888?type=tcp&security=none#2a01:4f8:1c1a:dc2b::1:8888
 vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?type=ws&security=tls&path=/id5?/?ed=2048&sni=app-stg.gopay.co.id.servpn.my.id&fp=chrome#app-stg.gopay.co.id.servpn.my.id:443
@@ -19,5 +13,5 @@ vless://%50%61%72%73%61%73%68%6F%6E%61%6D-298@91.99.16.244:443?type=xhttp&securi
 vless://efe1c1fa-896d-4ea5-9a57-ebb56aebe165@de.cartfunshop.com:47193?type=tcp&security=reality&sni=www.pcmag.com&fp=chrome&pbk=dB2A7VQlYjwi_yV-2B02ZZzbRxrwG5L8fK_k0qN0_AY&sid=82bf76bf5e1008d8#de.cartfunshop.com:47193
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-299@91.99.16.244:443?type=xhttp&security=reality&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&sni=Google.com&fp=chrome&pbk=sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8&sid=61e683d41fdb#91.99.16.244:443
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-300@91.99.16.244:443?type=xhttp&security=reality&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&sni=Google.com&fp=chrome&pbk=sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8&sid=61e683d41fdb#91.99.16.244:443
-trojan://mwnb47x9-7rgj-iv8h-mm24-ehqre92tmxbv@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://eoqakkw8-yu9p-y1yg-r4ob-x0mo1hc5glr4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://qv2v8001-k5pm-zwru-1h9o-v7ibr11upyw6@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://6v1kjje0-iwi9-cgsc-o4mm-fyquc1erjub6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
