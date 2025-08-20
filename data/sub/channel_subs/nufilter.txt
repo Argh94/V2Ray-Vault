@@ -1,8 +1,6 @@
-trojan://pp2ahel2-9sie-vd3o-5svn-t35vizeiw53t@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/20 | 11:56
-trojan://es7786jw-hg08-ss5n-a928-dni0ko8pk0gm@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://b0mvwk2i-h0xp-fn13-24f7-rlb9x8cu8rny@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://79e18d4a-863d-466b-aeaa-8bf24b3fb390@172.66.40.99:443?type=ws&security=tls&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&sni=az52.mashkestan.com&fp=firefox#172.66.40.99:443
-vless://9fbc8ff5-d011-4cd3-b22d-3a6f7fdce157@172.66.40.99:8080?type=ws&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#172.66.40.99:8080
+trojan://mliml90a-lxsn-nt8m-wze1-h3gyk14xllx0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/20 | 16:03
+trojan://nwcfb5tm-e8o3-hntb-obyg-09ky8b6dnt7c@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://2xmwtwg8-bm9m-8y60-mlln-gd83457uww8w@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://7421d7d3-b903-4c06-970b-879cc81dd212@172.66.40.99:8080?type=ws&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#172.66.40.99:8080
 vless://TELEGRAM-CONFiGLiNE@172.66.40.99:443?type=ws&security=tls&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&sni=hE136.maShkesTan.CoM&fp=firefox#172.66.40.99:443
 vless://TELEGRAM-CONFiGLiNE@172.66.40.99:443?type=ws&security=tls&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&sni=az52.mashkestan.com&fp=firefox#172.66.40.99:443
@@ -12,7 +10,6 @@ vless://TELEGRAM-CONFiGLiNE-join@172.66.40.99:8080?type=ws&security=none&path=/t
 vless://c8b7f8ad-4895-4aaa-9327-3b3076f169c5@172.66.40.99:8080?type=ws&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#172.66.40.99:8080
 vless://TELEGRAM-CONFiGLiNE@172.66.40.99:443?type=ws&security=tls&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&sni=az52.mashkestan.com&fp=firefox#172.66.40.99:443
 vless://ba8112db-293a-4e8c-bd10-a93c502a92ee@172.66.40.99:8080?type=ws&security=none&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048#172.66.40.99:8080
-vless://e100d3b3-e706-4093-ae07-b820b4a3c6e6@91.99.231.221:2020?type=grpc&security=reality&sni=tgju.org&fp=chrome&pbk=MsgiNZIaJte4RIM-mqlVqRJaJRJWtObBasQs3fB8pQI&sid=809cb172dbede776#91.99.231.221:2020
 vless://TELEGRAM-CONFiGLiNE@91.99.231.221:2020?type=grpc&security=reality&sni=tgju.org&fp=chrome&pbk=MsgiNZIaJte4RIM-mqlVqRJaJRJWtObBasQs3fB8pQI&sid=809cb172dbede776#91.99.231.221:2020
-trojan://6jhvuv1g-zreo-o9kv-ohre-jaeyof2rihmx@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ghmw4how-sf5m-33tr-w98z-rga0nde115ep@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://oudxrf9n-bi1v-w46z-ngof-qfwqo23jbal3@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://vix01zxv-uvws-n27o-zz2q-t3hg0v94lsgi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
