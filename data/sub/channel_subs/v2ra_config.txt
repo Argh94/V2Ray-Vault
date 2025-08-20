@@ -1,17 +1,20 @@
-trojan://79d3wflg-63eg-dwha-87qz-o915d4dt1h3n@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/20 | 07:55
-trojan://owbd3qqh-kltm-stj2-dpra-i749gucjqjzd@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://6kzysqgx-p25o-ncab-fh2o-tjoh6bvjpz8s@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://cbwe167q-mfkp-30yu-n1pi-zmk9clldjvng@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/20 | 11:56
+trojan://kb3zh1h5-30wo-abq8-rhad-9yk9lngrheot@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://wyp8k0py-ap5t-bkbu-xxab-kk6ukt6xtjak@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#142.4.216.225:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@de.vpnsparta.pro:57456#de.vpnsparta.pro:57456
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#45.87.175.154:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVFViNFl1U21Qb1NKVDRiWVVZZWUy@83.147.216.70:64519#83.147.216.70:64519
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#142.4.216.225:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@de.vpnsparta.pro:57456#de.vpnsparta.pro:57456
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#193.29.139.235:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#193.29.139.235:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#193.29.139.235:8080
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjg2XHUwNjQ2XHUwNjQ0IFx1MDYzOVx1MDYzNlx1MDY0OCBcdTA2MzRcdTA2NDggQHYycmFfY29uZmlnIiwiYWRkIjoiNTEuMjU0LjIxLjE5MyIsInBvcnQiOjIwMDg2LCJpZCI6IjliY2VjYjI2LTkyMGEtNGU2OC1iMjk2LTg4NTI2MzEwYmZmNiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjg2XHUwNjQ2XHUwNjQ0IFx1MDYzOVx1MDYzNlx1MDY0OCBcdTA2MzRcdTA2NDggQHYycmFfY29uZmlnIiwiYWRkIjoiNDUuNjcuMTM5LjIyNSIsInBvcnQiOjIwMDg2LCJpZCI6ImQzOTI4MzMwLTQwNTAtNDdmNi05ZDFjLWRmMWZkODAxYzU2OCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvIn0
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjg2XHUwNjQ2XHUwNjQ0IFx1MDYzOVx1MDYzNlx1MDY0OCBcdTA2MzRcdTA2NDggQHYycmFfY29uZmlnIiwiYWRkIjoiNDUuNjcuMjMwLjc5IiwicG9ydCI6MTEwNTIsImlkIjoiMzE0MTg1ZjctOTMxZC00NjU2LTkyMmQtMDg1N2U3YWZkMjI0IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?type=grpc&security=none#185.231.205.5:8880
 vless://8d082809-5dda-43f2-978e-3e1184aeb2fe@93.127.180.64:443?type=tcp&security=none#93.127.180.64:443
-vless://f63ed48d-7b05-435f-86ca-717264522fc9@cpu.dynet.com:2030?type=ws&security=none&path=/?ed=2048#cpu.dynet.com:2030
-trojan://xxfwxtck-w9w6-84y0-7mbl-izymerjivdkw@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ndbs8xsa-slz3-yrgo-265a-d1itfmxbctzq@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://PishiNetVPN@x-zula.ir:443?type=tcp&security=reality&sni=forbes.com&fp=firefox&flow=xtls-rprx-vision&pbk=aqqWmeO4JJl9gHwyoM7PAlCEOBd9P2TMt4Bw9zcxVzw&sid=df91dc7e0ec8f8e9#x-zula.ir:443
+trojan://ubkogqbv-tpsu-6dy4-eqqc-tjtnf36s10zp@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://m27fpleo-uo0h-zd1f-l914-ditrtztq98uj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
