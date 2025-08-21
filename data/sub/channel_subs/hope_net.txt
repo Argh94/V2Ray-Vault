@@ -1,13 +1,13 @@
-trojan://wckmxy3r-1k3r-7spm-kcan-vvers1vj5aqo@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/21 | 11:56
-trojan://zi3lydfj-d4to-2t23-esl4-1wivf7hym5n8@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://dp15ylf9-tk3i-axj7-klnd-e8yeynxa8rin@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://bm9uZTpiYWFjYmNhLWFhYmMtYmNhYS1jYWRiLWNiYWFiYWFiY2JjYw@127.0.0.1:1080#127.0.0.1:1080
+trojan://jfm8wiw7-8kcy-92y6-jtl4-tfimgb3071f0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/21 | 16:04
+trojan://qtuc4efi-hwcs-arb9-jbsd-5u8kj7knjofl@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://1fxnejni-3tg2-4l0j-y0t3-hh82n4kklzo7@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://bm9uZTpjYmFhYmNhLWFhYmMtYWFiYy1jYWRiLWFjYmFiYWNjY2JiYQ@127.0.0.1:1080#127.0.0.1:1080
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@193.108.119.230:8080#193.108.119.230:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.188:8080#45.87.175.188:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.140.109:443#40.172.140.109:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.171.101.87:443#18.171.101.87:443
-trojan://blue2024@104.16.169.178:443?sni=ha.lii2010.us.kg&peer=ha.lii2010.us.kg&security=tls#104.16.169.178:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@35.177.32.75:443#35.177.32.75:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.192:8080#45.87.175.192:8080
 trojan://NISHIKUITAN111@104.16.129.193:443?security=tls#104.16.129.193:443
 trojan://NISHIKUITAN111@104.19.182.150:443?security=tls#104.19.182.150:443
 trojan://blue2024@104.16.6.205:443?sni=ha.lii2010.us.kg&peer=ha.lii2010.us.kg&security=tls#104.16.6.205:443
@@ -18,24 +18,25 @@ trojan://blue2024@104.18.199.255:443?sni=ha.lii2010.us.kg&peer=ha.lii2010.us.kg&
 trojan://cabaabc-aacb-acab-dacb-acbcbbabccaa@127.0.0.1:8080?security=tls#127.0.0.1:8080
 trojan://blue2024@104.18.147.140:443?sni=ha.lii2010.us.kg&peer=ha.lii2010.us.kg&security=tls#104.18.147.140:443
 trojan://bccabaa-abac-aacb-acbd-acaccbcbbbaa@127.0.0.1:1080?security=tls#127.0.0.1:1080
-vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxMDQuMjEuMjM4LjEwOCIsInBvcnQiOjIwOTUsImlkIjoiMThkOTYxOTAtYzEwZi00NDhmLWE4MmEtMmQzNmRmNWMzY2RlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSJ9
-vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxMjcuMC4wLjEiLCJwb3J0IjoxMDgwLCJpZCI6ImNjYWFiYWItYmNhYS1hY2FiLWRjYmEtYWFiY2FjY2JiYmNhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0
-vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxMDQuMTguMTE0LjIzNSIsInBvcnQiOjg4ODAsImlkIjoiOTBmOGY0ZGMtODA5Mi00MzU1LTkwNDctMDVmNTA2ZjVlOWFiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSJ9
-vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxMDQuMjEuMjM4LjQ4IiwicG9ydCI6ODg4MCwiaWQiOiI5MGY4ZjRkYy04MDkyLTQzNTUtOTA0Ny0wNWY1MDZmNWU5YWIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5In0
-vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxMDQuMjEuMjM4Ljg2IiwicG9ydCI6ODg4MCwiaWQiOiI5MGY4ZjRkYy04MDkyLTQzNTUtOTA0Ny0wNWY1MDZmNWU5YWIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5In0
-vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxNzYuMzIuMzUuMTk4IiwicG9ydCI6MTIwMCwiaWQiOiI0OGZmNTY4MC1mYjgzLTRkNzQtYTk5NS0wMWZhYmQzNTZmNmEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8ifQ
-vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxMDQuMjEuMjM4LjYiLCJwb3J0Ijo4ODgwLCJpZCI6IjkwZjhmNGRjLTgwOTItNDM1NS05MDQ3LTA1ZjUwNmY1ZTlhYiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkifQ
-vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxMDQuMjEuNDcuNDMiLCJwb3J0Ijo0NDMsImlkIjoiZmExODk3ZGItMTkyNS00Yzg2LWE0OTUtOTM5YTk1OWFmOTAwIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiZGt6Ym9memtvcC5jb20iLCJwYXRoIjoiL3JicXF2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJka3pib2Z6a29wLmNvbSJ9
-vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxMDQuMjYuMC4xNzUiLCJwb3J0IjoyMDk1LCJpZCI6IjE4ZDk2MTkwLWMxMGYtNDQ4Zi1hODJhLTJkMzZkZjVjM2NkZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkifQ
-vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxMDQuMjEuMjM4LjE0MSIsInBvcnQiOjg4ODAsImlkIjoiOTBmOGY0ZGMtODA5Mi00MzU1LTkwNDctMDVmNTA2ZjVlOWFiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSJ9
-vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxMDQuMTguMTE0LjE5OSIsInBvcnQiOjg4ODAsImlkIjoiOTBmOGY0ZGMtODA5Mi00MzU1LTkwNDctMDVmNTA2ZjVlOWFiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSJ9
-vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxMDQuMjEuMjM4LjExMSIsInBvcnQiOjg4ODAsImlkIjoiOTBmOGY0ZGMtODA5Mi00MzU1LTkwNDctMDVmNTA2ZjVlOWFiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSJ9
-vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxMDQuMTguMTE0LjE1NiIsInBvcnQiOjg4ODAsImlkIjoiOTBmOGY0ZGMtODA5Mi00MzU1LTkwNDctMDVmNTA2ZjVlOWFiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSJ9
-vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxMDQuMTguMTE0LjIxOCIsInBvcnQiOjg4ODAsImlkIjoiOTBmOGY0ZGMtODA5Mi00MzU1LTkwNDctMDVmNTA2ZjVlOWFiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSJ9
-vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxMDQuMjYuMC4xNDciLCJwb3J0IjoyMDg2LCJpZCI6ImJjNjVmYWMyLTdkYzctNDI2Zi1hY2RkLTA3NzlhNTAzNWJkZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkifQ
-vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxMDQuMjEuMjM4LjEzNiIsInBvcnQiOjg4ODAsImlkIjoiOTBmOGY0ZGMtODA5Mi00MzU1LTkwNDctMDVmNTA2ZjVlOWFiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSJ9
-vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxMDQuMjYuMC42OSIsInBvcnQiOjg4ODAsImlkIjoiOTBmOGY0ZGMtODA5Mi00MzU1LTkwNDctMDVmNTA2ZjVlOWFiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSJ9
-vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxMDQuMTguMTE0LjE2MCIsInBvcnQiOjIwOTUsImlkIjoiMThkOTYxOTAtYzEwZi00NDhmLWE4MmEtMmQzNmRmNWMzY2RlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSJ9
+trojan://NISHIKUITAN111@104.17.46.120:443?security=tls#104.17.46.120:443
+trojan://blue2024@168.100.6.112:443?sni=ha.lii2010.us.kg&peer=ha.lii2010.us.kg&security=tls#168.100.6.112:443
+trojan://NISHIKUITAN111@104.17.47.199:443?security=tls#104.17.47.199:443
+trojan://blue2024@104.17.203.150:443?sni=ha.lii2010.us.kg&peer=ha.lii2010.us.kg&security=tls#104.17.203.150:443
+trojan://NISHIKUITAN111@104.18.67.178:443?security=tls#104.18.67.178:443
+trojan://NISHIKUITAN111@104.17.121.241:443?security=tls#104.17.121.241:443
+trojan://NISHIKUITAN111@104.18.75.54:443?security=tls#104.18.75.54:443
+trojan://telegram-id-directvpn@3.147.9.181:22222?sni=trojan.burgerip.co.uk&peer=trojan.burgerip.co.uk&security=tls#3.147.9.181:22222
+trojan://NISHIKUITAN111@104.16.204.50:443?security=tls#104.16.204.50:443
+trojan://NISHIKUITAN111@104.17.149.25:443?security=tls#104.17.149.25:443
+trojan://NISHIKUITAN111@104.21.75.142:443?security=tls#104.21.75.142:443
+trojan://NISHIKUITAN111@104.21.0.18:443?security=tls#104.21.0.18:443
+trojan://NISHIKUITAN111@172.67.127.202:443?security=tls#172.67.127.202:443
+trojan://NISHIKUITAN111@104.18.42.149:443?security=tls#104.18.42.149:443
+trojan://NISHIKUITAN111@104.19.235.40:443?security=tls#104.19.235.40:443
+trojan://blue2024@104.24.237.141:443?sni=ha.lii2010.us.kg&peer=ha.lii2010.us.kg&security=tls#104.24.237.141:443
+trojan://NISHIKUITAN111@104.16.130.249:443?security=tls#104.16.130.249:443
+trojan://NISHIKUITAN111@104.16.104.42:443?security=tls#104.16.104.42:443
+trojan://NISHIKUITAN111@154.211.8.126:443?security=tls#154.211.8.126:443
 vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxMDQuMjYuMC4yMjkiLCJwb3J0IjoyMDg2LCJpZCI6ImJjNjVmYWMyLTdkYzctNDI2Zi1hY2RkLTA3NzlhNTAzNWJkZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxMjcuMC4wLjEiLCJwb3J0Ijo4MDgwLCJpZCI6ImNhYmJjYWEtY2FhYi1hYWJjLWRiYWMtYWJjYWJiY2JjYWFjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxMDQuMjYuMC40NyIsInBvcnQiOjg4ODAsImlkIjoiOTBmOGY0ZGMtODA5Mi00MzU1LTkwNDctMDVmNTA2ZjVlOWFiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSJ9
@@ -48,14 +49,9 @@ vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIx
 vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxMDQuMjEuMjM4LjczIiwicG9ydCI6ODg4MCwiaWQiOiI5MGY4ZjRkYy04MDkyLTQzNTUtOTA0Ny0wNWY1MDZmNWU5YWIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6ImdpdGh1Yi5jb20vQWx2aW45OTk5In0
 vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxMjcuMC4wLjEiLCJwb3J0Ijo4MDgwLCJpZCI6ImNhYmFhYmMtYWFjYi1hY2FiLWRhY2ItYWNiY2JiYWJjY2FhIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIn0
 vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiI5NC4xMzAuMTkwLjg4IiwicG9ydCI6NzYxMCwiaWQiOiI1NDgwYjQ0Zi01ODIzLTQyNDYtYmI4ZS04YTM3MWRhNmRjNGMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AifQ
-vless://c462f3aa-419e-47c4-8f0d-1b10c6ad5938@151.101.3.8:80?type=ws&security=none&path=/Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray?ed=2048#151.101.3.8:80
-vless://bd379ef6-11db-49a9-86c2-64af67a3cb13@151.101.130.133:443?type=ws&security=tls&path=/@vistav2ray---@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray----@vistav2ray?ed=2048&sni=live.theworldwidewolf.com&fp=chrome#151.101.130.133:443
-vless://197b385d-d1fb-4c7e-a4f9-fe8f3daf11d7@151.101.194.165:80?type=ws&security=none&path=@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#151.101.194.165:80
-vless://ccaabab-bcaa-acab-dcba-aabcaccbbbca@127.0.0.1:1080?type=tcp&security=tls#127.0.0.1:1080
-vless://9dac67dc-e6d5-4d1f-b2dd-6356e8b56b39@74.206.228.78:443?type=ws&security=tls&path=/&sni=ntsafe.pages.dev#74.206.228.78:443
-vless://9dac67dc-e6d5-4d1f-b2dd-6356e8b56b39@173.239.8.164:443?type=ws&security=tls&path=/&sni=ntsafe.pages.dev#173.239.8.164:443
-vless://022404e1-6083-48e1-beee-9048dda539bc@151.101.66.228:443?type=ws&security=tls&sni=bwdraper.faculty.ucdavis.edu&fp=firefox#151.101.66.228:443
-vless://6fbddbd0-6995-4d73-b367-30760d1cefb0@172.66.213.43:443?type=grpc&security=tls&sni=TvotEd.SPaCe&fp=chrome#172.66.213.43:443
+vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxMDQuMjEuMjM4LjIwNSIsInBvcnQiOjIwOTUsImlkIjoiMThkOTYxOTAtYzEwZi00NDhmLWE4MmEtMmQzNmRmNWMzY2RlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0IjoiYzMuNjAxNjcyNS54eXoiLCJwYXRoIjoiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCJzbmkiOiJjMy42MDE2NzI1Lnh5eiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxMjkuMTU4LjE5OC4yNDEiLCJwb3J0IjoyMDUzLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiM2NhOTE5YWUtNGU1Mi00OGNiLTlmNzktZjkyMGYwYzIzNGJkLmI2MDcxZGYyLWFmMjQtNGZlNS1hNTNjLTU0ODJmNGJmNWJjZS5rb3pvdy5jb20iLCJwYXRoIjoiL29iZGlpLmNmZDo0NDMvbGlua3dzIiwidGxzIjoidGxzIiwic25pIjoiM2NhOTE5YWUtNGU1Mi00OGNiLTlmNzktZjkyMGYwYzIzNGJkLmI2MDcxZGYyLWFmMjQtNGZlNS1hNTNjLTU0ODJmNGJmNWJjZS5rb3pvdy5jb20ifQ
+vmess://eyJ2IjoiMiIsInBzIjoiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCJhZGQiOiIxMDQuMTguMTE0LjIzNiIsInBvcnQiOjg4ODAsImlkIjoiOTBmOGY0ZGMtODA5Mi00MzU1LTkwNDctMDVmNTA2ZjVlOWFiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiJnaXRodWIuY29tL0FsdmluOTk5OSJ9
 vless://acbbcaa-acab-abca-dcba-cabccaabbbca@127.0.0.1:8080?type=tcp&security=tls#127.0.0.1:8080
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.251.199:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#35.157.251.199:22222
 vless://ad9ae42c-6858-4635-b93d-8bec2169e569@151.101.2.219:80?type=ws&security=none&path=/Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN?ed=2048#151.101.2.219:80
@@ -73,5 +69,12 @@ vless://abbacac-caab-cbaa-bacd-cbabcbabaacc@127.0.0.1:1080?type=tcp&security=tls
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@151.101.130.228:443?type=ws&security=tls&path=/c?ed=443&sni=faculty.ucdavis.edu&fp=firefox#151.101.130.228:443
 vless://f6e31ba4-2554-4bbc-822e-23f3546411aa@51.195.43.122:49685?type=tcp&security=tls&path=/&sni=de.musicbaaz.ir&fp=randomized#51.195.43.122:49685
 vless://cfd5f7e1-937f-4477-ae3e-b4a970ec7fb1@157.90.172.231:49755?type=tcp&security=none#157.90.172.231:49755
-trojan://78k6o1po-obpj-77qm-uffq-a90y23kpi1n8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://t4xe69d5-n195-1t6t-ynwt-crg9ycqicbzj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://dd1db063-d419-4ab7-9eba-ddc972300de8@151.101.64.155:80?type=ws&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed#151.101.64.155:80
+vless://36ba3447-6e63-40a6-88fc-62d5febef743@151.101.64.155:80?type=ws&security=none&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048#151.101.64.155:80
+vless://76e5f92f-27ed-4c0e-95bb-c9a7c4de67b5@104.16.53.11:2082?type=httpupgrade&security=none&path=/?ed=8880#104.16.53.11:2082
+vless://1cb61814-12c0-4302-8514-254c1ccc04f2@151.101.64.155:80?type=ws&security=none&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#151.101.64.155:80
+vless://856a737b-a69b-4f2c-fd68-682e22fc7f13@104.17.234.128:8080?type=ws&security=none&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880#104.17.234.128:8080
+vless://263497fb-9ae2-4f7b-94c6-b0179e480448@199.232.15.172:443?type=ws&security=tls&path=/n7kZNMsTpbYwKyde?ed=2560&sni=www.speedtest.net&fp=randomized#199.232.15.172:443
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.213.175.34:22222?type=ws&security=tls&path=/telegram-channel-vlessconfig-ws&sni=telegram-channel-vlessconfig.sohala.uk#52.213.175.34:22222
+trojan://365yz97e-30si-z57z-gok2-u0m8rj9tdchk@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ym478hwk-cmel-irzf-42jp-eqhko0olofmr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
