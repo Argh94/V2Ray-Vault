@@ -1,10 +1,7 @@
-trojan://1ou5v92t-q4v5-9ntp-by0t-s373c9omazfq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/21 | 19:59
-trojan://xdl56x65-wyej-1x9f-bf0i-3zc1snn4au5m@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://t8i01gv7-d325-g084-fta1-il5ulu64qg6v@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://ij4w4ykd-b9bo-t029-d1up-3np9wo92zyp1@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/21 | 23:53
+trojan://flzs7svv-bhuj-orgp-dago-nlev0pda127b@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://rc3w8smk-nvlq-nq24-n65r-inn20k5zh1ic@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vmess://eyJ2IjoiMiIsInBzIjoiQWxsbmV0IFRlbGVncmFtOkB1bHRyYXN1cmZfMTIiLCJhZGQiOiIyLjE4OC4yMTkuNDMiLCJwb3J0Ijo4NDQzLCJpZCI6ImIyZTM4NjIxLTAzNWItNDNmOC04NGE1LWU5MjE2MDc2MmZjMyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsInBhdGgiOiIvIn0
-vless://9a464637-7d90-4497-af4f-c5c8017a9b77@172.66.40.99:443?type=ws&security=tls&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net#172.66.40.99:443
-vless://162a7ed8-aee7-485e-9a8d-88ce6604cd6b@172.66.40.99:443?type=ws&security=tls&path=/admin&sni=2free2.aparatir.xyz#172.66.40.99:443
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&security=tls&path=/&sni=hetzner-2.access.name.ng&fp=random#www.speedtest.net:8443
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?type=ws&security=tls&path=/?ed=2560&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized#104.26.15.69:2096
 vless://9a464637-7d90-4497-af4f-c5c8017a9b77@172.66.40.99:443?type=ws&security=tls&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net#172.66.40.99:443
 vless://d03d8815-a06f-408f-a62f-6c84869b96a9@elegant-corporation.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#elegant-corporation.seotoolsforyou.co.uk:80
@@ -16,10 +13,9 @@ vless://17d43328-bbd2-40df-bd45-c94aeb554e89@www.speedtest.net:443?type=ws&secur
 vless://26e06c13-56ec-41d3-a750-d8f070053306@simonil.zarghamportal.ir:2095?type=ws&security=none&path=/@iSpeedTopVPN?ed=80#simonil.zarghamportal.ir:2095
 vless://0d0f0fea-64be-46fb-bb98-f8d5f5740752@104.21.80.1:443?type=ws&security=tls&path=/8fyir2diSmB8lAKc/NDQuMjI0LjI0LjkxLDE4LjE4My4xNTguMjEx&sni=SchQqn0yHRRS34QN3a2k4i6G9xap1TpH.pAgEs.dEV#104.21.80.1:443
 vless://3c918c19-a5bd-4f2c-9b30-03c681c93ddc@www.speedtest.net:443?type=ws&security=tls&sni=V2RaYmiNEr.PaGES.dEv&fp=randomized#www.speedtest.net:443
-vless://ebac2049-8367-4eab-a1a5-8b742b2fd3b6@russiatest-tap2.servers807.ir:2025?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=Cnuh4bNEBvRIjrYBEWSVhX8nr5j46lHuyen_IU2rbSk&sid=a76e2f1d45#russiatest-tap2.servers807.ir:2025
 vless://d2bcb15b-8cf0-402c-af32-6b04615144c9@greenwolf.fonixapp.org:12901?type=tcp&security=reality&sni=canva.com&fp=chrome&flow=xtls-rprx-vision&pbk=UIgzNUpO2PvGIgjtIK1GEikBFRVvfA1jm7bfor0HlAM&sid=b538b3#greenwolf.fonixapp.org:12901
 vless://2b4f6be4-32b4-495c-82d1-4d3093e5ddad@85.9.204.21:23328?type=tcp&security=reality&sni=ilovepdf.com&fp=chrome&flow=xtls-rprx-vision&pbk=Za4d7M22mOEGXV23Tkb_STUCIznMbtlUS89ZAaECjU0&sid=1af22e9c44f798bc#85.9.204.21:23328
 vless://d2bcb15b-8cf0-402c-af32-6b04615144c9@greenwolf.fonixapp.org:12901?type=tcp&security=reality&sni=canva.com&fp=chrome&flow=xtls-rprx-vision&pbk=UIgzNUpO2PvGIgjtIK1GEikBFRVvfA1jm7bfor0HlAM&sid=b538b3#greenwolf.fonixapp.org:12901
 vless://d2bcb15b-8cf0-402c-af32-6b04615144c9@greenwolf.fonixapp.org:12901?type=tcp&security=reality&sni=canva.com&fp=chrome&flow=xtls-rprx-vision&pbk=UIgzNUpO2PvGIgjtIK1GEikBFRVvfA1jm7bfor0HlAM&sid=b538b3#greenwolf.fonixapp.org:12901
-trojan://xp3oyxuu-h7nk-0ibg-wxyw-rsjuee33ig09@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://se4cvcpe-i3be-g658-01h0-yezn88q4pkde@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://wdeuqnnw-3hxq-3igq-fjpl-kape6lgh9y45@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://9dvv2j84-jx6z-fkg3-4yxr-1jvikeay2jux@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

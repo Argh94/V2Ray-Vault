@@ -1,9 +1,7 @@
-trojan://t61u8nwx-xd0f-seev-yo96-y069mtvnopug@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/21 | 19:59
-trojan://bw078gig-ewyo-hoth-q74z-obocs9ljb6rc@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://9h558zqj-ndu1-id2h-ghn1-9rcsjtg8qewu@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://kz9wfwn2-x4sx-n0pj-75l1-n5sgygra5zrb@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/21 | 23:53
+trojan://2bli08tq-dqk7-e30n-nlkg-lc9mlzibmzey@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://g7vd4kuh-etq0-4qb0-0ggq-89fovnhi9hf0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://tunnel-telegraaam-id-ibahad@193.124.46.134:8441?sni=Join.telegra.id.ibahad.ir&peer=Join.telegra.id.ibahad.ir&security=tls#193.124.46.134:8441
-vless://54922e97-046b-40dc-a062-c525eb14540c@172.66.40.99:80?type=ws&security=none&path=/Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#172.66.40.99:80
-vless://78e44a74-6f33-4289-81d2-df98075bd959@172.66.40.99:80?type=ws&security=none&path=/Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#172.66.40.99:80
 vless://d6e6f9fd-8bc5-45c0-b456-f545aa879d0a@50.116.10.143:443?type=tcp&security=none#50.116.10.143:443
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.228.91:80?type=ws&security=none&path=/vpnowl-vpnowl-vpnowl-vpnowl?ed=2560#104.16.228.91:80
 vless://9a464637-7d90-4497-af4f-c5c8017a9b77@172.66.40.99:443?type=ws&security=tls&path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net#172.66.40.99:443
@@ -24,10 +22,9 @@ vless://b1b49af1-e970-4db7-a098-85d3b28b6ee9@cdn2.torprospeed.ir:2095?type=httpu
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?type=grpc&security=none#45.82.251.58:8880
 vless://21da97a7-6786-4ce0-be54-8ff4c758d976@www.speedtest.net:2086?type=httpupgrade&security=none&path=/www.speedtest.net?ed=2086#www.speedtest.net:2086
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@104.26.1.108:443?type=ws&security=tls&path=/sg3?ed=2560/?JKVPNTELEGRAM_CHANEL_JKVPN_JKVPN&sni=app-stg.gopay.co.id.servpn.my.id&fp=randomized#104.26.1.108:443
-vless://c1d16861-5a8b-46d9-bfd3-032b9abcb68f@192.142.15.95:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c#192.142.15.95:443
 vless://cd54a584-2aeb-4a81-8558-84822c5e60d1@15.156.64.173:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&pbk=J2bRPBQbUXzfoe-sch7fxMlzKqaX2L0kEm4Rcly6Kgo&sid=d0c43a7737#15.156.64.173:443
 vless://795f3469-2af3-45fc-ba99-f6236773c017@fast.dissertationhelpspecialist.com:443?type=grpc&security=reality&sni=tgju.org&fp=firefox&pbk=Q1PDMwa1fT6RUZ2CpNMGns-QFUhmk8vrf2fIS6PaoFU&sid=44a3ef0168e834#fast.dissertationhelpspecialist.com:443
 vless://d0a86835-954b-4c2d-9f35-584ce0e052be@185.248.144.97:443?type=tcp&security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=175d#185.248.144.97:443
 vless://d50f50ef-20ff-47a1-a922-f476c2b83eb4@157.173.127.228:443?type=tcp&security=reality&sni=analytics.google.com&fp=chrome&pbk=XIDvViESjfi-zRq4bdvHK7EyeT7vjJcA_MZO0QGTFhI&sid=7fb3b0#157.173.127.228:443
-trojan://d6rdmo47-rk89-laeo-zxbo-oc5u93138uzh@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ocky2noz-4r4y-f8b6-vblh-06p1ytdq5aet@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://vhdplyj0-i899-cfvp-e8w2-yg43osdnhs93@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://wie5iv0o-f0ct-ejpk-o65d-6cdbmaasen8q@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
