@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-08-21 04:36:17
+Timestamp: 2025-08-21 07:54:47
 Total Channels: 502
 Successful Scrapes: 455
 Failed Scrapes: 0
@@ -17,7 +17,7 @@ sockss_http: 134 configs
 kanfig_majani: 126 configs
 gh_v2rayng: 117 configs
 v2rayng3: 114 configs
-config_proxy: 110 configs
+config_proxy: 109 configs
 armodchannel: 108 configs
 v222ray: 106 configs
 v2raycrow: 106 configs
@@ -34,7 +34,7 @@ Tweety_Proxy: 79 configs
 qrv2ray: 79 configs
 netfreedom0: 78 configs
 ai_duet: 76 configs
-hope_net: 76 configs
+hope_net: 74 configs
 v2raytg: 71 configs
 freevirgoolnet: 69 configs
 v2ra_ng_iran: 69 configs
@@ -193,7 +193,6 @@ nofiltering2: 16 configs
 proxyfull: 16 configs
 sobi_vpn: 16 configs
 summertimeus: 15 configs
-vmessorg: 15 configs
 v2ra_config: 15 configs
 connectshu: 15 configs
 fastkanfig: 15 configs
@@ -212,6 +211,7 @@ v_2ray1: 15 configs
 vpn_zvpn: 15 configs
 xnxv2ray: 15 configs
 vlees_v2rayng: 14 configs
+vmessorg: 14 configs
 freeiranianv2rey: 14 configs
 freevv2rayng: 14 configs
 hoshmasnoiyfarsi: 14 configs
@@ -300,6 +300,7 @@ wbrovers: 9 configs
 DALTON_PING: 8 configs
 dalton_ping: 8 configs
 vpnkanfik: 8 configs
+DailyV2Config: 8 configs
 ch_a2l: 8 configs
 eliteproxyv2: 8 configs
 gervpn: 8 configs
@@ -317,7 +318,6 @@ confingv2raayng: 7 configs
 lexernet: 7 configs
 mdvpnsec: 7 configs
 v2ngfast: 7 configs
-DailyV2Config: 7 configs
 argo_vpn1: 7 configs
 dargiiriis: 7 configs
 free_vip3: 7 configs
