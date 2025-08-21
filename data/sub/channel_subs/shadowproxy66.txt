@@ -1,6 +1,6 @@
-trojan://xkd6i21d-hpr6-717u-ic4e-tc6peghubz6e@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/21 | 07:55
-trojan://pb63dte7-ruls-2hq4-l6ch-wuerdkqz1u7i@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://wscds056-lbj6-370n-asy7-aemb5qjw01o2@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://edb3pyxv-9vmf-r91o-3zkr-bh9ebv34fs8t@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/21 | 11:56
+trojan://7zguuy9e-gbml-vhb9-frmn-856zjiit7zjp@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ksjdee35-v5of-rn4j-ksan-neangfbx5ydw@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@103.215.218.73:808#103.215.218.73:808
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#46.101.245.131:44354
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519#83.147.216.70:64519
@@ -19,23 +19,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYgXHVkODNjXHVkZGU5
 vmess://eyJ2IjoiMiIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIiwiYWRkIjoiNTcuMTI5LjI0LjEyNSIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyJ9
 vmess://eyJ2IjoiMiIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIiwiYWRkIjoiNTcuMTI5LjI1LjI1IiwicG9ydCI6NDQzLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0Ijoid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MifQ
 vmess://eyJ2IjoiMiIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIiwiYWRkIjoiNTcuMTI5LjI0LjEyNCIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJwYXRoIjoiL2xpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIn0
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?type=ws&security=tls&path=/&sni=ThM1x3Q3vC.fRoZiA.iNfO&fp=chrome#ipw.gfdv54cvghhgfhgj-njhgj64.info:8443
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?type=ws&security=tls&path=/&sni=H0nO9fVmQf.RaViToO.iNfO&fp=chrome#ipw.gfdv54cvghhgfhgj-njhgj64.info:2096
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?type=ws&security=tls&path=/&sni=Z8lHrZy9Y3.rAvItOo.InFo&fp=chrome#ipw.gfdv54cvghhgfhgj-njhgj64.info:8443
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?type=ws&security=tls&path=/&sni=PpX1vZ1mY0.fRoZiA.iNfO&fp=chrome#ipw.gfdv54cvghhgfhgj-njhgj64.info:2096
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?type=ws&security=tls&path=/&sni=IwH1x1PsEq.LiRa0X.iNfO&fp=chrome#ipw.gfdv54cvghhgfhgj-njhgj64.info:443
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?type=ws&security=tls&path=/&sni=1NoLuS4cZ4.iWiWiWjHeHsJsKnSdNnD.iNfO&fp=chrome#ipw.gfdv54cvghhgfhgj-njhgj64.info:8443
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?type=ws&security=tls&path=/&sni=8ZoDyMcC34.iWiWiWjHeHsJsKnSdNnD.iNfO&fp=chrome#ipw.gfdv54cvghhgfhgj-njhgj64.info:8443
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?type=ws&security=tls&path=/&sni=VpN1h6Lg7R.fRoZiA.iNfO&fp=chrome#ipw.gfdv54cvghhgfhgj-njhgj64.info:443
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?type=ws&security=tls&path=/&sni=57ZrNa8IbE.tOoKaViP00x.InFo&fp=chrome#ipw.gfdv54cvghhgfhgj-njhgj64.info:443
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?type=ws&security=tls&path=/&sni=S2wLuYkWq7.IwIwIwJhEhSjSkNsDnNd.InFo&fp=chrome#ipw.gfdv54cvghhgfhgj-njhgj64.info:2096
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?type=ws&security=tls&path=/&sni=77CnDj1NqA.iWiWiWjHeHsJsKnSdNnD.iNfO&fp=chrome#ipw.gfdv54cvghhgfhgj-njhgj64.info:443
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?type=ws&security=tls&path=/&sni=T542xVnSbH.iWiWiWjHeHsJsKnSdNnD.iNfO&fp=chrome#ipw.gfdv54cvghhgfhgj-njhgj64.info:443
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?type=ws&security=tls&path=/&sni=Hl3G4p71Pz.IwIwIwJhEhSjSkNsDnNd.InFo&fp=chrome#ipw.gfdv54cvghhgfhgj-njhgj64.info:2096
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?type=ws&security=tls&path=/&sni=VyZcHjR20f.RaViToO.iNfO&fp=chrome#ipw.gfdv54cvghhgfhgj-njhgj64.info:443
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?type=ws&security=tls&path=/&sni=G9e3B8zRlZ.tOoKaViP00x.InFo&fp=chrome#ipw.gfdv54cvghhgfhgj-njhgj64.info:2096
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?type=ws&security=tls&path=/&sni=6B513dZnDs.ToOkAvIp00X.iNfO&fp=chrome#ipw.gfdv54cvghhgfhgj-njhgj64.info:8443
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?type=ws&security=tls&path=/&sni=DdYq09McXz.LiRa0X.iNfO&fp=chrome#ipw.gfdv54cvghhgfhgj-njhgj64.info:2096
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.12:443?type=ws&security=tls&path=/#212.95.34.12:443
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.17:443?type=ws&security=tls&path=/#212.95.34.17:443
 vless://3f277f78-ef7c-4fab-982c-0ae1b0c0cf67@51.75.161.60:80?type=ws&security=none&path=/vless/#51.75.161.60:80
@@ -43,5 +26,14 @@ vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.245.232:8443?type=ws&securit
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?type=ws&security=tls&path=/?ed=2560&sni=vl.hongkong6.qzz.io&fp=random#www.visa.com.sg:2087
 vless://248b794e-905a-47b4-8c23-fa15746a8d9a@195.42.233.83:443?type=ws&security=tls&path=/rsrjowws#195.42.233.83:443
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?type=ws&security=tls&path=/&sni=PpX1vZ1mY0.fRoZiA.iNfO&fp=chrome#ipw.gfdv54cvghhgfhgj-njhgj64.info:2096
-trojan://k9c4bd7j-c525-9ss3-3zrk-a1ih8o4nqeov@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://usqweoob-hb55-pihs-el8i-qjlybailcxgm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?type=ws&security=tls&path=/&sni=dl1-pl-cdn.easy-upload.org&fp=random#www.speedtest.net:2053
+vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?type=ws&security=tls&path=/&sni=dl-de-cdn.easy-upload.org#www.speedtest.net:2053
+vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:443?type=ws&security=tls&path=/&sni=dl1-ca-cdn.easy-upload.org#www.speedtest.net:443
+vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:443?type=ws&security=tls&path=/&sni=dl1-ca-cdn.easy-upload.org#www.speedtest.net:443
+vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?type=ws&security=tls&path=/&sni=dl1-sg-cdn.easy-upload.org#www.speedtest.net:2053
+vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?type=ws&security=tls&path=/#www.speedtest.net:2053
+vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?type=ws&security=tls&path=/&sni=dl1-au-cdn.easy-upload.org#www.speedtest.net:2053
+vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?type=ws&security=tls&path=/&sni=dl1-uk-cdn.easy-upload.org#www.speedtest.net:2053
+vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?type=ws&security=tls&path=/&sni=dl-fr-cdn.easy-upload.org#www.speedtest.net:2053
+trojan://mikjcyhr-uwdb-211o-9q25-2rz4a0lo4qrp@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://yov1yutz-1wuk-tkf5-kccy-88acmx2annaf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

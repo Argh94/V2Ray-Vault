@@ -1,8 +1,6 @@
-trojan://c47nniy6-bs8t-tvqs-6pui-iwruu1fiejj2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/21 | 07:55
-trojan://n8hwt1z5-8cl3-abp5-dxri-182lz2bw5nrp@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://jjqukycn-zh2s-g09k-3eu9-ljtas9pb1d3a@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://YWVzLTI1Ni1nY206M2VlOTBhYTktODgzMS00ZWEzLTk0MjUtYzM2MTA5MGE5Mzhk@zf1.10101251.xyz:46924#zf1.10101251.xyz:46924
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.153.197.5:989#185.153.197.5:989
+trojan://nludj54g-vv2s-65as-o8hs-1y93k2fb2alp@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/21 | 11:56
+trojan://33oqelog-3e2d-z8tx-v5dr-ihmztha877ha@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ipur6uno-5xnx-i0nq-mnfq-a1k49ifr9js3@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.153.197.5:989#185.153.197.5:989
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#138.124.115.157:1080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwaXY5N1hTMUN2YWw4NnZmd0hQRDVq@194.87.216.121:443#194.87.216.121:443
@@ -15,16 +13,13 @@ trojan://6757b7d6-fa32-4708-b5d1-30e3cf928b51@104.21.6.179:443?sni=ZZzzzZZ.89060
 trojan://b2c6384c-f63d-11ec-b1b3-f23c91cfbbc9@c3fe9cc6-sytz40-thv9l4-1jbj0.cm5.cnkuaishou.com:27235?security=tls#c3fe9cc6-sytz40-thv9l4-1jbj0.cm5.cnkuaishou.com:27235
 trojan://6857f1bc-f27b-11ea-87ad-f23c913c8d2b@ef9fae4e-sytz40-tgzvop-hns7.cm5.cnkuaishou.com:27235?sni=ef9fae4e-sytz40-tgzvop-hns7.cm5.cnkuaishou.com&peer=ef9fae4e-sytz40-tgzvop-hns7.cm5.cnkuaishou.com&security=tls#ef9fae4e-sytz40-tgzvop-hns7.cm5.cnkuaishou.com:27235
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzX1x1NWI5YVx1NTIzNlx1NGUxM1x1N2ViZlx1ZmYxYUBBbGluMDA2Qm90IiwiYWRkIjoidjI5LmhlZHVpYW4ubGluayIsInBvcnQiOjMwODI5LCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6Miwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL29vb28ifQ
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzX1x1NWI5YVx1NTIzNlx1NGUxM1x1N2ViZlx1ZmYxYUBBbGluMDA2Qm90IiwiYWRkIjoiMTIwLjI2LjU1LjIyNSIsInBvcnQiOjUwMDAyLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzX1x1NWI5YVx1NTIzNlx1NGUxM1x1N2ViZlx1ZmYxYUBBbGluMDA2Qm90IiwiYWRkIjoidjI5LmhlZHVpYW4ubGluayIsInBvcnQiOjMwODI5LCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6Miwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL29vb28ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4X1x1NWI5YVx1NTIzNlx1NGUxM1x1N2ViZlx1ZmYxYUBBbGluMDA2Qm90IiwiYWRkIjoiMTYyLjE1OS4xMzcuMTc4IiwicG9ydCI6ODAsImlkIjoiODhhMjViZjMtMThhZi00ODZmLWIxOTQtZDg3ZTk3NmMyMzBiIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvczE1Lmh0bWwifQ
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzX1x1NWI5YVx1NTIzNlx1NGUxM1x1N2ViZlx1ZmYxYUBBbGluMDA2Qm90IiwiYWRkIjoidjI5LmhlZHVpYW4ubGluayIsInBvcnQiOjMwODI5LCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6Miwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL29vb28ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzX1x1NWI5YVx1NTIzNlx1NGUxM1x1N2ViZlx1ZmYxYUBBbGluMDA2Qm90IiwiYWRkIjoidjI5LmhlZHVpYW4ubGluayIsInBvcnQiOjMwODI5LCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6Miwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiL29vb28ifQ
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzX1x1NWI5YVx1NTIzNlx1NGUxM1x1N2ViZlx1ZmYxYUBBbGluMDA2Qm90IiwiYWRkIjoidjguaGVkdWlhbi5saW5rIiwicG9ydCI6MzA4MDgsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoyLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvb29vbyJ9
-vless://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80?type=ws&security=none&path=/vless/&sni=ov-canada1.09vpn.com#14.102.228.75:80
 vless://a0bc2ee2-a772-415c-a620-fbabaa4ff3d3@103.71.21.243:13886?type=tcp&security=none#103.71.21.243:13886
 vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@104.24.158.0:2052?type=ws&security=none&path=/&sni=register.tunnelbreaking.shop#104.24.158.0:2052
 vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?type=ws&security=none&path=/&sni=light-presence.oneeat.co#light-presence.oneeat.co:80
 vless://3ac2de34-47c5-4dd5-afc0-8fb4b05d4077@104.18.26.90:80?type=ws&security=none&path=/?ed=2560&sni=blaze-can-118.blazecanada.site#104.18.26.90:80
-trojan://og0198jb-w4d0-e9s6-rxj8-yrvtc63reuly@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://v6jmd03m-qzqw-7w0i-xg3s-1nvqoepea3o0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://dylduck9-x94b-y75l-85cz-gctkv5yb10g1@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://gwyhjlj0-mvyq-jleq-0cnm-py97ax9r9ykd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
