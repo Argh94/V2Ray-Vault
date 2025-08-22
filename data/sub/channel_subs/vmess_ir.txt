@@ -1,15 +1,12 @@
-trojan://19e0nlqw-5wr6-pet2-y0k6-qvkpyhyyg4dz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/22 | 16:03
-trojan://0op2ns0o-dwak-nhmn-3y1n-4oi98f1rjhnr@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://fceebpuo-rh2u-ayms-753t-y8c7as1m3rw2@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://6de3a482-lmsg-o9uz-zk72-zfipozj8eaok@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/22 | 19:54
+trojan://rldwmrkg-z075-psd7-er95-swuvffdtrx2e@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://k909752b-947h-06ab-6xuv-dtff3k4xa83c@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#45.87.175.157:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#103.104.247.45:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#193.29.139.240:8080
 ss://YWVzLTI1Ni1nY206YTdmMDgyYzEtMGQxMi00NjA5LWI2YmYtZTc2MGI2NjhjZjIz@77.110.110.240:443#77.110.110.240:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#45.87.175.10:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#45.87.175.28:8080
-vless://e8a19247-cb95-4f9c-9c77-ea0355268762@sss55168.tas-bazi.com:443?type=xhttp&security=none&path=/xhttp#sss55168.tas-bazi.com:443
-vless://12f591ba-d695-4396-9190-f2f3aaa9ea47@162.159.137.3:443?type=ws&security=tls&path=/XYXY0721&sni=at.xiejiang.dpdns.org&fp=chrome#162.159.137.3:443
-vless://e89ba39d-ae7e-493a-a57b-cdd55b42b4e3@188.245.75.235:443?type=tcp&security=none#188.245.75.235:443
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss53988.tas-bazi.com:443?type=xhttp&security=none&path=/sc#sss53988.tas-bazi.com:443
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.176.24:8443?type=xhttp&security=none&path=/xhttp#91.99.176.24:8443
 vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@cb6.connectbaash.info:4406?type=tcp&security=none#cb6.connectbaash.info:4406
@@ -20,6 +17,9 @@ vless://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443
 vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?type=ws&security=tls&path=/id5/?-Tel---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN&sni=app-stg.gopay.co.id.servpn.my.id&fp=chrome#app-stg.gopay.co.id.servpn.my.id:443
 vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?type=ws&security=tls&path=/&sni=server12.coin.name.ng#www.speedtest.net:8443
 vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@app-stg.gopay.co.id.servpn.my.id:443?type=ws&security=tls&path=/sg10&sni=app-stg.gopay.co.id.servpn.my.id#app-stg.gopay.co.id.servpn.my.id:443
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-20.cristiano.name.ng:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#amazon-20.cristiano.name.ng:443
-trojan://2yv95kce-6sss-ldhw-dglg-jj6e83is4lxj@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://drrnu1dy-x08r-jlm5-2afq-wq5jjk46n04p@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://408f71e2-170d-4bf9-8b42-b6ba23cc227c@blog.ruangguru.com.servpn.my.id:443?type=ws&security=tls&path=/kr1?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=blog.ruangguru.com.servpn.my.id&fp=randomized#blog.ruangguru.com.servpn.my.id:443
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?type=grpc&security=none#185.231.205.181:8880
+vless://4181c93f-0a91-48e3-bf9d-0e2c548734a5@bakrie.ac.id.servpn.my.id:443?type=ws&security=tls&path=/id5?--MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN&sni=bakrie.ac.id.servpn.my.id&fp=randomized#bakrie.ac.id.servpn.my.id:443
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.142:8880?type=grpc&security=none#45.82.251.142:8880
+trojan://4jwimfu6-wjuu-06ef-hn9l-4pniy17tvmz3@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://j1tm8ll2-z3nf-u1w6-isnp-w8mcayqxrepd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
