@@ -1,6 +1,6 @@
-trojan://utv3ziw2-y99a-s88e-kbka-rmzpksotks4b@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/21 | 23:53
-trojan://jjjibnmw-kdti-egn3-tktb-ebp9yghsw115@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://njzk8hth-fl6o-jmwr-8rcu-8kcuz8j8jy2b@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://j6m5ged9-ap70-huu8-g0mk-v71q9lfv7w8s@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/22 | 04:38
+trojan://36t9ns73-tefz-fp7o-wucu-g52rxpquibx3@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://xo0nklb1-rppn-zckq-l0o9-ck07eabinl9f@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#104.167.197.25:57456
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#216.173.70.187:57456
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNkXHVkZTgwQHYyYm94X2ZyZWVcdWQ4M2RcdWRlODAiLCJhZGQiOiI5MS45OS4xNTMuMzkiLCJwb3J0IjozOTEzMCwiaWQiOiI5ODVhZjQ4OS1mYjE2LTQ5MWEtODEzYy1mZGQ5MWI2YjA2ZWUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJwYXRoIjoiLyJ9
@@ -25,5 +25,8 @@ vless://00651706-0d2d-448b-80f2-7678f3e5187c@93.185.158.14:443?type=ws&security=
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.59.218.58:443?type=grpc&security=tls&sni=pqh36v4.hiddendom.shop#185.59.218.58:443
 vless://8df60790-c903-4661-b85d-64c0009378e5@ip.sb:443?type=ws&security=tls&path=/?ed=2560&sni=F1.paRsa.fiLegEar-Sg.Me&fp=edge#ip.sb:443
 vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@malaysia.com:443?type=ws&security=tls&path=/?ed=2560&sni=yx.yushan.dpdns.org&fp=random#malaysia.com:443
-trojan://7ovp1okl-sjm2-gdu5-b1r7-8acbi5uq8kmc@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://4jooycp8-sbfr-1csz-ukdk-1xoeergx60m4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?type=ws&security=none&path=/?ed#tgju.org:80
+vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@server473910892394806482.tas-bazi.com:443?type=tcp&security=none#server473910892394806482.tas-bazi.com:443
+vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss29026.tas-bazi.com:443?type=xhttp&security=none&path=/sc#sss29026.tas-bazi.com:443
+trojan://haxnyi58-oc72-t1uw-bzst-jldqpdgai42p@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://80dlvrtw-c14m-5ujn-0s78-6uybesv6t3qj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
