@@ -1,10 +1,7 @@
-trojan://59yxy7sy-161g-pqto-ena4-7300o9iem7t0@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/23 | 16:00
-trojan://cbwqmyhr-dndt-dzbo-p8fo-20ji81s4uiyc@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://v0gtvinb-2mvq-38bg-l0q6-se9lfh135aab@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://YWVzLTI1Ni1nY206YTdmMDgyYzEtMGQxMi00NjA5LWI2YmYtZTc2MGI2NjhjZjIz@77.110.110.240:443#77.110.110.240:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#45.87.175.10:8080
+trojan://816kplco-s6jn-sehe-col6-x8j7v9m5suxh@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/23 | 19:52
+trojan://32eohkf2-xuoe-8clj-c2ce-k3uf3g7clm6j@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://p6q4jue1-6inl-oify-lndu-cl09mtuerz4j@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#45.87.175.28:8080
-vless://8e615b78-0905-48bb-ab68-fb0dfdff7688@www.speedtest.net:8443?type=ws&security=tls&path=/&sni=server12.coin.name.ng#www.speedtest.net:8443
 vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@app-stg.gopay.co.id.servpn.my.id:443?type=ws&security=tls&path=/sg10&sni=app-stg.gopay.co.id.servpn.my.id#app-stg.gopay.co.id.servpn.my.id:443
 vless://408f71e2-170d-4bf9-8b42-b6ba23cc227c@blog.ruangguru.com.servpn.my.id:443?type=ws&security=tls&path=/kr1?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=blog.ruangguru.com.servpn.my.id&fp=randomized#blog.ruangguru.com.servpn.my.id:443
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?type=grpc&security=none#185.231.205.181:8880
@@ -21,5 +18,8 @@ vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss71706.tas-bazi.com:443?type=xhtt
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.66.40.99:443?type=ws&security=tls&path=/id5?ed=#TELEGRAM-MTMVPN---MTMVPN---MTMVPN?ed=512&sni=blog.ruangguru.com.servpn.my.id#172.66.40.99:443
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?type=xhttp&security=none&path=/xhttp#91.99.183.30:8443
 vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?type=ws&security=tls&path=/id5?ed=2048MTMVPN---MTMVPN---MTMVPN&sni=app-stg.gopay.co.id.servpn.my.id&fp=chrome#app-stg.gopay.co.id.servpn.my.id:443
-trojan://f6pnqxju-0psd-3hwj-lttr-qrlj9v32bk6g@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://rkm04b03-zv9t-go46-jbvz-25a9kjzkx82r@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?type=ws&security=none&path=/#handsome-device.oneeat.co:80
+vless://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443?type=ws&security=tls&path=/kr1?ed=#TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN?ed=512&sni=ava.game.naver.com.servpn.my.id&fp=chrome#ava.game.naver.com.servpn.my.id:443
+vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?type=ws&security=none&path=/#fearless-change.oneeat.co:80
+trojan://0t9jc1hy-z6pq-ai0p-kxnv-zuab8c9m4kiy@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://avrv1es5-qblv-qcxp-x9zc-hp8ljagpakxi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
