@@ -1,6 +1,6 @@
-trojan://cxyiziqz-20nq-ia32-6tti-s0l3095iagzz@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/24 | 07:58
-trojan://94o9y6mf-jjlb-plfe-ktpp-mbtl4dacpaaj@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://purvbsl9-2l7f-t640-pgtt-j2538br119dw@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://eybmvy91-kdct-dmod-qf0a-z3qocmhby7a6@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/24 | 11:53
+trojan://z1c8xzo1-s8kd-0749-2mp0-bnnthwxkcrik@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://fz29nho4-tqs2-0ivv-tgct-itihq7nbh3xw@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://ttfang@166.0.244.206:2053?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#166.0.244.206:2053
 trojan://ttfang@220.135.202.250:81?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#220.135.202.250:81
 trojan://ttfang@166.0.244.206:2053?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#166.0.244.206:2053
@@ -15,5 +15,7 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@31.43.179.38:443?type=grpc&security
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@195.85.23.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=sg.laoyoutiao.link#195.85.23.63:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.188:8880?type=ws&security=none&path=/Telegram🇨🇳 @MxlShare @WangCai2 /?ed=2560&fp=chrome#156.238.18.188:8880
 vless://f5d86f1c-3f4f-4ac9-aa03-64bf34750055@190.93.245.234:8443?type=ws&security=tls&path=/?ed=2560&sni=v3.ganglink.sbs&fp=random#190.93.245.234:8443
-trojan://6wupqa9t-4gu9-l5p5-qxkb-rhx5ot6qm15z@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://2tb5js6k-5p7g-ubdc-h5pz-xosy85jr9ejm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@46.254.92.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=sg.laoyoutiao.link#46.254.92.63:8880
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?type=ws&security=tls&path=/57ba2ab1&sni=ovhwuxian.pai50288.uk#172.67.153.156:8443
+trojan://urxuvbn8-0djn-g16e-0aey-kw4lxwffy9yt@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://gkfnak3b-i3k1-ywm7-im5g-qy3p4d7r2elf@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
