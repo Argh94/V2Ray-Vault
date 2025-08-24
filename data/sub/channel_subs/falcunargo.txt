@@ -1,11 +1,6 @@
-trojan://1iojoxfy-v9d2-xf7o-hvl7-k724fpmpkkad@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/24 | 19:52
-trojan://y50pdmfo-8wfk-fdx3-88i7-q48rt4tes7kn@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://g25pkcjv-n19s-ja6b-f1wt-1pt76z8ue3sm@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?type=grpc&security=none#185.236.232.243:8880
-vless://3d7dd548-5456-4f28-8019-393fbfab3312@104.26.0.108:443?type=ws&security=tls&path=/sg3?ed=2560/?ed=2048&sni=app-stg.gopay.co.id.servpn.my.id&fp=randomized#104.26.0.108:443
-vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?type=ws&security=tls&path=/sg3/?ed=2048JOIN---PLANB_PROXY&sni=app-stg.gopay.co.id.servpn.my.id&fp=chrome#172.67.74.133:443
-vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?type=ws&security=tls&path=/id5/?-Tel-@V2rayAlpha&sni=app-stg.gopay.co.id.servpn.my.id&fp=chrome#app-stg.gopay.co.id.servpn.my.id:443
-vless://65a32d27-7a02-45a8-b90a-29f6bebc87ae@104.26.1.108:443?type=ws&security=tls&path=/sg3?ed=2560/?ed=2048&sni=blog.ruangguru.com.servpn.my.id&fp=randomized#104.26.1.108:443
+trojan://e0vi4gib-38mo-12co-gtx2-wgljehjoqivu@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/24 | 23:52
+trojan://s50s761f-jbna-hldo-3nd3-5vryse3zrln0@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://j8pjmvsn-168m-vy85-3l3p-flmg7a8q39e0@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://db0edd3d-b3f3-453f-e0b2-1d55c74c0c71@cumhuriyet.com.tr:8080?type=ws&security=none&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#cumhuriyet.com.tr:8080
 vless://db0edd3d-b3f3-453f-e0b2-1d55c74c0c71@www.speedtest.net:8080?type=ws&security=none&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#www.speedtest.net:8080
 vless://fcbcca00-44c2-4330-a072-bd0ba626eb0f@172.66.40.99:8080?type=ws&security=none&path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048#172.66.40.99:8080
@@ -19,6 +14,5 @@ vless://b61d30be-c2a9-424e-95ef-100939462cac@172.66.40.99:8080?type=ws&security=
 vless://40acbc60-0607-43a6-a604-5f27751d36e4@www.speedtest.net:80?type=ws&security=none&path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&sni=revest.maketunnelim.Lat.#www.speedtest.net:80
 vless://b37596da-6f80-4dcd-f75c-c3c7b25922da@numberland.ir:8080?type=ws&security=none&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#numberland.ir:8080
 vless://b37596da-6f80-4dcd-f75c-c3c7b25922da@www.speedtest.net:8080?type=ws&security=none&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#www.speedtest.net:8080
-hysteria2://dongtaiwang.com@51.159.111.32:5355?sni=www.bing.com&insecure=1#51.159.111.32:5355
-trojan://m9br8nl6-wdi2-xaz1-cesi-0txjywhsh1ef@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://zx2nnjmy-nuh5-hu8l-d7h6-d38ue9z6hirx@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://cpdze147-9qze-96zg-olz9-tgsu7nwger2e@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://7gydw5sc-ug1o-hz8z-hx1b-5gvcyvslwjo0@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
