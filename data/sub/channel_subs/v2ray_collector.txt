@@ -1,6 +1,6 @@
-trojan://m01dn0d9-0h14-1yv3-6r87-59cwq3j3eqa2@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/23 | 23:51
-trojan://ekl6gckc-bcuy-fq1d-5i07-5l473vsu5yyx@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://jcmwucbp-0wor-r6rp-v7hz-wi5v6b1dyu3z@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://14jax5i7-iv1j-vic0-bf31-njxvww97xkrg@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/24 | 04:43
+trojan://ieelghrp-zcp3-9c4k-d4vu-rw2sklhzgp1p@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://b6luqe6v-7nej-0w3h-zu4d-p0tdb1wynhx2@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 trojan://ttfang@166.0.244.206:2053?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#166.0.244.206:2053
 trojan://ttfang@220.135.202.250:81?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#220.135.202.250:81
 trojan://ttfang@166.0.244.206:2053?sni=ttfang.fange.me&peer=ttfang.fange.me&security=tls#166.0.244.206:2053
@@ -15,5 +15,5 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@31.43.179.38:443?type=grpc&security
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@195.85.23.63:8880?type=ws&security=none&path=/Telegram🇨🇳&sni=sg.laoyoutiao.link#195.85.23.63:8880
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.188:8880?type=ws&security=none&path=/Telegram🇨🇳 @MxlShare @WangCai2 /?ed=2560&fp=chrome#156.238.18.188:8880
 vless://f5d86f1c-3f4f-4ac9-aa03-64bf34750055@190.93.245.234:8443?type=ws&security=tls&path=/?ed=2560&sni=v3.ganglink.sbs&fp=random#190.93.245.234:8443
-trojan://j8tryvxx-bw62-n46o-d4kl-npvr5kc3l510@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://e8nnohf1-slge-cfai-djts-4iikypj1p1rj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://0qgry1ff-2mp2-50p1-lfme-9236fvpmdt3n@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://yp88pyj3-mn67-3bmt-wkic-2jzlkg2vpfgi@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
