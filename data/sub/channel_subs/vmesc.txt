@@ -1,10 +1,6 @@
-trojan://k9vxtqsa-kmi8-i58x-z1jm-wx2elx2wuuyw@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/24 | 16:01
-trojan://fh35kw7l-71jl-g6wz-7wjh-q41tlcwmfzst@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://nzf10vc6-fhyf-ejd6-y65q-f772dbh23swn@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&security=tls&path=/?ed=2048MTMVPN---MTMVPN---MTMVPN&sni=lease-20.access.name.ng&fp=chrome#www.speedtest.net:8443
-vless://58a6047f-b46e-4e7a-c7d0-c08b48f3c505@chat.deepseek.com:80?type=ws&security=none&path=/olem/ws?ed=1024#chat.deepseek.com:80
-vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?type=ws&security=tls&path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048MTMVPN---MTMVPN---MTMVPN---MTMVPN&sni=privasi.turah.my.id&fp=chrome#privasi.turah.my.id:443
-vless://bc4f49dc-2c50-49ac-b8fa-d3020a5e65de@91.99.85.155:443?type=tcp&security=none#91.99.85.155:443
+trojan://fuqf6df4-v94k-25y5-8qfr-fvtf57d9geq5@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/24 | 19:52
+trojan://bz9psnwo-x1am-b9au-5o3u-q10maf3qpjqb@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://qubqfuie-vp9n-64mb-qf46-qntsbah8t4ip@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?type=ws&security=tls&path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN&sni=privasi.turah.my.id&fp=chrome#privasi.turah.my.id:443
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&security=tls&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=lease-11.access.name.ng#www.speedtest.net:8443
 vless://9f0eae34-97c1-4c07-8a55-438379981334@104.16.86.2:80?type=ws&security=none&path=/?ed=2560#104.16.86.2:80
@@ -18,7 +14,11 @@ vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443?type=ws&security=
 vless://d7ed8991-e019-47c1-b578-93a8d8443830@188.245.228.94:443?type=xhttp&security=none&path=/xhttp#188.245.228.94:443
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?type=grpc&security=none#185.236.232.243:8880
 vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?type=ws&security=tls&path=/id5?ed=2560/?TELEGRAM_Nicotine_joker_Nicotine_joker_Nicotine_joker&sni=app-stg.gopay.co.id.servpn.my.id&fp=randomized#app-stg.gopay.co.id.servpn.my.id:443
+vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.66.40.99:443?type=ws&security=tls&path=/id5?ed=#TELEGRAM-MTMVPN---MTMVPN---MTMVPN?ed=512&sni=blog.ruangguru.com.servpn.my.id#172.66.40.99:443
+vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.5.134:443?type=ws&security=tls&path=/&sni=007.xingfu.qzz.io#104.26.5.134:443
+vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@privasi.turah.my.id:443?type=ws&security=tls&path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048MTMVPN---MTMVPN---MTMVPN---MTMVPN&sni=privasi.turah.my.id&fp=chrome#privasi.turah.my.id:443
+vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@172.67.74.133:443?type=ws&security=tls&path=/sg10/?TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&sni=app-stg.gopay.co.id.servpn.my.id#172.67.74.133:443
 vless://4339007f-6132-4276-afd5-828a16a5a79f@46.17.100.153:21929?type=tcp&security=reality&sni=yahoo.com&fp=random&pbk=qAIXS8H9t650DC9msTecxrvhD4myn9wBvcZL4NlLcTQ&sid=a6f7a9bc2aabe632#46.17.100.153:21929
 vless://aa1aac84-6a86-41b9-bd34-1a036e06976f@185.250.181.128:16106?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=FnkrwrjQqktvwxPvLn7KyWZIq8bUAvVaeCrI_VhAZ34&sid=3b6239cf6fd84dd3#185.250.181.128:16106
-trojan://419m3h07-uk6q-a2hd-4liw-kbtgc8au0wwi@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://u0vscrru-c5iz-sqyi-7byy-k32rd5f0hj9h@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://35l0qo2h-oafb-s7cr-unee-g889omuikka8@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://neq19wbb-fsy0-13o5-qgf2-6cngvkc7zxuj@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

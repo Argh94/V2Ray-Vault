@@ -1,15 +1,11 @@
-trojan://4jqwpcfp-zjfx-7uv3-getn-3m9g6fznnuun@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/24 | 16:01
-trojan://e1nsws13-umui-8tlo-54gf-baz99bi8b7we@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://fl3hwrka-5da8-o55t-tuiq-itx2crkzo5yg@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://5xfgulbv-b29h-goca-hnrd-569oowg5dyf3@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/24 | 19:52
+trojan://iadr8he9-wfse-vaui-zrj3-i67k22sn9mmy@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://rkxkhkye-aqek-m4mj-nnxi-tpf4uhvmfzf7@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0bTZDUEpBRmozemxDSGNqNnc3cVNz@45.92.218.83:56275#45.92.218.83:56275
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKdWkyclh6Zld0cmo4ckFrNW9LQjBU@94.159.96.245:11902#94.159.96.245:11902
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqYzhoVTkyeUU1ZUZCNUVCUU1xbmM4@94.159.96.245:11902#94.159.96.245:11902
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1cjlxZGs5ZXBITXM3VG1oYmVMNUlE@94.159.96.245:11902#94.159.96.245:11902
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjMzXHUwNjMxXHUwNjQ4XHUwNjMxIFx1MDYzMVx1MDYyN1x1MDZjY1x1MDZhZlx1MDYyN1x1MDY0NiBcdTA2N2VcdTA2MzFcdTA2MzNcdTA2MzFcdTA2MzlcdTA2MmFcdWQ4M2NcdWRmMGEgQHZtZXNzX2lyIiwiYWRkIjoiODUuMTk1LjEwMS4xMjIiLCJwb3J0Ijo0MDg3OCwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss71706.tas-bazi.com:443?type=xhttp&security=none&path=/sc#sss71706.tas-bazi.com:443
-vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.66.40.99:443?type=ws&security=tls&path=/id5?ed=#TELEGRAM-MTMVPN---MTMVPN---MTMVPN?ed=512&sni=blog.ruangguru.com.servpn.my.id#172.66.40.99:443
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?type=xhttp&security=none&path=/xhttp#91.99.183.30:8443
-vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?type=ws&security=tls&path=/id5?ed=2048MTMVPN---MTMVPN---MTMVPN&sni=app-stg.gopay.co.id.servpn.my.id&fp=chrome#app-stg.gopay.co.id.servpn.my.id:443
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?type=ws&security=none&path=/#handsome-device.oneeat.co:80
 vless://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@ava.game.naver.com.servpn.my.id:443?type=ws&security=tls&path=/kr1?ed=#TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN---TELEGRAM-MTMVPN?ed=512&sni=ava.game.naver.com.servpn.my.id&fp=chrome#ava.game.naver.com.servpn.my.id:443
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?type=ws&security=none&path=/#fearless-change.oneeat.co:80
@@ -21,5 +17,9 @@ vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@app-stg.gopay.co.id.servpn.my.id:44
 vless://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?type=ws&security=tls&path=/hxwdnrws#185.242.87.140:443
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&security=tls&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=hetzner-12.apple.name.ng#www.speedtest.net:8443
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.67.74.133:443?type=ws&security=tls&path=/id5/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=blog.ruangguru.com.servpn.my.id#172.67.74.133:443
-trojan://9ps9ra89-0jzu-vu9k-0w13-6zhmrcri9x5x@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://p2yzfcss-ygo7-r3rc-uuj0-tr28u8heh4ss@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?type=ws&security=tls&path=/id5?ed=2560/?MTMVPN---MTMVPN---MTMVPN---MTMVPN&sni=blog.ruangguru.com.servpn.my.id#104.26.1.108:443
+vless://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@104.26.1.108:443?type=ws&security=tls&path=/kr1?ed=2560/?TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&sni=ava.game.naver.com.servpn.my.id&fp=chrome#104.26.1.108:443
+vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?type=grpc&security=tls&sni=pqh23v4.hiddendom.shop#102.177.189.251:443
+vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?type=ws&security=tls&path=/id5?ed=2560TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&sni=blog.ruangguru.com.servpn.my.id#104.26.1.108:443
+trojan://6f5gen78-7ryn-yb0o-zeq7-a2pzsq0h7uwb@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://2zcpu31g-wjwl-pdkv-hkd5-bvwk8oaokkdm@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

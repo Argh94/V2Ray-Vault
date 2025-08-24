@@ -1,7 +1,6 @@
-trojan://p975v80m-l9va-rv23-v97b-ylse1agorrqn@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/24 | 16:01
-trojan://h3ujhpmq-99ji-pqad-18ef-0imcn1kh3w91@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://y3rbzkx9-g1s8-diwp-qom5-ibtfww2g6qj1@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-vless://f353fbf3-b6a1-4524-b916-f65bc077511f@s5.1dnt.k-l.cloud:80?type=xhttp&security=none&path=/123#s5.1dnt.k-l.cloud:80
+trojan://x3by8vby-03kd-zim4-qkby-t5rtadssvrr8@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/24 | 19:52
+trojan://9at0fa7s-980z-lqs5-zfis-9indsl04ef7x@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://m7p19woa-gp8x-zd6v-6pat-oo7l7j77s75q@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://cd307b67-8180-491c-ad97-5dfd74cb38de@172.66.40.99:8880?type=httpupgrade&security=none#172.66.40.99:8880
 vless://decb4fce-bd8a-4d8b-a81f-2e393ee9ee02@162.19.250.162:24209?type=tcp&security=none#162.19.250.162:24209
 vless://b84d0935-cc07-471d-a49a-dafe21cba2ea@dl.yndl.ir:2087?type=grpc&security=tls&sni=dl.yndl.ir&fp=chrome#dl.yndl.ir:2087
@@ -15,5 +14,6 @@ vless://2fd1b67f-bc9e-4a66-a4c3-73599997d001@85.239.60.43:8443?type=tcp&security
 vless://bdb50d95-fcd3-451c-9473-466b4529af2c@91.242.241.45:8443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM#91.242.241.45:8443
 vless://4808ded8-1646-4c3c-8b4c-6b6fedc3cde9@80.74.29.212:8443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=rYlvwQDrFYsAbcD9-3-PtXlAR084YpNL5_Q8Dx9NvTA#80.74.29.212:8443
 vless://6d5afbb4-450c-4798-91ab-71a792b487bb@159.203.141.231:2053?type=xhttp&security=reality&path=/&sni=openstreetmap.org&fp=chrome&pbk=lHqhMsZfvb_xaxQPKOyIDlaSREGM9tFWjVxl4k9aiBg&sid=60f78c#159.203.141.231:2053
-trojan://ypymm02c-mvu6-avjc-mqui-181m3ltq5mdw@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://ldoc7lut-ilz1-io00-ichp-f3k7phl6itlr@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://97ecfbb6-949b-4f4c-bce1-16a5036a0af5@abri.abriabri.ir:2233?type=tcp&security=reality&sni=www.tgju.org&fp=firefox&pbk=XXyGhQ_iIds5fOp-JEq76iPb1heaBCSd7N5cOe9oFlg&sid=e0#abri.abriabri.ir:2233
+trojan://cne1scd1-fcif-qc6h-ytqj-ffm9v1aof7hq@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://tplmsev8-5qoi-ursr-tyyt-iz4yy9e4momd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

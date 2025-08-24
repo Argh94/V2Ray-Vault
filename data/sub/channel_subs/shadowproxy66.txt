@@ -1,17 +1,11 @@
-trojan://b2gdbtcg-ts51-x0hj-90t2-rp7n86oo40sp@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/24 | 16:01
-trojan://2gbr1v2q-h03t-023m-pi26-29b0xe0iqixx@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://aagwc4q4-260r-lztw-2rz8-4usu5hh9k0vt@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://19633rur-6y8q-yvnp-4rj5-93giie2th5m9@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/24 | 19:52
+trojan://3a7ksnoi-lzj5-hh60-d34d-csreeun9jxxw@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://ekxd8miu-ng6k-jy4t-xtvh-rv7j02ewlbmd@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#46.101.245.131:44354
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#103.104.247.45:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDR0NZUWdLU0huNkRSb2loYzFtUFps@138.197.192.62:443#138.197.192.62:443
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?sni=vpn.stupidworld.web.id&peer=vpn.stupidworld.web.id&security=tls#172.67.181.173:443
 vmess://eyJ2IjoiMiIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYgXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhIiwiYWRkIjoiNTcuMTI5LjI0LjEyNSIsInBvcnQiOjQ0MywiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInRscyI6InRscyJ9
-vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?type=ws&security=none&path=/&fp=firefox#www.speedtest.net:2052
-vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?type=ws&security=none&path=/&fp=firefox#www.speedtest.net:2052
-vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?type=ws&security=none&path=/&fp=firefox#www.speedtest.net:2052
-vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?type=ws&security=none&path=/&fp=firefox#www.speedtest.net:2052
-vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?type=ws&security=none&path=/&fp=firefox#www.speedtest.net:2052
-vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?type=ws&security=none&path=/&fp=firefox#www.speedtest.net:2052
-vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2052?type=ws&security=none&path=/&fp=firefox#www.speedtest.net:2052
 vless://f65e636d-c532-4e6c-b428-015402fd276c@m22a.vip784.com:33801?type=tcp&security=none#m22a.vip784.com:33801
 vless://56c3abea-507d-4559-b1bd-39f339fc4997@m2a.vip784.com:33801?type=tcp&security=none#m2a.vip784.com:33801
 vless://96fb891d-022a-41e1-8248-e7935c4ff686@www.speedtest.net:2052?type=ws&security=none&path=/&fp=firefox#www.speedtest.net:2052
@@ -57,5 +51,18 @@ vless://248b794e-905a-47b4-8c23-fa15746a8d9a@195.42.233.83:443?type=ws&security=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?type=grpc&security=none#185.231.205.5:8880
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&sid=4602ee9f9f36#45.12.143.191:20329
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260#5.182.38.91:17267
-trojan://hwpav0ny-2zun-y0jq-0jcm-wgmw3cmaci31@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://pt8w9ndb-gnva-hjn4-3yhv-ouiyov26igy6@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://dongtaiwang.com@208.87.243.187:22222?sni=www.bing.com&insecure=1#208.87.243.187:22222
+hysteria2://dongtaiwang.com@108.181.5.130:63015?sni=apple.com&insecure=1#108.181.5.130:63015
+hysteria2://5CBqBh6MeDq6GajcilBiDg%3D%3D@192.227.152.86:61001?sni=192-227-152-86.nip.io&insecure=1#192.227.152.86:61001
+hysteria2://7992f244-8c2c-4a1a-923f-2e116e90149b@198.23.130.211:443?sni=file-oss-ccs-02.dafei.de&insecure=1#198.23.130.211:443
+hysteria2://c8631767-f45c-4f48-bf19-5405e6d18679@45.136.245.177:33079?insecure=1&obfs=salamander#45.136.245.177:33079
+hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468?sni=www.bing.com&insecure=1#77.223.214.193:31468
+hysteria2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820?sni=bing.com&insecure=1#158.41.110.234:10820
+hysteria2://3hszBhqVsUhqOOFWJlev6k6Tkc@47.129.224.62:22509?sni=bing.com&insecure=1#47.129.224.62:22509
+hysteria2://5OiuCsPmULZ0lJwts89fegLJE@52.221.210.182:17193?sni=bing.com&insecure=1#52.221.210.182:17193
+hysteria2://Yet-Another-Public-Config-1@2a14:3f87:f001:13::a:36400?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#2a14:3f87:f001:13::a:36400
+hysteria2://dongtaiwang.com@51.159.111.32:5355?sni=www.bing.com&insecure=1#51.159.111.32:5355
+hysteria2://XK52yierGckONMJWbJnuskD3unI@47.242.195.121:12854?sni=bing.com&insecure=1#47.242.195.121:12854
+hysteria2://NjEkAYYNqFKUbrksyW1COBtdpU@47.239.220.214:2428?sni=bing.com&insecure=1#47.239.220.214:2428
+trojan://n40ifv48-ze3g-0w4o-whxk-54k6r459tqtw@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://ekjbtowe-066t-g475-zhkk-w3a8ld60vzdw@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
