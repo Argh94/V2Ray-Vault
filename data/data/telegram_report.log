@@ -1,5 +1,5 @@
 --- Telegram Scrape Report ---
-Timestamp: 2025-08-25 04:39:54
+Timestamp: 2025-08-25 07:58:43
 Total Channels: 502
 Successful Scrapes: 454
 Failed Scrapes: 0
@@ -22,6 +22,7 @@ v222ray: 106 configs
 v2raycrow: 106 configs
 mftizi: 100 configs
 freevpn3327: 88 configs
+config_proxy: 87 configs
 icv2ray: 84 configs
 v2aryng_vpn: 82 configs
 manstervpn: 80 configs
@@ -31,7 +32,6 @@ ShadowProxy66: 78 configs
 hope_net: 78 configs
 netfreedom0: 78 configs
 v2raytg: 77 configs
-config_proxy: 76 configs
 ai_duet: 70 configs
 freevirgoolnet: 69 configs
 v2ra_ng_iran: 69 configs
@@ -76,10 +76,10 @@ yaney_01: 41 configs
 dailyv2ray: 40 configs
 injectormconf: 40 configs
 jiedianssr: 39 configs
+zerobaipiao: 39 configs
 nepo_v2ray: 38 configs
 v2rayza: 38 configs
 vipv2rey: 38 configs
-zerobaipiao: 38 configs
 v2ray1_ng: 36 configs
 expressvpn_420: 35 configs
 freev2rng: 35 configs
@@ -91,7 +91,6 @@ vmesskhodam: 33 configs
 vpnod: 32 configs
 frev2rayng: 32 configs
 meli_v2rayng: 32 configs
-mowjproxy: 32 configs
 proxy_v2box: 32 configs
 v2ray_v_vpn: 32 configs
 x4azadi: 32 configs
@@ -101,6 +100,7 @@ flyv2ray: 30 configs
 v2ray_sos: 30 configs
 vistav2ray: 28 configs
 customvpnserver: 28 configs
+mowjproxy: 28 configs
 canfing_vpn: 27 configs
 dgkbza: 27 configs
 vpn_meliii: 27 configs
@@ -184,10 +184,8 @@ kanfig_majani: 16 configs
 privatevpns: 16 configs
 proxyfull: 16 configs
 sobi_vpn: 16 configs
-v2ray_collector: 16 configs
 vlessconfig: 16 configs
 summertimeus: 15 configs
-DailyV2Config: 15 configs
 connectshu: 15 configs
 fastkanfig: 15 configs
 free4allvpn: 15 configs
@@ -214,7 +212,9 @@ proxycrone: 14 configs
 qeshmserver: 14 configs
 rezaw_server: 14 configs
 v2raxx: 14 configs
+v2ray_collector: 14 configs
 proxystore11: 13 configs
+DailyV2Config: 13 configs
 falcunargo: 13 configs
 ghotb_scarf: 13 configs
 miov2ray: 13 configs
@@ -333,6 +333,7 @@ lexernet: 6 configs
 mcv2rayng: 6 configs
 v2ray_rolly: 6 configs
 v2raymelliii: 6 configs
+argo_vpn1: 6 configs
 configv2rayforfree: 6 configs
 deragv2ray: 6 configs
 fati_ffx: 6 configs
@@ -381,7 +382,6 @@ uvpnir: 4 configs
 vpn_arta: 4 configs
 vpnzamin: 4 configs
 amirinventor2010: 3 configs
-argo_vpn1: 3 configs
 bypass_filter: 3 configs
 custom_config: 3 configs
 darkfiilter: 3 configs

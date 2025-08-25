@@ -1,6 +1,6 @@
-trojan://507zl3js-u06z-onmn-brlo-petcsdccak5g@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 04:40
-trojan://ldw0za8b-lt6b-wy3o-r3x0-r9tkkxolge6b@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://pgh3zmcb-iqya-sn0l-r6ho-fcuu26xkp7rj@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://46bwkpk3-t8g6-ajjv-y880-dds6cwbxjix8@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 07:59
+trojan://61bhw0cz-ppfg-gvx2-olk3-d9cy17og4i4v@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://uafs4tvl-tzbo-tu00-3olt-f1iepnrfcpsq@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#4.223.106.151:48172
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#45.87.175.28:8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080#45.87.175.164:8080
@@ -17,9 +17,6 @@ trojan://aTArbZ2F0E@172.66.168.213:443?sni=uSa-vp-27.bLAzECLOUD.SITE&peer=uSa-vp
 trojan://30602b6d-5d5c-4f56-9b65-9ae2fd9348cb@172.67.209.79:443?sni=wsxxzxsd.999834.xyz&peer=wsxxzxsd.999834.xyz&security=tls#172.67.209.79:443
 trojan://4b33b482-25bc-49e4-b866-878c914d945a@104.21.32.242:443?sni=xXxXxxx.890604.dPDNs.org&peer=xXxXxxx.890604.dPDNs.org&security=tls#104.21.32.242:443
 trojan://25b0f5db-5405-40d7-85eb-663cfa7e918d@104.21.24.172:443?sni=cDvFbNMjkI9.852224.dPdNs.Org&peer=cDvFbNMjkI9.852224.dPdNs.Org&security=tls#104.21.24.172:443
-vless://f456a478-b619-4f8c-8e43-2b3b2844d4bc@alternative.anabelrz.xyz:443?type=tcp&security=none#alternative.anabelrz.xyz:443
-vless://ed447de4-ebd3-4f1c-8339-c084e06ec588@all3.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com:443?type=grpc&security=tls&sni=ez.ez0535.com&fp=chrome#all3.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.com:443
-vless://2162d1b3-25d4-435e-b017-47da789eb389@sosooos.turbo2v.top:16895?type=tcp&security=none#sosooos.turbo2v.top:16895
 vless://b28eb861-1748-4200-ba72-278669edc33b@172.66.139.172:80?type=ws&security=none&path=/Telegram@V2ray_Alpha/?ed=2560&sni=coco.mahmoodchitooz.dpdns.org&fp=random#172.66.139.172:80
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@172.66.138.81:80?type=ws&security=none&path=/Telegram@V2ray_Alpha/?ed=2560&sni=fggerlad.gerald81.dpdns.org&fp=random#172.66.138.81:80
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.157:80?type=ws&security=none&path=/Telegram@V2ray_Alpha/?ed=2560&sni=cs.laoyoutiao.link#141.193.213.157:80
@@ -72,5 +69,8 @@ vless://58a6047f-b46e-4e7a-c7d0-c08b48f3c505@tgju.org:80?type=ws&security=none&p
 vless://0518ca46-4313-45ce-df4d-5268c1b30cf2@cafearz.com:8080?type=ws&security=none&path=/olem/ws?ed=1024#cafearz.com:8080
 vless://0518ca46-4313-45ce-df4d-5268c1b30cf2@chat.openai.com:8080?type=ws&security=none&path=/olem/ws?ed=1024#chat.openai.com:8080
 vless://5558694b-d1b7-4060-bf15-39abdf51302c@65.109.218.179:2083?type=grpc&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7#65.109.218.179:2083
-trojan://t2zhxeeo-w0pf-53h5-9htx-42tr8bbmjktt@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://4noci6nu-qxys-nj0g-8bn5-4ywcq4iedeeh@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@185.126.255.78:43429?sni=real.getafreenode.sbs&insecure=1#185.126.255.78:43429
+hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@185.126.255.78:43429?sni=real.getafreenode.sbs&insecure=1#185.126.255.78:43429
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?sni=YAPC-1.afshin.ir&insecure=1&obfs=salamander#yapc-1.adamhayward.co.uk:36300
+trojan://xh1sfod5-i4r3-s7uf-mi99-14sqlel2wwko@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://clp851fp-chdv-54jm-ko2n-menrkiedh5kd@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
