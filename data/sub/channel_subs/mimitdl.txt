@@ -1,6 +1,6 @@
-trojan://22f5f2yr-5axu-aqpe-075t-8hw14iznvmnu@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 07:59
-trojan://wrkcbmhv-ckjd-jxe8-c9jt-re02fj7qlwo8@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://7lz0oq70-jvy6-ehi3-pwsy-1vwiyvl6nhvm@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://4yn473rd-2q81-31de-9plg-yd4v4olbn4af@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 11:58
+trojan://hhy7yjyv-tnte-1ycn-m3lo-x8x87rqgnv83@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://dlhr39hz-d8ef-wfwq-jk5k-03wgqdkwmlwm@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://65b02abb-565e-4414-c683-5fc379e04c55@85.133.201.99:23662?type=tcp&security=none#85.133.201.99:23662
 vless://8d10333a-edf1-4474-a2d9-576a30fdf44a@www.speedtest.net:443?type=ws&security=tls&path=/?ed=1024&sni=dl-pack.motionbetter.ir&fp=chrome#www.speedtest.net:443
 vless://8d10333a-edf1-4474-a2d9-576a30fdf44a@2a01:4f8:1c17:d10d::1:8080?type=grpc&security=none#2a01:4f8:1c17:d10d::1:8080
@@ -11,5 +11,5 @@ vless://8d10333a-edf1-4475-a2d9-576a30fdf44a@cpanel.com:2053?type=grpc&security=
 vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@www.speedtest.net:443?type=ws&security=tls&path=/?ed=1024&sni=dl-pack.motionbetter.ir&fp=chrome#www.speedtest.net:443
 vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@2a01:4f8:1c17:d10d::1:8080?type=grpc&security=none#2a01:4f8:1c17:d10d::1:8080
 vless://8d10333a-edf2-4475-a2d9-176a30fdf44a@cpanel.com:2053?type=grpc&security=tls&sni=dl-pack.motionbetter.ir&fp=chrome#cpanel.com:2053
-trojan://4zgm45gg-98ys-nwox-9bkx-sdz98x1gmuug@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://xv0erdqc-u8dh-s6j1-6iy9-tq1qstict2w9@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://1jt2he4m-4lvl-dkxn-pg3y-wdebjauh1tt6@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://efm8md5t-jzda-6op3-nl5e-dcd2yvn2gv0r@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

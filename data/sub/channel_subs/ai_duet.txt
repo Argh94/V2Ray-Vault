@@ -1,6 +1,6 @@
-trojan://zxce4p40-j3kc-5z5c-w9ur-783evuichyw4@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 07:59
-trojan://1p375gjw-aw5g-5set-2y53-4rz4xl81lfzm@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://yx5ibeo4-s1xg-ntym-369h-yja16k4td5d7@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://ohoii5a6-100b-ciz3-okam-j3b3uhu2gl9z@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 11:58
+trojan://zted2byl-5o4p-bkwd-eydt-m72nh6eodhwe@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://9wdvnvyz-9gwr-w103-mkme-ngirahbsur98@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#admin.c4.webramz.co:443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#181.119.30.20:990
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@Peweza3.digipedia.shop:443#Peweza3.digipedia.shop:443
@@ -61,6 +61,11 @@ vless://d115adcd-1b1f-4cf4-b6a4-b9696434967a@ir3.fastnode0.com:2087?type=ws&secu
 vless://d115adcd-1b1f-4cf4-b6a4-b9696434967a@ir4.fastnode0.com:2087?type=ws&security=none#ir4.fastnode0.com:2087
 vless://d115adcd-1b1f-4cf4-b6a4-b9696434967a@ir5.fastnode0.com:2087?type=ws&security=none#ir5.fastnode0.com:2087
 vless://d115adcd-1b1f-4cf4-b6a4-b9696434967a@ir6.fastnode0.com:2087?type=ws&security=none#ir6.fastnode0.com:2087
+vless://f254786d-9a23-4bd9-a571-64a4f7e96112@ir2.fastnode0.com:2087?type=ws&security=none#ir2.fastnode0.com:2087
+vless://f254786d-9a23-4bd9-a571-64a4f7e96112@ir3.fastnode0.com:2087?type=ws&security=none#ir3.fastnode0.com:2087
+vless://f254786d-9a23-4bd9-a571-64a4f7e96112@ir4.fastnode0.com:2087?type=ws&security=none#ir4.fastnode0.com:2087
+vless://f254786d-9a23-4bd9-a571-64a4f7e96112@ir5.fastnode0.com:2087?type=ws&security=none#ir5.fastnode0.com:2087
+vless://f254786d-9a23-4bd9-a571-64a4f7e96112@ir6.fastnode0.com:2087?type=ws&security=none#ir6.fastnode0.com:2087
 vless://fb557b79-8554-40d4-994f-0f4be3ca0cee@enamad.ir-snapp.ir-iran.ir-aparat.com.githubfiles.xyz:2087?type=grpc&security=reality&sni=yahoo.com&fp=chrome&pbk=Co_fWsuPQ7frIIzkuH-Y0EjHz5vOSh3ZaWVqg0m0YV0#enamad.ir-snapp.ir-iran.ir-aparat.com.githubfiles.xyz:2087
 vless://215d71a9-0047-4600-9240-7c3b86b62313@46.31.76.3:80?type=xhttp&security=reality&path=/pwpw&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=oTX6mQJYxkmmdF7Rq_stAKX_hYoOMXGaWmoblFl2zgo&sid=5942e2#46.31.76.3:80
 vless://91a5d5b3-4b88-4359-aeec-e1532f535fd6@91.99.195.6:80?type=grpc&security=reality&sni=refersion.com&fp=chrome&pbk=ZO276Z5WXIqCmNLXT8Lewzjhhgm365JUJXAKyKq8Rz4&sid=bc063769cb#91.99.195.6:80
@@ -69,5 +74,5 @@ vless://bea34b73-3244-475b-b914-7bb80e1cda91@62.60.223.6:2080?type=tcp&security=
 vless://ae7d51f2-fd15-45d2-a77c-590f23788a52@45.76.140.111:443?type=xhttp&security=reality&path=/443/moment@2.29.4&sni=cdn.skypack.dev&fp=firefox&pbk=rPomFaHQdUvIZ1CKylejYHXJ_ygI2rtPIZaVuaRXaVY&sid=8a2c6af0c06f#45.76.140.111:443
 vless://91a5d5b3-4b88-4359-aeec-e1532f535fd6@91.99.195.6:80?type=grpc&security=reality&sni=refersion.com&fp=chrome&pbk=ZO276Z5WXIqCmNLXT8Lewzjhhgm365JUJXAKyKq8Rz4&sid=bc063769cb#91.99.195.6:80
 vless://c8da575a-b3ab-4949-985c-d151335b5301@194.182.79.182:29706?type=grpc&security=reality&sni=sourceforge.net&fp=chrome&pbk=9EHYRTmUgCJodNs5L4wTxoxniVtvsXFonfQ1H72LqRQ&sid=ef8dfc4f801d89#194.182.79.182:29706
-trojan://qfc2fyvz-oufb-6io9-5y7b-vbxff5hqskmd@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://h1xga4j0-p8j5-0h5n-t0n7-zx8mt1zwj2ig@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+trojan://jsak4wmu-rucl-r6nw-1mb7-rlq7pctnatw1@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://4ue72rbe-tc08-f65i-ahmj-48zo6amhl3z4@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
