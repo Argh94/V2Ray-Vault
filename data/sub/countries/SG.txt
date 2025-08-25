@@ -1,31 +1,29 @@
-trojan://ynanducr-nw07-upxo-8xh1-xxdte1uwfnjq@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 16:04
-trojan://ivaaevtp-tsqd-dlz9-pnuu-yxw4b89expv1@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://0igcjx6s-vyox-ug09-j1uo-g5h9tdbtx151@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3Y0k4RFplMGVYU1MzdXBvcDFRalZC@128.199.236.104:57384#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 128.199.236.104
-vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBFTiBUZWNobm9sb2dpZXMgUHRlIEx0ZCBcdTI1MDcgMTAzLjI1My4yNi4yMCIsImFkZCI6IjEwMy4yNTMuMjYuMjAiLCJwb3J0Ijo0NDMsImlkIjoiYWJhNTBkZDQtNTQ4NC0zYjA1LWIxNGEtNDY2MWNhZjg2MmQ1IiwiYWlkIjo0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMifQ
-hysteria2://Y5kSCRNcOSz5YQUkjehzVXeT2mk@175.41.154.215:19298?sni=bing.com&insecure=1#SG 🇸🇬 ┇ HYSTERIA2-TCP-NTLS - AMAZON-02 ┇ 175.41.154.215
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 188.166.220.70
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVQnZ4NGRpWmxTclB6bDloUExUMlFV@167.172.85.14:21964#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 167.172.85.14
-trojan://oZAugtgF5T@146.190.87.238:443?sni=aka.ms&peer=aka.ms&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - DIGITALOCEAN-ASN ┇ 146.190.87.238
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZXd4YzRiRjg3R2IyaEpXdGJNeXQx@167.172.89.195:8575#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 167.172.89.195
-vless://9d33dc91-fb84-4f96-d9b1-fe28a230a94f@5.223.42.211:443?type=tcp&security=reality&sni=www.faceit.com&fp=chrome&pbk=fXxqq2kGD1gwVUdFEHMtyxDudwQgQRWYz_YM02ONiW8&sid=f7#SG 🇸🇬 ┇ VLESS-TCP-RLT - Hetzner Online GmbH ┇ 5.223.42.211
-vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBESUdJVEFMT0NFQU4tQVNOIFx1MjUwNyAxMjguMTk5LjI0My4xNTciLCJhZGQiOiIxMjguMTk5LjI0My4xNTciLCJwb3J0Ijo4MDgwLCJpZCI6ImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
-vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gZVNlcnZlciBcdTI1MDcgMTc2Ljk4LjE4MS4zNyIsImFkZCI6IjE3Ni45OC4xODEuMzciLCJwb3J0Ijo1ODAxMywiaWQiOiJiMTI3N2YxMS03MWIwLTRhNDQtOWY1Mi0wN2M2YzMyNjY5MzkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvIn0
-vless://cfd27aaa-5c63-4dee-a629-a386c46c4e2f@51.79.147.28:8081?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=uYOSeOLxIzI7gnBRnH6-zou0TC4s7vKn0xHbQrXaAg4&sid=5e78b1a93d#SG 🇸🇬 ┇ VLESS-TCP-RLT - OVH SAS ┇ 51.79.147.28
+trojan://id35avet-im7r-w8bx-mqu4-09rldtmhlczi@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 19:54
+trojan://d63lxuin-12pr-om3u-n5ow-u5ouq83xfrw6@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://k2i4l9p7-g51s-7hp0-hj7h-pbh57jhnxdie@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://73bf4bac-98cf-4423-b728-3cc8a0e56424@139.180.146.164:2020?type=tcp&security=reality&sni=ea.com&fp=chrome&flow=xtls-rprx-vision&pbk=YH_SRHZR1KpI5H1qwcqwp3_8lYSWWMZYWn_FStgKihc&sid=05fb89d5#SG 🇸🇬 ┇ VLESS-TCP-RLT - AS-VULTR ┇ 139.180.146.164
-vless://bdb50d95-fcd3-451c-9473-466b4529af2c@91.242.241.45:8443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM#SG 🇸🇬 ┇ VLESS-TCP-RLT - BlueVPS OU ┇ 91.242.241.45
-vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBCR1AgTmV0d29yayBMaW1pdGVkIFx1MjUwNyAyMDIuNzkuMTYxLjE4OCIsImFkZCI6IjIwMi43OS4xNjEuMTg4IiwicG9ydCI6NDQzLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ3d3cuMzIyNzgxMTcueHl6IiwicGF0aCI6Ii9wYXRoLzE3MDczMzEzMjIzMyIsInRscyI6InRscyIsInNuaSI6Ind3dy4zMjI3ODExNy54eXoifQ
-hysteria2://Cyi3TPih9FtQRwsZAh8aT6ynGJk@54.169.144.240:2166?insecure=1#SG 🇸🇬 ┇ HYSTERIA2-TCP-NTLS - AMAZON-02 ┇ 54.169.144.240
-vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENvbnRhYm8gQXNpYSBQcml2YXRlIExpbWl0ZWQgXHUyNTA3IDYyLjE0Ni4yMzUuMTkzIiwiYWRkIjoiNjIuMTQ2LjIzNS4xOTMiLCJwb3J0IjoyODAxMSwiaWQiOiJjZmM1YTg3Zi0zYzEzLTRlMjUtYjU1Ni0xNzZjZGQ2YjVjNmEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-20.cristiano.name.ng:443?type=tcp&security=reality&sni=store.steampowered.com&fp=chrome&flow=xtls-rprx-vision&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5#SG 🇸🇬 ┇ VLESS-TCP-RLT - AMAZON-02 ┇ 18.140.247.187
-hysteria2://5OiuCsPmULZ0lJwts89fegLJE@52.221.210.182:17193?sni=bing.com&insecure=1#SG 🇸🇬 ┇ HYSTERIA2-TCP-NTLS - AMAZON-02 ┇ 52.221.210.182
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3SEVjZXpQV0xTM1hQRGF0OFVLa1lZ@128.199.164.171:56668#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 128.199.164.171
-hysteria2://RzQrEkAmnGs86IhmSVUk9Q5cn9M@47.236.104.81:30308?sni=bing.com&insecure=1#SG 🇸🇬 ┇ HYSTERIA2-TCP-NTLS - Alibaba US Technology Co., Ltd. ┇ 47.236.104.81
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@18.139.0.110:8319#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 18.139.0.110
-hysteria2://3hszBhqVsUhqOOFWJlev6k6Tkc@47.129.224.62:22509?sni=bing.com&insecure=1#SG 🇸🇬 ┇ HYSTERIA2-TCP-NTLS - AMAZON-02 ┇ 47.129.224.62
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 188.166.220.70
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 18.139.234.73
+trojan://oZAugtgF5T@146.190.87.238:443?sni=aka.ms&peer=aka.ms&security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - DIGITALOCEAN-ASN ┇ 146.190.87.238
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3Y0k4RFplMGVYU1MzdXBvcDFRalZC@128.199.236.104:57384#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 128.199.236.104
+hysteria2://Y5kSCRNcOSz5YQUkjehzVXeT2mk@175.41.154.215:19298?sni=bing.com&insecure=1#SG 🇸🇬 ┇ HYSTERIA2-TCP-NTLS - AMAZON-02 ┇ 175.41.154.215
+vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBFTiBUZWNobm9sb2dpZXMgUHRlIEx0ZCBcdTI1MDcgMTAzLjI1My4yNi4yMCIsImFkZCI6IjEwMy4yNTMuMjYuMjAiLCJwb3J0Ijo0NDMsImlkIjoiYWJhNTBkZDQtNTQ4NC0zYjA1LWIxNGEtNDY2MWNhZjg2MmQ1IiwiYWlkIjo0LCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMifQ
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZXd4YzRiRjg3R2IyaEpXdGJNeXQx@167.172.89.195:8575#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 167.172.89.195
 vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFBUIEhlcnphIERpZ2l0YWwgSW5kb25lc2lhIFx1MjUwNyAzOC40Ny4xNzYuMjUxIiwiYWRkIjoiMzguNDcuMTc2LjI1MSIsInBvcnQiOjU2MDUxLCJpZCI6IjJiY2EzNTY5LTA2NjItNDdmNy1mZGY4LTQyMWYzMGU3MWY0NCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIn0
+vless://a8d69fa5-c246-4ef1-ba23-50515a4b9b2d@91.242.241.45:8443?type=tcp&security=reality&sni=google.com&fp=chrome&flow=xtls-rprx-vision&pbk=1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM#SG 🇸🇬 ┇ VLESS-TCP-RLT - BlueVPS OU ┇ 91.242.241.45
+vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1OVExTIC0gZVNlcnZlciBcdTI1MDcgMTc2Ljk4LjE4MS4zNyIsImFkZCI6IjE3Ni45OC4xODEuMzciLCJwb3J0Ijo1ODAxMywiaWQiOiJiMTI3N2YxMS03MWIwLTRhNDQtOWY1Mi0wN2M2YzMyNjY5MzkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInBhdGgiOiIvIn0
+vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBESUdJVEFMT0NFQU4tQVNOIFx1MjUwNyAxMjguMTk5LjI0My4xNTciLCJhZGQiOiIxMjguMTk5LjI0My4xNTciLCJwb3J0Ijo4MDgwLCJpZCI6ImJkZDIyODQxLWM0ZDItNGFhOC1hY2YyLTk1YWE5MTI1ZjE1OSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ
+hysteria2://Cyi3TPih9FtQRwsZAh8aT6ynGJk@54.169.144.240:2166?insecure=1#SG 🇸🇬 ┇ HYSTERIA2-TCP-NTLS - AMAZON-02 ┇ 54.169.144.240
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVQnZ4NGRpWmxTclB6bDloUExUMlFV@167.172.85.14:21964#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 167.172.85.14
 ss://YWVzLTI1Ni1nY206Tm9ielNrT3pENFdZbFMwdTVXMVlEbVZRcStteDlJWmt6dHkwZ1BXU0p1UT0@167.172.69.97:8443#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 167.172.69.97
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV1J4WUtyMWZJa1FRalJnSklXZUNV@152.42.245.170:38450#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 152.42.245.170
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?security=tls#SG 🇸🇬 ┇ TROJAN-TCP-TLS - AMAZON-02 ┇ 13.250.177.51
-trojan://ek902eeq-2673-xkcr-iusl-err13mzds9ua@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://0as531oi-wcqh-mnac-mxlg-6qm3bpk9m32y@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+hysteria2://5OiuCsPmULZ0lJwts89fegLJE@52.221.210.182:17193?sni=bing.com&insecure=1#SG 🇸🇬 ┇ HYSTERIA2-TCP-NTLS - AMAZON-02 ┇ 52.221.210.182
+vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIENvbnRhYm8gQXNpYSBQcml2YXRlIExpbWl0ZWQgXHUyNTA3IDYyLjE0Ni4yMzUuMTkzIiwiYWRkIjoiNjIuMTQ2LjIzNS4xOTMiLCJwb3J0IjoyODAxMSwiaWQiOiJjZmM1YTg3Zi0zYzEzLTRlMjUtYjU1Ni0xNzZjZGQ2YjVjNmEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
+vmess://eyJ2IjoiMiIsInBzIjoiU0cgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBCR1AgTmV0d29yayBMaW1pdGVkIFx1MjUwNyAyMDIuNzkuMTYxLjE4OCIsImFkZCI6IjIwMi43OS4xNjEuMTg4IiwicG9ydCI6NDQzLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ3d3cuMzIyNzgxMTcueHl6IiwicGF0aCI6Ii9wYXRoLzE3MDczMzEzMjIzMyIsInRscyI6InRscyIsInNuaSI6Ind3dy4zMjI3ODExNy54eXoifQ
+hysteria2://RzQrEkAmnGs86IhmSVUk9Q5cn9M@47.236.104.81:30308?sni=bing.com&insecure=1#SG 🇸🇬 ┇ HYSTERIA2-TCP-NTLS - Alibaba US Technology Co., Ltd. ┇ 47.236.104.81
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVdmdJVWJvMXU2WkRKenl6czFsMllX@165.232.163.254:22309#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - DIGITALOCEAN-ASN ┇ 165.232.163.254
+hysteria2://3hszBhqVsUhqOOFWJlev6k6Tkc@47.129.224.62:22509?sni=bing.com&insecure=1#SG 🇸🇬 ┇ HYSTERIA2-TCP-NTLS - AMAZON-02 ┇ 47.129.224.62
+vless://cfd27aaa-5c63-4dee-a629-a386c46c4e2f@51.79.147.28:8081?type=tcp&security=reality&sni=yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=uYOSeOLxIzI7gnBRnH6-zou0TC4s7vKn0xHbQrXaAg4&sid=5e78b1a93d#SG 🇸🇬 ┇ VLESS-TCP-RLT - OVH SAS ┇ 51.79.147.28
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@18.139.0.110:8319#SG 🇸🇬 ┇ SHADOWSOCKS-TCP-NTLS - AMAZON-02 ┇ 18.139.0.110
+vless://9d33dc91-fb84-4f96-d9b1-fe28a230a94f@5.223.42.211:443?type=tcp&security=reality&sni=www.faceit.com&fp=chrome&pbk=fXxqq2kGD1gwVUdFEHMtyxDudwQgQRWYz_YM02ONiW8&sid=f7#SG 🇸🇬 ┇ VLESS-TCP-RLT - Hetzner Online GmbH ┇ 5.223.42.211
+trojan://06iw4msu-8t0w-96ff-y2qu-it3h5a870s2k@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://1w86rmdz-cox7-q68y-13zu-gvrx3gf5jpnp@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

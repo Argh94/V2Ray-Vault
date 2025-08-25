@@ -1,12 +1,10 @@
-trojan://1r5s0rng-e9sv-qr3k-zqi9-igq5c85og6as@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 16:04
-trojan://07rxhdnv-6ere-llu4-jmkc-z2r4wsxw6064@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://uh2b7cb2-09gx-kafa-pd14-d9kdlkrhi5dt@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKdWkyclh6Zld0cmo4ckFrNW9LQjBU@94.159.96.245:11902#94.159.96.245:11902
+trojan://6wrdfgbj-bg6f-rap6-z3bi-ox1ey8vsda3o@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 19:54
+trojan://yna326x5-dia1-rgtk-vb3j-cptw68qsjpm1@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://01eyvgi8-zrd5-awec-kql2-5njbbxux8gv2@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqYzhoVTkyeUU1ZUZCNUVCUU1xbmM4@94.159.96.245:11902#94.159.96.245:11902
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1cjlxZGs5ZXBITXM3VG1oYmVMNUlE@94.159.96.245:11902#94.159.96.245:11902
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjMzXHUwNjMxXHUwNjQ4XHUwNjMxIFx1MDYzMVx1MDYyN1x1MDZjY1x1MDZhZlx1MDYyN1x1MDY0NiBcdTA2N2VcdTA2MzFcdTA2MzNcdTA2MzFcdTA2MzlcdTA2MmFcdWQ4M2NcdWRmMGEgQHZtZXNzX2lyIiwiYWRkIjoiODUuMTk1LjEwMS4xMjIiLCJwb3J0Ijo0MDg3OCwiaWQiOiJmM2Q0MTY3ZS1iMTVlLTRlNDYtODJlOS05Mjg2ZWY5M2ZkYTciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHUwNjMzXHUwNjMxXHUwNjQ4XHUwNjMxIFx1MDYzMVx1MDYyN1x1MDZjY1x1MDZhZlx1MDYyN1x1MDY0NiBcdTA2N2VcdTA2MzFcdTA2MzNcdTA2MzFcdTA2MzlcdTA2MmFcdWQ4M2NcdWRmMGEgQHZtZXNzX2lyIiwiYWRkIjoiOTQuMTM2LjE4NS4yMzAiLCJwb3J0IjoxMDUzNCwiaWQiOiJiMDFjN2VmOS0zM2VjLTQxZjYtYmZiZi03N2RkYzRkMjE2NDkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSJ9
-vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.142.198:443?type=tcp&security=none#91.99.142.198:443
 vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@app-stg.gopay.co.id.servpn.my.id:443?type=ws&security=tls&path=/sg10&sni=app-stg.gopay.co.id.servpn.my.id#app-stg.gopay.co.id.servpn.my.id:443
 vless://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?type=ws&security=tls&path=/hxwdnrws#185.242.87.140:443
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&security=tls&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=hetzner-12.apple.name.ng#www.speedtest.net:8443
@@ -21,5 +19,7 @@ vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@104.18.13.229:2087?type=ws&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?type=grpc&security=none#94.131.9.172:8880
 vless://6cc53dc5-55b2-4968-bb7c-ee84e1429c63@104.26.1.108:443?type=ws&security=tls&path=/kr1?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=ava.game.naver.com.servpn.my.id&fp=chrome#104.26.1.108:443
 vless://jrghxqxyoy@npmjs.com:2053?type=httpupgrade&security=tls&path=/download/cdn&sni=jrghxqxyoy-518237151.zamam.co&fp=randomized#npmjs.com:2053
-trojan://d6jnwts0-vra5-lfng-2bco-er54jx0aavgc@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://x5ncvj7l-guqg-e873-9w02-2hgq74kqu43b@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://c4587bda-09fc-4b3b-8221-4450fccc33d1@malaysia.com:443?type=ws&security=tls&path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=yx.yushan.dpdns.org&fp=random#malaysia.com:443
+vless://a5ada705-cbac-47f7-9fa5-2e4426b7a510@es.iovpn.click:443?type=tcp&security=reality&sni=apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=YoQ4rDLzUDrLuKwPi3T1X9T7ttwfZ3wv0hTBpzg44i8&sid=31f644193ea3#es.iovpn.click:443
+trojan://n3l1qx2u-dbtr-neon-ygqf-jq5lwczvqvqt@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://09atft77-s92m-ako8-hkm7-memrsdoyjdxz@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
