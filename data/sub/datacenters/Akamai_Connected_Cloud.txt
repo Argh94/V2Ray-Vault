@@ -1,11 +1,12 @@
-trojan://aif3h638-34yv-v6x0-61r1-szfp4nfvr756@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 11:58
-trojan://c4fn8y2b-a5u3-ow5p-wog9-lu3014i54dvq@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://yzkmfuk8-f8pf-8tym-c2q6-bvazp4p78l48@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
-trojan://1CvlKYj1aU@x1-sweden-linode-v2-71u92.devefun.org:1935?security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - Akamai Connected Cloud ┇ 172.232.139.220
+trojan://4utof13n-cxzb-4m3h-k0d1-ugj2b7ioecdd@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 16:04
+trojan://jboct8cm-otvs-x0d0-3mhf-qzyk5ur9oj5n@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://564lcshx-09fn-8k3i-s5lb-aww9ocsqvogp@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 vless://b5e5c843-eb6b-438d-93c5-4faa71780ac4@139.162.146.9:443?type=splithttp&security=reality&path=/&sni=eu.account.battle.net&fp=chrome&pbk=JrQipo4fliL8f9hLW49Wpr96XjYFaZPsom7hzlvaMio&sid=02#DE 🇩🇪 ┇ VLESS-SPLITHTTP-RLT - Akamai Connected Cloud ┇ 139.162.146.9
-vless://9ef92d2c-05de-42d0-bf2b-08f1a0909979@172.234.67.151:10002?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=6ib1DpWTjJsAkeN4kKDY1TcAt0wJAPmHwthGk76dBxg&sid=1a24af87#US 🇺🇸 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 172.234.67.151
+trojan://1CvlKYj1aU@x1-sweden-linode-v2-71u92.devefun.org:1935?security=tls#SE 🇸🇪 ┇ TROJAN-TCP-TLS - Akamai Connected Cloud ┇ 172.232.139.220
 vmess://eyJ2IjoiMiIsInBzIjoiU0UgXHVkODNjXHVkZGY4XHVkODNjXHVkZGVhIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIEFrYW1haSBDb25uZWN0ZWQgQ2xvdWQgXHUyNTA3IDE3Mi4yMzIuMTQ4LjU2IiwiYWRkIjoiMTcyLjIzMi4xNDguNTYiLCJwb3J0Ijo4NDQyLCJpZCI6ImVjZTc3YzUyLTMzMGUtNDgwNS1iOGY1LTcwNDU2M2YxM2FjOCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwicGF0aCI6Ii8ifQ
-vless://07402610-3f00-4384-b54b-eb8cd5037b4c@172.104.148.48:443?type=tcp&security=reality&sni=digg.com&fp=firefox&pbk=MFhTxw6M0UU7nAoxP-jAw8szA2vhXy6KYmBCrDwbpRw&sid=99d38a68#DE 🇩🇪 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 172.104.148.48
+vless://d9d3d089-ce03-43fc-ad40-4b96e045032a@172.233.201.9:10001?type=tcp&security=reality&sni=yahoo.com&fp=firefox&pbk=pXs38zP03orIC6m0KrqUkuHxJN-DLsnZJHUeTBjkSg0&sid=1a24af87#US 🇺🇸 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 172.233.201.9
 vless://fe48773b-df06-409a-bc61-117cd8fb1eb7@172.232.33.18:443?type=tcp&security=reality&sni=ftp.debian.org&fp=chrome&pbk=PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o&sid=b5ecd44d#FR 🇫🇷 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 172.232.33.18
-trojan://uwvo7vgz-3dyb-96go-ds0l-8n2adso67ckf@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://bidv1shf-epi5-w9rg-cf8o-ytwcectrz97p@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://07402610-3f00-4384-b54b-eb8cd5037b4c@172.104.148.48:443?type=tcp&security=reality&sni=digg.com&fp=firefox&pbk=MFhTxw6M0UU7nAoxP-jAw8szA2vhXy6KYmBCrDwbpRw&sid=99d38a68#DE 🇩🇪 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 172.104.148.48
+vless://9ef92d2c-05de-42d0-bf2b-08f1a0909979@172.234.67.151:10002?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=6ib1DpWTjJsAkeN4kKDY1TcAt0wJAPmHwthGk76dBxg&sid=1a24af87#US 🇺🇸 ┇ VLESS-TCP-RLT - Akamai Connected Cloud ┇ 172.234.67.151
+trojan://c3jgs14o-4da8-9h67-q5bb-3t1txzivs976@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://lalpqbvm-c4oa-ye27-f6qq-f9x3n5gfgr7w@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0

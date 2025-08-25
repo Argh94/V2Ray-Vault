@@ -1,9 +1,7 @@
-trojan://ux5xa14m-mlbe-zpr0-6bxj-oxgrb0hs6b62@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 11:58
-trojan://oj6rgpld-fved-okrb-aux6-9cql9ihsrexm@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
-trojan://91u59xmo-y5js-d7om-p63x-ueg6pd2n0wve@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
+trojan://0mdczjbv-ldyf-kt9c-uplm-yukajatzdk5j@127.0.0.1:1080?security=tls&type=tcp#🕒 LAST UPDATE: 2025/08/25 | 16:04
+trojan://z99m6bc5-t874-57d2-g0la-8foo60bjph2q@127.0.0.1:2080?security=tls&type=tcp#This is a free trial project.
+trojan://59j6aqh8-bsls-geug-rwog-eisqehx77qxh@127.0.0.1:4080?security=tls&type=tcp#「 GitHub Argh94 ☕ 」
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuVWdZbFVIbEthblp1YU1BWUNDcFhh@94.159.96.245:11902#94.159.96.245:11902
-vless://9f0eae34-97c1-4c07-8a55-438379981334@104.16.86.2:80?type=ws&security=none&path=/?ed=2560#104.16.86.2:80
-vless://43791e7f-8e02-4189-9533-4f842bcacd79@charming-process.seotoolsforyou.co.uk:80?type=ws&security=none&path=/#charming-process.seotoolsforyou.co.uk:80
 vless://58a6047f-b46e-4e7a-c7d0-c08b48f3c505@tgju.org:80?type=ws&security=none&path=/olem/ws?ed=1024#tgju.org:80
 vless://8df60790-c903-4661-b85d-64c0009378e5@104.25.227.244:443?type=ws&security=tls&path=/?ed=2560&sni=F1.paRsa.fiLegEar-Sg.Me#104.25.227.244:443
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?type=grpc&security=none#45.82.251.93:8880
@@ -21,5 +19,7 @@ vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.12:443?type=ws&security=t
 vless://1lpxy6haqm@npmjs.com:2053?type=httpupgrade&security=tls&path=/download/cdn&sni=1lpxy6haqm-451516713.zamam.co&fp=randomized#npmjs.com:2053
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?type=grpc&security=none#185.231.205.253:8880
 vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?type=ws&security=tls&path=/holhclws#185.242.87.162:443
-trojan://dhlfj7y7-4x55-t3az-poi3-swcsmadb2eic@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
-trojan://8cyrer71-ekxa-p06b-zxh8-v0uyfltv4t2p@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
+vless://6780a3c0-a98c-4622-b894-8e34167f7b31@172.66.40.99:443?type=ws&security=tls&path=/id5?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&sni=blog.ruangguru.com.servpn.my.id#172.66.40.99:443
+vless://vw6hjp6qlg@npmjs.com:2053?type=httpupgrade&security=tls&path=/download/cdn&sni=vw6hjp6qlg-525340125.zamam.co&fp=randomized#npmjs.com:2053
+trojan://tn2qmczm-d9p4-rnny-t62s-ivm7hm421195@127.0.0.1:8080?security=tls&type=tcp#For enhanced GitHub access, visit Argh94 now!
+trojan://6trdctt6-rsdx-qci0-bqrg-jqwaei2lbjok@127.0.0.1:8081?security=tls&type=tcp#</> Collector v5.0
